@@ -17,10 +17,6 @@ GEM
     ethon (0.11.0)
       ffi (>= 1.3.0)
     eventmachine (1.2.7-x86-mingw32)
-    faraday (0.15.1)
-      multipart-post (>= 1.2, < 3)
-    faraday-http-cache (2.0.0)
-      faraday (~> 0.8)
     ffi (1.9.23-x86-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
@@ -72,7 +68,6 @@ GEM
     mercenary (0.3.6)
     mini_portile2 (2.3.0)
     minitest (5.11.3)
-    multipart-post (2.0.0)
     nokogiri (1.8.2-x86-mingw32)
       mini_portile2 (~> 2.3.0)
     parallel (1.12.1)
@@ -104,7 +99,6 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  faraday-http-cache
   html-proofer
   jekyll
   jekyll-feed
