@@ -48,7 +48,7 @@ module Jekyll
                   platform_version = release['version'] + '-' + release['release']
                 end
                 app_filename = app['name'] + '-portable-' + platform_version + suffix;
-                app_url = site.config['github']['baseurl'] + '/' + app['github']['user'] + '' + app['github']['repo'] + '/releases/download/' + release['version'] + '-' + release['release'] + '/' + app_filename;
+                app_url = site.config['github']['baseurl'] + '/' + app['github']['user'] + '/' + app['github']['repo'] + '/releases/download/' + release['version'] + '-' + release['release'] + '/' + app_filename;
                 unless download_obj[app_filename]
                   site.pages << DownloadPage.new(site, site.source, File.join(download_dir, app_filename), app_filename, app_url)
                   download_obj[app_filename] = app_url
