@@ -20,9 +20,6 @@ GEM
     ffi (1.9.23-x86-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
-    html-pipeline (2.8.0)
-      activesupport (>= 2)
-      nokogiri (>= 1.4)
     html-proofer (3.9.0)
       activesupport (>= 4.2, < 6.0)
       addressable (~> 2.3)
@@ -55,10 +52,6 @@ GEM
       sass (~> 3.4)
     jekyll-watch (2.0.0)
       listen (~> 3.0)
-    jemoji (0.10.0)
-      gemoji (~> 3.0)
-      html-pipeline (~> 2.2)
-      jekyll (~> 3.0)
     kramdown (1.16.2)
     liquid (4.0.0)
     listen (3.1.5)
@@ -99,11 +92,11 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+  gemoji
   html-proofer
   jekyll
   jekyll-feed
   jekyll-paginate
-  jemoji
   tzinfo-data
   wdm (>= 0.1.0)
 

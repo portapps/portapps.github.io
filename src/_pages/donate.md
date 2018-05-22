@@ -7,9 +7,9 @@ markdown_body: ""
 
 <div class="markdown-body">{% markdown %}
 **{{ site.title }}** is free and open source and always will be.<br />
-All kinds of contributions are welcomed :gift: !<br />
-The most basic way to show your support is to star :star: the project, or to raise issues :speech_balloon:<br />
-But we're not gonna lie to each other, I'd rather you buy me a beer or two :beers: !
+All kinds of contributions are welcomed {% gemoji gift %} !<br />
+The most basic way to show your support is to star {% gemoji star %} the project, or to raise issues {% gemoji speech_balloon %}<br />
+But we're not gonna lie to each other, I'd rather you buy me a beer or two {% gemoji beers %} !
 {% endmarkdown %}<span></span></div>
 
 <p>
