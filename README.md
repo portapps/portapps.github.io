@@ -43,6 +43,14 @@ As this is just a Jekyll project, you can use any of the commands listed in thei
 * [jekyll-pygments-themes](https://github.com/jwarby/jekyll-pygments-themes)
 * [Falling](https://pixabay.com/en/falling-tripping-down-stairs-99175/)
 
+## How can i help ?
+
+All kinds of contributions are welcomed :raised_hands:!<br />
+The most basic way to show your support is to star :star2: the project, or to raise issues :speech_balloon:<br />
+But we're not gonna lie to each other, I'd rather you buy me a beer or two :beers:!
+
+[![Paypal](https://portapps.github.io/img/paypal.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WQD7AQGPDEPSG)
+
 ## License
 
 MIT. See `LICENSE` for more details.
