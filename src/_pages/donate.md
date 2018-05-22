@@ -13,5 +13,5 @@ But we're not gonna lie to each other, I'd rather you buy me a beer or two {% ge
 {% endmarkdown %}<span></span></div>
 
 <p>
-  <a class="Paypal" target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id={{ site.paypal-button-id }}"><img src="{{ site.baseurl }}/img/paypal.svg" /></a>
+  <a title="Paypal Donate" target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id={{ site.paypal-button-id }}"><img src="{{ site.baseurl }}/img/paypal-donate.png" /></a>
 </p>
