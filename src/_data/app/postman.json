@@ -1,0 +1,39 @@
+{
+  "name": "postman",
+  "label": "Postman",
+  "desc": "a complete toolchain for API developers.",
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "postman-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.getpostman.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\Postman\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "6.0.10",
+      "release": "2",
+      "date": "2018/04/20",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.0.9",
+      "release": "1",
+      "date": "2018/03/07",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

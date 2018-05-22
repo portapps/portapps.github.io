@@ -1,0 +1,85 @@
+{
+  "name": "portapps-website",
+  "version": "1.0",
+  "description": "Portapps's website",
+  "main": "gulpfile.js",
+  "repository": "git://github.com/portapps/portapps.github.io.git",
+  "author": "CrazyMax",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/portapps/portapps.github.io/issues"
+  },
+  "homepage": "https://github.com/portapps/portapps.github.io",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-social": "^5.1.1",
+    "clean-blog": "git://github.com/BlackrockDigital/startbootstrap-clean-blog.git#b8a93ee48fa89741243ed9e7f8b7f0153525ba3e",
+    "elegant-icons": "*",
+    "font-awesome": "^4.7.0",
+    "github-markdown-css": "^2.8.0",
+    "html5shiv": "^3.7.3",
+    "jquery": "^3.2.1",
+    "jquery-match-height": "^0.7.2",
+    "normalize.css": "^7.0.0",
+    "respond.js": "^1.4.2",
+    "webfontloader": "^1.6.28"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-bust": "^0.2.2",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-file": "^0.3.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-flatten": "^0.3.1",
+    "gulp-inject": "^3.0.0",
+    "gulp-order": "^1.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.1",
+    "gulp-util": "^3.0.8",
+    "main-bower-files": "^2.13.1",
+    "merge-stream": "^1.0.1",
+    "read-config": "^2.0.0",
+    "require-dir": "^0.3.1",
+    "run-sequence": "^1.2.2"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.js",
+        "dist/fonts/*.*"
+      ]
+    },
+    "clean-blog": {
+      "main": [
+        "css/clean-blog.css",
+        "js/clean-blog.js"
+      ]
+    },
+    "elegant-icons": {
+      "main": [
+        "style.css",
+        "fonts/*.*"
+      ]
+    },
+    "font-awesome": {
+      "main": [
+        "css/font-awesome.css",
+        "fonts/*.*"
+      ]
+    }
+  },
+  "engines": {
+    "yarn": ">= 1.0.0"
+  }
+}

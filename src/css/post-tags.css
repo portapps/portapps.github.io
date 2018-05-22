@@ -1,0 +1,82 @@
+.post-tags {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #999;
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.post-tag {
+  display: inline-block;
+  background: rgba(106, 159, 181, 0.15);
+  padding: 0 .5rem;
+  margin-left: .5rem;
+  border-radius: 4px;
+  color: #479FDB !important;
+  font-size: 90%;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out
+}
+
+.post-tag:before {
+  content: "\f02b";
+  font-family: FontAwesome;
+  padding-right: .5em
+}
+
+.post-tag:hover {
+  text-decoration: none;
+  background: #479FDB;
+  color: #fff !important;
+}
+
+.tags-expo:target:before {
+  content: "";
+  display: block;
+  height: 72px;
+  margin: -72px 0 0
+}
+
+@media (min-width: 38em) {
+  .tags-expo .tags-expo-list {
+  }
+
+  .tags-expo .tags-expo-list .post-tag {
+    margin: .2em .3em
+  }
+}
+
+.tags-expo .tags-expo-section {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.tags-expo .tags-expo-section ul {
+  list-style-type: circle;
+  list-style-position: inside;
+  padding: 0
+}
+
+.tags-expo .tags-expo-section ul li {
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+  padding: 0 1rem
+}
+
+.tags-expo .tags-expo-section ul li:hover {
+  list-style-type: disc;
+  padding: 0 .5rem
+}
+
+.tags-expo .tags-expo-section a {
+  text-decoration: none
+}
+
+.tags-expo .tags-expo-section .post-date {
+  display: inline-block;
+  font-size: 80%;
+  color: #9a9a9a;
+  margin: 0;
+  padding: 0
+}

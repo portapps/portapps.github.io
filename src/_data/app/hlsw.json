@@ -1,0 +1,55 @@
+{
+  "name": "hlsw",
+  "label": "HLSW",
+  "desc": "a game server browser and administration tool.",
+  "categories": ["gaming"],
+  "github": {
+    "user": "portapps",
+    "repo": "hlsw-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "http://hlsw.org",
+  "move": [
+    {
+      "from": "%APPDATA%\\HLSW\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.4.0.2",
+      "release": "4",
+      "date": "2018/02/11",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.4.0.2",
+      "release": "3",
+      "date": "2018/02/09",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.4.0.2",
+      "release": "2",
+      "date": "2017/11/21",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.4.0.2",
+      "release": "1",
+      "date": "2017/11/20",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

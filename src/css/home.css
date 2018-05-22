@@ -1,0 +1,89 @@
+.header-home {
+  margin-bottom: 0;
+}
+
+.home {
+  padding-top: 35px;
+}
+
+.header-home .page-heading,
+.header-home .post-heading {
+  padding: 80px 0 50px !important;
+}
+
+@media only screen and (min-width: 768px) {
+  .header-home .page-heading  {
+    padding: 80px 0 50px !important;
+  }
+}
+
+.header-home .button {
+  display: block;
+  margin: 50px 0 0;
+}
+
+.header-home .button .btn {
+  width: 200px;
+  margin-right: 5px;
+}
+
+.header-home .button .btn:last-child {
+  margin-right: 0;
+}
+
+@media only screen and (max-width: 450px) {
+  .header-home .button .btn {
+    margin-top: 10px;
+    margin-right: 0;
+  }
+  .header-home .button .btn:first-child {
+    margin-top: 0;
+  }
+}
+
+.homenext {
+  background: #F9F9F9;
+}
+
+.home .title {
+  color: #479FDB;
+  margin-top: 0;
+  margin-bottom: 35px;
+}
+
+.home .intro {
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 35px;
+}
+
+.home .intro img {
+  background-color: transparent;
+}
+
+.home .item {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.home .item .icon-holder {
+  position: absolute;
+  left: 30px;
+  top: 0;
+}
+
+.home .item .icon-holder .fa,
+.home .item .icon-holder .icon {
+  font-size: 24px;
+  color: #479FDB;
+}
+
+.home .item .content {
+  padding-left: 60px;
+}
+
+.home .item .content .sub-title {
+  margin-top: 0;
+  color: #479FDB;
+  font-size: 18px;
+}

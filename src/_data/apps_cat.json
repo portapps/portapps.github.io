@@ -1,0 +1,14 @@
+[
+  {
+    "id": "browser",
+    "name": "Browser"
+  },
+  {
+    "id": "messaging",
+    "name": "Messaging and chat"
+  },
+  {
+    "id": "dev",
+    "name": "Developer"
+  }
+]

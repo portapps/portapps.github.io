@@ -1,0 +1,13 @@
+{% strip %}
+{% if site.url %}
+  {% assign var_seo_url = site.url | append: site.baseurl %}
+{% else %}
+  {% assign var_seo_url = site.github.url %}
+{% endif %}
+{% assign var_seo_description = page.description | default: page.excerpt | default: page.subtitle | default: site.description | default: site.meta-description %}
+{% if var_seo_description %}
+  {% assign var_seo_description = var_seo_description | markdownify | strip_html | strip_newlines | escape_once | truncatewords: 50 %}
+{% endif %}
+{% assign var_domain = var_seo_url | remove:'http://' | remove:'https://' | split:'/' | first %}
+{% capture var_repo_url %}{{ site.github.baseurl }}/{{ site.github.user }}/{{ site.github.repo }}{% endcapture %}
+{% endstrip %}

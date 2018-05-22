@@ -1,0 +1,28 @@
+---
+layout: default
+sitemap:
+  exclude: yes
+---
+
+{% include header.html %}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-10 col-md-8 col-md-offset-1">
+      <h2>Downloading {{ page.download_filename }}...</h2>
+      <div class="progressbar">
+        <span class="progressbar-fill" data-time="{{ page.download_time | default: 2 }}"></span>
+      </div>
+      <p>
+        Your download will start shortly...<br />
+        Problems with the download?  Please use this <a href="{{ page.download_url }}">direct link</a>.
+      </p>
+      <h2 style="margin-bottom: 20px;">{{ site.title }} is free, but powered by <a target="_blank" href="{{ site.baseurl }}/donate">your donations</a> <i class="fa fa-heart" aria-hidden="true" style="color:#c75c5c"></i></h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-10 col-md-8 col-md-offset-1">
+      {% include ads.html type="adsense" client="ca-pub-6761939715072275" slot="3753092775" %}
+    </div>
+  </div>
+</div>

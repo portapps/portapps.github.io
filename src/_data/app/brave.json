@@ -1,0 +1,247 @@
+{
+  "name": "brave",
+  "label": "Brave",
+  "desc": "a free and open-source web browser based on the Chromium web browser and its Blink engine.",
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "brave-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.brave.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\brave\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "0.22.667",
+      "release": "27",
+      "date": "2018/04/26",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.22.22",
+      "release": "26",
+      "date": "2018/04/20",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.22.13",
+      "release": "25",
+      "date": "2018/04/05",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.21.18",
+      "release": "24",
+      "date": "2018/03/02",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.20.30",
+      "release": "23",
+      "date": "2018/02/11",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.20.30",
+      "release": "22",
+      "date": "2018/02/08",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.139",
+      "release": "21",
+      "date": "2018/01/21",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.134",
+      "release": "20",
+      "date": "2018/01/13",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.131",
+      "release": "19",
+      "date": "2018/01/12",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.122",
+      "release": "18",
+      "date": "2017/12/27",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.116",
+      "release": "17",
+      "date": "2017/12/14",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.105",
+      "release": "16",
+      "date": "2017/12/09",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.95",
+      "release": "15",
+      "date": "2017/11/21",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.95",
+      "release": "14",
+      "date": "2017/11/17",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.88",
+      "release": "13",
+      "date": "2017/11/11",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.70",
+      "release": "12",
+      "date": "2017/10/29",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.70",
+      "release": "12",
+      "date": "2017/10/29",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.19.48",
+      "release": "11",
+      "date": "2017/10/15",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.18.36",
+      "release": "10",
+      "date": "2017/09/16",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.18.23",
+      "release": "9",
+      "date": "2017/09/05",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.18.23",
+      "release": "8",
+      "date": "2017/08/26",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.18.14",
+      "release": "7",
+      "date": "2017/08/09",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.17.19",
+      "release": "6",
+      "date": "2017/07/23",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.17.13",
+      "release": "5",
+      "date": "2017/07/09",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z", "zip"]
+    },
+    {
+      "version": "0.16.9",
+      "release": "4",
+      "date": "2017/06/10",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z", "zip"]
+    },
+    {
+      "version": "0.15.310",
+      "release": "3",
+      "date": "2017/05/31",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z", "zip"]
+    },
+    {
+      "version": "0.15.2",
+      "release": "2",
+      "date": "2017/05/15",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z", "zip"]
+    },
+    {
+      "version": "0.15.1",
+      "release": "1",
+      "date": "2017/05/03",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z", "zip"]
+    }
+  ]
+}

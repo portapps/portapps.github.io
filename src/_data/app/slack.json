@@ -1,0 +1,247 @@
+{
+  "name": "slack",
+  "label": "Slack",
+  "desc": "a cloud-based set of team collaboration tools and services.",
+  "categories": ["dev", "messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "slack-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://slack.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\Slack\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "3.1.1",
+      "release": "35",
+      "date": "2018/04/05",
+      "original": "SlackSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.1.0",
+      "release": "34",
+      "date": "2018/03/10",
+      "original": "SlackSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.5",
+      "release": "33",
+      "date": "2018/02/12",
+      "original": "SlackSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.5",
+      "release": "32",
+      "date": "2018/02/09",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.5",
+      "release": "31",
+      "date": "2018/01/21",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.3",
+      "release": "30",
+      "date": "2018/01/13",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.3",
+      "release": "29",
+      "date": "2018/01/12",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.0",
+      "release": "28",
+      "date": "2017/12/09",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.0",
+      "release": "28",
+      "date": "2017/12/09",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.9.0",
+      "release": "27",
+      "date": "2017/11/23",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.9.0",
+      "release": "26",
+      "date": "2017/11/19",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.8.2",
+      "release": "25",
+      "date": "2017/10/19",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.8.1",
+      "release": "24",
+      "date": "2017/10/01",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.8.0",
+      "release": "23",
+      "date": "2017/09/14",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.7.1",
+      "release": "22",
+      "date": "2017/09/05",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.7.1",
+      "release": "21",
+      "date": "2017/08/26",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.7.1",
+      "release": "19",
+      "date": "2017/08/16",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.7.0",
+      "release": "18",
+      "date": "2017/07/13",
+      "original": "SlackSetup-@platform@-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.6.5",
+      "release": "16",
+      "date": "2017/07/13",
+      "original": "SlackSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z", "zip"]
+    },
+    {
+      "version": "2.6.3",
+      "release": "15",
+      "date": "2017/06/29",
+      "original": "SlackSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z", "zip"]
+    },
+    {
+      "version": "2.6.2",
+      "release": "14",
+      "date": "2017/05/24",
+      "original": "SlackSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z", "zip"]
+    },
+    {
+      "version": "2.6.0-beta189985592",
+      "release": "13",
+      "date": "2017/05/14",
+      "original": "SlackSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z", "zip"]
+    },
+    {
+      "version": "2.6.0-beta189985592",
+      "release": "12",
+      "date": "2017/05/04",
+      "original": "SlackSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z", "zip"]
+    },
+    {
+      "version": "2.6.0-beta189985592",
+      "release": "10",
+      "date": "2017/04/28",
+      "original": "SlackSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z", "zip"]
+    },
+    {
+      "version": "2.6.0-beta189985592",
+      "release": "9",
+      "date": "2017/04/28",
+      "original": "SlackSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["7z", "zip"]
+    },
+    {
+      "version": "2.6.0-beta189985592",
+      "release": "7",
+      "date": "2017/04/27",
+      "original": "SlackSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["7z", "zip"]
+    },
+    {
+      "version": "2.5.2",
+      "release": "5",
+      "date": "2017/04/10",
+      "original": "SlackSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["7z", "zip"]
+    },
+    {
+      "version": "2.5.2",
+      "release": "1",
+      "date": "2017/04/09",
+      "original": "SlackSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["7z", "zip"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+---
+layout: default
+markdown_body: ""
+---
+
+{% include header.html type="page" %}
+
+<div class="container-fluid" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-md-8 col-md-offset-2">
+      {% capture app %}{% include app/app.md app=page.app releases=page.releases %}{% endcapture %}{{ app | markdownify }}
+    </div>
+  </div>
+</div>

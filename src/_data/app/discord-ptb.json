@@ -1,0 +1,135 @@
+{
+  "name": "discord-ptb",
+  "label": "Discord PTB",
+  "desc": "a proprietary freeware VoIP application designed for gaming communities.",
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "discord-ptb-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://discordapp.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\discordptb\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "0.0.42",
+      "release": "16",
+      "date": "2018/04/20",
+      "original": "DiscordPTBSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.41",
+      "release": "15",
+      "date": "2018/02/11",
+      "original": "DiscordPTBSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.41",
+      "release": "14",
+      "date": "2018/02/11",
+      "original": "DiscordPTBSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.41",
+      "release": "13",
+      "date": "2018/02/09",
+      "original": "DiscordPTBSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.41",
+      "release": "12",
+      "date": "2018/01/13",
+      "original": "DiscordPTBSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.41",
+      "release": "11",
+      "date": "2018/01/12",
+      "original": "DiscordPTBSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.39",
+      "release": "10",
+      "date": "2017/12/09",
+      "original": "DiscordPTBSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.38",
+      "release": "9",
+      "date": "2017/11/22",
+      "original": "DiscordPTBSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.37",
+      "release": "8",
+      "date": "2017/11/19",
+      "original": "DiscordPTBSetup-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.36",
+      "release": "7",
+      "date": "2017/11/11",
+      "original": "DiscordPTBSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.34",
+      "release": "5",
+      "date": "2017/09/15",
+      "original": "DiscordPTBSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.34",
+      "release": "3",
+      "date": "2017/08/26",
+      "original": "DiscordPTBSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.34",
+      "release": "2",
+      "date": "2017/08/09",
+      "original": "DiscordPTBSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.32",
+      "release": "1",
+      "date": "2017/07/20",
+      "original": "DiscordPTBSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

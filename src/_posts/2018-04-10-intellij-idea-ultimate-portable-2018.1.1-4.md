@@ -1,0 +1,10 @@
+---
+layout: post
+title: IntelliJ IDEA Ultimate portable 2018.1.1-4
+app: intellij-idea-ultimate
+tags: [intellij-idea-ultimate]
+---
+{% include vars.html %}
+
+Release of IntelliJ IDEA Ultimate portable 2018.1.1-4 is now available.<br />
+You can find links to download this release on the [IntelliJ IDEA Ultimate portable page](/app/intellij-idea-ultimate-portable).

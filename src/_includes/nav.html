@@ -1,0 +1,22 @@
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header page-scroll">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        Menu <i class="fa fa-bars"></i>
+      </button>
+      {% if site.navbar.logo %}
+        <a class="navbar-brand navbar-logo" href="{{ site.baseurl }}/"><img alt="{{ site.title }}" src="{{ site.baseurl }}/{{ site.navbar.logo }}"/></a>
+      {% else %}
+        <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      {% endif %}
+    </div>
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      {% for link in site.navbar.links %}
+        <li>{% include navbarlink.html link=link %}</li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>

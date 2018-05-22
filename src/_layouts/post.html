@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+{% include header.html type="post" %}
+
+{% strip %}{% if page.app %}
+{% for app in site.data.app %}
+  {% if app[1].name == page.app %}
+    {% capture app_logo %}https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png{% endcapture %}
+  {% endif %}
+{% endfor %}{% endif %}{% endstrip %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post markdown-body">
+        {% if app_logo %}<table><tr><td><img class="post-app-img" src="{{ app_logo }}"/></td><td>{{ content }}</td></tr></table>{% else %}{{ content }}{% endif %}
+      </article>
+
+      <hr />
+      {% if page.tags.size > 0 %}
+        <div class="post-tags">
+          Tags:
+          {% for tag in page.tags %}
+            <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% if page.social-share %}
+        {% include social-share.html %}
+      {% endif %}
+
+      <ul class="pager">
+        {% if page.previous.url %}
+        <li class="previous">
+          <a href="{{ page.previous.url | prepend: site.baseurl }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+        </li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="next">
+          <a href="{{ page.next.url | prepend: site.baseurl }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+        </li>
+        {% endif %}
+      </ul>
+
+      {% if page.comments %}
+        <div class="comments">
+          {% include comments.html %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>

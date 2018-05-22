@@ -1,0 +1,151 @@
+{
+  "name": "discord",
+  "label": "Discord",
+  "desc": "a proprietary freeware VoIP application designed for gaming communities.",
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "discord-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://discordapp.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\discord\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "0.0.300",
+      "release": "22",
+      "date": "2018/02/11",
+      "original": "DiscordSetup-@platform@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.300",
+      "release": "21",
+      "date": "2018/02/11",
+      "original": "DiscordSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.300",
+      "release": "20",
+      "date": "2018/02/09",
+      "original": "DiscordSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.300",
+      "release": "19",
+      "date": "2018/01/13",
+      "original": "DiscordSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.300",
+      "release": "18",
+      "date": "2018/01/12",
+      "original": "DiscordSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.299",
+      "release": "17",
+      "date": "2017/12/14",
+      "original": "DiscordSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.298",
+      "release": "16",
+      "date": "2017/11/22",
+      "original": "DiscordSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.298",
+      "release": "15",
+      "date": "2017/11/19",
+      "original": "DiscordSetup-@platform@-@version@.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.298",
+      "release": "14",
+      "date": "2017/09/04",
+      "original": "DiscordSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.298",
+      "release": "13",
+      "date": "2017/09/04",
+      "original": "DiscordSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.298",
+      "release": "12",
+      "date": "2017/08/26",
+      "original": "DiscordSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.298",
+      "release": "10",
+      "date": "2017/08/09",
+      "original": "DiscordSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.297",
+      "release": "7",
+      "date": "2017/07/20",
+      "original": "DiscordSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.297",
+      "release": "4",
+      "date": "2017/05/14",
+      "original": "DiscordSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.297",
+      "release": "2",
+      "date": "2017/05/14",
+      "original": "DiscordSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z", "zip"]
+    },
+    {
+      "version": "0.0.297",
+      "release": "1",
+      "date": "2017/05/14",
+      "original": "DiscordSetup-@version@.exe",
+      "platforms": [""],
+      "formats": ["setup", "7z", "zip"]
+    }
+  ]
+}

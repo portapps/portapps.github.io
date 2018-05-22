@@ -1,0 +1,36 @@
+sudo: false
+language: node_js
+
+node_js:
+  - "8"
+
+before_install:
+  - rvm install 2.4.1
+  - rvm use 2.4.1 --fuzzy
+  - export GEMDIR=$(rvm gemdir)
+  - curl -o- -L https://yarnpkg.com/install.sh | bash -s -- --version 1.6.0
+  - export PATH=$HOME/.yarn/bin:$PATH
+
+before_script:
+  - yarn install
+  - gem install bundler
+  - bundle install
+  - chmod +x ./travis.sh
+
+script: "./travis.sh"
+
+branches:
+  only:
+    - dev
+
+env:
+  global:
+    - secure: FUbelkm2qj2SWMlHOo8gtyLr7uRnCKrkxnL9EbOaRk++H6UF6X+qz3i67S2sQkYme4WccvdZlkyc128NY14wDdDwO2OuOn6RiRuLZR90gTTdsC3iSONEGpRjx2WBnKtI1OdMudoXG5WE/CBhd2qJsEGFmfw1q0rC2GR9C0aeLRRycxaD5oxmahmA52rnduoEcokuJQKg64XHHa0sPDWcyAC41v91Bwe/3DmkcjpporTYefEiupBJcnisVbBcKvOy2aXBWegnWstBeFNOXSR7KixvjEB4xxF9QOFWVopFBEb7mWThEE0o1WndrbxJtUhD91ZhmS1madU+1gyR+hkHP6Y0m5RMIBgIvWRAVShYWP2BcFNNZfLIsjyIgEhB7ADguywpc/JYofqzVMueyJL8dpjqGAtc4Macrq8wzCnPJgwkvWzpfrIJddQ/wtoDjl3djthxCUPc5slBXZS5Iq0b0YD4Pxrki4YxQB3ri8H738SnKiRd7W/f4Gtg0HX8QNIpG3C/aFbG5B4n1U0N1MNt/P6RX4rB5tB26fNnLWfMiqBEGXREycOEfhfqau9+vu4QckT6ul0FPKFX83A0rlTzDBPhHLLzXIKerEa4UxUJ0MU4XH94ekG8CmI3rbvmGmyUR2trQHMY0uTsIpVCE799klQ0hxiqtXLl5Pq1tOZOyp4=
+    - JEKYLL_ENV=production
+    - JEKYLL_LOG_LEVEL=info
+    - GH_REF=github.com/portapps/portapps.github.io.git
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+notifications:
+  webhooks:
+    secure: VrxXYWI1rEU/FOi1ZkfpqSse6E7Du8Fy92FAoiljyXY2sFuOecVmAMRsdKkknGmrV66ZMaZbBdIL1kFG6gqip81QR111/kRTeN6PwSAkO2Yl1BCBa9myJlZTNeX7uL0lOBIQrnlipVmyopNeVuX4bAKNWz4WYF57UckU4veJmLAF36RX9DlTsPuhKFIwbTd4mRu2oGse5Tghxe9rFdy4iKwrCF247FckLeFg/oGW0E+8E36ymefxToKLpkELakNOy9m4/dYBjl2/z5kjGTprdCI4e9VLuD1W+M1P2WDNqSGVYDVEm793mAN5HY4R9lpzxLgFFdt69UMPRhG59gT8q2/bq0+ujScqTl7seC454/pPV6j96gjwD0JmhPzfDjthGTg98DwXEHbUIuf6dyGxAzW2onWJSJufZPx5VkyDI2cphZf2jqnpT1TywPVRBnpbVekEaMp1sE+73LSEAIeGOCLqNZOUZ3XjohXyjCKB08PhFe6TJLGDZUV6pmDjdlsGVHqV+cJGq3BtYB3tqvnEFGdClDH7PA4yBgrzZgwqncgfTl2ayz66RSC9DFcq9lK8eWFSZFLlRURaVrGtQHRVAMWRq88AfpTOYNpiOp0rrpuC63CLKUK11kN7tAU5P+ohnlJavy/zM/t0mRdawjy73TABeOzMbO/zjNhBdtwxEl8=

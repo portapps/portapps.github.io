@@ -1,0 +1,20 @@
+# General
+url: http://localhost:3020
+baseurl: ""
+
+# Comments
+comments:
+  provider: false
+
+# SEO Related
+google_site_verification:
+bing_site_verification:
+alexa_site_verification:
+yandex_site_verification:
+
+# Ads
+ads-enabled: false
+
+# Analytics
+analytics:
+  provider: false

@@ -1,0 +1,10 @@
+---
+layout: post
+title: Twitch portable 7.5.6563.2244-5
+app: twitch
+tags: [twitch]
+---
+{% include vars.html %}
+
+Release of Twitch portable 7.5.6563.2244-5 is now available.<br />
+You can find links to download this release on the [Twitch portable page](/app/twitch-portable).

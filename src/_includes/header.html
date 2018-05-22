@@ -1,0 +1,44 @@
+{% strip %}
+{% assign page_type = include.type %}
+{% assign page_css = "" %}
+{% assign page_class = "" %}
+{% if page.bigimg %}
+  {% capture page_css %}{{ page_css }} background-image: url('{{ page.bigimg }}');{% endcapture %}
+{% else %}
+  {% capture page_class %}{{ page_class }} no-img{% endcapture %}
+{% endif %}
+{% if include.custom %}
+  {% capture page_class %}{{ page_class }} header-{{ include.custom }}{% endcapture %}
+{% endif %}
+{% endstrip %}
+{% if page_type %}
+<header class="intro-header{{ page_class }}" style="{{ page_css }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="{{ page_type }}-heading" style="{{ include.style }}">
+          {% if page.layout == "home" %}<img src="{{ site.baseurl }}/img/logo.png" />{% endif %}
+          {% if page.app and page.logo %}<img style="width:128px;" src="{{ page.logo }}" />{% endif %}
+          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+          {% if page.subtitle %}
+            {% if page_type == "page" %}
+              <hr class="small">
+              <span class="subheading">{{ page.subtitle }}</span>
+            {% else %}
+              <h2 class="subheading">{{ page.subtitle }}</h2>
+            {% endif %}
+          {% endif %}
+          {% if include.custom %}
+            {% include headers/{{ include.custom }}.html %}
+          {% endif %}
+          {% if page_type == "post" %}
+            <span class="meta">Posted on {{ page.date | date_to_string }}</span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+{% else %}
+<div class="no-intro-header"></div>
+{% endif %}

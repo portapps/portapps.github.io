@@ -1,0 +1,63 @@
+{
+  "name": "teamspeak-client",
+  "label": "TeamSpeak Client",
+  "desc": "a VoIP app for audio communication between users on a chat channel.",
+  "categories": ["gaming", "messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "teamspeak-client-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.teamspeak.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\TS3Client\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "3.1.9",
+      "release": "5",
+      "date": "2018/05/08",
+      "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.1.8",
+      "release": "4",
+      "date": "2018/02/12",
+      "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.1.8",
+      "release": "3",
+      "date": "2018/02/09",
+      "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.1.8",
+      "release": "2",
+      "date": "2018/01/25",
+      "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.1.7",
+      "release": "1",
+      "date": "2018/01/15",
+      "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

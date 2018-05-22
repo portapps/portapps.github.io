@@ -1,0 +1,10 @@
+{% if site.analytics.provider and page.analytics != false %}
+  {% case site.analytics.provider %}
+  {% when "google" %}
+    {% include analytics/analytics-google.html %}
+  {% when "google-universal" %}
+    {% include analytics/analytics-google-universal.html %}
+  {% when "custom" %}
+    {% include analytics/analytics-custom.html %}
+  {% endcase %}
+{% endif %}

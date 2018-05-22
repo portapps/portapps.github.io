@@ -1,0 +1,79 @@
+{
+  "name": "rocketchat",
+  "label": "Rocket.Chat",
+  "desc": "free, Open Source, Enterprise Team Chat.",
+  "categories": ["dev", "messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "rocketchat-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://rocket.chat",
+  "move": [
+    {
+      "from": "%APPDATA%\\Rocket.Chat+\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "2.10.5",
+      "release": "7",
+      "date": "2018/02/12",
+      "original": "rocketchat-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.10.5",
+      "release": "6",
+      "date": "2018/02/09",
+      "original": "rocketchat-setup-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.10.5",
+      "release": "5",
+      "date": "2018/02/08",
+      "original": "rocketchat-setup-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.10.3",
+      "release": "4",
+      "date": "2018/02/03",
+      "original": "rocketchat-setup-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.10.2",
+      "release": "3",
+      "date": "2018/01/26",
+      "original": "rocketchat-setup-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.10.1",
+      "release": "2",
+      "date": "2018/01/13",
+      "original": "rocketchat-setup-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.10.1",
+      "release": "1",
+      "date": "2017/11/24",
+      "original": "rocketchat-setup-@version@.exe",
+      "platforms": ["ia32", "x64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

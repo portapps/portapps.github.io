@@ -1,0 +1,111 @@
+{
+  "name": "twitch",
+  "label": "Twitch",
+  "desc": "a live streaming video platform.",
+  "categories": ["gaming", "streaming"],
+  "github": {
+    "user": "portapps",
+    "repo": "twitch-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://app.twitch.tv",
+  "move": [
+    {
+      "from": "%APPDATA%\\Twitch\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "7.5.6668.295",
+      "release": "11",
+      "date": "2018/04/07",
+      "original": "",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6635.1684",
+      "release": "10",
+      "date": "2018/03/02",
+      "original": "",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6611.39437",
+      "release": "9",
+      "date": "2018/02/12",
+      "original": "",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6604.42919",
+      "release": "8",
+      "date": "2018/02/07",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6591.2326",
+      "release": "7",
+      "date": "2018/01/21",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6585.2139",
+      "release": "6",
+      "date": "2018/01/13",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6563.2244",
+      "release": "5",
+      "date": "2017/12/27",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6557.923",
+      "release": "4",
+      "date": "2017/12/14",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6543.2605",
+      "release": "3",
+      "date": "2017/12/04",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6529.932",
+      "release": "2",
+      "date": "2017/11/24",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6529.932",
+      "release": "1",
+      "date": "2017/11/23",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

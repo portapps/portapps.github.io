@@ -1,0 +1,191 @@
+# General
+source: src
+destination: web
+url: "https://portapps.github.io"
+baseurl: ""
+title: "Portapps"
+description: "Collection of portable apps for Windows"
+logo: /img/logo.png
+version: 1.0
+paypal-button-id: "WQD7AQGPDEPSG"
+
+# Compress HTML
+compress_html:
+  ignore:
+    envs:
+      - "development"
+
+# Github
+github:
+  baseurl: https://github.com
+  user: portapps
+  repo: portapps
+
+# Paths
+paths:
+  assets: assets
+  npm: node_modules
+
+# Assets
+assets:
+  app: assets_app.json
+  vendor: assets_vendor.json
+
+# Filters
+filters:
+  css:
+    - src/css/**/*.css
+  js:
+    - src/js/**/*.js
+  data:
+    - src/_data/**/*.json
+  jekyll:
+    - src/**/*.html
+    - src/**/*.md
+    - src/_data/**/*
+    - src/_plugins/**/*.rb
+    - src/feed.xml
+    - src/feed.xslt.xml
+    - src/robots.txt
+    - src/sitemap.xml
+    - src/sitemap.xsl
+
+# Navigation bar
+navbar:
+  logo: "img/logo.png"
+  links:
+    News: "news"
+    Applications: "apps"
+    Donate: "donate"
+    Github: "https://github.com/portapps"
+
+# Author
+author:
+  name: CrazyMax
+  email:
+  facebook:
+  github: crazy-max
+  twitter: crazyws
+  reddit:
+  google-plus: u/0/+CrazyMaxx
+  linkedin:
+  xing:
+  stackoverflow:
+  snapchat:
+  instagram:
+  youtube:
+  spotify:
+  telephone:
+
+# Footer
+footer:
+  links-active:
+    rss: true
+    facebook: false
+    email: false
+    twitter: true
+    google-plus: true
+    github: true
+    reddit: false
+    linkedin: false
+    xing: false
+    stackoverflow: false
+    snapchat: false
+    instagram: false
+    youtube: false
+    spotify: false
+    telephone: false
+
+# SEO Related
+google_site_verification: "zczpYiFTLpd1jgOb3K5zGqERX2gZrkm7aRjtDqxP0a4"
+bing_site_verification: "D188E0BEC1AB6E7C1E0194BFC35D0033"
+alexa_site_verification:
+yandex_site_verification:
+
+# Ads
+ads-enabled: true
+
+# Posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: true
+  linkedin: true
+  reddit: true
+excerpt_length: 25
+timezone: "Europe/Paris"
+permalink: /news/:year-:month-:day-:title/
+tag_page: /news/tags/
+paginate_path: /news/page:num/
+paginate: 10
+
+# Comments
+comments:
+  provider:
+  disqus:
+    shortname:
+  discourse:
+    server:
+  facebook:
+    appid:
+    num_posts:
+    colorscheme:
+
+# Analytics
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-12516800-4"
+
+# Facebook App ID
+fb_app_id: ""
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "<!--more-->"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+
+# Default YAML values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+      social-share: true
+      app: ""
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+      comments: false
+      markdown_body: "markdown-body"
+
+# Reading Files
+include:
+  - _pages
+exclude:
+  - css
+  - js
+  - vendor
+keep_files:
+  - .git
+  - .svn
+  - assets
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jemoji

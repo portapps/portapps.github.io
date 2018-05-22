@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{% include header.html type="page" %}
+
+<section class="cards-section text-center">
+  <div class="container">
+    <div id="cards-wrapper" class="cards-wrapper row">
+      {% for card in page.cards %}
+      <div class="item item-enable col-md-4 col-sm-6 col-xs-6">
+        <div class="item-inner">
+          <div class="icon-holder">
+            {% if card.fa-icon %}<i class="icon fa {{ card.fa-icon }}"></i>{% endif %}
+            {% if card.el-icon %}<span aria-hidden="true" class="icon {{ card.el-icon }}"></span>{% endif %}
+          </div>
+          <h3 class="title">{{ card.title }}</h3>
+          {% if card.intro %}<p class="intro">{{ card.intro }}</p>{% endif %}
+          <a class="link" href="{{ site.baseurl }}{{ card.link }}"><span></span></a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{{ content }}

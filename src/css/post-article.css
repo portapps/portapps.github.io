@@ -1,0 +1,21 @@
+.post-preview table tr, .blog-post table tr {
+  border: none;
+}
+
+.post-preview table tr td, .blog-post table tr td {
+  border: none;
+}
+
+.post-preview table tr td:first-child {
+  padding: 0;
+}
+
+.blog-post .post-app-img {
+  width: 64px;
+  height: 64px;
+}
+
+.post-preview .post-app-img {
+  width: 64px;
+  height: 64px;
+}

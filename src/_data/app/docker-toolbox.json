@@ -1,0 +1,47 @@
+{
+  "name": "docker-toolbox",
+  "label": "Docker Toolbox",
+  "desc": "Provides a way to use Docker on Windows systems.",
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "docker-toolbox-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://docs.docker.com/toolbox/overview",
+  "move": [
+    {
+      "from": "%USERPROFILE%\\.docker\\*",
+      "to": "data\\storage"
+    }
+  ],
+  "releases": [
+    {
+      "version": "18.03.0",
+      "release": "3",
+      "date": "2018/04/05",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.02.0",
+      "release": "2",
+      "date": "2018/03/13",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.02.0",
+      "release": "1",
+      "date": "2018/03/13",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

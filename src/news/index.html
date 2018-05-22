@@ -1,0 +1,67 @@
+---
+title: News
+markdown_body: ""
+bigimg: /img/news-big.jpg
+sitemap:
+priority: 1.0
+changefreq: daily
+---
+
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  {% strip %}{% assign app_logo = false %}
+  {% if post.app %}{% for app in site.data.app %}
+    {% if app[1].name == post.app %}
+      {% capture app_logo %}https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png{% endcapture %}
+    {% endif %}
+  {% endfor %}{% endif %}{% endstrip %}
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      {% if app_logo %}<table><tr><td><img class="post-app-img" src="{{ app_logo }}"/></td><td><h2 class="post-title">{{ post.title }}</h2></td></tr></table>{% else %}<h2 class="post-title">{{ post.title }}</h2>{% endif %}
+
+      {% if post.subtitle %}
+      <h3 class="post-subtitle">
+        {{ post.subtitle }}
+      </h3>
+      {% endif %}
+    </a>
+
+    <p class="post-meta">
+      Posted on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+
+    <div class="post-entry">
+      {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+      {% assign excerpt_word_count = post.excerpt | number_of_words %}
+      {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+      {% endif %}
+    </div>
+
+    {% if post.tags.size > 0 %}
+    <div class="post-tags">
+      Tags:
+      {% for tag in post.tags %}
+      <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+  </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
