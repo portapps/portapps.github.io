@@ -17,7 +17,7 @@
 
 ## About
 
-[{{ include.app.label }}]({{ include.app.homepage }}){:target="_blank"} portable app made with :rocket: **Portapps**.
+[{{ include.app.label }}]({{ include.app.homepage }}){:target="_blank"} portable app made with {% gemoji rocket %} **Portapps**.
 <br />{{ include.app.desc | capitalize }}
 
 | **Latest version**   | {{ include.app.releases[0].version }} |
