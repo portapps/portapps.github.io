@@ -7,4 +7,4 @@ tags: [slack]
 {% include vars.html %}
 
 Release of Slack portable 2.6.0-beta189985592-10 is now available.<br />
-You can find links to download this release on the [Slack portable page](/app/slack-portable).
+You can find links to download this release on the [Slack portable page]({{ var_seo_url | append: '/slack/skype-portable' }}).

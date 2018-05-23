@@ -10,9 +10,14 @@ sitemap:
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ var_seo_url }}</link>
     <atom:link href="{{ var_seo_url | append: '/feed.xml' }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:20 %}<item>
+    {% for post in site.posts limit:20 %}{% strip %}{% assign app_logo = false %}
+      {% if post.app %}{% for app in site.data.app %}
+        {% if app[1].name == post.app %}
+          {% capture app_logo %}https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png{% endcapture %}
+        {% endif %}
+      {% endfor %}{% endif %}{% endstrip %}<item>
       <title>{{ post.title | xml_escape }}</title>
-      <description>{% if post.subtitle %}{{ post.subtitle | xml_escape }} - {% endif %}{{ post.content | strip_html | xml_escape | truncatewords: 50 }}</description>
+      <description><![CDATA[{% if app_logo %}<p><img width="64" src="{{ app_logo }}"/></p>{% endif %}{% if post.subtitle %}{{ post.subtitle }} - {% endif %}{{ post.content }}]]></description>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <link>{{ var_seo_url | append: post.url }}</link>
       <guid isPermaLink="true">{{ var_seo_url | append: post.url }}</guid>

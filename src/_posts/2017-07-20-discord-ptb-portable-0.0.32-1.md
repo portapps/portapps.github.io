@@ -8,4 +8,4 @@ tags: [discord-ptb]
 
 A new Portapps app has been added to the collection !<br />
 Discord PTB (Public Test Build) is a proprietary freeware VoIP application designed for gaming communities.<br />
-You can download this first release of Discord PTB portable 0.0.32-1 on the [Discord PTB portable page](/app/discord-ptb-portable) !
+You can download this first release of Discord PTB portable 0.0.32-1 on the [Discord PTB portable page]({{ var_seo_url | append: '/app/discord-ptb-portable' }}) !

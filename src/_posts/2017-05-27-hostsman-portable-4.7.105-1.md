@@ -8,4 +8,4 @@ tags: [hostsman]
 
 A new Portapps app has been added to the collection !<br />
 HostsMan is a freeware application that lets you manage your Hosts file with ease.<br />
-You can download this first release of HostsMan portable 4.7.105-1 on the [HostsMan portable page](/app/hostsman-portable) !
+You can download this first release of HostsMan portable 4.7.105-1 on the [HostsMan portable page]({{ var_seo_url | append: '/app/hostsman-portable' }}) !

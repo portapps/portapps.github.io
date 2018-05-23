@@ -8,4 +8,4 @@ tags: [discord]
 {% include vars.html %}
 
 Release of Discord portable 0.0.301-23 is now available.<br />
-You can find links to download this release on the [Discord portable page](/app/discord-portable).
+You can find links to download this release on the [Discord portable page]({{ var_seo_url | append: '/app/discord-portable' }}).

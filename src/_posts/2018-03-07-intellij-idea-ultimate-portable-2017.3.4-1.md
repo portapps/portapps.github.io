@@ -8,4 +8,4 @@ tags: [intellij-idea-ultimate]
 
 A new Portapps app has been added to the collection !<br />
 IntelliJ IDEA Ultimate is a code-centric IDE, focused on your productivity.<br />
-You can download this first release of IntelliJ IDEA Ultimate portable 2017.3.4-1 on the [IntelliJ IDEA Ultimate portable page](/app/intellij-idea-ultimate-portable) !
+You can download this first release of IntelliJ IDEA Ultimate portable 2017.3.4-1 on the [IntelliJ IDEA Ultimate portable page]({{ var_seo_url | append: '/app/intellij-idea-ultimate-portable' }}) !

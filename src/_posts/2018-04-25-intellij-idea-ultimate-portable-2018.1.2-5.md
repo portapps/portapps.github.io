@@ -7,4 +7,4 @@ tags: [intellij-idea-ultimate]
 {% include vars.html %}
 
 Release of IntelliJ IDEA Ultimate portable 2018.1.2-5 is now available.<br />
-You can find links to download this release on the [IntelliJ IDEA Ultimate portable page](/app/intellij-idea-ultimate-portable).
+You can find links to download this release on the [IntelliJ IDEA Ultimate portable page]({{ var_seo_url | append: '/app/intellij-idea-ultimate-portable' }}).

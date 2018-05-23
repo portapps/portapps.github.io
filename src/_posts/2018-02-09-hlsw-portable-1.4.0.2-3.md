@@ -7,4 +7,4 @@ tags: [hlsw]
 {% include vars.html %}
 
 Release of HLSW portable 1.4.0.2-3 is now available.<br />
-You can find links to download this release on the [HLSW portable page](/app/hlsw-portable).
+You can find links to download this release on the [HLSW portable page]({{ var_seo_url | append: '/app/hlsw-portable' }}).
