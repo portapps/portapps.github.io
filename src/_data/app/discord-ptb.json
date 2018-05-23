@@ -20,11 +20,19 @@
   ],
   "releases": [
     {
+      "version": "0.0.43",
+      "release": "17",
+      "date": "2018/04/23",
+      "original": "DiscordPTBSetup-@platform@-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "0.0.42",
       "release": "16",
       "date": "2018/04/20",
       "original": "DiscordPTBSetup-@platform@-@version@.exe",
-      "platforms": ["ia32"],
+      "platforms": ["win32"],
       "formats": ["setup", "7z"]
     },
     {
@@ -32,7 +40,7 @@
       "release": "15",
       "date": "2018/02/11",
       "original": "DiscordPTBSetup-@platform@-@version@.exe",
-      "platforms": ["ia32"],
+      "platforms": ["win32"],
       "formats": ["setup", "7z"]
     },
     {
