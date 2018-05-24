@@ -19,8 +19,6 @@ markdown_body: ""
             <img src="https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png"/>
           </div>
           <h3 class="title">{{ app[1].label }}</h3>
-          {% for cat in app[1].categories %}<span class="cat-tag">{{ cat }}</span>{% endfor %}
-          <p>{% for cat in app[1].categories %}{% endfor %}</p>
           <a class="link" href="{{ site.baseurl }}/app/{{ app[1].name }}-portable"><span></span></a>
         </div>
       </div>{% endfor %}
