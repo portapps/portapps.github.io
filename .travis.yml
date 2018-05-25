@@ -8,7 +8,7 @@ before_install:
   - rvm install 2.4.1
   - rvm use 2.4.1 --fuzzy
   - export GEMDIR=$(rvm gemdir)
-  - curl -o- -L https://yarnpkg.com/install.sh | bash -s -- --version 1.6.0
+  - curl -o- -L https://yarnpkg.com/install.sh | bash -s -- --version 1.7.0
   - export PATH=$HOME/.yarn/bin:$PATH
 
 before_script:
