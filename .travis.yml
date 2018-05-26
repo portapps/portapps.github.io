@@ -12,6 +12,7 @@ before_install:
   - export PATH=$HOME/.yarn/bin:$PATH
 
 before_script:
+  - yarn config set registry https://registry.npmjs.org/
   - yarn install
   - gem install bundler
   - bundle install
