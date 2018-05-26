@@ -159,7 +159,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      title: ""
       comments: true
       social-share: true
       app: ""
