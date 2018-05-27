@@ -42,6 +42,7 @@ filters:
   jekyll:
     - src/**/*.html
     - src/**/*.md
+    - src/**/*.xml
     - src/_data/**/*
     - src/_plugins/**/*.rb
     - src/feed.xml

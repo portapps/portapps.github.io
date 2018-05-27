@@ -20,6 +20,22 @@ module Jekyll
     end
   end
 
+  class AppFeedPage < Page
+    def initialize(site, base, dir, the_app)
+      @site = site
+      @base = base
+      @dir = dir
+      @name = "feed.xml"
+
+      Jekyll.logger.debug "  Creating app feed page: #{the_app['name']}..."
+
+      self.process(@name)
+      self.read_yaml(File.join(base, "_layouts"), "app_feed.xml")
+      self.data['logo'] = 'https://raw.githubusercontent.com/' + the_app['github']['user'] + '/' + the_app['github']['repo'] + '/master/res/papp.png'
+      self.data['app'] = the_app
+    end
+  end
+
   class AppPageGenerator < Generator
     safe true
 
@@ -35,6 +51,7 @@ module Jekyll
           data = JSON.parse(File.read(file))
           next if !data.kind_of?(Hash) or !data['name']
           site.pages << AppPage.new(site, site.source, "app", data)
+          site.pages << AppFeedPage.new(site, site.source, "app/" + data['name'] + "-portable", data)
         end
       end
 
