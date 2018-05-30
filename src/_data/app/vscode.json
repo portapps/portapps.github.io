@@ -1,0 +1,31 @@
+{
+  "name": "vscode",
+  "label": "Visual Studio Code",
+  "desc": "a source code editor developed by Microsoft for Windows, Linux and macOS.",
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "vscode-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://code.visualstudio.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\Code\\*",
+      "to": "data\\appdata\\Code"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.23.1",
+      "release": "1",
+      "date": "2018/05/30",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
