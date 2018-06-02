@@ -19,6 +19,7 @@
     "bootstrap": "^3.3.7",
     "bootstrap-social": "^5.1.1",
     "clean-blog": "git://github.com/BlackrockDigital/startbootstrap-clean-blog.git#b8a93ee48fa89741243ed9e7f8b7f0153525ba3e",
+    "cookieconsent": "^3.0.6",
     "elegant-icons": "*",
     "font-awesome": "^4.7.0",
     "github-markdown-css": "^2.8.0",
