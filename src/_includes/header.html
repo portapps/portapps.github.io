@@ -18,12 +18,16 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="{{ page_type }}-heading" style="{{ include.style }}">
           {% if page.layout == "home" %}<img src="{{ site.baseurl }}/img/logo.png" />{% endif %}
-          {% if page.app and page.logo %}<img style="width:128px;" src="{{ page.logo }}" />{% endif %}
-          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+          {% if page.app and page.logo %}
+            <img style="width:128px;" src="{{ page.logo }}" />
+            <h1 class="title-app">{{ page.title }} portable</h1>
+          {% else %}
+            <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+          {% endif %}
           {% if page.subtitle %}
             {% if page_type == "page" %}
               <hr class="small">
-              <span class="subheading">{{ page.subtitle }}</span>
+              <span class="subheading{% if page.app and page.logo %}-app{% endif %}">{{ page.subtitle }}</span>
             {% else %}
               <h2 class="subheading">{{ page.subtitle }}</h2>
             {% endif %}

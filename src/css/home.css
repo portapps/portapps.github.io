@@ -51,6 +51,14 @@
   margin-bottom: 35px;
 }
 
+h1.title-app {
+  font-size: 60px !important;
+}
+
+.subheading-app {
+  font-size: 20px !important;
+}
+
 .home .intro {
   max-width: 1000px;
   margin: 0 auto;
