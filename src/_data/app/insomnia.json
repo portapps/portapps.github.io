@@ -1,0 +1,31 @@
+{
+  "name": "insomnia",
+  "label": "Insomnia",
+  "desc": "debug APIs like a human, not a robot.",
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "insomnia-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://insomnia.rest",
+  "move": [
+    {
+      "from": "%APPDATA%\\Insomnia\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "5.16.6",
+      "release": "1",
+      "date": "2018/07/13",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
