@@ -20,6 +20,14 @@
   ],
   "releases": [
     {
+      "version": "8.25.0.5",
+      "release": "18",
+      "date": "2018/07/14",
+      "original": "Skype-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "8.23.0.10",
       "release": "17",
       "date": "2018/06/11",
