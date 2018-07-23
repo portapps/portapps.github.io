@@ -20,7 +20,15 @@
   ],
   "releases": [
     {
-      "version": "7.5.6529.932",
+      "version": "7.5.6774.199",
+      "release": "13",
+      "date": "2018/07/24",
+      "original": "",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6715.42973",
       "release": "12",
       "date": "2018/05/29",
       "original": "",
