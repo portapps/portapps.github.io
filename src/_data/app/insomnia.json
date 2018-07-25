@@ -20,10 +20,18 @@
   ],
   "releases": [
     {
+      "version": "6.0.1",
+      "release": "2",
+      "date": "2018/07/26",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "5.16.6",
       "release": "1",
       "date": "2018/07/13",
-      "original": "PostmanSetup-@platform@.exe",
+      "original": "InsomniaSetup-@platform@.exe",
       "platforms": ["win64"],
       "formats": ["setup", "7z"]
     }
