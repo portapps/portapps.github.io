@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skype portable 6.0.1-2
+title: Insomnia portable 6.0.1-2
 date: 2018-07-26 00:44:00 +0200
 app: insomnia
 tags: [insomnia]
