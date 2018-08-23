@@ -32,6 +32,14 @@
   ],
   "releases": [
     {
+      "version": "2018.2.2",
+      "release": "12",
+      "date": "2018/08/23",
+      "original": "ideaIC-@version@.win.zip",
+      "platforms": [""],
+      "formats": ["setup"]
+    },
+    {
       "version": "2018.2.1",
       "release": "11",
       "date": "2018/08/08",
