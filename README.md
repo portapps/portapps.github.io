@@ -43,9 +43,9 @@ As this is just a Jekyll project, you can use any of the commands listed in thei
 * [jekyll-pygments-themes](https://github.com/jwarby/jekyll-pygments-themes)
 * [Falling](https://pixabay.com/en/falling-tripping-down-stairs-99175/)
 
-## How can i help ?
+## How can I help ?
 
-All kinds of contributions are welcomed :raised_hands:!<br />
+All kinds of contributions are welcome :raised_hands:!<br />
 The most basic way to show your support is to star :star2: the project, or to raise issues :speech_balloon:<br />
 But we're not gonna lie to each other, I'd rather you buy me a beer or two :beers:!
 
