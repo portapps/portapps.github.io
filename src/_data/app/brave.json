@@ -20,6 +20,14 @@
   ],
   "releases": [
     {
+      "version": "0.23.105",
+      "release": "38",
+      "date": "2018/09/01",
+      "original": "BraveSetup-@platform@-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "0.23.79",
       "release": "37",
       "date": "2018/08/15",
