@@ -17,7 +17,7 @@ changefreq: daily
   {% endfor %}{% endif %}{% endstrip %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-      {% if app_logo %}<table><tr><td><img class="post-app-img" src="{{ app_logo }}"/></td><td><h2 class="post-title">{{ post.title }}</h2></td></tr></table>{% else %}<h2 class="post-title">{{ post.title }}</h2>{% endif %}
+      {% if app_logo %}<table><tr><td class="post-app-img"><img src="{{ app_logo }}"/></td><td><h2 class="post-title">{{ post.title }}</h2></td></tr></table>{% else %}<h2 class="post-title">{{ post.title }}</h2>{% endif %}
 
       {% if post.subtitle %}
       <h3 class="post-subtitle">

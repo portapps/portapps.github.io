@@ -15,7 +15,7 @@ layout: default
   <div class="row">
     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post markdown-body">
-        {% if app_logo %}<table><tr><td><img class="post-app-img" src="{{ app_logo }}"/></td><td>{{ content }}</td></tr></table>{% else %}{{ content }}{% endif %}
+        {% if app_logo %}<table><tr><td class="post-app-img"><img src="{{ app_logo }}"/></td><td>{{ content }}</td></tr></table>{% else %}{{ content }}{% endif %}
       </article>
 
       <hr />

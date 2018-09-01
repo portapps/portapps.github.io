@@ -11,11 +11,19 @@
 }
 
 .blog-post .post-app-img {
+  width: 90px;
+}
+
+.blog-post .post-app-img > img {
   width: 64px;
   height: 64px;
 }
 
 .post-preview .post-app-img {
+  width: 64px;
+}
+
+.post-preview .post-app-img > img {
   width: 64px;
   height: 64px;
 }
