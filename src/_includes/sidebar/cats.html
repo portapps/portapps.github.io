@@ -5,9 +5,9 @@
   <div class="sticky-nav">
     <p>Categories</p>
     <ul class="sticky-nav__items" id="sticky-nav">
-      <li class="sticky-nav__item">{% if current_cat == 'all' %}{% include fontawesome.html icon="caret-right" %}{% else %}{% include fontawesome.html icon="angle-right" %}{% endif %}&nbsp;&nbsp;<a class="nav-link" href="{{ site.baseurl }}/apps">All</a></li>
+      <li class="sticky-nav__item">{% if current_cat == 'all' %}{% include fontawesome.html icon="caret-right" %}{% else %}{% include fontawesome.html icon="angle-right" %}{% endif %}&nbsp;&nbsp;<a class="nav-link" href="{{ site.baseurl }}/apps/">All</a></li>
       {% for apps_cat in site.data.apps_cat %}
-      <li class="sticky-nav__item">{% if current_cat == apps_cat.id %}{% include fontawesome.html icon="caret-right" %}{% else %}{% include fontawesome.html icon="angle-right" %}{% endif %}&nbsp;&nbsp;<a class="nav-link" href="{{ site.baseurl }}/apps/{{ apps_cat.id }}">{{ apps_cat.name }}</a></li>
+      <li class="sticky-nav__item">{% if current_cat == apps_cat.id %}{% include fontawesome.html icon="caret-right" %}{% else %}{% include fontawesome.html icon="angle-right" %}{% endif %}&nbsp;&nbsp;<a class="nav-link" href="{{ site.baseurl }}/apps/{{ apps_cat.id }}/">{{ apps_cat.name }}</a></li>
       {% endfor %}
     </ul>
   </div>

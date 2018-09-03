@@ -8,4 +8,4 @@
   {% capture platform_version %}{{ include.version }}{% endcapture %}
 {% endif %}
 {% capture filename %}{{ include.name }}-portable-{{ platform_version }}-{{ include.release }}{{ suffix }}{% endcapture %}
-{% endstrip %}<a href="{{ site.baseurl }}/download/{{ filename }}">{{ filename }}</a>
+{% endstrip %}<a href="{{ site.baseurl }}/download/{{ filename }}/">{{ filename }}</a>

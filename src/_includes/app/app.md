@@ -61,7 +61,7 @@ Run `{{ include.app.name }}-portable.exe` and then you can [remove](https://supp
 </div>
 <p>
   {% for platform in include.app.releases[0].platforms %}{% capture platform_color %}{% if platform == 'win32' or platform == 'ia32' %}btn-warning{% else %}btn-success{% endif %}{% endcapture %}{% capture platform_version %}{% if platform != '' %}{{ platform }}-{% endif %}{{ include.app.releases[0].version }}-{{ include.app.releases[0].release }}{% endcapture %}
-  <a href="{{ site.baseurl }}/download/{{ include.app.name }}-portable-{{ platform_version }}-setup.exe" class="btn {{ platform_color }}" style="text-align: left">
+  <a href="{{ site.baseurl }}/download/{{ include.app.name }}-portable-{{ platform_version }}-setup.exe/" class="btn {{ platform_color }}" style="text-align: left">
     <span class="fa fa-download"></span>&nbsp;&nbsp;{{ include.app.label }} portable {{ platform }} (setup)
     <br /><small>{{ include.app.name }}-portable-{{ platform_version }}-setup.exe</small>
   </a>{% endfor %}
@@ -77,7 +77,7 @@ Run `{{ include.app.name }}-portable.exe` and then you can [remove](https://supp
 </div>
 <p>
   {% for platform in include.app.releases[0].platforms %}{% capture platform_color %}{% if platform == 'win32' or platform == 'ia32' %}btn-warning{% else %}btn-success{% endif %}{% endcapture %}{% capture platform_version %}{% if platform != '' %}{{ platform }}-{% endif %}{{ include.app.releases[0].version }}-{{ include.app.releases[0].release }}{% endcapture %}
-  <a href="{{ site.baseurl }}/download/{{ include.app.name }}-portable-{{ platform_version }}.7z" class="btn {{ platform_color }}" style="text-align: left">
+  <a href="{{ site.baseurl }}/download/{{ include.app.name }}-portable-{{ platform_version }}.7z/" class="btn {{ platform_color }}" style="text-align: left">
     <span class="fa fa-download"></span>&nbsp;&nbsp;{{ include.app.label }} portable {{ platform }} (7z)
     <br /><small>{{ include.app.name }}-portable-{{ platform_version }}.7z</small>
   </a>
@@ -93,7 +93,7 @@ Run `{{ include.app.name }}-portable.exe` and then you can [remove](https://supp
 </div>
 <p>
   {% for platform in include.app.releases[0].platforms %}{% capture platform_color %}{% if platform == 'win32' or platform == 'ia32' %}btn-warning{% else %}btn-success{% endif %}{% endcapture %}{% capture platform_version %}{% if platform != '' %}{{ platform }}-{% endif %}{{ include.app.releases[0].version }}-{{ include.app.releases[0].release }}{% endcapture %}
-  <a href="{{ site.baseurl }}/download/{{ include.app.name }}-portable-{{ platform_version }}.zip" class="btn {{ platform_color }}" style="text-align: left">
+  <a href="{{ site.baseurl }}/download/{{ include.app.name }}-portable-{{ platform_version }}.zip/" class="btn {{ platform_color }}" style="text-align: left">
     <span class="fa fa-download"></span>&nbsp;&nbsp;{{ include.app.label }} portable {{ platform }} (zip)
     <br /><small>{{ include.app.name }}-portable-{{ platform_version }}.zip</small>
   </a>
