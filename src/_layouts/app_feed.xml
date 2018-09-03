@@ -8,7 +8,7 @@ sitemap:
   <channel>
     <title>{{ site.title }} - {{ page.app.label | append: ' portable releases' | xml_escape }}</title>
     <description>{{ page.app.description | capitalize | xml_escape }}</description>
-    <link>{{ var_seo_url | append: '/app/' | append: page.app.name | append: '-portable' }}</link>
+    <link>{{ var_seo_url | append: '/app/' | append: page.app.name | append: '-portable/' }}</link>
     <atom:link href="{{ var_seo_url | append: '/app/' | append: page.app.name | append: '-portable/feed.xml' }}" rel="self" type="application/rss+xml" />
     {% for release in page.app.releases limit:10 %}{% for format in release.formats %}{% for platform in release.platforms %}{% strip %}
     {% capture file_suffix %}.{{ format }}{% endcapture %}

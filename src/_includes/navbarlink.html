@@ -9,8 +9,8 @@
 {% endif %}
 {% endstrip %}
 {% if internal %}
-  {% capture linkurl %}{{ site.baseurl }}/{{ include.link[1] }}{% endcapture %}
-  <a href="{{ linkurl }}">{{ include.link[0] }}</a>
+  {% capture linkurl %}{{ site.baseurl }}/{{ include.link[1] }}/{% endcapture %}
+  <a href="{{ linkurl | replace: '//', '/' }}">{{ include.link[0] }}</a>
 {% else %}
   {% capture linkurl %}{{ include.link[1] }}{% endcapture %}
   <a target="_blank" href="{{ linkurl }}">{{ include.link[0] }}</a>
