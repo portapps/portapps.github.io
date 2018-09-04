@@ -57,6 +57,7 @@ navbar:
   links:
     News: "news"
     Applications: "apps"
+    Documentation: "doc"
     Donate: "donate"
     Privacy: "privacy"
     Github: "https://github.com/portapps"
