@@ -14,11 +14,19 @@
   "homepage": "https://rocket.chat",
   "move": [
     {
-      "from": "%APPDATA%\\Rocket.Chat+\\*",
+      "from": "%APPDATA%\\Rocket.Chat\\*",
       "to": "data"
     }
   ],
   "releases": [
+    {
+      "version": "2.13.2",
+      "release": "14",
+      "date": "2018/09/17",
+      "original": "rocketchat-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "2.13.2",
       "release": "13",
