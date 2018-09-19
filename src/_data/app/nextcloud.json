@@ -1,0 +1,31 @@
+{
+  "name": "nextcloud",
+  "label": "Nextcloud",
+  "desc": "an open source, self-hosted file share and communication platform.",
+  "categories": ["file-sharing"],
+  "github": {
+    "user": "portapps",
+    "repo": "nextcloud-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://nextcloud.com",
+  "move": [
+    {
+      "from": "%LOCALAPPDATA%\\Nextcloud\\*",
+      "to": "data\\conf"
+    }
+  ],
+  "releases": [
+    {
+      "version": "2.3.3.1",
+      "release": "1",
+      "date": "2018/09/19",
+      "original": "Nextcloud-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
