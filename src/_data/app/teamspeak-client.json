@@ -20,6 +20,14 @@
   ],
   "releases": [
     {
+      "version": "3.2.2",
+      "release": "8",
+      "date": "2018/09/19",
+      "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "3.2.1",
       "release": "7",
       "date": "2018/08/15",
