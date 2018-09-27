@@ -2,6 +2,7 @@
   "name": "docker-toolbox",
   "label": "Docker Toolbox",
   "desc": "Provides a way to use Docker on Windows systems.",
+  "license": "apache-2.0",
   "categories": ["dev"],
   "github": {
     "user": "portapps",

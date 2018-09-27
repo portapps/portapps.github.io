@@ -2,6 +2,7 @@
   "name": "discord-ptb",
   "label": "Discord PTB",
   "desc": "a proprietary freeware VoIP application designed for gaming communities.",
+  "license": "freeware",
   "categories": ["messaging"],
   "github": {
     "user": "portapps",

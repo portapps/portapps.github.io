@@ -2,6 +2,7 @@
   "name": "hlsw",
   "label": "HLSW",
   "desc": "a game server browser and administration tool.",
+  "license": "freeware",
   "categories": ["gaming"],
   "github": {
     "user": "portapps",

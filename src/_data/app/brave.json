@@ -2,6 +2,7 @@
   "name": "brave",
   "label": "Brave",
   "desc": "a free and open-source web browser based on the Chromium web browser and its Blink engine.",
+  "license": "mpl-2.0",
   "categories": ["browser"],
   "github": {
     "user": "portapps",

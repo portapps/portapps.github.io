@@ -2,6 +2,7 @@
   "name": "hostsman",
   "label": "HostsMan",
   "desc": "a freeware application that lets you manage your Hosts file with ease.",
+  "license": "freeware",
   "categories": ["misc"],
   "github": {
     "user": "portapps",

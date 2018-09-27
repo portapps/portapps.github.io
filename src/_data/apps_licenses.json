@@ -1,0 +1,26 @@
+{
+  "apache-2.0": {
+    "name": "Apache License 2.0",
+    "link": "https://choosealicense.com/licenses/apache-2.0/"
+  },
+  "freemium": {
+    "name": "Freemium",
+    "link": "https://en.wikipedia.org/wiki/Freemium"
+  },
+  "freeware": {
+    "name": "Freeware",
+    "link": "https://en.wikipedia.org/wiki/Freeware"
+  },
+  "gpl-2.0": {
+    "name": "GNU General Public License v2.0",
+    "link": "https://choosealicense.com/licenses/gpl-2.0/"
+  },
+  "mit": {
+    "name": "MIT License",
+    "link": "https://choosealicense.com/licenses/mit/"
+  },
+  "mpl-2.0": {
+    "name": "Mozilla Public License 2.0",
+    "link": "https://choosealicense.com/licenses/mpl-2.0/"
+  }
+}

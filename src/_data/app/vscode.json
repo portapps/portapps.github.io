@@ -2,6 +2,7 @@
   "name": "vscode",
   "label": "Visual Studio Code",
   "desc": "a source code editor developed by Microsoft for Windows, Linux and macOS.",
+  "license": "mit",
   "categories": ["dev"],
   "github": {
     "user": "portapps",

@@ -23,9 +23,10 @@
 | **Latest version**   | {{ include.app.releases[0].version }} |
 | **Internal release** | {{ include.app.releases[0].release }} |
 | **Last updated**     | {{ include.app.releases[0].date }} |
-| **Links**            | [<i class="fa fa-github fa-lg" aria-hidden="true" style="color:#4078C0"></i>](https://github.com/{{ include.app.github.user }}/{{ include.app.github.repo }}){:target="_blank"} [<i class="fa fa-bug fa-lg" aria-hidden="true" style="color:#d9534f"></i>](https://github.com/{{ include.app.github.user }}/{{ include.app.github.repo }}/issues){:target="_blank"} [<i class="fa fa-rss fa-lg" aria-hidden="true" style="color:orange"></i>](feed.xml){:target="_blank"} |
+| **Links**            | [<i class="fa fa-github fa-lg" aria-hidden="true" style="color:#4078C0" data-toggle="tooltip" data-placement="top" title="GitHub repository"></i>](https://github.com/{{ include.app.github.user }}/{{ include.app.github.repo }}){:target="_blank"} [<i class="fa fa-bug fa-lg" aria-hidden="true" style="color:#d9534f" data-toggle="tooltip" data-placement="top" title="Bug tracker"></i>](https://github.com/{{ include.app.github.user }}/{{ include.app.github.repo }}/issues){:target="_blank"} [<i class="fa fa-rss fa-lg" aria-hidden="true" style="color:orange" data-toggle="tooltip" data-placement="top" title="RSS feed"></i>](feed.xml){:target="_blank"} |
 | **Maintainer**       | [{{ include.app.maintainer.name }}]({{ include.app.maintainer.url }}){:target="_blank"} |
 | **Homepage**         | [{{ include.app.homepage }}]({{ include.app.homepage }}){:target="_blank"} |
+| **License**          | [{{ include.license.name }}]({{ include.license.link }}){:target="_blank"} |
 | **Changelog**        | [CHANGELOG.md](https://github.com/{{ include.app.github.user }}/{{ include.app.github.repo }}/blob/master/CHANGELOG.md){:target="_blank"} |
 
 ## Installation

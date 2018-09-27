@@ -2,6 +2,7 @@
   "name": "intellij-idea-community",
   "label": "IntelliJ IDEA Community",
   "desc": "a Code-centric IDE, focused on your productivity.",
+  "license": "apache-2.0",
   "categories": ["dev"],
   "github": {
     "user": "portapps",

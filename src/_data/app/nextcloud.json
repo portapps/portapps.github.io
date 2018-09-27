@@ -2,6 +2,7 @@
   "name": "nextcloud",
   "label": "Nextcloud",
   "desc": "an open source, self-hosted file share and communication platform.",
+  "license": "gpl-2.0",
   "categories": ["file-sharing"],
   "github": {
     "user": "portapps",

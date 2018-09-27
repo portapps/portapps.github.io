@@ -2,6 +2,7 @@
   "name": "rocketchat",
   "label": "Rocket.Chat",
   "desc": "free, Open Source, Enterprise Team Chat.",
+  "license": "mit",
   "categories": ["dev", "messaging"],
   "github": {
     "user": "portapps",

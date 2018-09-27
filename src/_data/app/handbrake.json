@@ -2,6 +2,7 @@
   "name": "handbrake",
   "label": "HandBrake",
   "desc": "a tool for converting video from nearly any format to a selection of modern, widely supported codecs.",
+  "license": "gpl-2.0",
   "categories": ["multimedia"],
   "github": {
     "user": "portapps",

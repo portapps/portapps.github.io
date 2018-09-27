@@ -21,6 +21,9 @@ $(document).ready(function(){
     }
   });
 
+  // Tooltip
+  $('[data-toggle="tooltip"]').tooltip();
+
   actionCdTop.init(".cd-top");
   actionHome.init(".home");
   actionProgressbar.init(".progressbar");

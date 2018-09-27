@@ -2,6 +2,7 @@
   "name": "twitch",
   "label": "Twitch",
   "desc": "a live streaming video platform.",
+  "license": "freeware",
   "categories": ["gaming", "streaming"],
   "github": {
     "user": "portapps",
