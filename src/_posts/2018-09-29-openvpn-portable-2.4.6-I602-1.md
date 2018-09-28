@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenVPN portable 2.4.6-I602-1
-date: 2018-09-19 18:34:00 +0200
+date: 2018-09-29 01:34:00 +0200
 app: openvpn
 tags: [openvpn]
 ---
