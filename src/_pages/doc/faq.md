@@ -57,7 +57,7 @@ Everything is revealed in the [logs on Appveyor](https://ci.appveyor.com/project
 * Send artefacts from Appveyor to Github releases
 * Done {% gemoji tada %}
 
-This process is quite the same for the current portapps available [but can differ following the original setup](https://github.com/portapps/portapps/tree/master/.build){:target="_blank"} (can be archive, electron app, nsis, innosetup, multi arch, etc...).
+This process is quite the same for the current portapps available [but can differ following the original setup](https://github.com/portapps/portapps/tree/master/.build){:target="_blank"} (can be archive, electron app, innosetup, etc...).
 
 ## Antivirus complains about the wrapper
 
