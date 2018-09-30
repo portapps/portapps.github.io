@@ -1,0 +1,32 @@
+{
+  "name": "dbeaver",
+  "label": "DBeaver",
+  "desc": "a free universal database tool and SQL client.",
+  "license": "apache-2.0",
+  "categories": ["database"],
+  "github": {
+    "user": "portapps",
+    "repo": "dbeaver-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://dbeaver.io/",
+  "move": [
+    {
+      "from": "%USERPROFILE%\\.dbeaver4\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "5.2.1",
+      "release": "1",
+      "date": "2018/09/30",
+      "original": "dbeaver-ce-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
