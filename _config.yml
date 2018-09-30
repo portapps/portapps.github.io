@@ -89,7 +89,7 @@ footer:
     twitter: true
     google-plus: true
     github: true
-    reddit: false
+    reddit: true
     linkedin: false
     xing: false
     stackoverflow: false
