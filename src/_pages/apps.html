@@ -13,7 +13,7 @@ markdown_body: ""
   <div class="container">
     <p>The Portapps catalog contains a growing list of <strong>{{ site.data.app.size }} applications</strong>.</p>
     <div id="cards-wrapper" class="cards-wrapper row">
-      {% for app in site.data.app %}<div class="item item-enable col-md-4 col-sm-6 col-xs-6">
+      {% for app in site.data.app %}<div class="item item-enable col-md-4 col-sm-8 col-xs-12">
         <div class="item-inner">
           <div class="icon-holder">
             <img src="https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png"/>
