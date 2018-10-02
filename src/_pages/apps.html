@@ -12,8 +12,16 @@ markdown_body: ""
 <section class="cards-section text-center">
   <div class="container">
     <p>The Portapps catalog contains a growing list of <strong>{{ site.data.app.size }} applications</strong>.</p>
-    <div id="cards-wrapper" class="cards-wrapper row">
-      {% for app in site.data.app %}<div class="item item-enable col-md-4 col-sm-8 col-xs-12">
+    <div class="searchapp-wrapper row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="inner-addon right-addon">
+          <i class="glyphicon glyphicon-search"></i>
+          <input id="searchapp" type="text" class="form-control" placeholder="Brave, Discord, OpenVPN..."/>
+        </div>
+      </div>
+    </div>
+    <div class="cards-wrapper row">
+      {% for app in site.data.app %}<div class="item item-enable col-md-4 col-sm-8 col-xs-12" data-app="{{ app[1].name }}">
         <div class="item-inner">
           <div class="icon-holder">
             <img src="https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png"/>

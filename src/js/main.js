@@ -24,6 +24,22 @@ $(document).ready(function(){
   // Tooltip
   $('[data-toggle="tooltip"]').tooltip();
 
+  // Search app
+  if ($("#searchapp").length > 0) {
+    $("#searchapp").keyup(function () {
+      var filter = $(this).val(), count = 0;
+      $(".cards-wrapper .item-enable").each(function () {
+        var current = $('.item-enable').attr('data-app');
+        if ($(this).text().search(new RegExp(filter, "i")) < 0) {
+          $(this).hide();
+        } else {
+          $(this).show();
+          count++;
+        }
+      });
+    });
+  }
+
   actionCdTop.init(".cd-top");
   actionHome.init(".home");
   actionProgressbar.init(".progressbar");
