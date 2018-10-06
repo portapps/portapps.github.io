@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://travis-ci.org/portapps/portapps.github.io"><img src="https://img.shields.io/travis/portapps/portapps.github.io/dev.svg?style=flat-square" alt="Build Status"></a>
   <a href="https://www.codacy.com/app/portapps/portapps.github.io"><img src="https://img.shields.io/codacy/grade/1c12bcac38bc4ed18766917f7073648f.svg?style=flat-square" alt="Code Quality"></a>
-  <a href="https://libraries.io/github/portapps/portapps.github.io"><img src="https://img.shields.io/librariesio/github/portapps/portapps.github.io.svg?style=flat-square" alt="Dependency Status"></a>
   <a href="https://stats.uptimerobot.com/EqxOEcqEz"><img src="https://img.shields.io/uptimerobot/ratio/m780461173-920d0e660843a189046545e3.svg?style=flat-square" alt="Uptime"></a>
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6EALX9NDSRBAJ"><img src="https://img.shields.io/badge/donate-paypal-7057ff.svg?style=flat-square" alt="Donate Paypal"></a>
 </p>
