@@ -19,32 +19,22 @@
       <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
     </a>
     {% endif %}
-
+    {% if site.share-links-active.reddit %}
+    <a target="_blank" href="https://reddit.com/submit?url={{ page.url | prepend: var_seo_url | replace: '/index.html', '/' | replace: '//', '/' }}&title={{ share-title | url_encode }}"
+       class="btn btn-social-icon btn-google" title="Share on Reddit">
+      <span class="fa fa-fw fa-reddit-alien" aria-hidden="true"></span>
+    </a>
+    {% endif %}
     {% if site.share-links-active.facebook %}
     <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: var_seo_url | replace: '/index.html', '/' | replace: '//', '/' }}"
      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
       <span class="fa fa-fw fa-facebook" aria-hidden="true"></span>
     </a>
     {% endif %}
-
-    {% if site.share-links-active.google %}
-    <a target="_blank" href="https://plus.google.com/share?url={{ page.url | prepend: var_seo_url | replace: '/index.html', '/' | replace: '//', '/' }}"
-     class="btn btn-social-icon btn-google" title="Share on Google+">
-      <span class="fa fa-fw fa-google-plus" aria-hidden="true"></span>
-    </a>
-    {% endif %}
-
     {% if site.share-links-active.linkedin %}
     <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: var_seo_url | replace: '/index.html', '/' | replace: '//', '/' }}"
      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
       <span class="fa fa-fw fa-linkedin" aria-hidden="true"></span>
-    </a>
-    {% endif %}
-
-    {% if site.share-links-active.reddit %}
-    <a target="_blank" href="https://reddit.com/submit?url={{ page.url | prepend: var_seo_url | replace: '/index.html', '/' | replace: '//', '/' }}&title={{ share-title | url_encode }}"
-     class="btn btn-social-icon btn-reddit" title="Share on Reddit">
-      <span class="fa fa-fw fa-reddit" aria-hidden="true"></span>
     </a>
     {% endif %}
   </section>

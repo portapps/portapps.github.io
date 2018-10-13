@@ -16,7 +16,6 @@ social:
   github: portapps
   twitter: portapps
   reddit: Portapps
-  google-plus:
   linkedin:
   xing:
   stackoverflow:
@@ -87,7 +86,6 @@ author:
   github: crazy-max
   twitter: crazyws
   reddit: crazyymaxx
-  google-plus:
   linkedin:
   xing:
   stackoverflow:
@@ -104,7 +102,6 @@ footer:
     facebook: false
     email: false
     twitter: true
-    google-plus: true
     github: true
     reddit: true
     linkedin: false
@@ -129,7 +126,6 @@ ads-enabled: true
 share-links-active:
   twitter: true
   facebook: true
-  google: true
   linkedin: true
   reddit: true
 excerpt_length: 25
