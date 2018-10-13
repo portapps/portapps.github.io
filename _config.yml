@@ -9,6 +9,23 @@ logo: /img/logo.png
 version: 1.0
 paypal-button-id: "WQD7AQGPDEPSG"
 
+# Social
+social:
+  email:
+  facebook:
+  github: portapps
+  twitter: portapps
+  reddit: Portapps
+  google-plus:
+  linkedin:
+  xing:
+  stackoverflow:
+  snapchat:
+  instagram:
+  youtube:
+  spotify:
+  telephone:
+
 # Compress HTML
 compress_html:
   ignore:
@@ -69,7 +86,7 @@ author:
   facebook:
   github: crazy-max
   twitter: crazyws
-  reddit: Portapps
+  reddit: crazyymaxx
   google-plus:
   linkedin:
   xing:
