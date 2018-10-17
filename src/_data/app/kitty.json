@@ -1,0 +1,32 @@
+{
+  "name": "kitty",
+  "label": "KiTTY",
+  "desc": "a fork of PuTTY, the best telnet / SSH client in the world.",
+  "license": "mit",
+  "categories": ["misc"],
+  "github": {
+    "user": "portapps",
+    "repo": "kitty-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "http://www.9bis.net/kitty/",
+  "move": [
+    {
+      "from": "<APP_PATH>\\kitty.ini",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "0.70.0.6",
+      "release": "1",
+      "date": "2018/10/17",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
