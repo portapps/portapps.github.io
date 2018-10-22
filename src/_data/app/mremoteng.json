@@ -1,0 +1,44 @@
+{
+  "name": "mremoteng",
+  "label": "mRemoteNG",
+  "desc": "an open source, tabbed, multi-protocol, remote connections manager.",
+  "license": "gpl-2.0",
+  "categories": ["misc"],
+  "github": {
+    "user": "portapps",
+    "repo": "mremoteng-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://mremoteng.org",
+  "move": [
+    {
+      "from": "<APP_PATH>\\mRemoteNG.settings",
+      "to": "data"
+    },
+    {
+      "from": "<APP_PATH>\\confCons.xml",
+      "to": "data"
+    },
+    {
+      "from": "<APP_PATH>\\extApps.xml",
+      "to": "data"
+    },
+    {
+      "from": "<APP_PATH>\\pnlLayout.xml",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.76.11",
+      "release": "1",
+      "date": "2018/10/23",
+      "original": "mRemoteNG-@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
