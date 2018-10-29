@@ -3,6 +3,7 @@
   "label": "Insomnia",
   "desc": "debug APIs like a human, not a robot.",
   "license": "mit",
+  "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],
   "github": {
     "user": "portapps",

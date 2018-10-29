@@ -49,6 +49,8 @@ Run `{{ include.app.name }}-portable.exe` and then you can [remove](https://supp
 
 ## Infos
 
+{% for win in include.app.wincompat %}![](/img/wincompat/{{ win }}.png) {% endfor %}
+
 {% include app/infos/{{ include.app.name }}.md %}
 
 ## Download

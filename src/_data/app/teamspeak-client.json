@@ -3,6 +3,7 @@
   "label": "TeamSpeak Client",
   "desc": "a VoIP app for audio communication between users on a chat channel.",
   "license": "freeware",
+  "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["gaming", "messaging"],
   "github": {
     "user": "portapps",

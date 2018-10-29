@@ -3,6 +3,7 @@
   "label": "Discord PTB",
   "desc": "a proprietary freeware VoIP application designed for gaming communities.",
   "license": "freeware",
+  "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],
   "github": {
     "user": "portapps",

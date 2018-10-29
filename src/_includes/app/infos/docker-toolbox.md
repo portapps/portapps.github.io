@@ -1,5 +1,3 @@
-Tested on Windows 7, Windows 8.1 and Windows 10.
-
 {% include callout.html type="warning" text="VirtualBox needs to be installed !" %}
 
 ### Configuration file
