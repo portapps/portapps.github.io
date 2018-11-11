@@ -68,6 +68,10 @@ pre {
   }
 }
 
+.offset-top-20 {
+  margin-top: 20px;
+}
+
 /* Header */
 
 .no-intro-header {

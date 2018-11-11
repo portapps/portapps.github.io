@@ -33,7 +33,7 @@
 
 ### Fresh installation
 
-Download and install the [latest portable setup](#portable-setup) where you want then run `{{ include.app.name }}-portable.exe`.
+Download and install the [latest portable setup](#download) where you want then run `{{ include.app.name }}-portable.exe`.
 
 ### App already installed
 
@@ -45,7 +45,7 @@ Run `{{ include.app.name }}-portable.exe` and then you can [remove](https://supp
 
 ### Upgrade
 
-**For an upgrade**, simply download and install the [latest portable setup](#portable-setup).
+**For an upgrade**, simply download and install the [latest portable setup](#download).
 
 ## Infos
 
@@ -57,60 +57,4 @@ Run `{{ include.app.name }}-portable.exe` and then you can [remove](https://supp
 
 {% endmarkdown %}<span></span></div>
 
-<div class="markdown-body">
-  <h3 id="portable-setup">Portable setup</h3>
-  <p>Full portable release of {{ include.app.label }} as a portable setup. <strong>Recommended way!</strong></p>
-  <span></span>
-</div>
-<p>
-  {% for platform in include.app.releases[0].platforms %}{% capture platform_color %}{% if platform == 'win32' or platform == 'ia32' %}btn-warning{% else %}btn-success{% endif %}{% endcapture %}{% capture platform_version %}{% if platform != '' %}{{ platform }}-{% endif %}{{ include.app.releases[0].version }}-{{ include.app.releases[0].release }}{% endcapture %}
-  <a href="{{ site.baseurl }}/download/{{ include.app.name }}-portable-{{ platform_version }}-setup.exe/" class="btn {{ platform_color }}" style="text-align: left">
-    <span class="fa fa-download"></span>&nbsp;&nbsp;{{ include.app.label }} portable {{ platform }} (setup)
-    <br /><small>{{ include.app.name }}-portable-{{ platform_version }}-setup.exe</small>
-  </a>{% endfor %}
-</p>
-
-{% for format in include.app.releases[0].formats %}
-
-{% if format == '7z' %}
-<div class="markdown-body">
-  <h3 id="portable-7z">7z archive</h3>
-  <p>Full portable release of {{ include.app.label }} as a 7z archive.</p>
-  <span></span>
-</div>
-<p>
-  {% for platform in include.app.releases[0].platforms %}{% capture platform_color %}{% if platform == 'win32' or platform == 'ia32' %}btn-warning{% else %}btn-success{% endif %}{% endcapture %}{% capture platform_version %}{% if platform != '' %}{{ platform }}-{% endif %}{{ include.app.releases[0].version }}-{{ include.app.releases[0].release }}{% endcapture %}
-  <a href="{{ site.baseurl }}/download/{{ include.app.name }}-portable-{{ platform_version }}.7z/" class="btn {{ platform_color }}" style="text-align: left">
-    <span class="fa fa-download"></span>&nbsp;&nbsp;{{ include.app.label }} portable {{ platform }} (7z)
-    <br /><small>{{ include.app.name }}-portable-{{ platform_version }}.7z</small>
-  </a>
-  {% endfor %}
-</p>
-{% endif %}
-
-{% if format == 'zip' %}
-<div class="markdown-body">
-  <h3 id="portable-zip">zip archive</h3>
-  <p>Full portable release of {{ include.app.label }} as a zip archive.</p>
-  <span></span>
-</div>
-<p>
-  {% for platform in include.app.releases[0].platforms %}{% capture platform_color %}{% if platform == 'win32' or platform == 'ia32' %}btn-warning{% else %}btn-success{% endif %}{% endcapture %}{% capture platform_version %}{% if platform != '' %}{{ platform }}-{% endif %}{{ include.app.releases[0].version }}-{{ include.app.releases[0].release }}{% endcapture %}
-  <a href="{{ site.baseurl }}/download/{{ include.app.name }}-portable-{{ platform_version }}.zip/" class="btn {{ platform_color }}" style="text-align: left">
-    <span class="fa fa-download"></span>&nbsp;&nbsp;{{ include.app.label }} portable {{ platform }} (zip)
-    <br /><small>{{ include.app.name }}-portable-{{ platform_version }}.zip</small>
-  </a>
-  {% endfor %}
-</p>
-{% endif %}
-
-{% endfor %}
-
-<div class="markdown-body">{% markdown %}
-## All releases
-
-| Version | Date | Format | Platform | Download |
-| ------- | ---- | ------ | -------- | -------- |{% for release in include.app.releases %}{% for format in release.formats %}{% for platform in release.platforms %}
-| **{{ release.version }}-{{ release.release }}** | {{ release.date }} | {{ format }} | {{ platform }} | {% include app/download-link.html name=include.app.name version=release.version release=release.release format=format platform=platform %} |{% endfor %}{% endfor %}{% endfor %}
-
-{% endmarkdown %}<span></span></div>
+{% include app/download-list.html app=include.app %}

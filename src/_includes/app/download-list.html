@@ -1,0 +1,42 @@
+<div class="js-disabled bs-callout bs-callout-danger">
+  <h4>JavaScript is not enabled!</h4>
+  <p>
+    JavasScript must be enabled to allow the generation of dynamic download links.<br/>
+    Otherwise you can download directly from the <a target="_blank" href="{{ site.github.baseurl }}/{{ include.app.github.user }}/{{ include.app.github.repo }}/releases">releases page on GitHub</a>.
+  </p>
+</div>
+<div class="download-list hide">
+  <input type="hidden" id="app-name" value="{{ include.app.name }}"/>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="form-group text-left">
+        <label for="app-version" class="form-label form-label-outside">Version</label>
+        <select id="app-version" class="form-control"></select>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="form-group text-left">
+        <label for="app-platform" class="form-label form-label-outside">Platform</label>
+        <select id="app-platform" class="form-control"></select>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="form-group text-left">
+        <label for="app-format" class="form-label form-label-outside">Format</label>
+        <select id="app-format" class="form-control"></select>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4 app-download-button"></div>
+  </div>
+  <div class="offset-top-20">
+    <a target="_blank" href="{{ site.github.baseurl }}/{{ include.app.github.user }}/{{ include.app.github.repo }}/releases" class="btn btn-default">
+      View all releases
+    </a>
+  </div>
+</div>

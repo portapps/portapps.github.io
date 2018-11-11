@@ -1,5 +1,10 @@
 <a href="#0" class="cd-top">Top</a>
 
+<script type="text/javascript">
+const jsDisabledElts = document.getElementsByClassName("js-disabled");
+while (jsDisabledElts.length > 0) jsDisabledElts[0].remove();
+</script>
+
 {% if site.data.assets_vendor.js %}
   {% for js in site.data.assets_vendor.js %}
     {% if js contains "html5shiv" or js contains "respond.src" %}

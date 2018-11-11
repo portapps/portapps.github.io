@@ -15,3 +15,7 @@
   font-family: FontAwesome;
   padding-right: .5em
 }
+
+.app-download-button .app-download-text {
+  font-size: 150%;
+}

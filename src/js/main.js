@@ -44,4 +44,5 @@ $(document).ready(function(){
   actionHome.init(".home");
   actionProgressbar.init(".progressbar");
   actionCards.init(".card-section");
+  actionAppDownload.init(".download-list");
 });
