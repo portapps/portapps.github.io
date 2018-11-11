@@ -1,23 +1,27 @@
-sudo: false
 language: node_js
+node_js: 10
 
-node_js:
-  - "8"
+cache:
+  yarn: true
+  directories:
+    - /home/travis/.rvm/
 
 before_install:
-  - rvm install 2.4.1
-  - rvm use 2.4.1 --fuzzy
+  - rvm install 2.5.1
+  - rvm use 2.5.1 --fuzzy
   - export GEMDIR=$(rvm gemdir)
-  - curl -o- -L https://yarnpkg.com/install.sh | bash -s -- --version 1.7.0
+  - curl -o- -L https://yarnpkg.com/install.sh | bash -s -- --version 1.12.3
   - export PATH=$HOME/.yarn/bin:$PATH
 
 before_script:
   - yarn install
   - gem install bundler
   - bundle install
-  - chmod +x ./travis.sh
 
-script: "./travis.sh"
+script:
+  - gulp --env=production build
+  - #htmlproofer ./web/download --allow-missing-href --allow-hash-href --assume_extension --check-favicon --http-status-ignore 403 --only-4xx --alt-ignore "/.*/" --log-level=:debug
+  - test $TRAVIS_PULL_REQUEST = false && ./deploy.sh
 
 branches:
   only:
