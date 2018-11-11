@@ -1,6 +1,6 @@
 {% include vars.html %}
-{% strip %}{% if page.app %}
-{% for app in site.data.app %}
+{% strip %}{% if page.app %}{% assign applist = site.data.app | sort %}
+{% for app in applist %}
   {% if app[1].name == page.app %}
     {% capture app_logo %}https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png{% endcapture %}
   {% endif %}

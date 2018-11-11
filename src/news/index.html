@@ -10,7 +10,7 @@ changefreq: daily
 <div class="posts-list">
   {% for post in paginator.posts %}
   {% strip %}{% assign app_logo = false %}
-  {% if post.app %}{% for app in site.data.app %}
+  {% if post.app %}{% assign applist = site.data.app | sort %}{% for app in applist %}
     {% if app[1].name == post.app %}
       {% capture app_logo %}https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png{% endcapture %}
     {% endif %}

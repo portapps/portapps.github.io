@@ -11,7 +11,7 @@ sitemap:
     <link>{{ var_seo_url }}</link>
     <atom:link href="{{ var_seo_url | append: '/feed.xml' }}" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:20 %}{% strip %}{% assign app_logo = false %}
-      {% if post.app %}{% for app in site.data.app %}
+      {% if post.app %}{% assign applist = site.data.app | sort %}{% for app in applist %}
         {% if app[1].name == post.app %}
           {% capture app_logo %}https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png{% endcapture %}
         {% endif %}
