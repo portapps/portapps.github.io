@@ -25,6 +25,7 @@
       "version": "0.70.0.6",
       "release": "1",
       "date": "2018/10/17",
+      "type": "release",
       "original": "kitty_@version@.exe",
       "platforms": ["win32"],
       "formats": ["setup", "7z"]

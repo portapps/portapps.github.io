@@ -29,6 +29,7 @@
       "version": "4.8.106",
       "release": "8",
       "date": "2018/02/11",
+      "type": "release",
       "original": "HostsMan_@platform@_@version@.zip",
       "platforms": ["win32"],
       "formats": ["setup", "7z"]
@@ -37,6 +38,7 @@
       "version": "4.8.106",
       "release": "7",
       "date": "2018/02/09",
+      "type": "release",
       "original": "HostsMan_@platform@_@version@.zip",
       "platforms": ["ia32"],
       "formats": ["setup", "7z"]
@@ -45,6 +47,7 @@
       "version": "4.8.106",
       "release": "6",
       "date": "2017/11/21",
+      "type": "release",
       "original": "HostsMan_@platform@_@version@.zip",
       "platforms": ["ia32"],
       "formats": ["setup", "7z"]
@@ -53,6 +56,7 @@
       "version": "4.8.106",
       "release": "5",
       "date": "2017/11/21",
+      "type": "release",
       "original": "HostsMan_@platform@_@version@.zip",
       "platforms": ["ia32"],
       "formats": ["setup", "7z"]
@@ -61,6 +65,7 @@
       "version": "4.8.106",
       "release": "4",
       "date": "2017/11/19",
+      "type": "release",
       "original": "HostsMan_@platform@_@version@.zip",
       "platforms": ["ia32"],
       "formats": ["setup", "7z"]
@@ -69,6 +74,7 @@
       "version": "4.7.105",
       "release": "3",
       "date": "2017/08/26",
+      "type": "release",
       "original": "HostsMan_@version@.zip",
       "platforms": [""],
       "formats": ["setup", "7z"]
@@ -77,6 +83,7 @@
       "version": "4.7.105",
       "release": "1",
       "date": "2017/05/27",
+      "type": "release",
       "original": "HostsMan_@version@.zip",
       "platforms": [""],
       "formats": ["setup", "7z", "zip"]

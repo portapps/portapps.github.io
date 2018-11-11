@@ -25,6 +25,7 @@
       "version": "3.2.2",
       "release": "8",
       "date": "2018/09/19",
+      "type": "release",
       "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
       "platforms": ["win32", "win64"],
       "formats": ["setup", "7z"]
@@ -33,6 +34,7 @@
       "version": "3.2.1",
       "release": "7",
       "date": "2018/08/15",
+      "type": "release",
       "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
       "platforms": ["win32", "win64"],
       "formats": ["setup", "7z"]
@@ -41,6 +43,7 @@
       "version": "3.1.10",
       "release": "6",
       "date": "2018/06/11",
+      "type": "release",
       "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
       "platforms": ["win32", "win64"],
       "formats": ["setup", "7z"]
@@ -49,6 +52,7 @@
       "version": "3.1.9",
       "release": "5",
       "date": "2018/05/08",
+      "type": "release",
       "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
       "platforms": ["win32", "win64"],
       "formats": ["setup", "7z"]
@@ -57,6 +61,7 @@
       "version": "3.1.8",
       "release": "4",
       "date": "2018/02/12",
+      "type": "release",
       "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
       "platforms": ["win32", "win64"],
       "formats": ["setup", "7z"]
@@ -65,6 +70,7 @@
       "version": "3.1.8",
       "release": "3",
       "date": "2018/02/09",
+      "type": "release",
       "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
       "platforms": ["ia32", "x64"],
       "formats": ["setup", "7z"]
@@ -73,6 +79,7 @@
       "version": "3.1.8",
       "release": "2",
       "date": "2018/01/25",
+      "type": "release",
       "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
       "platforms": ["ia32", "x64"],
       "formats": ["setup", "7z"]
@@ -81,6 +88,7 @@
       "version": "3.1.7",
       "release": "1",
       "date": "2018/01/15",
+      "type": "release",
       "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
       "platforms": ["ia32", "x64"],
       "formats": ["setup", "7z"]

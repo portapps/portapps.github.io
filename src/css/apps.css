@@ -16,6 +16,10 @@
   padding-right: .5em
 }
 
-.app-download-button .app-download-text {
+.download-list .app-download-text {
   font-size: 150%;
+}
+
+.download-list .btn {
+  padding: 10px 15px;
 }

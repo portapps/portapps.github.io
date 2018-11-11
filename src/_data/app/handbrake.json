@@ -25,6 +25,7 @@
       "version": "1.1.2",
       "release": "3",
       "date": "2018/09/10",
+      "type": "release",
       "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
       "platforms": ["win64"],
       "formats": ["setup", "7z"]
@@ -33,6 +34,7 @@
       "version": "1.1.1",
       "release": "2",
       "date": "2018/08/28",
+      "type": "release",
       "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
       "platforms": ["win64"],
       "formats": ["setup", "7z"]
@@ -41,6 +43,7 @@
       "version": "1.1.0",
       "release": "1",
       "date": "2018/05/27",
+      "type": "release",
       "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
       "platforms": ["win64"],
       "formats": ["setup", "7z"]

@@ -25,6 +25,7 @@
       "version": "1.4.0.2",
       "release": "4",
       "date": "2018/02/11",
+      "type": "release",
       "original": "HLSW-@platform@-@version@-setup.exe",
       "platforms": ["win32"],
       "formats": ["setup", "7z"]
@@ -33,6 +34,7 @@
       "version": "1.4.0.2",
       "release": "3",
       "date": "2018/02/09",
+      "type": "release",
       "original": "HLSW-@platform@-@version@-setup.exe",
       "platforms": ["ia32"],
       "formats": ["setup", "7z"]
@@ -41,6 +43,7 @@
       "version": "1.4.0.2",
       "release": "2",
       "date": "2017/11/21",
+      "type": "release",
       "original": "HLSW-@platform@-@version@-setup.exe",
       "platforms": ["ia32"],
       "formats": ["setup", "7z"]
@@ -49,6 +52,7 @@
       "version": "1.4.0.2",
       "release": "1",
       "date": "2017/11/20",
+      "type": "release",
       "original": "HLSW-@platform@-@version@-setup.exe",
       "platforms": ["ia32"],
       "formats": ["setup", "7z"]

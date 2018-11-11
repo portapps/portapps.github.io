@@ -25,6 +25,7 @@
       "version": "2.4.6-I602",
       "release": "1",
       "date": "2018/09/29",
+      "type": "release",
       "original": "openvpn-install-@version@.exe",
       "platforms": ["win32", "win64"],
       "formats": ["setup", "7z"]
