@@ -20,8 +20,8 @@ markdown_body: ""
         </div>
       </div>
     </div>
-    <div class="cards-wrapper row">
-      {% for app in site.data.app %}<div class="item item-enable col-md-4 col-sm-8 col-xs-12" data-app="{{ app[1].name }}">
+    <div class="cards-wrapper row">{% assign applist = site.data.app | sort %}
+      {% for app in applist %}<div class="item item-enable col-md-4 col-sm-8 col-xs-12" data-app="{{ app[1].name }}">
         <div class="item-inner">
           <div class="icon-holder">
             <img src="https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png"/>
