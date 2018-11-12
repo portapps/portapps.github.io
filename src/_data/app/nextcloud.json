@@ -22,6 +22,15 @@
   ],
   "releases": [
     {
+      "version": "2.5.0",
+      "release": "2",
+      "date": "2018/11/12",
+      "type": "release",
+      "original": "Nextcloud-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "2.3.3.1",
       "release": "1",
       "date": "2018/09/19",
