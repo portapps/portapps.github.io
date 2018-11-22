@@ -1,0 +1,38 @@
+{
+  "name": "qbittorrent",
+  "label": "qBittorrent",
+  "desc": "a free and open-source software alternative to µTorrent.",
+  "license": "gpl-2.0",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["misc"],
+  "github": {
+    "user": "portapps",
+    "repo": "qbittorrent-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.qbittorrent.org",
+  "move": [
+    {
+      "from": "%APPDATA%\\qBittorrent\\*",
+      "to": "data\\profile\\qBittorrent\\config"
+    },
+    {
+      "from": "%LOCALAPPDATA%\\qBittorrent\\*",
+      "to": "data\\profile\\qBittorrent\\data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "4.1.4",
+      "release": "1",
+      "date": "2018/11/22",
+      "type": "release",
+      "original": "qbittorrent_@version@_@platform@_setup.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
