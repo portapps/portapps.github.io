@@ -27,7 +27,7 @@
       "date": "2018/12/01",
       "type": "release",
       "original": "Nextcloud-@version@-setup.exe",
-      "platforms": ["win32"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
