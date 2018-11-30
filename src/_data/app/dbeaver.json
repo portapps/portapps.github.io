@@ -18,6 +18,10 @@
     {
       "from": "%USERPROFILE%\\.dbeaver4\\*",
       "to": "data"
+    },
+    {
+      "from": "%USERPROFILE%\\.dbeaver-drivers\\*",
+      "to": "data\\.metadata\\drivers"
     }
   ],
   "releases": [
