@@ -1,6 +1,6 @@
 {
   "name": "portapps-website",
-  "version": "1.0",
+  "version": "1.1.0",
   "description": "Portapps's website",
   "main": "gulpfile.js",
   "repository": "git://github.com/portapps/portapps.github.io.git",
@@ -31,7 +31,7 @@
     "webfontloader": "^1.6.28"
   },
   "devDependencies": {
-    "browser-sync": "^2.18.13",
+    "browser-sync": "^2.26.3",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
