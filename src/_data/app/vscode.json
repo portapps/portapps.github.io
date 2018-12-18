@@ -22,6 +22,15 @@
   ],
   "releases": [
     {
+      "version": "1.30.1",
+      "release": "15",
+      "date": "2018/12/18",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.30.0",
       "release": "14",
       "date": "2018/12/13",
