@@ -59,10 +59,10 @@ function browserSyncRun(done) {
       baseDir: config.destination
     },
     ui: {
-      port: 3021
+      port: 3001
     },
     open: false,
-    port: 3020
+    port: 3000
   });
   done();
 }

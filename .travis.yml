@@ -1,6 +1,14 @@
 language: node_js
 node_js: 11
 
+env:
+  global:
+    - JEKYLL_ENV=production
+    - JEKYLL_LOG_LEVEL=info
+    - GH_REF=github.com/portapps/portapps.github.io.git
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+    - secure: FUbelkm2qj2SWMlHOo8gtyLr7uRnCKrkxnL9EbOaRk++H6UF6X+qz3i67S2sQkYme4WccvdZlkyc128NY14wDdDwO2OuOn6RiRuLZR90gTTdsC3iSONEGpRjx2WBnKtI1OdMudoXG5WE/CBhd2qJsEGFmfw1q0rC2GR9C0aeLRRycxaD5oxmahmA52rnduoEcokuJQKg64XHHa0sPDWcyAC41v91Bwe/3DmkcjpporTYefEiupBJcnisVbBcKvOy2aXBWegnWstBeFNOXSR7KixvjEB4xxF9QOFWVopFBEb7mWThEE0o1WndrbxJtUhD91ZhmS1madU+1gyR+hkHP6Y0m5RMIBgIvWRAVShYWP2BcFNNZfLIsjyIgEhB7ADguywpc/JYofqzVMueyJL8dpjqGAtc4Macrq8wzCnPJgwkvWzpfrIJddQ/wtoDjl3djthxCUPc5slBXZS5Iq0b0YD4Pxrki4YxQB3ri8H738SnKiRd7W/f4Gtg0HX8QNIpG3C/aFbG5B4n1U0N1MNt/P6RX4rB5tB26fNnLWfMiqBEGXREycOEfhfqau9+vu4QckT6ul0FPKFX83A0rlTzDBPhHLLzXIKerEa4UxUJ0MU4XH94ekG8CmI3rbvmGmyUR2trQHMY0uTsIpVCE799klQ0hxiqtXLl5Pq1tOZOyp4= # GH_TOKEN
+
 cache:
   yarn: true
   directories:
@@ -10,7 +18,7 @@ before_install:
   - rvm install 2.5.1
   - rvm use 2.5.1 --fuzzy
   - export GEMDIR=$(rvm gemdir)
-  - curl -o- -L https://yarnpkg.com/install.sh | bash -s -- --version 1.12.3
+  - curl -o- -L https://yarnpkg.com/install.sh | bash
   - export PATH=$HOME/.yarn/bin:$PATH
 
 before_script:
@@ -26,14 +34,6 @@ script:
 branches:
   only:
     - dev
-
-env:
-  global:
-    - secure: FUbelkm2qj2SWMlHOo8gtyLr7uRnCKrkxnL9EbOaRk++H6UF6X+qz3i67S2sQkYme4WccvdZlkyc128NY14wDdDwO2OuOn6RiRuLZR90gTTdsC3iSONEGpRjx2WBnKtI1OdMudoXG5WE/CBhd2qJsEGFmfw1q0rC2GR9C0aeLRRycxaD5oxmahmA52rnduoEcokuJQKg64XHHa0sPDWcyAC41v91Bwe/3DmkcjpporTYefEiupBJcnisVbBcKvOy2aXBWegnWstBeFNOXSR7KixvjEB4xxF9QOFWVopFBEb7mWThEE0o1WndrbxJtUhD91ZhmS1madU+1gyR+hkHP6Y0m5RMIBgIvWRAVShYWP2BcFNNZfLIsjyIgEhB7ADguywpc/JYofqzVMueyJL8dpjqGAtc4Macrq8wzCnPJgwkvWzpfrIJddQ/wtoDjl3djthxCUPc5slBXZS5Iq0b0YD4Pxrki4YxQB3ri8H738SnKiRd7W/f4Gtg0HX8QNIpG3C/aFbG5B4n1U0N1MNt/P6RX4rB5tB26fNnLWfMiqBEGXREycOEfhfqau9+vu4QckT6ul0FPKFX83A0rlTzDBPhHLLzXIKerEa4UxUJ0MU4XH94ekG8CmI3rbvmGmyUR2trQHMY0uTsIpVCE799klQ0hxiqtXLl5Pq1tOZOyp4=
-    - JEKYLL_ENV=production
-    - JEKYLL_LOG_LEVEL=info
-    - GH_REF=github.com/portapps/portapps.github.io.git
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 notifications:
   webhooks:
