@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SmartGit portable 18.2.4-7
-date: 2019-01-18 19:55:00 +0200
+date: 2019-01-18 19:55:00 +0100
 app: smartgit
 tags: [smartgit]
 ---

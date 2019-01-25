@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slack portable 3.3.0-37
-date: 2018-08-15 17:38:00 +0200
+date: 2018-08-15 17:38:00 +0100
 app: slack
 tags: [slack]
 ---

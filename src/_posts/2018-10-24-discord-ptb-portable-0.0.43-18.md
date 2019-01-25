@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discord PTB portable 0.0.43-18
-date: 2018-10-24 21:17:00 +0200
+date: 2018-10-24 21:17:00 +0100
 app: discord-ptb
 tags: [discord-ptb]
 ---

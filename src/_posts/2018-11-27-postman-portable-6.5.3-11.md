@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Postman portable 6.5.3-11
-date: 2018-11-27 23:57:00 +0200
+date: 2018-11-27 23:57:00 +0100
 app: postman
 tags: [postman]
 ---

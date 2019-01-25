@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HandBrake portable 1.2.0-4
-date: 2018-12-23 12:04:00 +0200
+date: 2018-12-23 12:04:00 +0100
 app: handbrake
 tags: [handbrake]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker Toolbox portable 18.06.1-5
-date: 2018-08-27 23:47:00 +0200
+date: 2018-08-27 23:47:00 +0100
 app: docker-toolbox
 tags: [docker-toolbox]
 ---

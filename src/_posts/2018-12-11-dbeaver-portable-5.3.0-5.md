@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DBeaver portable 5.3.0-5
-date: 2018-12-11 04:18:00 +0200
+date: 2018-12-11 04:18:00 +0100
 app: dbeaver
 tags: [dbeaver]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KiTTY portable 0.70.0.6-1
-date: 2018-10-17 02:23:00 +0200
+date: 2018-10-17 02:23:00 +0100
 app: kitty
 tags: [kitty]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twitch portable 7.5.6774.199-13
-date: 2018-07-24 01:21:00 +0200
+date: 2018-07-24 01:21:00 +0100
 app: twitch
 tags: [twitch]
 ---

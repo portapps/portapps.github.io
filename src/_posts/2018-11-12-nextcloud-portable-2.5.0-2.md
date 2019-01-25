@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nextcloud portable 2.5.0-2
-date: 2018-11-12 13:46:00 +0200
+date: 2018-11-12 13:46:00 +0100
 app: nextcloud
 tags: [nextcloud]
 ---

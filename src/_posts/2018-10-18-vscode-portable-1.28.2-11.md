@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visual Studio Code portable 1.28.2-11
-date: 2018-10-18 11:49:00 +0200
+date: 2018-10-18 11:49:00 +0100
 app: vscode
 tags: [vscode]
 ---

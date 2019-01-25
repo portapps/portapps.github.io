@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mRemoteNG portable 1.76.11-1
-date: 2018-10-23 00:43:00 +0200
+date: 2018-10-23 00:43:00 +0100
 app: mremoteng
 tags: [mremoteng]
 ---

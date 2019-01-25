@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rocket.Chat portable 2.14.7-23
-date: 2019-01-18 19:59:00 +0200
+date: 2019-01-18 19:59:00 +0100
 app: rocketchat
 tags: [rocketchat]
 ---

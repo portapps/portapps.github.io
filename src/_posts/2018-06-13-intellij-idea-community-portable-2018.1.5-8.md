@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IntelliJ IDEA Community portable 2018.1.5-8
-date: 2018-06-13 19:41:00 +0200
+date: 2018-06-13 19:41:00 +0100
 app: intellij-idea-community
 tags: [intellij-idea-community]
 ---

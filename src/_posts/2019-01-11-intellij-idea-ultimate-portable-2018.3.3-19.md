@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IntelliJ IDEA Ultimate portable 2018.3.3-19
-date: 2019-01-11 23:21:00 +0200
+date: 2019-01-11 23:21:00 +0100
 app: intellij-idea-ultimate
 tags: [intellij-idea-ultimate]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discord portable 0.0.301-23
-date: 2018-05-23 02:33:00 +0200
+date: 2018-05-23 02:33:00 +0100
 app: discord
 tags: [discord]
 ---

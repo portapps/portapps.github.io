@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skype portable 8.21.0.10-15
-date: 2018-05-23 15:16:00 +0200
+date: 2018-05-23 15:16:00 +0100
 app: skype
 tags: [skype]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Insomnia portable 6.0.2-3
-date: 2018-10-21 21:04:00 +0200
+date: 2018-10-21 21:04:00 +0100
 app: insomnia
 tags: [insomnia]
 ---

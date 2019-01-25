@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TeamSpeak Client portable 3.1.10-6
-date: 2018-06-11 18:44:00 +0200
+date: 2018-06-11 18:44:00 +0100
 app: teamspeak-client
 tags: [teamspeak-client]
 ---
