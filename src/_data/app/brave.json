@@ -16,11 +16,20 @@
   "homepage": "https://www.brave.com",
   "move": [
     {
-      "from": "%APPDATA%\\brave\\*",
+      "from": "%APPDATA%\\BraveSoftware\\Brave-Browser\\User Data\\*",
       "to": "data"
     }
   ],
   "releases": [
+    {
+      "version": "0.61.5",
+      "release": "45",
+      "date": "2019/01/31",
+      "type": "release",
+      "original": "brave_installer-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "0.25.302",
       "release": "44",
@@ -53,7 +62,7 @@
       "release": "41",
       "date": "2018/10/30",
       "type": "pre-release",
-      "original": "BraveSetup-@platform@-@version@.exe",
+      "original": "brave_installer-@platform@.exe",
       "platforms": ["win32", "win64"],
       "formats": ["setup", "7z"]
     },
