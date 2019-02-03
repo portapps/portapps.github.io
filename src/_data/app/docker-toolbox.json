@@ -23,6 +23,15 @@
   "releases": [
     {
       "version": "18.09.1",
+      "release": "1",
+      "date": "2019/02/03",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.09.1",
       "release": "7",
       "date": "2019/01/15",
       "type": "release",
