@@ -32,7 +32,7 @@ HTTP/1.1 302 Found
 
 Concerning the building process to make it "portapp", we are going to take Skype as an example.
 
-Everything is revealed in the [logs on Appveyor](https://ci.appveyor.com/project/portapps/skype-portable/build/18?fullLog=true){:target="_blank"}. Here are the building steps :
+Everything is revealed on [Travis CI](https://travis-ci.com/portapps){:target="_blank"}. Here are the building steps :
 
 * Install Golang, Java and ANT
 * Load required libraries
@@ -54,7 +54,7 @@ Everything is revealed in the [logs on Appveyor](https://ci.appveyor.com/project
 * Repackaging app.asar
 * Create 7z portapp archive
 * Create innosetup portapp setup
-* Send artefacts from Appveyor to Github releases
+* Send artifacts to Github releases
 * Done {% gemoji tada %}
 
 This process is quite the same for the current portapps available [but can differ following the original setup](https://github.com/portapps/portapps/tree/master/.build){:target="_blank"} (can be archive, electron app, innosetup, etc...).
