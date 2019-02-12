@@ -10,7 +10,7 @@ module Jekyll
 
     def render(context)
       if emoji = Emoji.find_by_alias(@emoji)
-        %(<img title="#@emoji" alt="#@emoji" src="https://assets-cdn.github.com/images/icons/emoji/#{emoji.image_filename}" height="16" width="16" />)
+        %(<img title="#@emoji" alt="" src="https://github.githubassets.com/images/icons/emoji/#{emoji.image_filename}" height="16" width="16" />)
       else
         @emoji
       end
