@@ -1,0 +1,34 @@
+{
+  "name": "molotov",
+  "label": "Molotov",
+  "desc": "an app to watch TV. Free of charge.",
+  "license": "freemium",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["multimedia"],
+  "github": {
+    "user": "portapps",
+    "repo": "molotov-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.molotov.tv/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Molotov\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "3.1.0",
+      "release": "3",
+      "date": "2019/02/24",
+      "type": "release",
+      "original": "MolotovSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
