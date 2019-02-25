@@ -15,7 +15,7 @@ module Jekyll
       self.read_yaml(File.join(base, "_layouts"), "app.html")
       self.data['title'] = the_app['label']
       self.data['seo_title'] = the_app['label'] + ' portable'
-      self.data['subtitle'] = the_app['desc'].gsub(/\.$/, '').sub(/^(\w)/) {|s| s.capitalize}
+      self.data['subtitle'] = the_app['desc']
       self.data['logo'] = 'https://raw.githubusercontent.com/' + the_app['github']['user'] + '/' + the_app['github']['repo'] + '/master/res/papp.png'
       self.data['license'] = licenses[the_app['license']]
       self.data['app'] = the_app
