@@ -22,6 +22,8 @@ var actionAppDownload = {
           versionText += ' (current release)';
         } else if (release.type === 'pre-release') {
           versionText += ' (development release)';
+        } else if (release.type === 'broken') {
+          versionText += ' (broken release)';
         }
         $('#app-version').append($('<option>', {
           value: release.version + ';' + release.release,
@@ -64,7 +66,15 @@ var actionAppDownload = {
     var btnColor = ['win64', 'x64', ''].indexOf(platform) > -1 ? 'btn-success' : 'btn-warning';
 
     $('.app-download-button').empty();
-    if (type === 'pre-release') {
+    if (type === 'broken') {
+      $('.app-download-button').append($('<div>', {
+          class: 'bs-callout bs-callout-danger',
+          style: 'margin: 0 0 10px;'
+        })
+          .append('<h4>Broken release!</h4>')
+          .append('<p>' + versionTxt + ' is <strong>broken</strong>. Please download the latest stable release.</p>')
+      );
+    } else if (type === 'pre-release') {
       $('.app-download-button').append($('<div>', {
           class: 'bs-callout bs-callout-warning',
           style: 'margin: 0 0 10px;'
