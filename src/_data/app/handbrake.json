@@ -22,6 +22,15 @@
   ],
   "releases": [
     {
+      "version": "1.2.2",
+      "release": "2",
+      "date": "2019/02/25",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.2.1",
       "release": "1",
       "date": "2019/02/18",
