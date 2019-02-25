@@ -23,6 +23,15 @@
   "releases": [
     {
       "version": "3.1.0",
+      "release": "5",
+      "date": "2019/02/25",
+      "type": "release",
+      "original": "MolotovSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.1.0",
       "release": "3",
       "date": "2019/02/24",
       "type": "release",
