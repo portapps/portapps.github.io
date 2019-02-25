@@ -1,7 +1,7 @@
 {
   "name": "postman",
   "label": "Postman",
-  "desc": "a complete toolchain for API developers.",
+  "desc": "A complete toolchain for API developers.",
   "license": "apache-2.0",
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],

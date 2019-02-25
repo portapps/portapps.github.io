@@ -1,7 +1,7 @@
 {
   "name": "hostsman",
   "label": "HostsMan",
-  "desc": "a freeware application that lets you manage your Hosts file with ease.",
+  "desc": "A freeware application that lets you manage your Hosts file with ease.",
   "license": "freeware",
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["misc"],

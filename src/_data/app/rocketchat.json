@@ -1,7 +1,7 @@
 {
   "name": "rocketchat",
   "label": "Rocket.Chat",
-  "desc": "free, Open Source, Enterprise Team Chat.",
+  "desc": "Free, Open Source, Enterprise Team Chat.",
   "license": "mit",
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev", "messaging"],

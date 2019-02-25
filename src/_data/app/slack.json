@@ -1,7 +1,7 @@
 {
   "name": "slack",
   "label": "Slack",
-  "desc": "a cloud-based set of team collaboration tools and services.",
+  "desc": "A cloud-based set of team collaboration tools and services.",
   "license": "freeware",
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev", "messaging"],

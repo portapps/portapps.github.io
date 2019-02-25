@@ -1,7 +1,7 @@
 {
   "name": "twitch",
   "label": "Twitch",
-  "desc": "a live streaming video platform.",
+  "desc": "A live streaming video platform.",
   "license": "freeware",
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["gaming", "streaming"],

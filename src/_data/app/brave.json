@@ -1,7 +1,7 @@
 {
   "name": "brave",
   "label": "Brave",
-  "desc": "a free and open-source web browser based on the Chromium web browser and its Blink engine.",
+  "desc": "A free and open-source web browser based on the Chromium web browser and its Blink engine.",
   "license": "mpl-2.0",
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["browser"],

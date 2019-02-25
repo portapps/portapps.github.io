@@ -1,7 +1,7 @@
 {
   "name": "qbittorrent",
   "label": "qBittorrent",
-  "desc": "a free and open-source software alternative to µTorrent.",
+  "desc": "A free and open-source software alternative to µTorrent.",
   "license": "gpl-2.0",
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["misc"],

@@ -1,7 +1,7 @@
 {
   "name": "kitty",
   "label": "KiTTY",
-  "desc": "a fork of PuTTY, the best telnet / SSH client in the world.",
+  "desc": "A fork of PuTTY, the best telnet / SSH client in the world.",
   "license": "mit",
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["misc"],

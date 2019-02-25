@@ -1,7 +1,7 @@
 {
   "name": "nextcloud",
   "label": "Nextcloud",
-  "desc": "an open source, self-hosted file share and communication platform.",
+  "desc": "An open source, self-hosted file share and communication platform.",
   "license": "gpl-2.0",
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["file-sharing"],
