@@ -22,7 +22,7 @@
     "cookieconsent": "^3.0.6",
     "elegant-icons": "*",
     "font-awesome": "^4.7.0",
-    "github-markdown-css": "^2.8.0",
+    "github-markdown-css": "^3.0.1",
     "html5shiv": "^3.7.3",
     "jquery": "^3.2.1",
     "jquery-match-height": "^0.7.2",
