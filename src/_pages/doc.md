@@ -4,6 +4,9 @@ title: Documentation
 permalink: /doc/
 bigimg: /img/doc-big.jpg
 cards:
+  - el-icon: icon_tools
+    title: Configuration
+    link: /doc/configuration/
   - el-icon: icon_lifesaver
     title: FAQ
     link: /doc/faq/
