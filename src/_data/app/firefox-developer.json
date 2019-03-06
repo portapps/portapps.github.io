@@ -1,0 +1,34 @@
+{
+  "name": "firefox-developer",
+  "label": "Firefox Developer Edition",
+  "desc": "Developer Edition of Firefox web browser developed by The Mozilla Foundation.",
+  "license": "mpl-2.0",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "firefox-developer-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.mozilla.org/en-US/firefox/developer",
+  "move": [
+    {
+      "from": "%APPDATA%\\Mozilla\\Firefox\\Profiles\\*.default\\*",
+      "to": "data\\profile\\default"
+    }
+  ],
+  "releases": [
+    {
+      "version": "66.0b13",
+      "release": "2",
+      "date": "2019/03/06",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
