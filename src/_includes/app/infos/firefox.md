@@ -1,3 +1,5 @@
+> {% gemoji bulb %} Firefox [ESR (Extended Support Release)]({{ site.baseurl }}/app/firefox-esr-portable/) and [Developer Edition]({{ site.baseurl }}/app/firefox-developer-portable/) are also available
+
 ### Modifications
 
 Some modifications have been made in this version of Firefox through policies to ensure portability :
