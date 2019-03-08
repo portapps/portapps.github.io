@@ -16,6 +16,7 @@ This file is generated at first launch as a sample file named `<appname>-portabl
 ```yml
 common:
   args: []
+  env: {}
 app:
   profile: default
   multiple_instances: false
@@ -27,7 +28,12 @@ Two main fields are to be taken into account :
 
 ### Common
 
-This field is _common_ for all applications available in the Portapps catalogue. Here is an example :
+This field is _common_ for all applications available in the Portapps catalogue.
+
+* **args** : Pass additional arguments to the process.
+* **env** : Add environment variables as an array.
+
+Here is an example :
 
 ```yml
 common:
@@ -38,9 +44,6 @@ common:
     ENV_VAR_KEY: env_var_value
     ANOTHER: true
 ```
-
-* **args** : Pass additional arguments to the process.
-* **env** : Add environment variables as an array.
 
 ### App
 
