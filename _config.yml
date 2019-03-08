@@ -1,7 +1,7 @@
 # General
 source: src
 destination: web
-url: "https://portapps.github.io"
+url: "https://portapps.io"
 baseurl: ""
 title: "Portapps"
 description: "Collection of portable apps for Windows"
