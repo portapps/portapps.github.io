@@ -35,7 +35,7 @@
   "releases": [
     {
       "version": "1.76.16",
-      "release": "4",
+      "release": "5",
       "date": "2019/03/15",
       "type": "release",
       "original": "mRemoteNG-@version@.zip",
