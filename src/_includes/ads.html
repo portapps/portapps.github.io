@@ -2,6 +2,8 @@
   {% case include.type %}
   {% when "adsense" %}
     {% include ads/ads-adsense.html client=include.client slot=include.slot %}
+  {% when "adsense-auto" %}
+    {% include ads/ads-adsense-auto.html client=include.client %}
   {% when "custom" %}
     {% include ads/ads-custom.html %}
   {% endcase %}
