@@ -28,6 +28,10 @@ markdown_body: ""
           </div>
           <h3 class="title">{{ app[1].label }}</h3>
           <a class="link" href="{{ site.baseurl }}/app/{{ app[1].name }}-portable/"><span></span></a>
+          <p align="center">
+            <img class="shield" src="https://img.shields.io/github/release/{{ app[1].github.user }}/{{ app[1].github.repo }}.svg" alt="">
+            <img class="shield" src="https://img.shields.io/github/downloads/{{ app[1].github.user }}/{{ app[1].github.repo }}/total.svg" alt="">
+          </p>
         </div>
       </div>{% endfor %}
     </div>

@@ -34,6 +34,10 @@
   width: 92px;
 }
 
+.cards-section .item img.shield {
+  width: auto;
+}
+
 .cards-section .item .icon {
   font-size: 36px;
 }
