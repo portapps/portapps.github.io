@@ -7,9 +7,9 @@ sidebar: doc
 
 ## About
 
-Each portable application can be configured through a simple [YAML](https://en.wikipedia.org/wiki/YAML){:target="_blank"} configuration file named `<appname>-portable.yml`.
+Each portable application can be configured through a simple [YAML](https://en.wikipedia.org/wiki/YAML){:target="_blank"} configuration file named `[appname]-portable.yml`.
 
-This file is generated at first launch as a sample file named `<appname>-portable.sample.yml`. Rename this file `<appname>-portable.yml` and it would be used at runtime. It contains all the fields available to configure the application. Here is an example with [Firefox](/app/firefox-portable/) :
+This file is generated at first launch as a sample file named `[appname]-portable.sample.yml`. Rename this file `[appname]-portable.yml` and it would be used at runtime. It contains all the fields available to configure the application. Here is an example with [Firefox](/app/firefox-portable/) :
 
 ![](/img/faq/sample-configuration-file.png)
 

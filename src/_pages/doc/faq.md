@@ -44,22 +44,22 @@ HTTP/1.1 302 Found
 
 ## How does it work ?
 
-Concerning the building process to make it "portapp", we are going to take Skype as an example.
+Concerning the building process to make it "portapp", we are going to take Skype again as an example.
 
 Everything is revealed on [Travis CI](https://travis-ci.com/portapps){:target="_blank"}. Here are the building steps :
 
-* Install Golang, Java and ANT
+* Install Golang, Java, ANT and NodeJS
 * Load required libraries
   * ant-contrib
   * 7zip
-  * dep (dependency manager for golang)
   * [rcedit](https://github.com/electron/rcedit/){:target="_blank"} (to add icons to the final executable)
   * innoextract (to extract the original setup)
   * innosetup (to package the final portapp as a portable setup using innosetup)
   * upx (to compress the portapp executable)
+  * hashmyfiles (to create checksums)
 * Download the original setup from the official website
 * Extract this setup
-* Download go dependencies using dep (based on Gopkg.toml)
+* Download go modules based on `go.mod` file
 * "Go" generate (prepare versioning file for the final executable and rcedit resources)
 * "Go" build (create the portapp executable)
 * Compressing executable with UPX
