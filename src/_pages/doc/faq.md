@@ -8,6 +8,20 @@ sidebar: doc
 * TOC
 {:toc}
 
+## How to be notified of new releases ?
+
+GitHub is the best way to receive notifications when a new version is released for your favorite application. First of all, have an account on [GitHub](https://github.com/), then go to the application repository by clicking on the GitHub logo on the app page and then click on Watch {% gemoji bell %} new releases on the repository. Here is an example for Firefox :
+
+Go to [Firefox portable page]({{ var_seo_url | append: '/app/firefox-portable/' }}) and click on GitHub logo to access to the repository :
+
+![](/img/faq/app-github-repository.png)
+
+On GitHub choose **Watch releases only** :
+
+![](/img/faq/github-watch-releases.png)
+
+You can also **Star** {% gemoji star %} the repository to show your support {% gemoji heart %}
+
 ## How to trust your distributed binaries ?
 
 In a word, you can trust portapps binaries over those provided by other systems offering portable applications.<br />
