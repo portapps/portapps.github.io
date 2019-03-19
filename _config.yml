@@ -119,8 +119,8 @@ bing_site_verification: "D188E0BEC1AB6E7C1E0194BFC35D0033"
 alexa_site_verification:
 yandex_site_verification:
 
-# Ads
-ads-enabled: true
+# Adsense
+adsense: true
 
 # Posts
 share-links-active:
