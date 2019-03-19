@@ -23,6 +23,15 @@
   "releases": [
     {
       "version": "2.4.7-I603",
+      "release": "3",
+      "date": "2019/03/19",
+      "type": "release",
+      "original": "openvpn-install-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.4.7-I603",
       "release": "2",
       "date": "2019/02/22",
       "type": "release",
