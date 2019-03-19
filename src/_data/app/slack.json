@@ -23,6 +23,15 @@
   "releases": [
     {
       "version": "3.3.8",
+      "release": "18",
+      "date": "2019/03/19",
+      "type": "release",
+      "original": "SlackSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.3.8",
       "release": "17",
       "date": "2019/03/09",
       "type": "release",
