@@ -34,6 +34,15 @@
   ],
   "releases": [
     {
+      "version": "1.76.18",
+      "release": "6",
+      "date": "2019/03/21",
+      "type": "release",
+      "original": "mRemoteNG-@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.76.16",
       "release": "5",
       "date": "2019/03/15",
