@@ -1,0 +1,34 @@
+{
+  "name": "vlc",
+  "label": "VLC Media Player",
+  "desc": "A free and open-source, portable, cross-platform media player and streaming media server.",
+  "license": "gpl-2.0",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["multimedia"],
+  "github": {
+    "user": "portapps",
+    "repo": "vlc-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.videolan.org/vlc/",
+  "move": [
+    {
+      "from": "%APPDATA%\\vlc\\*",
+      "to": "data\\"
+    }
+  ],
+  "releases": [
+    {
+      "version": "3.0.6",
+      "release": "4",
+      "date": "2019/03/24",
+      "type": "release",
+      "original": "vlc-@version@-@platform@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
