@@ -31,7 +31,11 @@ Two main fields are to be taken into account :
 This field is _common_ for all applications available in the Portapps catalogue.
 
 * **args** : Pass additional arguments to the process.
-* **env** : Add environment variables as an array.
+* **env** : Add environment variables as an array. Placeholders for values can be used and will be replaced with the relevant data :
+  * **@ROOT_PATH@** : Root path of the portable app
+  * **@APP_PATH@** : Application binaries path
+  * **@DATA_PATH@** : Data path
+  * **@DRIVE_LETTER@** : Current drive letter
 
 Here is an example :
 
@@ -43,6 +47,7 @@ common:
   env:
     ENV_VAR_KEY: env_var_value
     ANOTHER: true
+    A_PLACEHOLDER: "@ROOT_PATH@\\subfolder"
 ```
 
 ### App
