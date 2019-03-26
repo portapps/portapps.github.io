@@ -1,0 +1,34 @@
+{
+  "name": "whatsapp",
+  "label": "WhatsApp",
+  "desc": "A cross-platform mobile messaging app which allows you to exchange messages without having to pay for SMS.",
+  "license": "freeware",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "whatsapp-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.whatsapp.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\WhatsApp\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "0.3.2386",
+      "release": "2",
+      "date": "2019/03/26",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
