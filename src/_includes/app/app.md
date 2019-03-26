@@ -58,5 +58,3 @@ Run `{{ include.app.name }}-portable.exe` and then you can [remove](https://supp
 {% endmarkdown %}<span></span></div>
 
 {% include app/download-list.html app=include.app %}
-
-{% include adsense.html client="ca-pub-6761939715072275" slot="4627104321" %}
