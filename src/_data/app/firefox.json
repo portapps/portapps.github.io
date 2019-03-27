@@ -22,6 +22,15 @@
   ],
   "releases": [
     {
+      "version": "66.0.2",
+      "release": "7",
+      "date": "2019/03/27",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "66.0.1",
       "release": "6",
       "date": "2019/03/23",
