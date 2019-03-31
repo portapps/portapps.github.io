@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Riot.im portable 1.0.5-3
-date: 2019-03-31 17:30:00 +0200
+date: 2019-03-31 17:02:00 +0200
 app: riot
 tags: [riot]
 ---
