@@ -1,0 +1,34 @@
+{
+  "name": "riot",
+  "label": "Riot.im",
+  "desc": "An open source, free software instant messaging client based on the Matrix protocol.",
+  "license": "apache-2.0",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "riot-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://about.riot.im/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Riot\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.0.5",
+      "release": "3",
+      "date": "2019/03/31",
+      "type": "release",
+      "original": "RiotSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
