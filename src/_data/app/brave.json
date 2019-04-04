@@ -34,7 +34,7 @@
       "version": "0.62.37",
       "release": "12",
       "date": "2019/03/21",
-      "type": "release",
+      "type": "broken",
       "original": "brave_installer-@platform@.exe",
       "platforms": ["win32", "win64"],
       "formats": ["setup", "7z"]
