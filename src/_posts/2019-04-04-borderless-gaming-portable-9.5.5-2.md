@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Riot.im portable 9.5.5-2
+title: Borderless Gaming portable 9.5.5-2
 date: 2019-04-04 23:45:00 +0200
 app: borderless-gaming
 tags: [borderless-gaming]
