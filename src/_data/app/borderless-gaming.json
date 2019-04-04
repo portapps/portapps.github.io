@@ -1,0 +1,34 @@
+{
+  "name": "borderless-gaming",
+  "label": "Borderless Gaming",
+  "desc": "Play your favorite games in a borderless window.",
+  "license": "gpl-2.0",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["gaming"],
+  "github": {
+    "user": "portapps",
+    "repo": "borderless-gaming-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://github.com/Codeusa/Borderless-Gaming",
+  "move": [
+    {
+      "from": "%APPDATA%\\Andrew Sampson\\*",
+      "to": "data\\AppData\\Andrew Sampson"
+    }
+  ],
+  "releases": [
+    {
+      "version": "9.5.5",
+      "release": "2",
+      "date": "2019/04/04",
+      "type": "release",
+      "original": "BorderlessGaming-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
