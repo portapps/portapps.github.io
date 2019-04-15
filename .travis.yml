@@ -36,5 +36,8 @@ branches:
     - dev
 
 notifications:
-  webhooks:
-    secure: VrxXYWI1rEU/FOi1ZkfpqSse6E7Du8Fy92FAoiljyXY2sFuOecVmAMRsdKkknGmrV66ZMaZbBdIL1kFG6gqip81QR111/kRTeN6PwSAkO2Yl1BCBa9myJlZTNeX7uL0lOBIQrnlipVmyopNeVuX4bAKNWz4WYF57UckU4veJmLAF36RX9DlTsPuhKFIwbTd4mRu2oGse5Tghxe9rFdy4iKwrCF247FckLeFg/oGW0E+8E36ymefxToKLpkELakNOy9m4/dYBjl2/z5kjGTprdCI4e9VLuD1W+M1P2WDNqSGVYDVEm793mAN5HY4R9lpzxLgFFdt69UMPRhG59gT8q2/bq0+ujScqTl7seC454/pPV6j96gjwD0JmhPzfDjthGTg98DwXEHbUIuf6dyGxAzW2onWJSJufZPx5VkyDI2cphZf2jqnpT1TywPVRBnpbVekEaMp1sE+73LSEAIeGOCLqNZOUZ3XjohXyjCKB08PhFe6TJLGDZUV6pmDjdlsGVHqV+cJGq3BtYB3tqvnEFGdClDH7PA4yBgrzZgwqncgfTl2ayz66RSC9DFcq9lK8eWFSZFLlRURaVrGtQHRVAMWRq88AfpTOYNpiOp0rrpuC63CLKUK11kN7tAU5P+ohnlJavy/zM/t0mRdawjy73TABeOzMbO/zjNhBdtwxEl8=
+  email:
+    recipients:
+      - travisci@portapps.io
+    on_success: always
+    on_failure: always
