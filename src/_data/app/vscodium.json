@@ -1,0 +1,34 @@
+{
+  "name": "vscodium",
+  "label": "VSCodium",
+  "desc": "Free and open source software binaries of VSCode without MS branding/telemetry/licensing",
+  "license": "mit",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "vscodium-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://vscodium.com/",
+  "move": [
+    {
+      "from": "%APPDATA%\\VSCodium\\*",
+      "to": "data\\appdata\\VSCodium"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.33.1",
+      "release": "8",
+      "date": "2019/04/17",
+      "type": "release",
+      "original": "VSCodium-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
