@@ -23,7 +23,7 @@
   "releases": [
     {
       "version": "1.33.1",
-      "release": "8",
+      "release": "18",
       "date": "2019/04/17",
       "type": "release",
       "original": "VSCodium-@platform@-@version@.zip",

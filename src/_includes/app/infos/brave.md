@@ -1,6 +1,6 @@
 ### Modifications
 
-Everything happens in [main.go](https://github.com/portapps/brave-portable/blob/master/main.go){:target="_blank"} and [build.xml](https://github.com/portapps/brave-portable/blob/master/build.xml){:target="_blank"} files during build and launch process. Here is what differs from the original release to ensure portability :
+Here is what differs from the original release to ensure portability :
 
 * Following switches are passed to the process.
   * `--user-data-dir=<data_path>` : Directory where the browser stores the user profile. `<data_path>` is dynamically generated at launch.

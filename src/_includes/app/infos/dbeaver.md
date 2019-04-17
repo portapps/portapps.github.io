@@ -1,6 +1,6 @@
 ### Modifications
 
-Everything happens in [main.go](https://github.com/portapps/dbeaver-portable/blob/master/main.go){:target="_blank"} and [build.xml](https://github.com/portapps/dbeaver-portable/blob/master/build.xml){:target="_blank"} files during build and launch process. Here is what differs from the original release to ensure portability :
+Here is what differs from the original release to ensure portability :
 
 * Java VM included
 * Following switches are passed to the process.
