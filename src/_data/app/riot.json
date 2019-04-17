@@ -22,6 +22,15 @@
   ],
   "releases": [
     {
+      "version": "1.0.8",
+      "release": "7",
+      "date": "2019/04/08",
+      "type": "release",
+      "original": "RiotSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.0.7",
       "release": "5",
       "date": "2019/04/08",
