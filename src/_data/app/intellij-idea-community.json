@@ -34,6 +34,15 @@
   ],
   "releases": [
     {
+      "version": "2019.1.1",
+      "release": "5",
+      "date": "2019/04/17",
+      "type": "release",
+      "original": "ideaIC-@version@.win.zip",
+      "platforms": [""],
+      "formats": ["setup"]
+    },
+    {
       "version": "2019.1",
       "release": "4",
       "date": "2019/03/27",
