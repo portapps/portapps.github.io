@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oracle JDK 6u45-1
+title: Oracle JDK portable 6u45-1
 date: 2019-04-18 14:03:00 +0200
 app: oracle-jdk
 tags: [oracle-jdk]
