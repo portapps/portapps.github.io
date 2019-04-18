@@ -33,7 +33,7 @@
 
 Download and install the [latest portable setup](#download) where you want then run `{{ include.app.name }}-portable.exe`.
 
-{% if include.app.move > 0 %}
+{% if include.app.move.size > 0 %}
 If **you have already installed {{ include.app.label }} from the original setup**, move the following files :
 {% for move in include.app.move %}
 * `{{ move.from }}` to `{{ move.to }}`{% endfor %}
