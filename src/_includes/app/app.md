@@ -31,17 +31,15 @@
 
 ## Installation
 
-### Fresh installation
-
 Download and install the [latest portable setup](#download) where you want then run `{{ include.app.name }}-portable.exe`.
 
-### App already installed
-
-If **you have already installed {{ include.app.label }} from the original setup**, do the same thing as a fresh installation and move files :
+{% if include.app.move > 0 %}
+If **you have already installed {{ include.app.label }} from the original setup**, move the following files :
 {% for move in include.app.move %}
 * `{{ move.from }}` to `{{ move.to }}`{% endfor %}
 
-Run `{{ include.app.name }}-portable.exe` and then you can [remove](https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs){:target="_blank"} {{ include.app.label }} from your computer.
+Then run `{{ include.app.name }}-portable.exe` and then you can [remove](https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs){:target="_blank"} {{ include.app.label }} from your computer.
+{% endif %}
 
 ### Upgrade
 

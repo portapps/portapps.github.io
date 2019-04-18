@@ -1,0 +1,47 @@
+{
+  "name": "oracle-jdk",
+  "label": "Oracle JDK",
+  "desc": "Java Development Kit (JDK) is an implementation of the Java Platform released by Oracle Corporation.",
+  "license": "otn",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "oracle-jdk-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.oracle.com/technetwork/java/javase/downloads/index.html",
+  "move": [],
+  "releases": [
+    {
+      "version": "8u211",
+      "release": "3",
+      "date": "2019/04/18",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7u80",
+      "release": "2",
+      "date": "2019/04/18",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6u45",
+      "release": "1",
+      "date": "2019/04/18",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

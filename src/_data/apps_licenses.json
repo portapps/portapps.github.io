@@ -22,5 +22,9 @@
   "mpl-2.0": {
     "name": "Mozilla Public License 2.0",
     "link": "https://choosealicense.com/licenses/mpl-2.0/"
+  },
+  "otn": {
+    "name": "Oracle Technology Network License",
+    "link": "https://www.oracle.com/technetwork/licenses/standard-license-152015.html"
   }
 }
