@@ -1,0 +1,34 @@
+{
+  "name": "caprine",
+  "label": "Caprine",
+  "desc": "An elegant Facebook Messenger desktop app.",
+  "license": "mit",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "caprine-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://sindresorhus.com/caprine/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Caprine\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "2.30.2",
+      "release": "1",
+      "date": "2019/04/20",
+      "type": "release",
+      "original": "caprine-setup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
