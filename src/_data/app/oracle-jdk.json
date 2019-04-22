@@ -17,6 +17,15 @@
   "move": [],
   "releases": [
     {
+      "version": "8u212",
+      "release": "4",
+      "date": "2019/04/23",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "8u211",
       "release": "3",
       "date": "2019/04/18",
