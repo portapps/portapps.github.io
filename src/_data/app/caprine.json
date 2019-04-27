@@ -22,6 +22,15 @@
   ],
   "releases": [
     {
+      "version": "2.31.0",
+      "release": "6",
+      "date": "2019/04/28",
+      "type": "release",
+      "original": "caprine-setup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "2.30.2",
       "release": "1",
       "date": "2019/04/20",
