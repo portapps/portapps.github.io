@@ -31,7 +31,7 @@ Two main fields are to be taken into account :
 This field is _common_ for all applications available in the Portapps catalogue.
 
 * **args** : Pass additional arguments to the process.
-* **env** : Add environment variables as an map. Placeholders for values can be used and will be replaced with the relevant data :
+* **env** : Add environment variables as a key/value list. Placeholders for values can be used and will be replaced with the relevant data :
   * **@ROOT_PATH@** : Root path of the portable app
   * **@APP_PATH@** : Application binaries path
   * **@DATA_PATH@** : Data path
