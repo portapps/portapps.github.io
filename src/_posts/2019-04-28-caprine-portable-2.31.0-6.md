@@ -2,8 +2,8 @@
 layout: post
 title: Caprine portable 2.31.0-6
 date: 2019-04-28 01:41:00 +0200
-app: insomnia
-tags: [insomnia]
+app: caprine
+tags: [caprine]
 ---
 {% include vars.html %}
 
