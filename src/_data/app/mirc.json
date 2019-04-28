@@ -23,7 +23,7 @@
   "releases": [
     {
       "version": "7.55",
-      "release": "1",
+      "release": "2",
       "date": "2019/04/28",
       "type": "release",
       "original": "mirc-@version@-@platform@.exe",
