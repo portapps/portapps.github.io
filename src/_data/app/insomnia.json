@@ -22,6 +22,15 @@
   ],
   "releases": [
     {
+      "version": "6.4.2",
+      "release": "5",
+      "date": "2019/05/01",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "6.4.1",
       "release": "4",
       "date": "2019/04/24",
