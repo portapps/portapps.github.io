@@ -1,0 +1,34 @@
+{
+  "name": "waterfox",
+  "label": "Waterfox",
+  "desc": "An open-source web browser intended to be speedy, ethical and maintain support for legacy extensions",
+  "license": "mpl-2.0",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "waterfox-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.waterfox.net/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Waterfox\\Profiles\\*.default\\*",
+      "to": "data\\profile\\default"
+    }
+  ],
+  "releases": [
+    {
+      "version": "56.2.9",
+      "release": "1",
+      "date": "2019/05/04",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
