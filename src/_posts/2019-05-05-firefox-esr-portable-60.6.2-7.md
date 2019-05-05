@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Firefox ESR portable 60.6.2-7
-date: 2019-05-05 20:40:00 +0100
+date: 2019-05-05 20:40:00 +0200
 app: firefox-esr
 tags: [firefox-esr]
 ---
