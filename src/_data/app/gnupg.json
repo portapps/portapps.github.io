@@ -1,0 +1,29 @@
+{
+  "name": "gnupg",
+  "label": "GnuPG",
+  "desc": "A complete and free implementation of the OpenPGP standard.",
+  "license": "gpl-3.0",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["misc"],
+  "github": {
+    "user": "portapps",
+    "repo": "gnupg-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.gnupg.org/",
+  "move": [],
+  "releases": [
+    {
+      "version": "2.2.15",
+      "release": "1",
+      "date": "2019/05/06",
+      "type": "release",
+      "original": "gnupg-win32-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
