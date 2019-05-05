@@ -2,8 +2,8 @@
 
 Some modifications have been made in this version of Waterfox through policies to ensure portability :
 
-* **Disable updater** : Firefox updates are turned off.
-* **Don't check default browser** : Stops Firefox from checking if it is the default browser at startup.
+* **Disable updater** : Waterfox updates are turned off.
+* **Don't check default browser** : Stops Waterfox from checking if it is the default browser at startup.
 * **Profile**: Profile path is overrided to `data\profile` folder (see below).
 * **Add-ons**: Disable compatibility checking
 * **'Know your rights'**:  Don't show on first run
