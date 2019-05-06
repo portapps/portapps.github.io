@@ -1,0 +1,34 @@
+{
+  "name": "thunderbird",
+  "label": "Thunderbird",
+  "desc": "A free and open-source email client, news client and RSS client developed by the Mozilla Foundation.",
+  "license": "mpl-2.0",
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "thunderbird-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.thunderbird.net/en-US/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Thunderbird\\Profiles\\*.default\\*",
+      "to": "data\\profile\\default"
+    }
+  ],
+  "releases": [
+    {
+      "version": "60.6.1",
+      "release": "1",
+      "date": "2019/05/06",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
