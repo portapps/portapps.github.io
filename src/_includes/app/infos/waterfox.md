@@ -1,6 +1,6 @@
 ### Modifications
 
-Some modifications have been made in this version of Waterfox through policies to ensure portability :
+Some modifications have been made in this version of Waterfox through distribution preferences to ensure portability :
 
 * **Disable updater** : Waterfox updates are turned off.
 * **Don't check default browser** : Stops Waterfox from checking if it is the default browser at startup.
