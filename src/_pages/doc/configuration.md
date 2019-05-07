@@ -17,6 +17,7 @@ This file is generated at first launch as a sample file named `[appname]-portabl
 common:
   args: []
   env: {}
+  app_path: C:\portapps\firefox-portable\app
 app:
   profile: default
   multiple_instances: false
@@ -36,6 +37,7 @@ This field is _common_ for all applications available in the Portapps catalogue.
   * **@APP_PATH@** : Application binaries path
   * **@DATA_PATH@** : Data path
   * **@DRIVE_LETTER@** : Current drive letter
+* **app_path** : Application binaries path. If the application is on a network drive you have to set an UNC path like `\\?\MYSERVER\firefox-portable\app`.
 
 Here is an example :
 
@@ -48,6 +50,7 @@ common:
     ENV_VAR_KEY: env_var_value
     ANOTHER: true
     A_PLACEHOLDER: "@ROOT_PATH@\\subfolder"
+  app_path: C:\portapps\firefox-portable\app
 ```
 
 ### App
