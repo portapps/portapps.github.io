@@ -9,11 +9,17 @@
 
 <div class="markdown-body">{% markdown %}
 
+* [Notice of Non-Affiliation and Disclaimer](#notice-of-non-affiliation-and-disclaimer)
 * [About](#about)
 * [Installation](#installation)
 * [Infos](#infos)
 * [Download](#download)
-* [All releases](#all-releases)
+
+## Notice of Non-Affiliation and Disclaimer
+
+Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with {{ include.app.label }}, or any of its subsidiaries or its affiliates. The official {{ include.app.label }} website can be found at [{{ include.app.homepage }}]({{ include.app.homepage }}){:target="_blank"}.
+
+The name {{ include.app.label }}® as well as related names, marks, emblems and images are registered trademarks of their respective owners.
 
 ## About
 
