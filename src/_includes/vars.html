@@ -10,4 +10,14 @@
 {% endif %}
 {% assign var_domain = var_seo_url | remove:'http://' | remove:'https://' | split:'/' | first %}
 {% capture var_repo_url %}{{ site.github.baseurl }}/{{ site.github.user }}/{{ site.github.repo }}{% endcapture %}
+{% if page.app %}
+  {% assign applist = site.data.app | sort %}
+  {% for anapp in applist %}
+    {% if anapp[1].name == page.app %}
+      {% assign app = anapp[1] %}
+      {% capture app_logo %}https://raw.githubusercontent.com/{{ anapp[1].github.user }}/{{ anapp[1].github.repo }}/master/res/papp.png{% endcapture %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
 {% endstrip %}

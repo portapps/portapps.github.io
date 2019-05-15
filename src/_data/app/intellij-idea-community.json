@@ -1,8 +1,9 @@
 {
   "name": "intellij-idea-community",
-  "label": "IntelliJ IDEA Community",
+  "label": "IntelliJ IDEA&trade; Community",
   "desc": "A Code-centric IDE, focused on your productivity.",
   "license": "apache-2.0",
+  "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],
   "github": {

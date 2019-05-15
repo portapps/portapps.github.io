@@ -1,10 +1,10 @@
 ### Modifications
 
-Some modifications have been made in this version of Thunderbird through distribution preferences to ensure portability :
+Some modifications have been made in this version of {{ include.app.label }} through distribution preferences to ensure portability :
 
 * **Multilingual** : All languages are included in `app/langs` and can be enabled in config file (see below).
-* **Disable updater** : Thunderbird updates are turned off.
-* **Don't check default mail client** : Stops Thunderbird from checking if it is the default mail client at startup.
+* **Disable updater** : {{ include.app.label }} updates are turned off.
+* **Don't check default mail client** : Stops {{ include.app.label }} from checking if it is the default mail client at startup.
 * **Profile**: Profile path is overrided to `data\profile` folder.
 * **Disable WinSearch integration**: Don't use Windows Search to search for emails.
 * **Add-ons**: Disable compatibility checking.
@@ -16,7 +16,7 @@ Some modifications have been made in this version of Thunderbird through distrib
 
 ### Configuration
 
-Thunderbird portable can be configured through the [main YAML configuration file](/doc/configuration/) :
+{{ include.app.label }} portable can be configured through the [main YAML configuration file](/doc/configuration/) :
 
 <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>app:
   multiple_instances: false

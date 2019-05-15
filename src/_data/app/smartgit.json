@@ -1,8 +1,9 @@
 {
   "name": "smartgit",
-  "label": "SmartGit",
+  "label": "SmartGit&trade;",
   "desc": "A graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.",
   "license": "freeware",
+  "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],
   "github": {

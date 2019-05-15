@@ -1,21 +1,18 @@
 ---
 layout: default
 ---
-
+{% include vars.html %}
 {% include header.html type="post" %}
-
-{% strip %}{% if page.app %}{% assign applist = site.data.app | sort %}
-{% for app in applist %}
-  {% if app[1].name == page.app %}
-    {% capture app_logo %}https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png{% endcapture %}
-  {% endif %}
-{% endfor %}{% endif %}{% endstrip %}
 
 <div class="container">
   <div class="row">
     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post markdown-body">
-        {% if app_logo %}<table><tr><td class="post-app-img"><img src="{{ app_logo }}"/></td><td>{{ content }}</td></tr></table>{% else %}{{ content }}{% endif %}
+        {% if app_logo %}
+          <table><tr><td class="post-app-img"><img src="{{ app_logo }}"/></td><td>{{ content }}</td></tr></table>
+        {% else %}
+          {{ content }}
+        {% endif %}
       </article>
 
       <hr />

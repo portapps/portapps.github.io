@@ -2,7 +2,7 @@
 
 ### Configuration
 
-Docker Toolbox portable can be configured through the [main YAML configuration file](/doc/configuration/) :
+{{ include.app.label }} portable can be configured through the [main YAML configuration file](/doc/configuration/) :
 
 <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>app:
   machine:

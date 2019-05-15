@@ -1,8 +1,9 @@
 {
   "name": "firefox-developer",
-  "label": "Firefox Developer Edition",
+  "label": "Firefox&trade; Developer Edition",
   "desc": "Developer Edition of Firefox web browser developed by The Mozilla Foundation.",
   "license": "mpl-2.0",
+  "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["browser"],
   "github": {

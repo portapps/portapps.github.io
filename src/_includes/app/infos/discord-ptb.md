@@ -1,8 +1,8 @@
-> {% gemoji bulb %} Stable portable version of Discord is available [here]({{ site.baseurl }}/app/discord-portable/)
+> {% gemoji bulb %} Stable portable version of {{ include.app.label }} is available [here]({{ site.baseurl }}/app/discord-portable/)
 
 ### BetterDiscord
 
-DiscordPTB Portable is also compatible with [BetterDiscord](https://betterdiscord.net).<br />
+{{ include.app.label }} portable is also compatible with [BetterDiscord](https://betterdiscord.net).<br />
 Download the latest release of BetterDiscord, launch the setup wizard, choose the install location `discord-ptb-portable\app\app-x.x.x` and press `Install` :
 
 <div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Deleting old cached files

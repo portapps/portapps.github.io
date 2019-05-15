@@ -4,7 +4,7 @@ Here is what differs from the original release to ensure portability :
 
 * Java VM included
 * Following switches are passed to the process.
-  * `-data <data_path>` : Directory where DBeaver stores data. `<data_path>` is dynamically generated at launch.
+  * `-data <data_path>` : Directory where {{ include.app.label }} stores data. `<data_path>` is dynamically generated at launch.
   * `-vm <javavm_path>` : Use Java VM installed in this folder instead of default. `<javavm_path>` is dynamically generated at launch.
 * Some core preferences located in `app\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.jkiss.dbeaver.core.prefs` are also overriden :
   * `dialog.default.folder` : Default path for export output. Setted to `data\`.

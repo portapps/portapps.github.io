@@ -1,8 +1,9 @@
 {
   "name": "thunderbird",
-  "label": "Thunderbird",
+  "label": "Thunderbird&trade;",
   "desc": "A free and open-source email client, news client and RSS client developed by the Mozilla Foundation.",
   "license": "mpl-2.0",
+  "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["browser"],
   "github": {

@@ -1,1 +1,1 @@
-> {% gemoji bulb %} IntelliJ IDEA Ultimate portable is also available [here]({{ site.baseurl }}/app/intellij-idea-ultimate-portable/)
+> {% gemoji bulb %} Ultimate portable edition is also available [here]({{ site.baseurl }}/app/intellij-idea-ultimate-portable/)

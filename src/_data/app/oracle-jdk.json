@@ -1,8 +1,9 @@
 {
   "name": "oracle-jdk",
-  "label": "Oracle JDK",
+  "label": "Oracle&trade; JDK",
   "desc": "Java Development Kit (JDK) is an implementation of the Java Platform released by Oracle Corporation.",
   "license": "otn",
+  "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],
   "github": {

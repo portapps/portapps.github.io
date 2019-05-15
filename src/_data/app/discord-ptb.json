@@ -1,8 +1,9 @@
 {
   "name": "discord-ptb",
-  "label": "Discord PTB",
+  "label": "Discord&trade; PTB",
   "desc": "A proprietary freeware VoIP application designed for gaming communities.",
   "license": "freeware",
+  "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],
   "github": {

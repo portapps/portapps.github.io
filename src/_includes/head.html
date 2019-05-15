@@ -1,10 +1,4 @@
 {% include vars.html %}
-{% strip %}{% if page.app %}{% assign applist = site.data.app | sort %}
-{% for app in applist %}
-  {% if app[1].name == page.app %}
-    {% capture app_logo %}https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png{% endcapture %}
-  {% endif %}
-{% endfor %}{% endif %}{% endstrip %}
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">

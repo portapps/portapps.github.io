@@ -3,6 +3,7 @@
   "label": "HostsMan",
   "desc": "A freeware application that lets you manage your Hosts file with ease.",
   "license": "freeware",
+  "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["misc"],
   "github": {

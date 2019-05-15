@@ -1,9 +1,9 @@
 ### Modifications
 
-Some modifications have been made in this version of Waterfox through distribution preferences to ensure portability :
+Some modifications have been made in this version of {{ include.app.label }} through distribution preferences to ensure portability :
 
 * **Disable updater** : Waterfox updates are turned off.
-* **Don't check default browser** : Stops Waterfox from checking if it is the default browser at startup.
+* **Don't check default browser** : Stops {{ include.app.label }} from checking if it is the default browser at startup.
 * **Profile**: Profile path is overrided to `data\profile` folder (see below).
 * **Add-ons**: Disable compatibility checking
 * **'Know your rights'**:  Don't show on first run
@@ -12,7 +12,7 @@ Some modifications have been made in this version of Waterfox through distributi
 
 ### Configuration
 
-Waterfox portable can be configured through the [main YAML configuration file](/doc/configuration/) :
+{{ include.app.label }} portable can be configured through the [main YAML configuration file](/doc/configuration/) :
 
 <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>app:
   profile: default

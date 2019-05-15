@@ -1,8 +1,9 @@
 {
   "name": "twitch",
-  "label": "Twitch",
+  "label": "Twitch&trade;",
   "desc": "A live streaming video platform.",
   "license": "freeware",
+  "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["gaming", "streaming"],
   "github": {

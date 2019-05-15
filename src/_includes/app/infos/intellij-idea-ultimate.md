@@ -1,1 +1,1 @@
-> {% gemoji bulb %} IntelliJ IDEA Community portable is also available [here]({{ site.baseurl }}/app/intellij-idea-community-portable/)
+> {% gemoji bulb %} Community edition portable is also available [here]({{ site.baseurl }}/app/intellij-idea-community-portable/)

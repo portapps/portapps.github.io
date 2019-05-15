@@ -9,17 +9,21 @@
 
 <div class="markdown-body">{% markdown %}
 
-* [Notice of Non-Affiliation and Disclaimer](#notice-of-non-affiliation-and-disclaimer)
+{% if include.app.trademark %}* [Notice of Non-Affiliation and Disclaimer](#notice-of-non-affiliation-and-disclaimer){% endif %}
 * [About](#about)
 * [Installation](#installation)
 * [Infos](#infos)
 * [Download](#download)
 
+{% if include.app.trademark %}
 ## Notice of Non-Affiliation and Disclaimer
 
-Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with {{ include.app.label }}, or any of its subsidiaries or its affiliates. The official {{ include.app.label }} website can be found at [{{ include.app.homepage }}]({{ include.app.homepage }}){:target="_blank"}.
+Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with {{ include.app.label }}, or any of its subsidiaries or its affiliates.
 
-The name {{ include.app.label }}® as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+The official {{ include.app.label }} website can be found at [{{ include.app.homepage }}]({{ include.app.homepage }}){:target="_blank"}.
+
+The name {{ include.app.label }} as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+{% endif %}
 
 ## About
 
@@ -55,7 +59,7 @@ Then run `{{ include.app.name }}-portable.exe` and [remove](https://support.micr
 
 {% for win in include.app.wincompat %}![](/img/wincompat/{{ win }}.png) {% endfor %}
 
-{% include app/infos/{{ include.app.name }}.md %}
+{% include app/infos/{{ include.app.name }}.md app=include.app %}
 
 ## Download
 

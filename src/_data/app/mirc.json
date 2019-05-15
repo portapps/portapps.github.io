@@ -1,8 +1,9 @@
 {
   "name": "mirc",
-  "label": "mIRC",
+  "label": "mIRC&trade;",
   "desc": "An Internet Relay Chat (IRC) client for Windows.",
   "license": "shareware",
+  "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],
   "github": {

@@ -1,8 +1,9 @@
 {
   "name": "docker-toolbox",
-  "label": "Docker Toolbox",
+  "label": "Docker&trade; Toolbox",
   "desc": "Provides a way to use Docker on Windows systems.",
   "license": "apache-2.0",
+  "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],
   "github": {

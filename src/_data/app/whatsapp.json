@@ -1,8 +1,9 @@
 {
   "name": "whatsapp",
-  "label": "WhatsApp",
+  "label": "WhatsApp&trade;",
   "desc": "A cross-platform mobile messaging app which allows you to exchange messages without having to pay for SMS.",
   "license": "freeware",
+  "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],
   "github": {

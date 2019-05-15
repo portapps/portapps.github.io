@@ -1,1 +1,1 @@
-> {% gemoji bulb %} PTB (Public Test Build) portable version of Discord is available [here]({{ site.baseurl }}/app/discord-ptb-portable/)
+> {% gemoji bulb %} PTB (Public Test Build) portable version of {{ include.app.label }} is available [here]({{ site.baseurl }}/app/discord-ptb-portable/)

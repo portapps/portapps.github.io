@@ -3,6 +3,7 @@
   "label": "HandBrake",
   "desc": "A tool for converting video from nearly any format to a selection of modern, widely supported codecs.",
   "license": "gpl-2.0",
+  "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["multimedia"],
   "github": {
