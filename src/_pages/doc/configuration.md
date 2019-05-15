@@ -17,7 +17,7 @@ This file is generated at first launch as a sample file named `[appname]-portabl
 common:
   args: []
   env: {}
-  app_path: C:\portapps\firefox-portable\app
+  app_path: ""
 app:
   profile: default
   multiple_instances: false
@@ -38,6 +38,8 @@ This field is _common_ for all applications available in the Portapps catalogue.
   * **@DATA_PATH@** : Data path
   * **@DRIVE_LETTER@** : Current drive letter
 * **app_path** : Application binaries path. If the application is on a network drive you have to set an UNC path like `\\?\MYSERVER\firefox-portable\app`.
+
+{% include callout.html type="warning" title="About app_path" text="Be careful if you use `app_path` because the wrapper is closely linked to the version of the application used. Use ONLY if you know what you are doing." %}
 
 Here is an example :
 
