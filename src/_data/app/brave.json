@@ -23,6 +23,15 @@
   ],
   "releases": [
     {
+      "version": "0.64.75",
+      "release": "18",
+      "date": "2019/05/15",
+      "type": "release",
+      "original": "brave_installer-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "0.63.55",
       "release": "16",
       "date": "2019/05/07",
