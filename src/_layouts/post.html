@@ -10,6 +10,13 @@ layout: default
       <article role="main" class="blog-post markdown-body">
         {% if app_logo %}
           <table><tr><td class="post-app-img"><img src="{{ app_logo }}"/></td><td>{{ content }}</td></tr></table>
+          {% if app.trademark %}
+          <p>
+            <i>Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with {{ app.label }}, or any of its subsidiaries or its affiliates.</i>
+            <i>The official {{ app.label }} website can be found at <a target="_blank" href="{{ app.homepage }}">{{ app.homepage }}</a>.</i>
+            <i>The name {{ app.label }} as well as related names, marks, emblems and images are registered trademarks of their respective owners.</i>
+          </p>
+          {% endif %}
         {% else %}
           {{ content }}
         {% endif %}
