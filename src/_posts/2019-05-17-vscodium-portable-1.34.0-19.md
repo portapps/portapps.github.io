@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VSCodium 1.34.0-19
+title: VSCodium portable 1.34.0-19
 date: 2019-05-17 13:59:00 +0200
 app: vscodium
 tags: [vscodium]
