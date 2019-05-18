@@ -18,6 +18,15 @@
   "move": [],
   "releases": [
     {
+      "version": "12.0.1",
+      "release": "6",
+      "date": "2019/05/18",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "11.0.3",
       "release": "5",
       "date": "2019/05/18",
