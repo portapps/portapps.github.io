@@ -23,9 +23,9 @@
   ],
   "releases": [
     {
-      "version": "0.64.75",
+      "version": "0.64.76",
       "release": "19",
-      "date": "2019/05/16",
+      "date": "2019/05/19",
       "type": "release",
       "original": "brave_installer-@platform@.exe",
       "platforms": ["win32", "win64"],
@@ -34,6 +34,15 @@
     {
       "version": "0.64.75",
       "release": "18",
+      "date": "2019/05/16",
+      "type": "release",
+      "original": "brave_installer-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.64.75",
+      "release": "17",
       "date": "2019/05/15",
       "type": "broken",
       "original": "brave_installer-@platform@.exe",
