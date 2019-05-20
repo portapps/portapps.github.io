@@ -23,6 +23,15 @@
   ],
   "releases": [
     {
+      "version": "7.1.1",
+      "release": "10",
+      "date": "2019/05/20",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "7.1.0",
       "release": "9",
       "date": "2019/05/16",
