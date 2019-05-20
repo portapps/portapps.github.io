@@ -1,5 +1,3 @@
-> {% gemoji bulb %} Registry settings are converted to dir mode in `data/config` if folder is empty.
-
 ### Modifications
 
 Here is what differs from the original release to ensure portability :
@@ -9,4 +7,4 @@ Here is what differs from the original release to ensure portability :
 * Some configuration settings are overrided.
   * `savemod=dir`
   * `configdir=<data_path>\config`
-* Registry settings are converted to dir mode if `configdir` is empty.
+* Registry settings are converted to dir mode in `data/config` if folder is empty.
