@@ -18,9 +18,7 @@ var actionAppDownload = {
       $.each(json.releases, function(i, release) {
         var isCurrentRelease = appCurrentRelease.version === release.version && appCurrentRelease.release === release.release;
         var versionText = release.version + '-' + release.release;
-        if (isCurrentRelease) {
-          versionText += ' (current release)';
-        } else if (release.type === 'pre-release') {
+        if (release.type === 'pre-release') {
           versionText += ' (development release)';
         } else if (release.type === 'broken') {
           versionText += ' (broken release)';
