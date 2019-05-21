@@ -4,8 +4,11 @@
 
 Some modifications have been made in this version of {{ include.app.label }} through policies to ensure portability :
 
+* **Multilingual** : All languages are included in `app\langs` and can be enabled in config file (see below).
 * **Disable updater** : {{ include.app.label }} updates are turned off.
 * **Don't check default browser** : Stops {{ include.app.label }} from checking if it is the default browser at startup.
+* **'Know your rights'**:  Don't show on first run.
+* **WhatsNew**: Don't show WhatsNew on first run after every update.
 * **Profile**: Profile path is overrided to `data\profile` folder (see below).
 
 ### Configuration
@@ -17,29 +20,11 @@ Some modifications have been made in this version of {{ include.app.label }} thr
   multiple_instances: false
   disable_telemetry: false
   disable_firefox_studies: false
+  locale: en-US
 </code></pre></div></div>
 
 * `profile` : Name of the profile created in `data\profile\<name>` (default `default`)
 * `multiple_instances` : Allow multiple instances (default `false`)
 * `disable_telemetry` : If enabled, {{ include.app.label }} telemetry is not uploaded (default `false`)
 * `disable_firefox_studies` : If enabled, {{ include.app.label }} will never run SHIELD studies or do Heartbeat surveys. (default `false`)
-
-### How to change the interface to a different language ?
-
-The release used for {{ include.app.label }} is the English one. If you want to change the interface to a different language you have to download and install your preferred language pack through {{ include.app.label }} settings :
-
-![](/img/app/firefox/firefox-change-lang-01.png)
-
-Choose an alternative language by clicking on **Set Alternatives...** :
-
-![](/img/app/firefox/firefox-change-lang-02.png)
-
-Choose your preferred languages :
-
-![](/img/app/firefox/firefox-change-lang-03.png)
-
-And click **Add** :
-
-![](/img/app/firefox/firefox-change-lang-04.png)
-
-Now restart {{ include.app.label }}.
+* `locale` : Locale located in `app\langs` can be used to change UI language without `.xpi` extension (default `en-US`).
