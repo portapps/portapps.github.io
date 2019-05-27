@@ -1,0 +1,35 @@
+{
+  "name": "wireshark",
+  "label": "Wireshark",
+  "desc": "One of the world's foremost network protocol analyzers.",
+  "license": "gpl-2.0",
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["misc"],
+  "github": {
+    "user": "portapps",
+    "repo": "wireshark-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.wireshark.org",
+  "move": [
+    {
+      "from": "%APPDATA%\\Wireshark\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "3.0.2",
+      "release": "1",
+      "date": "2019/05/27",
+      "type": "release",
+      "original": "Wireshark-@platform@-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
