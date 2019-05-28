@@ -35,6 +35,15 @@
   ],
   "releases": [
     {
+      "version": "2019.1.3",
+      "release": "7",
+      "date": "2019/05/28",
+      "type": "release",
+      "original": "ideaIU-@version@.win.zip",
+      "platforms": [""],
+      "formats": ["setup"]
+    },
+    {
       "version": "2019.1.2",
       "release": "6",
       "date": "2019/05/08",
