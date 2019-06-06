@@ -23,6 +23,15 @@
   ],
   "releases": [
     {
+      "version": "68.0b7",
+      "release": "12",
+      "date": "2019/06/06",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "68.0b6",
       "release": "11",
       "date": "2019/06/02",
