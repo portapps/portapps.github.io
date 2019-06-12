@@ -31,6 +31,14 @@
 }
 
 .cards-section .item .icon-holder {
+  margin-bottom: 15px;
+}
+
+.cards-section.cards-apps .item img {
+  width: 92px;
+}
+
+.cards-section .item-app .icon-holder {
   position: relative;
   top: 0;
   left: 0;
@@ -39,14 +47,14 @@
   height: 112px;
 }
 
-.cards-section.cards-apps .item img {
+.cards-section.cards-apps .item-app img {
   position: relative;
   top: 0;
   left: 0;
   width: 92px;
 }
 
-.cards-section.cards-apps .item img.discontinued {
+.cards-section.cards-apps .item-app img.discontinued {
   position: absolute;
   top: 0;
   left: 0;
