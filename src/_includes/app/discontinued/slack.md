@@ -34,13 +34,7 @@
 > I would like to point out that Slack Portable, like all the applications on Portapps, do not undergo any modification, decompilation or hacking.
 > Indeed, only one wrapper is developed and is completely dissociated from your product. It only runs slack.exe by adding environment variables, switches that make your application portable as most users could.
 > 
-> As far as your Trademark Policy is concerned, it is true that I am completely at fault and I would like to apologize for that. I hope you understand that I am not trying to harm your product in any way. That is why I specify at the top of the page https://portapps.io/app/slack-portable/ a notice of non-affiliation and exemption from liability by adding :
-> 
->     Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Slack™, or any of its subsidiaries or its affiliates.
->     
->     The official Slack™ website can be found at https://slack.com.
->     
->     The name Slack™ as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+> As far as your Trademark Policy is concerned, it is true that I am completely at fault and I would like to apologize for that. I hope you understand that I am not trying to harm your product in any way. That is why I specify at the top of the page https://portapps.io/app/slack-portable/ a notice of non-affiliation and exemption from liability.
 > 
 > If it concerns the logo and name, is it possible that I could change it? Or do you absolutely want to see this page disappear?
 > 
