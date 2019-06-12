@@ -3,7 +3,7 @@
   "label": "Slack&trade;",
   "desc": "A cloud-based set of team collaboration tools and services.",
   "license": "freeware",
-  "discontinued": false,
+  "discontinued": true,
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev", "messaging"],
