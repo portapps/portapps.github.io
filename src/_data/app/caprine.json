@@ -3,6 +3,7 @@
   "label": "Caprine",
   "desc": "An elegant Facebook Messenger desktop app.",
   "license": "mit",
+  "discontinued": false,
   "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],

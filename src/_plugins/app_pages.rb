@@ -54,6 +54,7 @@ module Jekyll
           data = JSON.parse(File.read(file))
           next if !data.kind_of?(Hash) or !data['name']
           site.pages << AppPage.new(site, site.source, "app", data)
+          next if data['discontinued']
           site.pages << AppFeedPage.new(site, site.source, "app/" + data['name'] + "-portable", data)
         end
       end

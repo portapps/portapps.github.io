@@ -1,3 +1,21 @@
+.applogo-parent {
+  position: relative;
+  margin: auto;
+  width: 128px;
+  top: 0;
+  left: 0;
+}
+.applogo-image {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.applogo-discontinued {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 .cat-tag {
   display: inline-block;
   padding: 0 .5rem;

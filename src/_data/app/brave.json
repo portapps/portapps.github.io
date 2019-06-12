@@ -3,6 +3,7 @@
   "label": "Brave&trade;",
   "desc": "A free and open-source web browser based on the Chromium web browser and its Blink engine.",
   "license": "mpl-2.0",
+  "discontinued": false,
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["browser"],

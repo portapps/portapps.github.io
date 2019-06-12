@@ -3,6 +3,7 @@
   "label": "Borderless Gaming",
   "desc": "Play your favorite games in a borderless window.",
   "license": "gpl-2.0",
+  "discontinued": false,
   "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["gaming"],

@@ -3,6 +3,7 @@
   "label": "Insomnia&trade;",
   "desc": "Debug APIs like a human, not a robot.",
   "license": "mit",
+  "discontinued": false,
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],

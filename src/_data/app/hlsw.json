@@ -3,6 +3,7 @@
   "label": "HLSW",
   "desc": "A game server browser and administration tool.",
   "license": "freeware",
+  "discontinued": false,
   "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["gaming"],

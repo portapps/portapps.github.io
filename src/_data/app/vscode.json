@@ -3,6 +3,7 @@
   "label": "Visual Studio Code&trade;",
   "desc": "A source code editor developed by Microsoft for Windows, Linux and macOS.",
   "license": "mit",
+  "discontinued": false,
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],

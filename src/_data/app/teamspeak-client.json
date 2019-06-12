@@ -3,6 +3,7 @@
   "label": "TeamSpeak&trade; Client",
   "desc": "A VoIP app for audio communication between users on a chat channel.",
   "license": "freeware",
+  "discontinued": false,
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["gaming", "messaging"],

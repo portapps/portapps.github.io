@@ -8,7 +8,11 @@ markdown_body: ""
 <div class="container-fluid" role="main">
   <div class="row">
     <div class="col-lg-8 col-md-8 col-md-offset-2">
+    {% if page.app.discontinued %}
+      {% capture app %}{% include app/discontinued/{{ page.app.name }}.md app=page.app %}{% endcapture %}{{ app | markdownify }}
+    {% else %}
       {% capture app %}{% include app/app.md app=page.app license=page.license %}{% endcapture %}{{ app | markdownify }}
+    {% endif %}
     </div>
   </div>
 </div>

@@ -22,9 +22,10 @@ markdown_body: ""
     </div>
     <div class="cards-wrapper row">{% assign applist = site.data.app | sort %}
       {% for app in applist %}<div class="item item-enable col-md-4 col-sm-8 col-xs-12" data-app="{{ app[1].name }}">
-        <div class="item-inner">
+        <div class="item-inner{% if app[1].discontinued %} item-discontinued{% endif %}">
           <div class="icon-holder">
             <img src="https://raw.githubusercontent.com/{{ app[1].github.user }}/{{ app[1].github.repo }}/master/res/papp.png"/>
+            {% if app[1].discontinued %}<img class="discontinued" src="{{ site.baseurl }}/img/discontinued.png"/>{% endif %}
           </div>
           <h3 class="title">{{ app[1].label }}</h3>
           <a class="link" href="{{ site.baseurl }}/app/{{ app[1].name }}-portable/"><span></span></a>

@@ -19,7 +19,10 @@
         <div class="{{ page_type }}-heading" style="{{ include.style }}">
           {% if page.layout == "home" %}<img src="{{ site.baseurl }}/img/logo.png" />{% endif %}
           {% if page.app and page.logo %}
-            <img style="width:128px;" src="{{ page.logo }}" />
+            <div class="applogo-parent">
+              <img class="applogo-image" src="{{ page.logo }}" />
+              {% if page.app.discontinued %}<img class="applogo-discontinued" src="{{ site.baseurl }}/img/discontinued.png" />{% endif %}
+            </div>
             <h1 class="title-app">{{ page.title }} portable</h1>
           {% else %}
             <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
