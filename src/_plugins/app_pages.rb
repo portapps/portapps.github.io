@@ -16,11 +16,7 @@ module Jekyll
       self.data['title'] = the_app['label']
       self.data['seo_title'] = the_app['label'] + ' portable'
       self.data['subtitle'] = the_app['desc']
-      if the_app['discontinued']
-        self.data['logo'] = site.baseurl + '/img/app/' + the_app['name'] + '.png'
-      else
-        self.data['logo'] = 'https://raw.githubusercontent.com/' + the_app['github']['user'] + '/' + the_app['github']['repo'] + '/master/res/papp.png'
-      end
+      self.data['logo'] = site.baseurl + '/img/app/' + the_app['name'] + '.png'
       self.data['license'] = licenses[the_app['license']]
       self.data['app'] = the_app
       self.data['sitemap'] = { "priority" => "0.7", "changefreq" => "daily" }
@@ -38,11 +34,7 @@ module Jekyll
 
       self.process(@name)
       self.read_yaml(File.join(base, "_layouts"), "app_feed.xml")
-      if the_app['discontinued']
-        self.data['logo'] = site.baseurl + '/img/app/' + the_app['name'] + '.png'
-      else
-        self.data['logo'] = 'https://raw.githubusercontent.com/' + the_app['github']['user'] + '/' + the_app['github']['repo'] + '/master/res/papp.png'
-      end
+      self.data['logo'] = site.baseurl + '/img/app/' + the_app['name'] + '.png'
       self.data['app'] = the_app
     end
   end

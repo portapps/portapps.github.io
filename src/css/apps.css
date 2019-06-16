@@ -1,3 +1,8 @@
+img.app-discontinued {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
 .applogo-parent {
   position: relative;
   margin: auto;
