@@ -24,6 +24,15 @@
   ],
   "releases": [
     {
+      "version": "3.3.0",
+      "release": "13",
+      "date": "2019/06/18",
+      "type": "release",
+      "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "3.2.5",
       "release": "11",
       "date": "2019/04/17",
