@@ -62,14 +62,10 @@ v10.16.0
 Now we are going to prepare our environment in `C:\portapps-dev` folder and build [Brave portable](https://github.com/portapps/brave-portable) :
 
 ```
-// prepare env
 $ mkdir C:\portapps-dev
-$ cd  C:\portapps-dev\
-// clone brave-portable repository
+$ cd C:\portapps-dev\
 $ git clone https://github.com/portapps/brave-portable
-// clone core repository
 $ git clone https://github.com/portapps/portapps
-// create release
 $ cd brave-portable\
 $ ant release
 ```
