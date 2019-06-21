@@ -5,6 +5,9 @@ sidebar: doc
 ---
 {% include vars.html %}
 
+* TOC
+{:toc}
+
 # Requirements
 
 Several SDK and tools are required to build and create a portapp.
