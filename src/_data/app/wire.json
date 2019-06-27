@@ -1,0 +1,36 @@
+{
+  "name": "wire",
+  "label": "Wire&trade;",
+  "desc": "An encrypted communications program.",
+  "license": "gpl-3.0",
+  "discontinued": false,
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "wire-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://www.wire.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\Wire\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "3.9.2928",
+      "release": "2",
+      "date": "2019/06/28",
+      "type": "release",
+      "original": "WireSetup-@platform@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
