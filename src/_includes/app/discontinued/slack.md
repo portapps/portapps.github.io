@@ -1,4 +1,6 @@
-{% include callout.html type="warning" title="Slack portable discontinued" text="I have received a Trademark Policy violation report of [@slackhq](https://github.com/slackhq) concerning this portapp. After exchanges by email I'm unfortunately be forced to discontinue this portapp and close the GitHub repository. For the sake of transparency, you will find below the exchanges with the person in charge of legal operations at SlackHQ." %}
+{% include callout.html type="warning" title="Slack portable discontinued" text="I have received a Trademark Policy violation report of [@slackhq](https://github.com/slackhq) concerning this portapp. After exchanges by email I'm unfortunately be forced to discontinue this portapp. For the sake of transparency, you will find below the exchanges with the person in charge of legal operations at SlackHQ." %}
+
+{% include callout.html type="info" title="Alternative" text="Since the wrapper sources are [still available](https://github.com/portapps/slack-portable), you can build an updated portable version of Slack yourself. Instructions for building a portapp are available on the [Contribute page](https://portapps.io/doc/contribute/)." %}
 
 ### 2019/06/07 20:51 +0200
 
