@@ -1,4 +1,4 @@
-img.app-discontinued {
+img.app-blackholed {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
@@ -15,7 +15,7 @@ img.app-discontinued {
   top: 0;
   left: 0;
 }
-.applogo-discontinued {
+.applogo-blackholed {
   position: absolute;
   top: 0;
   left: 0;

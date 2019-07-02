@@ -17,7 +17,7 @@
       {% assign app = anapp[1] %}
       {% capture app_logo %}{{ var_seo_url }}/img/app/{{ anapp[1].name }}.png{% endcapture %}
       {% if anapp[1].discontinued %}
-        {% capture app_logo_class %}app-discontinued{% endcapture %}
+        {% capture app_logo_class %}app-blackholed{% endcapture %}
       {% endif %}
       {% break %}
     {% endif %}

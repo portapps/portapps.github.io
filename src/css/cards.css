@@ -54,7 +54,7 @@
   width: 92px;
 }
 
-.cards-section.cards-apps .item-app img.discontinued {
+.cards-section.cards-apps .item-app img.blackholed {
   position: absolute;
   top: 0;
   left: 0;
@@ -115,10 +115,10 @@
   border-top: 3px solid #479FDB;
 }
 
-.cards-section .item-discontinued:hover {
+.cards-section .item-blackholed:hover {
   background: #f5f5f5;
-  color: #d9534f;
-  border-top: 3px solid #d9534f;
+  color: #6858ad;
+  border-top: 3px solid #6858ad;
 }
 
 /* Extra small devices (phones, less than 768px) */
