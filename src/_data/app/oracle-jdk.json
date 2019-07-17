@@ -19,6 +19,33 @@
   "move": [],
   "releases": [
     {
+      "version": "12.0.2",
+      "release": "9",
+      "date": "2019/07/17",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.0.4",
+      "release": "8",
+      "date": "2019/07/17",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u221",
+      "release": "7",
+      "date": "2019/07/17",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "12.0.1",
       "release": "6",
       "date": "2019/05/18",
