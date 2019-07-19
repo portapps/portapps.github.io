@@ -23,12 +23,12 @@ before_install:
 
 before_script:
   - yarn install
-  - gem install bundler
+  - gem install bundler -v 2.0.2
   - bundle install
 
 script:
   - gulp --env=production build
-  - #htmlproofer ./web/download --allow-missing-href --allow-hash-href --assume_extension --check-favicon --http-status-ignore 403 --only-4xx --alt-ignore "/.*/" --log-level=:debug
+  #- htmlproofer ./web/download --allow-missing-href --allow-hash-href --assume_extension --check-favicon --http-status-ignore 403 --only-4xx --alt-ignore "/.*/" --log-level=:debug
   - test $TRAVIS_PULL_REQUEST = false && ./deploy.sh
 
 branches:
