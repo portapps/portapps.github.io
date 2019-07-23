@@ -1,0 +1,56 @@
+{
+  "name": "android-studio",
+  "label": "Android Studio&trade;",
+  "desc": "The official IDE for Google's Android operating system.",
+  "license": "freeware",
+  "discontinued": false,
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "android-studio-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://developer.android.com/studio",
+  "move": [
+    {
+      "from": "%USERPROFILE%\\.android",
+      "to": "data"
+    },
+    {
+      "from": "%USERPROFILE%\\.gradle",
+      "to": "data"
+    },
+    {
+      "from": "%USERPROFILE%\\.AndroidStudio*\\config\\plugins",
+      "to": "data"
+    },
+    {
+      "from": "%USERPROFILE%\\.AndroidStudio*\\system\\log",
+      "to": "data"
+    },
+    {
+      "from": "%USERPROFILE%\\.AndroidStudio*\\config",
+      "to": "data"
+    },
+    {
+      "from": "%USERPROFILE%\\.AndroidStudio*\\system",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "3.4.2",
+      "release": "4",
+      "date": "2019/07/23",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    }
+  ]
+}
