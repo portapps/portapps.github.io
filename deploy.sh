@@ -2,7 +2,7 @@
 set -e
 
 # skip on PR
-if [[ ${TRAVIS_PULL_REQUEST} = false ]]; then
+if [[ "${TRAVIS_PULL_REQUEST}" != "true" ]]; then
   echo "INFO: This is a PR, skipping deploy..."
   exit 0
 fi
