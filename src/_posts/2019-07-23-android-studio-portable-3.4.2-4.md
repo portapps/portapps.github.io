@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android Studio portable 3.4.2-4
-date: 2019-06-28 01:44:00 +0200
+date: 2019-07-23 05:53:00 +0200
 app: android-studio
 tags: [android-studio]
 ---
