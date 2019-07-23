@@ -29,12 +29,7 @@ before_script:
 script:
   - gulp --env=production build
   #- htmlproofer ./web/download --allow-missing-href --allow-hash-href --assume_extension --check-favicon --http-status-ignore 403 --only-4xx --alt-ignore "/.*/" --log-level=:debug
-  - |
-    if [ $TRAVIS_PULL_REQUEST = false ]; then
-      ./deploy.sh
-    else
-      echo "INFO: This is a PR, skipping publish..."
-    fi
+  - ./deploy.sh
 
 branches:
   only:

@@ -1,7 +1,11 @@
 #!/bin/bash
-
-# enable error reporting to the console
 set -e
+
+# skip on PR
+if [[ ${TRAVIS_PULL_REQUEST} = false ]]; then
+  echo "INFO: This is a PR, skipping deploy..."
+  exit 0
+fi
 
 # publish to master branch
 cd ./web
