@@ -4,7 +4,8 @@
   <a href="https://travis-ci.com/portapps/portapps.github.io"><img src="https://img.shields.io/travis/com/portapps/portapps.github.io/dev.svg?style=flat-square" alt="Build Status"></a>
   <a href="https://www.codacy.com/app/portapps/portapps.io"><img src="https://img.shields.io/codacy/grade/1c12bcac38bc4ed18766917f7073648f.svg?style=flat-square" alt="Code Quality"></a>
   <a href="https://status.portapps.io"><img src="https://img.shields.io/uptimerobot/ratio/m780461173-920d0e660843a189046545e3.svg?style=flat-square" alt="Uptime"></a>
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6EALX9NDSRBAJ"><img src="https://img.shields.io/badge/donate-paypal-7057ff.svg?style=flat-square" alt="Donate Paypal"></a>
+  <br /><a href="https://www.patreon.com/crazymax"><img src="https://img.shields.io/badge/donate-patreon-fb664e.svg?style=flat-square" alt="Support me on Patreon"></a>
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WQD7AQGPDEPSG"><img src="https://img.shields.io/badge/donate-paypal-7057ff.svg?style=flat-square" alt="Donate Paypal"></a>
 </p>
 
 ## Prerequisites
@@ -48,6 +49,7 @@ All kinds of contributions are welcome :raised_hands:!<br />
 The most basic way to show your support is to star :star2: the project, or to raise issues :speech_balloon:<br />
 But we're not gonna lie to each other, I'd rather you buy me a beer or two :beers:!
 
+[![Support me on Patreon](https://portapps.io/img/patreon.png)](https://www.patreon.com/crazymax) 
 [![Paypal Donate](https://portapps.io/img/paypal-donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WQD7AQGPDEPSG)
 
 ## License
