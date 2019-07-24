@@ -1,0 +1,36 @@
+{
+  "name": "rambox",
+  "label": "Rambox&trade;",
+  "desc": "A workspace browser that allows you to manage as many applications as you want, all in one place.",
+  "license": "gpl-3.0",
+  "discontinued": false,
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "rambox-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://rambox.pro/#ce",
+  "move": [
+    {
+      "from": "%APPDATA%\\Rambox\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "0.6.9",
+      "release": "1",
+      "date": "2019/07/24",
+      "type": "release",
+      "original": "RamboxSetup-win.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
