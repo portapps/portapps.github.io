@@ -13,4 +13,4 @@ Here is what differs from the original release to ensure portability :
   disable_delay: false
 </code></pre></div></div>
 
-* `disable_delay` : Disable delay on stratup (default `false`)
+* `disable_delay` : Disable delay on startup (default `false`)
