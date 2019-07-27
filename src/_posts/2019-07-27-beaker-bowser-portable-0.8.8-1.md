@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beaker Browser portable 0.8.8-1
-date: 2019-07-24 21:44:00 +0200
+date: 2019-07-27 17:01:00 +0200
 app: beaker-browser
 tags: [beaker-browser]
 ---
