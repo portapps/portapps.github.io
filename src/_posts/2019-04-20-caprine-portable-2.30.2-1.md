@@ -9,4 +9,4 @@ tags: [caprine]
 
 A new Portapps app has been added to the collection !<br />
 Caprine is an elegant Facebook Messenger desktop app.<br />
-You can download this first release of Caprine 2.30.2-1 on the [Caprine page]({{ var_seo_url | append: '/app/caprine-portable/' }}) !
+You can download this first release of Caprine portable 2.30.2-1 on the [Caprine page]({{ var_seo_url | append: '/app/caprine-portable/' }}) !
