@@ -1,0 +1,36 @@
+{
+  "name": "beaker-browser",
+  "label": "Beaker Browser",
+  "desc": "An experimental browser for exploring and building the peer-to-peer Web.",
+  "license": "mit",
+  "discontinued": false,
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "beaker-browser-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://beakerbrowser.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\Beaker Browser\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "0.8.8",
+      "release": "1",
+      "date": "2019/07/27",
+      "type": "release",
+      "original": "beaker-browser-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
