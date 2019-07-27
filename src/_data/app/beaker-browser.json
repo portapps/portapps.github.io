@@ -29,7 +29,7 @@
       "date": "2019/07/27",
       "type": "release",
       "original": "beaker-browser-setup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     }
   ]
