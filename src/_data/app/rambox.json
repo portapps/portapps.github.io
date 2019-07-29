@@ -1,10 +1,10 @@
 {
   "name": "rambox",
-  "label": "Rambox&trade;",
+  "label": "Rambox",
   "desc": "A workspace browser that allows you to manage as many applications as you want, all in one place.",
   "license": "gpl-3.0",
   "discontinued": false,
-  "trademark": true,
+  "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],
   "github": {
