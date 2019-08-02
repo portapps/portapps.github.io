@@ -37,6 +37,15 @@
   "releases": [
     {
       "version": "2019.2",
+      "release": "28",
+      "date": "2019/08/02",
+      "type": "release",
+      "original": "",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "2019.2",
       "release": "9",
       "date": "2019/07/24",
       "type": "release",
