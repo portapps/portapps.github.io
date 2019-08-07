@@ -24,6 +24,15 @@
   ],
   "releases": [
     {
+      "version": "4.1.0",
+      "release": "8",
+      "date": "2019/08/07",
+      "type": "release",
+      "original": "MolotovSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "4.0.0",
       "release": "7",
       "date": "2019/05/13",
