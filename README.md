@@ -4,8 +4,8 @@
   <a href="https://travis-ci.com/portapps/portapps.github.io"><img src="https://img.shields.io/travis/com/portapps/portapps.github.io/dev.svg?style=flat-square" alt="Build Status"></a>
   <a href="https://www.codacy.com/app/portapps/portapps.io"><img src="https://img.shields.io/codacy/grade/1c12bcac38bc4ed18766917f7073648f.svg?style=flat-square" alt="Code Quality"></a>
   <a href="https://status.portapps.io"><img src="https://img.shields.io/uptimerobot/ratio/m780461173-920d0e660843a189046545e3.svg?style=flat-square" alt="Uptime"></a>
-  <br /><a href="https://www.patreon.com/crazymax"><img src="https://img.shields.io/badge/donate-patreon-fb664e.svg?style=flat-square" alt="Support me on Patreon"></a>
-  <a href="https://www.paypal.me/crazyws"><img src="https://img.shields.io/badge/donate-paypal-7057ff.svg?style=flat-square" alt="Donate Paypal"></a>
+  <br /><a href="https://www.patreon.com/crazymax"><img src="https://img.shields.io/badge/donate-patreon-f96854.svg?logo=patreon&style=flat-square" alt="Support me on Patreon"></a>
+  <a href="https://www.paypal.me/crazyws"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a>
 </p>
 
 ## Prerequisites
