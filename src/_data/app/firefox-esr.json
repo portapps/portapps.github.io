@@ -24,6 +24,15 @@
   ],
   "releases": [
     {
+      "version": "68.0.2",
+      "release": "19",
+      "date": "2019/08/14",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "60.8.0",
       "release": "16",
       "date": "2019/07/08",
