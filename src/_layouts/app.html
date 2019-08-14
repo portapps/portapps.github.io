@@ -11,7 +11,7 @@ markdown_body: ""
     {% if page.app.discontinued %}
       {% capture app %}{% include app/discontinued/{{ page.app.name }}.md app=page.app %}{% endcapture %}{{ app | markdownify }}
     {% else %}
-      {% capture app %}{% include app/app.md app=page.app license=page.license %}{% endcapture %}{{ app | markdownify }}
+      {% capture app %}{% include app/app.md app=page.app issues=page.issues license=page.license %}{% endcapture %}{{ app | markdownify }}
     {% endif %}
     </div>
   </div>

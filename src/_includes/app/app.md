@@ -13,6 +13,7 @@
 * [About](#about)
 * [Installation](#installation)
 * [Infos](#infos)
+* [Known issues](#known-issues)
 * [Download](#download)
 
 {% if include.app.trademark %}
@@ -60,6 +61,16 @@ Then run `{{ include.app.name }}-portable.exe` and [remove](https://support.micr
 {% for win in include.app.wincompat %}![](/img/wincompat/{{ win }}.png) {% endfor %}
 
 {% include app/infos/{{ include.app.name }}.md app=include.app %}
+
+## Known issues
+
+{% if include.issues.size > 0 %}Here is the list of known issues with this portapp:
+
+{% for issue in include.issues %}
+* <i class="fa fa-github fa-lg" style="color:#181717"></i> [{{ issue.title | strip_html | truncate: 60 }}]({{ issue.html_url }}){:target="_blank"}{% endfor %}
+{% else %}
+There is no known issues {% gemoji raised_hands %} Please [let us know](/doc/reporting-issue/) if you found one!
+{% endif %}
 
 ## Download
 

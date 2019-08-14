@@ -1,3 +1,5 @@
+require "github_api"
+
 module Jekyll
 
   class AppPage < Page
@@ -10,6 +12,22 @@ module Jekyll
       Jekyll.logger.debug "  Creating app page: #{the_app['name']}..."
 
       licenses = JSON.parse(File.read(File.join(site.source, (site.config['data_dir'] || '_data'), 'apps_licenses.json')))
+      github = Github.new oauth_token: ENV['GH_TOKEN']
+
+      issues = Array.new
+      issues_resp = github.issues.list user: the_app['github']['user'], repo: the_app['github']['repo'],
+        state: 'open',
+        direction: 'desc'
+      issues_resp.each_page do |issues_page|
+        issues_page.each do |issue|
+          issue['labels'].each do |label|
+            if ['bug', 'upstream'].include? label['name']
+              issues.push issue
+              break
+            end
+          end
+        end
+      end
 
       self.process(@name)
       self.read_yaml(File.join(base, "_layouts"), "app.html")
@@ -18,6 +36,7 @@ module Jekyll
       self.data['subtitle'] = the_app['desc']
       self.data['logo'] = site.baseurl + '/img/app/' + the_app['name'] + '.png'
       self.data['license'] = licenses[the_app['license']]
+      self.data['issues'] = issues
       self.data['app'] = the_app
       self.data['sitemap'] = { "priority" => "0.7", "changefreq" => "daily" }
     end
