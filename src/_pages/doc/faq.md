@@ -8,7 +8,12 @@ sidebar: doc
 * TOC
 {:toc}
 
-## How to be notified of new releases ?
+## Who is behind Portapps?
+
+Hi, I'm [CrazyMax](https://crazymax.dev){:target="_blank"}. This project is self-funded and developed using my decade of experience building open source software.<br />
+By [supporting me](https://www.patreon.com/{{ site.patreon }}){:target="_blank"}, you're not only sustaining this project, but rather all of [my open source projects](https://github.com/crazy-max){:target="_blank"}.
+
+## How to be notified of new releases?
 
 GitHub is the best way to receive notifications when a new version is released for your favorite application. First of all, have an account on [GitHub](https://github.com/), then go to the application repository by clicking on the GitHub logo on the app page and then click on Watch {% gemoji bell %} new releases on the repository. Here is an example for Firefox :
 
@@ -22,7 +27,7 @@ On GitHub choose **Watch releases only** :
 
 You can also **Star** {% gemoji star %} the repository to show your support {% gemoji heart %}
 
-## How to trust your distributed binaries ?
+## How to trust your distributed binaries?
 
 In a word, you can trust portapps binaries over those provided by other systems offering portable applications.<br />
 Why ? Because the whole process is open source as well as the build process for the executable wrapper. Let's take Skype as an example.
@@ -42,7 +47,7 @@ HTTP/1.1 302 Found
 > https://endpoint920510.azureedge.net/s4l/s4l/download/win/Skype-8.25.0.5.exe
 ```
 
-## How does it work ?
+## How does it work?
 
 Concerning the building process to make it "portapp", we are going to take Skype again as an example.
 
