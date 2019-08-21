@@ -1,0 +1,52 @@
+{
+  "name": "emby-theater",
+  "label": "Emby Theater&trade;",
+  "desc": "a native Windows app for Emby, the media server designed to organize, play, and stream audio and video.",
+  "license": "gpl-2.0",
+  "discontinued": false,
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["multimedia"],
+  "github": {
+    "user": "portapps",
+    "repo": "emby-theater-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://github.com/crazy-max"
+  },
+  "homepage": "https://emby.media/emby-theater.html",
+  "move": [
+    {
+      "from": "<APP_PATH>\\cache",
+      "to": "data"
+    },
+    {
+      "from": "<APP_PATH>\\cec-driver",
+      "to": "data"
+    },
+    {
+      "from": "<APP_PATH>\\config",
+      "to": "data"
+    },
+    {
+      "from": "<APP_PATH>\\data",
+      "to": "data"
+    },
+    {
+      "from": "<APP_PATH>\\logs",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "3.0.8",
+      "release": "3",
+      "date": "2019/08/21",
+      "type": "release",
+      "original": "emby-theater-@platform@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
