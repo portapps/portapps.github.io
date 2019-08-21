@@ -1,7 +1,7 @@
 {
   "name": "emby-theater",
   "label": "Emby Theater&trade;",
-  "desc": "a native Windows app for Emby, the media server designed to organize, play, and stream audio and video.",
+  "desc": "A native Windows app for Emby, the media server designed to organize, play, and stream audio and video.",
   "license": "gpl-2.0",
   "discontinued": false,
   "trademark": true,
