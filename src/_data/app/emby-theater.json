@@ -40,6 +40,15 @@
   ],
   "releases": [
     {
+      "version": "3.0.9",
+      "release": "4",
+      "date": "2019/08/23",
+      "type": "release",
+      "original": "emby-theater-@platform@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "3.0.8",
       "release": "3",
       "date": "2019/08/21",
