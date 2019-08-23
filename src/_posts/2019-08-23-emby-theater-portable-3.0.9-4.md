@@ -7,5 +7,5 @@ tags: [emby-theater]
 ---
 {% include vars.html %}
 
-Release of Emby Theater portable 2.37.0-16 is now available.<br />
+Release of Emby Theater portable 3.0.9-4 is now available.<br />
 You can find links to download this release on the [Emby Theater portable page]({{ var_seo_url | append: '/app/emby-theater-portable/' }}).
