@@ -3,7 +3,7 @@
   "label": "VLC Media Player&trade;",
   "desc": "A free and open-source, portable, cross-platform media player and streaming media server.",
   "license": "gpl-2.0",
-  "discontinued": false,
+  "status": "ok",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["multimedia"],

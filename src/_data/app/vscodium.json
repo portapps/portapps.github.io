@@ -3,7 +3,7 @@
   "label": "VSCodium",
   "desc": "Free and open source software binaries of VSCode without MS branding/telemetry/licensing",
   "license": "mit",
-  "discontinued": false,
+  "status": "ok",
   "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],

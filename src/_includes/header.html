@@ -20,8 +20,12 @@
           {% if page.layout == "home" %}<img src="{{ site.baseurl }}/img/logo.png" />{% endif %}
           {% if page.app and page.logo %}
             <div class="applogo-parent">
-              <img class="applogo-image{% if page.app.discontinued %} app-blackholed{% endif %}" src="{{ page.logo }}"/>
-              {% if page.app.discontinued %}<img class="applogo-blackholed" src="{{ site.baseurl }}/img/blackhole.png" />{% endif %}
+            {% if page.app.status == 'discontinued' %}
+              <img class="applogo-image app-blackholed" src="{{ page.logo }}"/>
+              <img class="applogo-blackholed" src="{{ site.baseurl }}/img/blackhole.png" />
+            {% else %}
+              <img class="applogo-image" src="{{ page.logo }}"/>
+            {% endif %}
             </div>
             <h1 class="title-app">{{ page.title }} portable</h1>
           {% else %}

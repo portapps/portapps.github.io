@@ -14,7 +14,7 @@ sitemap:
       {% if post.app %}{% assign applist = site.data.app | sort %}{% for app in applist %}
         {% if app[1].name == post.app %}
           {% capture app_logo %}{{ var_seo_url }}/img/app/{{ app[1].name }}.png{% endcapture %}
-          {% if app[1].discontinued %}
+          {% if app[1].status == 'discontinued' %}
             {% capture app_logo_style %}-webkit-filter:grayscale(100%);filter:grayscale(100%);{% endcapture %}
           {% endif %}
         {% endif %}

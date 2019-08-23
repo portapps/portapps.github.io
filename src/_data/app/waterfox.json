@@ -3,7 +3,7 @@
   "label": "Waterfox&trade;",
   "desc": "An open-source web browser intended to be speedy, ethical and maintain support for legacy extensions",
   "license": "mpl-2.0",
-  "discontinued": false,
+  "status": "ok",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["browser"],

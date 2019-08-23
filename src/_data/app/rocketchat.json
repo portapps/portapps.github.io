@@ -3,7 +3,7 @@
   "label": "Rocket.Chat&trade;",
   "desc": "Free, Open Source, Enterprise Team Chat.",
   "license": "mit",
-  "discontinued": false,
+  "status": "ok",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev", "messaging"],
