@@ -13,6 +13,6 @@ But we're not gonna lie to each other, I'd rather you buy me a beer or two {% ge
 {% endmarkdown %}<span></span></div>
 
 <p>
-  <a class="donate" title="Support me on Patreon" target="_blank" href="https://www.patreon.com/{{ site.patreon }}"><img src="{{ site.baseurl }}/img/patreon.png" /></a>
-  <a class="donate" title="Paypal Donate" target="_blank" href="https://www.paypal.me/{{ site.paypal }}"><img src="{{ site.baseurl }}/img/paypal-donate.png" /></a>
+  <a class="donate" title="Support me on Patreon" target="_blank" href="https://www.patreon.com/{{ site.patreon }}"><img src="{{ site.baseurl }}/img/donate/patreon.png" /></a>
+  <a class="donate" title="Paypal Donate" target="_blank" href="https://www.paypal.me/{{ site.paypal }}"><img src="{{ site.baseurl }}/img/donate/paypal.png" /></a>
 </p>

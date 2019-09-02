@@ -6,7 +6,7 @@ baseurl: ""
 title: "Portapps"
 description: "Collection of portable apps for Windows"
 logo: /img/logo.png
-version: 1.3.0
+version: 1.4.0
 paypal: "crazyws"
 patreon: "crazymax"
 
