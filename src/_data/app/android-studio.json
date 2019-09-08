@@ -42,6 +42,10 @@
       "to": "data"
     }
   ],
+  "groups": [
+    "3.5",
+    "3.4"
+  ],
   "releases": [
     {
       "version": "3.5",

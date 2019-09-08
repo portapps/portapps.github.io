@@ -22,6 +22,10 @@
       "to": "data\\storage\\HandBrake"
     }
   ],
+  "groups": [
+    "1.2",
+    "1.1"
+  ],
   "releases": [
     {
       "version": "1.2.2",

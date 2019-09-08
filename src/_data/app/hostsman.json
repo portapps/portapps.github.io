@@ -26,6 +26,10 @@
       "to": "data\\ProgramData\\abelhadigital.com\\HostsMan"
     }
   ],
+  "groups": [
+    "4.8",
+    "4.7"
+  ],
   "releases": [
     {
       "version": "4.8.106",

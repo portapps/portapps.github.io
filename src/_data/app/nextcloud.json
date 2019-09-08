@@ -22,6 +22,10 @@
       "to": "data\\conf"
     }
   ],
+  "groups": [
+    "2.5",
+    "2.3"
+  ],
   "releases": [
     {
       "version": "2.5.3",

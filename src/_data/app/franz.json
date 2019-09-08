@@ -22,6 +22,10 @@
       "to": "data"
     }
   ],
+  "groups": [
+    "5.2",
+    "5.1"
+  ],
   "releases": [
     {
       "version": "5.2.0",

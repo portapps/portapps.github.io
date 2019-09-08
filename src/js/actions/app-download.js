@@ -14,27 +14,11 @@ var actionAppDownload = {
     // Get app data from api
     $.getJSON("/api/v1/apps/" + appName + ".json", function(json){
       appData = json;
-      appCurrentRelease = actionAppDownload.getCurrentRelease(json.releases);
-      $.each(json.releases, function(i, release) {
-        var isCurrentRelease = appCurrentRelease.version === release.version && appCurrentRelease.release === release.release;
-        var versionText = release.version + '-' + release.release;
-        if (release.type === 'pre-release') {
-          versionText += ' (development release)';
-        } else if (release.type === 'broken') {
-          versionText += ' (broken release)';
-        }
-        $('#app-version').append($('<option>', {
-          value: release.version + ';' + release.release,
-          text : versionText
-        }).attr('data-rtype', release.type));
-        if (isCurrentRelease) {
-          $('#app-version').val(release.version + ';' + release.release);
-          actionAppDownload.setPlatforms(release.platforms);
-          $('#app-platform').val(actionAppDownload.getRecommendedPlatform(release.platforms));
-          actionAppDownload.setFormats(release.formats);
-          $('#app-format').val(release.formats[0]);
-        }
-      });
+      if (typeof appData.groups !== 'undefined' && appData.groups.length > 0) {
+        actionAppDownload.renderGroups(appData);
+      } else {
+        actionAppDownload.render(appData);
+      }
       actionAppDownload.refreshDownloadButton(appData);
     });
 
@@ -49,6 +33,63 @@ var actionAppDownload = {
 
     $('#app-format').change(function() {
       actionAppDownload.refreshDownloadButton(appData);
+    });
+  },
+
+  render: function(data) {
+    appCurrentRelease = actionAppDownload.getCurrentRelease(data.releases);
+    $.each(data.releases, function(i, release) {
+      var isCurrentRelease = appCurrentRelease.version === release.version && appCurrentRelease.release === release.release;
+      var versionText = release.version + '-' + release.release;
+      if (release.type === 'pre-release') {
+        versionText += ' (development release)';
+      } else if (release.type === 'broken') {
+        versionText += ' (broken release)';
+      }
+      $('#app-version').append($('<option>', {
+        value: release.version + ';' + release.release,
+        text : versionText
+      }).attr('data-rtype', release.type));
+      if (isCurrentRelease) {
+        $('#app-version').val(release.version + ';' + release.release);
+        actionAppDownload.setPlatforms(release.platforms);
+        $('#app-platform').val(actionAppDownload.getRecommendedPlatform(release.platforms));
+        actionAppDownload.setFormats(release.formats);
+        $('#app-format').val(release.formats[0]);
+      }
+    });
+  },
+
+  renderGroups: function(data) {
+    appCurrentRelease = actionAppDownload.getCurrentRelease(data.releases);
+    $.each(data.groups, function(i, group) {
+      optGroup = $('<optgroup>', {
+        label: group
+      });
+      $.each(data.releases, function(i, release) {
+        if (!release.version.startsWith(group)) {
+          return;
+        }
+        var isCurrentRelease = appCurrentRelease.version === release.version && appCurrentRelease.release === release.release;
+        var versionText = release.version + '-' + release.release;
+        if (release.type === 'pre-release') {
+          versionText += ' (development release)';
+        } else if (release.type === 'broken') {
+          versionText += ' (broken release)';
+        }
+        optGroup.append($('<option>', {
+          value: release.version + ';' + release.release,
+          text : versionText
+        }).attr('data-rtype', release.type));
+        if (isCurrentRelease) {
+          $('#app-version').val(release.version + ';' + release.release);
+          actionAppDownload.setPlatforms(release.platforms);
+          $('#app-platform').val(actionAppDownload.getRecommendedPlatform(release.platforms));
+          actionAppDownload.setFormats(release.formats);
+          $('#app-format').val(release.formats[0]);
+        }
+      });
+      $('#app-version').append(optGroup);
     });
   },
 
