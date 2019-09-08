@@ -56,7 +56,7 @@ jobs:
           JEKYLL_ENV: production
           JEKYLL_LOG_LEVEL: info
           NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gulp --env=production build
           #htmlproofer ./web/download --allow-missing-href --allow-hash-href --assume_extension --check-favicon --http-status-ignore 403 --only-4xx --alt-ignore "/.*/" --log-level=:debug
