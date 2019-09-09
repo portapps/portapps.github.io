@@ -37,9 +37,7 @@ var actionAppDownload = {
   },
 
   render: function(data) {
-    appCurrentRelease = actionAppDownload.getCurrentRelease(data.releases);
     $.each(data.releases, function(i, release) {
-      var isCurrentRelease = appCurrentRelease.version === release.version && appCurrentRelease.release === release.release;
       var versionText = release.version + '-' + release.release;
       if (release.type === 'pre-release') {
         versionText += ' (development release)';
@@ -50,18 +48,11 @@ var actionAppDownload = {
         value: release.version + ';' + release.release,
         text : versionText
       }).attr('data-rtype', release.type));
-      if (isCurrentRelease) {
-        $('#app-version').val(release.version + ';' + release.release);
-        actionAppDownload.setPlatforms(release.platforms);
-        $('#app-platform').val(actionAppDownload.getRecommendedPlatform(release.platforms));
-        actionAppDownload.setFormats(release.formats);
-        $('#app-format').val(release.formats[0]);
-      }
     });
+    actionAppDownload.setCurrentRelease(data.releases);
   },
 
   renderGroups: function(data) {
-    appCurrentRelease = actionAppDownload.getCurrentRelease(data.releases);
     $.each(data.groups, function(i, group) {
       optGroup = $('<optgroup>', {
         label: group
@@ -70,7 +61,6 @@ var actionAppDownload = {
         if (!release.version.startsWith(group)) {
           return;
         }
-        var isCurrentRelease = appCurrentRelease.version === release.version && appCurrentRelease.release === release.release;
         var versionText = release.version + '-' + release.release;
         if (release.type === 'pre-release') {
           versionText += ' (development release)';
@@ -81,16 +71,10 @@ var actionAppDownload = {
           value: release.version + ';' + release.release,
           text : versionText
         }).attr('data-rtype', release.type));
-        if (isCurrentRelease) {
-          $('#app-version').val(release.version + ';' + release.release);
-          actionAppDownload.setPlatforms(release.platforms);
-          $('#app-platform').val(actionAppDownload.getRecommendedPlatform(release.platforms));
-          actionAppDownload.setFormats(release.formats);
-          $('#app-format').val(release.formats[0]);
-        }
       });
       $('#app-version').append(optGroup);
     });
+    actionAppDownload.setCurrentRelease(data.releases);
   },
 
   refreshDownloadButton: function(data) {
@@ -185,15 +169,17 @@ var actionAppDownload = {
     });
   },
 
-  getCurrentRelease: function(releases) {
-    var currentRelease = null;
+  setCurrentRelease: function(releases) {
     $.each(releases, function(i, release) {
       if (release.type === "release") {
-        currentRelease = release;
+        $('#app-version').val(release.version + ';' + release.release);
+        actionAppDownload.setPlatforms(release.platforms);
+        $('#app-platform').val(actionAppDownload.getRecommendedPlatform(release.platforms));
+        actionAppDownload.setFormats(release.formats);
+        $('#app-format').val(release.formats[0]);
         return false;
       }
     });
-    return currentRelease;
   },
 
   getRecommendedPlatform: function(platforms) {
