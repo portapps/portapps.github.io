@@ -75,6 +75,11 @@
         "css/font-awesome.css",
         "fonts/*.*"
       ]
+    },
+    "normalize.css": {
+      "main": [
+        "normalize.css"
+      ]
     }
   },
   "engines": {
