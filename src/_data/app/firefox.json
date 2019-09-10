@@ -34,7 +34,7 @@
       "version": "69.0",
       "release": "24",
       "date": "2019/09/09",
-      "type": "pre-release",
+      "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
       "formats": ["setup", "7z"]
