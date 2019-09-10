@@ -37,6 +37,7 @@ jobs:
       -
         name: Set up Bundler
         run: |
+          gem uninstall -aIx bundler
           gem install bundler -v 2.0.2
       -
         # https://github.com/actions/checkout
@@ -49,7 +50,7 @@ jobs:
       -
         name: Bundle install
         run: |
-          bundle install
+          bundle install --jobs 4 --retry 3
       -
         name: Build
         env:
