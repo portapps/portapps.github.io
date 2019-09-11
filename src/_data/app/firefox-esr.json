@@ -25,12 +25,31 @@
   "groups": [
     "68.1",
     "68.0",
+    "60.9",
     "60.8",
     "60.7",
     "60.6",
     "60.5"
   ],
   "releases": [
+    {
+      "version": "68.1.0",
+      "release": "23",
+      "date": "2019/09/11",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.9.0",
+      "release": "22",
+      "date": "2019/09/11",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "68.1.0",
       "release": "20",
