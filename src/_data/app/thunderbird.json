@@ -23,12 +23,32 @@
     }
   ],
   "groups": [
+    "68.1",
     "68.0",
+    "60.9",
     "60.8",
     "60.7",
     "60.6"
   ],
   "releases": [
+    {
+      "version": "68.1.0",
+      "release": "12",
+      "date": "2019/09/11",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.9.0",
+      "release": "11",
+      "date": "2019/09/11",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "68.0",
       "release": "8",
