@@ -25,6 +25,15 @@
   "releases": [
     {
       "version": "56.2.14",
+      "release": "9",
+      "date": "2019/09/13",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "56.2.14",
       "release": "8",
       "date": "2019/09/05",
       "type": "release",
