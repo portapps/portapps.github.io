@@ -29,6 +29,15 @@
   ],
   "releases": [
     {
+      "version": "5.3.3",
+      "release": "6",
+      "date": "2019/09/17",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "5.3.1",
       "release": "5",
       "date": "2019/09/09",
