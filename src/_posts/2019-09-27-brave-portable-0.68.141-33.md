@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brave portable 0.68.141-33
-date: 2019-09-28 21:55:00 +0200
+date: 2019-09-27 21:55:00 +0200
 app: brave
 tags: [brave]
 ---
