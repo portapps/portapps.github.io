@@ -20,7 +20,7 @@ Add the path to `go.exe` (eg. `C:\go\bin`) to your environment variable PATH (mu
 To check if you have Go in your path, open a command prompt and type `go version` :
 
 ```text
-go version go1.12.4 windows/amd64
+go version go1.12.10 windows/amd64
 ```
 
 ## OpenJDK
