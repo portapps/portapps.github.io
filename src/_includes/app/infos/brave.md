@@ -6,7 +6,6 @@ Here is what differs from the original release to ensure portability :
   * `--user-data-dir=<data_path>` : Directory where the browser stores the user profile. `<data_path>` is dynamically generated at launch.
   * `--disable-brave-update` : Disable automatic update to avoid regressions.
   * `--no-default-browser-check` : Stops {{ include.app.label }} from checking if it is the default browser at startup.
-  * `--allow-outdated-plugins` : Don't block outdated plugins.
   * `--disable-logging` : Force logging to be disabled.
   * `--disable-breakpad` : Disables the crash reporting.
   * `--disable-machine-id` : Allows disabling the machine ID generation on Windows.
