@@ -48,6 +48,15 @@
   ],
   "releases": [
     {
+      "version": "3.5.1",
+      "release": "6",
+      "date": "2019/10/06",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
       "version": "3.5",
       "release": "5",
       "date": "2019/08/20",
