@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Firefox Developer Edition portable 70.0b12-21
-date: 2019-10-06 00:39:00 +0200
+date: 2019-10-08 00:39:00 +0200
 app: firefox-developer
 tags: [firefox-developer]
 ---
