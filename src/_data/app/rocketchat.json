@@ -23,6 +23,7 @@
     }
   ],
   "groups":[
+    "2.16",
     "2.15",
     "2.14",
     "2.13",
@@ -31,6 +32,15 @@
     "2.10"
   ],
   "releases": [
+    {
+      "version": "2.16.0",
+      "release": "9",
+      "date": "2019/10/15",
+      "type": "release",
+      "original": "rocketchat-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "2.15.5",
       "release": "8",
