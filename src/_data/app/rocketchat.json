@@ -34,7 +34,7 @@
   "releases": [
     {
       "version": "2.16.0",
-      "release": "9",
+      "release": "8",
       "date": "2019/10/15",
       "type": "release",
       "original": "rocketchat-setup-@version@.exe",
