@@ -23,6 +23,7 @@
     }
   ],
   "groups": [
+    "71",
     "70",
     "69",
     "68",
@@ -30,6 +31,15 @@
     "66"
   ],
   "releases": [
+    {
+      "version": "71.0b1",
+      "release": "22",
+      "date": "2019/10/16",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "70.0b12",
       "release": "21",
