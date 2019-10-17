@@ -26,6 +26,24 @@
   ],
   "releases": [
     {
+      "version": "11.0.5",
+      "release": "11",
+      "date": "2019/10/17",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u231",
+      "release": "10",
+      "date": "2019/10/17",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "12.0.2",
       "release": "9",
       "date": "2019/07/17",
