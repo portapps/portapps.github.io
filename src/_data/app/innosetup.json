@@ -1,0 +1,40 @@
+{
+  "name": "innosetup",
+  "label": "Inno Setup",
+  "desc": "A free installer for Windows programs.",
+  "license": "freeware",
+  "status": "ok",
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "innosetup-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "http://www.jrsoftware.org/isinfo.php",
+  "move": [],
+  "releases": [
+    {
+      "version": "6.0.3",
+      "release": "2",
+      "date": "2019/10/19",
+      "type": "release",
+      "original": "innosetup-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.6.1",
+      "release": "1",
+      "date": "2019/10/19",
+      "type": "release",
+      "original": "innosetup-@platform@-@version@-unicode-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
