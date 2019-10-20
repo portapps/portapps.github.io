@@ -12,7 +12,7 @@ Following prerequisites must be met:
 * License allows distribution/repackaging of the software
 * [Abandonware](https://en.wikipedia.org/wiki/Abandonware){:target="_blank"} will not be processed
 
-Search for [existing app requests]({{ var_repo_url }}/issues?q=is%3Aissue+label%3Aapp-request).
+Search for [existing app requests]({{ var_repo_url }}/issues?q=is%3Aissue+label%3A"%3Apackage%3A+app+request").
 
 If you find your app request already exists, make relevant comments and add your [reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments){:target="_blank"}. Use a reaction in place of a "+1" comment.
 
