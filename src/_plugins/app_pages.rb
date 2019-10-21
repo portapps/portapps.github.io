@@ -21,7 +21,7 @@ module Jekyll
       issues_resp.each_page do |issues_page|
         issues_page.each do |issue|
           issue['labels'].each do |label|
-            if ['bug', 'upstream'].include? label['name']
+            if ['bug', 'upstream', ':bug: bug', ':eyes: upstream'].include? label['name']
               issues.push issue
               break
             end
