@@ -35,6 +35,15 @@
   ],
   "releases": [
     {
+      "version": "6.2.3",
+      "release": "19",
+      "date": "2019/10/22",
+      "type": "release",
+      "original": "dbeaver-ce-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "6.2.2",
       "release": "18",
       "date": "2019/10/08",
