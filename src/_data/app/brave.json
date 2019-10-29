@@ -23,6 +23,7 @@
     }
   ],
   "groups": [
+    "0.70",
     "0.69",
     "0.68",
     "0.67",
@@ -45,6 +46,15 @@
     "0.15"
   ],
   "releases": [
+    {
+      "version": "0.70.121",
+      "release": "37",
+      "date": "2019/10/29",
+      "type": "release",
+      "original": "brave_installer-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "0.69.135",
       "release": "36",
