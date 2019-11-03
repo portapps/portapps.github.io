@@ -23,10 +23,20 @@
     }
   ],
   "groups": [
+    "3.11",
     "3.10",
     "3.9"
   ],
   "releases": [
+    {
+      "version": "3.11.3259",
+      "release": "5",
+      "date": "2019/11/03",
+      "type": "release",
+      "original": "WireSetup-@platform@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "3.10.3138",
       "release": "4",
