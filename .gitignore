@@ -19,3 +19,6 @@
 # Custom
 /.dev
 /src/_data/assets*.json
+
+# Ruby
+/vendor

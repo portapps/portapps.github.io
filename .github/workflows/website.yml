@@ -3,15 +3,19 @@ name: website
 on:
   pull_request:
     branches:
-      - dev
+      - 'dev'
   push:
     branches:
-      - dev
+      - 'dev'
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
+      -
+        # https://github.com/actions/checkout
+        name: Checkout
+        uses: actions/checkout@v1
       -
         # https://github.com/actions/setup-node
         name: Set up Node.js
@@ -25,21 +29,37 @@ jobs:
         with:
           ruby-version: 2.6.x
       -
+        # https://github.com/actions/cache
+        name: Set up gems cache
+        uses: actions/cache@preview
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gem-
+      -
+        # https://github.com/actions/cache
+        name: Set up node_modules cache
+        uses: actions/cache@preview
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      -
         name: Set up Bundler
         run: |
           gem uninstall -aIx bundler
           gem install bundler -v 2.0.2
       -
-        # https://github.com/actions/checkout
-        name: Checkout
-        uses: actions/checkout@v1
-      -
         name: Yarn install
         run: |
-          yarn install
+          npm install -g yarn
+          yarn install --frozen-lockfile
       -
         name: Bundle install
         run: |
+          bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
       -
         name: Build
