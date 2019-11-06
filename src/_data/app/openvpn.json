@@ -24,18 +24,18 @@
   ],
   "releases": [
     {
-      "version": "2.4.7-I607-Win10",
-      "release": "5",
-      "date": "2019/05/18",
+      "version": "2.4.8-I602",
+      "release": "7",
+      "date": "2019/11/06",
       "type": "release",
       "original": "openvpn-install-@version@.exe",
       "platforms": ["win32", "win64"],
       "formats": ["setup", "7z"]
     },
     {
-      "version": "2.4.7-I607-Win7",
-      "release": "4",
-      "date": "2019/05/18",
+      "version": "2.4.7-I607",
+      "release": "6",
+      "date": "2019/11/06",
       "type": "release",
       "original": "openvpn-install-@version@.exe",
       "platforms": ["win32", "win64"],
