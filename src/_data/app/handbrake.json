@@ -23,10 +23,20 @@
     }
   ],
   "groups": [
+    "1.3",
     "1.2",
     "1.1"
   ],
   "releases": [
+    {
+      "version": "1.3.0",
+      "release": "4",
+      "date": "2019/11/12",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.2.2",
       "release": "3",
