@@ -15,6 +15,7 @@
   name: ":memo: documentation"
   color: "c5def5"
   description: ""
+  from_name: "doc"
 - # duplicate
   name: ":busts_in_silhouette: duplicate"
   color: "cccccc"
@@ -23,6 +24,7 @@
   name: ":sparkles: enhancement"
   color: "0054ca"
   description: ""
+  from_name: "enhancement"
 - # feature request
   name: ":bulb: feature request"
   color: "0e8a16"
