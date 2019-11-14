@@ -1,18 +1,11 @@
 ---
 title: Donate
 permalink: /donate/
-markdown_body: ""
 ---
 {% include vars.html %}
 
-<div class="markdown-body">{% markdown %}
-**{{ site.title }}** is free and open source and always will be.<br />
-All kinds of contributions are welcome {% gemoji gift %} !<br />
-The most basic way to show your support is to star {% gemoji star %} the project, or to raise issues {% gemoji speech_balloon %}<br />
-But we're not gonna lie to each other, I'd rather you buy me a beer or two {% gemoji beers %} !
-{% endmarkdown %}<span></span></div>
+**{{ site.title }}** {% gemoji zap %} is free and open source and always will be.
 
-<p>
-  <a class="donate" title="Support me on Patreon" target="_blank" href="https://www.patreon.com/{{ site.patreon }}"><img src="{{ site.baseurl }}/img/donate/patreon.png" /></a>
-  <a class="donate" title="Paypal Donate" target="_blank" href="https://www.paypal.me/{{ site.paypal }}"><img src="{{ site.baseurl }}/img/donate/paypal.png" /></a>
-</p>
+All kinds of contributions are welcome {% gemoji raised_hands %}! The most basic way to show your support is to star {% gemoji star %} the project, or to raise issues {% gemoji speech_balloon %}
+
+You can also support this project by [**becoming a sponsor on GitHub**](https://github.com/sponsors/{{ site.github_sponsor }}){:target="_blank"} {% gemoji clap %} or by making a [Paypal donation](https://www.paypal.me/{{ site.paypal }}){:target="_blank"} to ensure this journey continues indefinitely! {% gemoji rocket %}
