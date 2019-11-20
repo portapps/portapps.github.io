@@ -22,7 +22,20 @@
       "to": "data"
     }
   ],
+  "groups": [
+    "0.7",
+    "0.6"
+  ],
   "releases": [
+    {
+      "version": "0.7.0",
+      "release": "4",
+      "date": "2019/11/20",
+      "type": "release",
+      "original": "RamboxSetup-win.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "0.6.9",
       "release": "3",
