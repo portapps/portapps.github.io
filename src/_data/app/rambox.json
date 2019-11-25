@@ -28,6 +28,15 @@
   ],
   "releases": [
     {
+      "version": "0.7.2",
+      "release": "5",
+      "date": "2019/11/25",
+      "type": "release",
+      "original": "RamboxSetup-win.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "0.7.0",
       "release": "4",
       "date": "2019/11/20",
