@@ -1,15 +1,19 @@
 {
-  "name": "firefox-developer",
-  "label": "Firefox&trade; Developer Edition",
-  "desc": "Developer Edition of Firefox web browser developed by The Mozilla Foundation.",
+  "name": "phyrox-developer",
+  "label": "Phyrox Developer Edition",
+  "desc": "Run Mozilla Firefox Developer Edition as a portable app.",
   "license": "mpl-2.0",
   "status": "ok",
-  "trademark": true,
+  "trademark": false,
+  "original": {
+    "name": "firefox-developer",
+    "label": "Firefox Developer Edition"
+  },
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["browser"],
   "github": {
     "user": "portapps",
-    "repo": "firefox-developer-portable"
+    "repo": "phyrox-developer-portable"
   },
   "maintainer": {
     "name": "CrazyMax",
@@ -38,7 +42,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "71.0b1",
@@ -47,7 +52,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "70.0b12",
@@ -56,7 +62,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "70.0b6",
@@ -65,7 +72,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "70.0b2",
@@ -74,7 +82,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "69.0b16",
@@ -83,7 +92,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "69.0b11",
@@ -92,7 +102,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "69.0b4",
@@ -101,7 +112,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "69.0b1",
@@ -110,7 +122,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "68.0b13",
@@ -119,7 +132,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "68.0b10",
@@ -128,7 +142,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "68.0b7",
@@ -137,7 +152,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "68.0b6",
@@ -146,7 +162,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "68.0b2",
@@ -155,7 +172,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "67.0b18",
@@ -164,7 +182,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "67.0b17",
@@ -173,7 +192,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "67.0b10",
@@ -182,7 +202,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "67.0b6",
@@ -191,7 +212,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "67.0b4",
@@ -200,7 +222,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "67.0b3",
@@ -209,7 +232,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "66.0b14",
@@ -218,7 +242,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     },
     {
       "version": "66.0b13",
@@ -227,7 +252,8 @@
       "type": "release",
       "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
     }
   ]
 }
