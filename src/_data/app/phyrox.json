@@ -1,7 +1,7 @@
 {
-  "name": "firefox",
-  "label": "Firefox&trade;",
-  "desc": "A free and open-source web browser developed by The Mozilla Foundation.",
+  "name": "phyrox",
+  "label": "Phyrox",
+  "desc": "Run Mozilla Firefox as a portable app.",
   "license": "mpl-2.0",
   "status": "ok",
   "trademark": true,
@@ -9,7 +9,7 @@
   "categories": ["browser"],
   "github": {
     "user": "portapps",
-    "repo": "firefox-portable"
+    "repo": "phyrox-portable"
   },
   "maintainer": {
     "name": "CrazyMax",
@@ -38,7 +38,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "70.0",
@@ -47,7 +48,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "70.0",
@@ -56,7 +58,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "69.0.3",
@@ -65,7 +68,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "69.0.2",
@@ -74,7 +78,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "69.0.1",
@@ -83,7 +88,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "69.0",
@@ -92,7 +98,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "69.0",
@@ -101,7 +108,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "68.0.2",
@@ -110,7 +118,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "68.0.1",
@@ -119,7 +128,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "68.0",
@@ -128,7 +138,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "67.0.4",
@@ -137,7 +148,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "67.0.3",
@@ -146,7 +158,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "67.0.2",
@@ -155,7 +168,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "67.0.1",
@@ -164,7 +178,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "67.0.1",
@@ -173,7 +188,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "67.0",
@@ -182,7 +198,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "67.0",
@@ -191,7 +208,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "66.0.5",
@@ -200,7 +218,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "66.0.4",
@@ -209,7 +228,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "66.0.3",
@@ -218,7 +238,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "66.0.2",
@@ -227,7 +248,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "66.0.1",
@@ -236,7 +258,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "66.0",
@@ -245,7 +268,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "65.0.2",
@@ -254,7 +278,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "65.0.2",
@@ -263,7 +288,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "65.0.2",
@@ -272,7 +298,8 @@
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     },
     {
       "version": "65.0.2",
@@ -281,7 +308,8 @@
       "type": "broken",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altid": "firefox"
     }
   ]
 }
