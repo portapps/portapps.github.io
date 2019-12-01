@@ -1,4 +1,4 @@
-> {% gemoji warning %} Following a trademark violation report ([#4](https://github.com/{{ include.app.github.user }}/{{ include.app.github.repo }}/issues/5){:target="_blank"}) from Mozilla, Thunderbird portable has been named Stormhen portable on Portapps. Nothing changes except its name.
+> {% gemoji warning %} Following a trademark violation report ([#4](https://github.com/{{ include.app.github.user }}/{{ include.app.github.repo }}/issues/4){:target="_blank"}) from Mozilla, Thunderbird portable has been named Stormhen portable on Portapps. Nothing changes except its name.
 
 ### Modifications
 
