@@ -1,15 +1,19 @@
 {
-  "name": "thunderbird",
-  "label": "Thunderbird&trade;",
-  "desc": "A free and open-source email client, news client and RSS client developed by the Mozilla Foundation.",
+  "name": "stormhen",
+  "label": "Stormhen",
+  "desc": "Run Mozilla Thunderbird as a portable app.",
   "license": "mpl-2.0",
   "status": "ok",
-  "trademark": true,
+  "trademark": false,
+  "original": {
+    "name": "thunderbird",
+    "label": "Thunderbird"
+  },
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["browser"],
   "github": {
     "user": "portapps",
-    "repo": "thunderbird-portable"
+    "repo": "stormhen-portable"
   },
   "maintainer": {
     "name": "CrazyMax",
@@ -39,7 +43,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "68.2.0",
@@ -48,7 +53,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "68.1.2",
@@ -57,7 +63,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "68.1.1",
@@ -66,7 +73,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "68.1.0",
@@ -75,7 +83,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "60.9.0",
@@ -84,7 +93,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "68.0",
@@ -93,7 +103,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "60.8.0",
@@ -102,7 +113,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "60.7.2",
@@ -111,7 +123,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "60.7.1",
@@ -120,7 +133,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "60.7.0",
@@ -129,7 +143,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "60.7.0",
@@ -138,7 +153,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "60.6.1",
@@ -147,7 +163,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     },
     {
       "version": "60.6.1",
@@ -156,7 +173,8 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"]
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
     }
   ]
 }
