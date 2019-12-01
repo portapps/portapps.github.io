@@ -45,11 +45,11 @@ The name {{ include.app.label }} as well as related names, marks, emblems and im
 Download and install the [latest portable setup](#download) where you want then run `{{ include.app.name }}-portable.exe`.
 
 {% if include.app.move.size > 0 %}
-If **you have already installed {{ include.app.label }} from the original setup**, move the following files :
+If **you have already installed {{ include.app.original.label | default: include.app.label }} from the original setup**, move the following files :
 {% for move in include.app.move %}
 * `{{ move.from }}` to `{{ move.to }}`{% endfor %}
 
-Then run `{{ include.app.name }}-portable.exe` and [remove](https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs){:target="_blank"} {{ include.app.label }} from your computer.
+Then run `{{ include.app.name }}-portable.exe` and [remove](https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs){:target="_blank"} {{ include.app.original.label | default: include.app.label }} from your computer.
 {% endif %}
 
 ### Upgrade

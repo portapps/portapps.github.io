@@ -47,7 +47,10 @@ var actionAppDownload = {
       $('#app-version').append($('<option>', {
         value: release.version + ';' + release.release,
         text : versionText
-      }).attr('data-rtype', release.type));
+      }).attr({
+        'data-rtype': release.type,
+        'data-rname': release['altname'] || data.name
+      }));
     });
     actionAppDownload.setCurrentRelease(data.releases);
   },
@@ -70,7 +73,10 @@ var actionAppDownload = {
         optGroup.append($('<option>', {
           value: release.version + ';' + release.release,
           text : versionText
-        }).attr('data-rtype', release.type));
+        }).attr({
+          'data-rtype': release.type,
+          'data-rname': release['altname'] || data.name
+        }));
       });
       $('#app-version').append(optGroup);
     });
@@ -78,6 +84,7 @@ var actionAppDownload = {
   },
 
   refreshDownloadButton: function(data) {
+    var name = $('option:selected', $('#app-version')).attr('data-rname');
     var version = $('#app-version').val();
     var versionSpl = version.split(';');
     var versionTxt = versionSpl[0] + '-' + versionSpl[1];
@@ -107,12 +114,12 @@ var actionAppDownload = {
       );
     }
     $('.app-download-button').fadeOut(250).append($('<a>', {
-        href: '/download/' + data.name + '-portable-' + linkPlatformVersion + linkSuffix,
+        href: '/download/' + name + '-portable-' + linkPlatformVersion + linkSuffix,
         class: 'btn ' + btnColor,
         style: 'text-align: left;'
       })
         .append('<span class="app-download-text"><span class="fa fa-download"></span>&nbsp;Download</span><br />')
-        .append('<small>' + data.name + '-portable-' + linkPlatformVersion + linkSuffix + '</small>')
+        .append('<small>' + name + '-portable-' + linkPlatformVersion + linkSuffix + '</small>')
     ).fadeIn(250);
   },
 
