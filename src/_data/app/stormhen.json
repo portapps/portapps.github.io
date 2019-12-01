@@ -43,8 +43,7 @@
       "type": "release",
       "original": "ThunderbirdSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
-      "formats": ["setup", "7z"],
-      "altname": "thunderbird"
+      "formats": ["setup", "7z"]
     },
     {
       "version": "68.2.1",
