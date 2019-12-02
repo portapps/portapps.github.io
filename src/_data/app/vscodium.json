@@ -4,6 +4,7 @@
   "desc": "Free and open source software binaries of VSCode without MS branding/telemetry/licensing",
   "license": "mit",
   "status": "ok",
+  "redir_from": "",
   "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],

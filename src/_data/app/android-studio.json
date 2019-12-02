@@ -4,6 +4,7 @@
   "desc": "The official IDE for Google's Android operating system.",
   "license": "freeware",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],

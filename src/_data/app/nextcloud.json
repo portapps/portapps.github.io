@@ -4,6 +4,7 @@
   "desc": "An open source, self-hosted file share and communication platform.",
   "license": "gpl-2.0",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["file-sharing"],

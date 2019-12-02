@@ -4,6 +4,7 @@
   "desc": "An Internet Relay Chat (IRC) client for Windows.",
   "license": "shareware",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],

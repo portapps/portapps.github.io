@@ -4,6 +4,7 @@
   "desc": "A cloud-based set of team collaboration tools and services.",
   "license": "freeware",
   "status": "discontinued",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev", "messaging"],

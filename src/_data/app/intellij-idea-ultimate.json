@@ -4,6 +4,7 @@
   "desc": "A Code-centric IDE, focused on your productivity.",
   "license": "apache-2.0",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],

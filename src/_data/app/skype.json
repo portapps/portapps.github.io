@@ -4,6 +4,7 @@
   "desc": "A telecommunications application software product that specializes in providing video chat and voice calls.",
   "license": "freemium",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],

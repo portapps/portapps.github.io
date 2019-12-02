@@ -1,0 +1,20 @@
+---
+layout: default
+markdown_body: ""
+sitemap:
+  exclude: yes
+---
+
+{% include header.html %}
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-10 col-md-8 col-md-offset-1">
+      <h2>Redirecting to {{ page.app_redirect }}...</h2>
+      <p>
+        Please use this <a href="{{ site.baseurl }}/{{ page.app_redirect }}/">link</a> if you are not redirected.
+      </p>
+    </div>
+  </div>
+</div>
+<script>location="{{ site.baseurl }}/{{ page.app_redirect }}/"</script>

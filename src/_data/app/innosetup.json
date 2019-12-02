@@ -4,6 +4,7 @@
   "desc": "A free installer for Windows programs.",
   "license": "freeware",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],

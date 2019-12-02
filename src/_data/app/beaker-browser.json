@@ -4,6 +4,7 @@
   "desc": "An experimental browser for exploring and building the peer-to-peer Web.",
   "license": "mit",
   "status": "ok",
+  "redir_from": "",
   "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["browser"],

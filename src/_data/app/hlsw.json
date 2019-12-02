@@ -4,6 +4,7 @@
   "desc": "A game server browser and administration tool.",
   "license": "freeware",
   "status": "ok",
+  "redir_from": "",
   "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["gaming"],

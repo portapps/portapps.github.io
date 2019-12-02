@@ -4,6 +4,7 @@
   "desc": "An encrypted communications program.",
   "license": "gpl-3.0",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],

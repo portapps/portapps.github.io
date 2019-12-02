@@ -4,6 +4,7 @@
   "desc": "One of the world's foremost network protocol analyzers.",
   "license": "gpl-2.0",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["misc"],

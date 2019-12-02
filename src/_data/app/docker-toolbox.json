@@ -4,6 +4,7 @@
   "desc": "Provides a way to use Docker on Windows systems.",
   "license": "apache-2.0",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],

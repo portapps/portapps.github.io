@@ -4,6 +4,7 @@
   "desc": "Run Mozilla Firefox as a portable app.",
   "license": "mpl-2.0",
   "status": "ok",
+  "redir_from": "firefox",
   "trademark": false,
   "original": {
     "name": "firefox",

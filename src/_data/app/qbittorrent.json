@@ -4,6 +4,7 @@
   "desc": "A free and open-source software alternative to µTorrent.",
   "license": "gpl-2.0",
   "status": "ok",
+  "redir_from": "",
   "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["misc"],

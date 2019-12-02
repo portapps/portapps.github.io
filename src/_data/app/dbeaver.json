@@ -4,6 +4,7 @@
   "desc": "A free universal database tool and SQL client.",
   "license": "apache-2.0",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["database"],

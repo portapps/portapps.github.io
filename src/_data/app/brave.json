@@ -4,6 +4,7 @@
   "desc": "A free and open-source web browser based on the Chromium web browser and its Blink engine.",
   "license": "mpl-2.0",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["browser"],

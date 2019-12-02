@@ -42,6 +42,21 @@ module Jekyll
     end
   end
 
+  class AppRedirect < Page
+    def initialize(site, base, dir, from, to)
+      @site = site
+      @base = base
+      @dir = dir
+      @name = "#{from}-portable.md"
+
+      Jekyll.logger.debug "  Creating redirect app page from #{from} to #{to}..."
+
+      self.process(@name)
+      self.read_yaml(File.join(base, "_layouts"), "app-redirect.html")
+      self.data['app_redirect'] = "app/#{to}-portable"
+    end
+  end
+
   class AppFeedPage < Page
     def initialize(site, base, dir, the_app)
       @site = site
@@ -73,6 +88,9 @@ module Jekyll
           data = JSON.parse(File.read(file))
           next if !data.kind_of?(Hash) or !data['name']
           site.pages << AppPage.new(site, site.source, "app", data)
+          if data['redir_from'] != ''
+            site.pages << AppRedirect.new(site, site.source, "app", data['redir_from'], data['name'])
+          end
           next if data['status'] != 'ok'
           site.pages << AppFeedPage.new(site, site.source, "app/" + data['name'] + "-portable", data)
         end

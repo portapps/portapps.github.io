@@ -4,6 +4,7 @@
   "desc": "An open source, free software instant messaging client based on the Matrix protocol.",
   "license": "apache-2.0",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],

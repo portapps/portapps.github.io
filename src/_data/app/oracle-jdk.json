@@ -4,6 +4,7 @@
   "desc": "Java Development Kit (JDK) is an implementation of the Java Platform released by Oracle Corporation.",
   "license": "otn",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],

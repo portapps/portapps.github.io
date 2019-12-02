@@ -4,6 +4,7 @@
   "desc": "Run Mozilla Thunderbird as a portable app.",
   "license": "mpl-2.0",
   "status": "ok",
+  "redir_from": "thunderbird",
   "trademark": false,
   "original": {
     "name": "thunderbird",

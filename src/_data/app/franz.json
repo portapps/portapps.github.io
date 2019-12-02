@@ -4,6 +4,7 @@
   "desc": "Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and many many more.",
   "license": "apache-2.0",
   "status": "ok",
+  "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],
