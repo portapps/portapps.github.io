@@ -65,8 +65,8 @@ Everything is revealed on [Travis CI](https://travis-ci.com/portapps){:target="_
 * Download the original setup from the official website
 * Extract this setup
 * Download go modules based on `go.mod` file
-* "Go" generate (prepare versioning file for the final executable and rcedit resources)
-* "Go" build (create the portapp executable)
+* _Go_ generate (prepare versioning file for the final executable and rcedit resources)
+* _Go_ build (create the portapp executable)
 * Compressing executable with UPX
 * Load asar (tool to extract app.asar ; because Skype is based on Electron)
 * [Replace paths in app.asar](https://github.com/portapps/skype-portable/blob/master/build.properties#L23-L28){:target="_blank"}
