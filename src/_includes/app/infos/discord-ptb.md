@@ -5,7 +5,7 @@
 Here is what differs from the original release to ensure portability :
 
 * Electron `userData` path is forced to `data` folder path.
-* Automatic update disabled (not for modules)
+* Check for updates disabled (not for modules)
 * A shortcut is created at launch to allow native notifications and removed when {{ include.app.label }} is closed
 
 ### BetterDiscord
