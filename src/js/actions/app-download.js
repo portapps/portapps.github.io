@@ -9,7 +9,6 @@ var actionAppDownload = {
 
     var appName = $('#app-name').val();
     var appData = null;
-    var appCurrentRelease = null;
 
     // Get app data from api
     $.getJSON("/api/v1/apps/" + appName + ".json", function(json){

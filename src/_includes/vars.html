@@ -10,6 +10,7 @@
 {% endif %}
 {% assign var_domain = var_seo_url | remove:'http://' | remove:'https://' | split:'/' | first %}
 {% capture var_repo_url %}{{ site.github.baseurl }}/{{ site.github.user }}/{{ site.github.repo }}{% endcapture %}
+{% assign app = false %}{% assign app_logo = false %}{% assign app_logo_class = false %}
 {% if page.app %}
   {% assign applist = site.data.app | sort %}
   {% for anapp in applist %}
