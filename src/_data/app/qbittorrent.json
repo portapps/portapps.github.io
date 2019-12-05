@@ -28,9 +28,19 @@
     }
   ],
   "groups": [
+    "4.2",
     "4.1"
   ],
   "releases": [
+    {
+      "version": "4.2.0",
+      "release": "9",
+      "date": "2019/12/05",
+      "type": "release",
+      "original": "qbittorrent_@version@_@platform@_setup.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "4.1.9.1",
       "release": "8",
