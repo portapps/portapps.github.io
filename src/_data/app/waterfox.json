@@ -23,7 +23,20 @@
       "to": "data\\profile\\default"
     }
   ],
+  "groups":[
+    "2019.12",
+    "56.2"
+  ],
   "releases": [
+    {
+      "version": "2019.12",
+      "release": "10",
+      "date": "2019/12/09",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "56.2.14",
       "release": "9",
