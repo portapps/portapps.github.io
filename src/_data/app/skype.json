@@ -24,6 +24,7 @@
     }
   ],
   "groups":[
+    "8.55",
     "8.54",
     "8.53",
     "8.52",
@@ -64,6 +65,15 @@
     "8.11"
   ],
   "releases": [
+    {
+      "version": "8.55.0.135",
+      "release": "74",
+      "date": "2019/12/13",
+      "type": "release",
+      "original": "Skype-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "8.54.0.91",
       "release": "73",
