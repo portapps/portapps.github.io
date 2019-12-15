@@ -8,4 +8,5 @@ tags: [discord-ptb]
 {% include vars.html %}
 
 Release of Discord PTB portable 0.0.49-5 is now available.<br />
+Parameter `cleanup` has been added in config file to allow to cleanup leftover folders on your computer.<br />
 You can find links to download this release on the [Discord PTB portable page]({{ var_seo_url | append: '/app/discord-ptb-portable/' }}).
