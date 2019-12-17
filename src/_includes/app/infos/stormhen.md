@@ -21,12 +21,14 @@ Some modifications have been made through distribution preferences to ensure por
 {{ include.app.label }} portable can be configured through the [main YAML configuration file](/doc/configuration/) :
 
 <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>app:
+  cleanup: true
   multiple_instances: false
   disable_telemetry: false
   gnupg_agent_path: ""
   locale: en-US
 </code></pre></div></div>
 
+* `cleanup` : Cleanup leftover folders (default `false`)
 * `multiple_instances` : Allow multiple instances (default `false`).
 * `disable_telemetry` : If enabled, telemetry is not uploaded (default `false`).
 * `gnupg_agent_path` : Path to GnuPG agent `gpg.exe`. If empty, Portapps will search in `PATH` or will use the embedded version.

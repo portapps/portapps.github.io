@@ -39,6 +39,15 @@
   ],
   "releases": [
     {
+      "version": "68.3.1",
+      "release": "21",
+      "date": "2019/12/17",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "68.3.0",
       "release": "20",
       "date": "2019/12/05",
