@@ -13,3 +13,13 @@ Here is what differs from the original release to ensure portability :
 * A shortcut is created at launch to allow native notifications and removed when {{ include.app.label }} is closed
 
 `--disable-machine-id` and `--disable-encryption-win` have been specially crafted to ensure portability. This means that passwords, cookies and other settings will not be encrypted on your hard drive. It is therefore advisable to have this data on an encrypted hard disk. For more info see [portapps/brave-portable#4](https://github.com/portapps/brave-portable/issues/4), [portapps/brave-portable#15](https://github.com/portapps/brave-portable/issues/15) and [brave/brave-core#795](https://github.com/brave/brave-core/pull/795).
+
+### Configuration
+
+{{ include.app.label }} portable can be configured through the [main YAML configuration file](/doc/configuration/) :
+
+<div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>app:
+  cleanup: true
+</code></pre></div></div>
+
+* `cleanup` : Cleanup leftover folders (default `false`)
