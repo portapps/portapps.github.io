@@ -33,6 +33,15 @@
   ],
   "releases": [
     {
+      "version": "4.2.1",
+      "release": "10",
+      "date": "2019/12/18",
+      "type": "release",
+      "original": "qbittorrent_@version@_@platform@_setup.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "4.2.0",
       "release": "9",
       "date": "2019/12/05",
