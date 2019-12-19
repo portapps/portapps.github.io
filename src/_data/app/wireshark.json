@@ -23,7 +23,20 @@
       "to": "data"
     }
   ],
+  "groups": [
+    "3.2",
+    "3.0"
+  ],
   "releases": [
+    {
+      "version": "3.2.0",
+      "release": "7",
+      "date": "2019/12/19",
+      "type": "release",
+      "original": "Wireshark-@platform@-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "3.0.7",
       "release": "6",
