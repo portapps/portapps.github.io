@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wireshark portable 3.0.7-6
-date: 2019-12-06 18:48:00 +0200
+date: 2019-12-06 18:48:00 +0100
 app: wireshark
 tags: [wireshark]
 ---
