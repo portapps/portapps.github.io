@@ -36,7 +36,11 @@ var actionAppDownload = {
   },
 
   render: function(data) {
+    var versions = new Array();
     $.each(data.releases, function(i, release) {
+      if (jQuery.inArray(release.version, versions) !== -1) {
+        return;
+      }
       var versionText = release.version + '-' + release.release;
       if (release.type === 'pre-release') {
         versionText += ' (development release)';
@@ -50,17 +54,19 @@ var actionAppDownload = {
         'data-rtype': release.type,
         'data-rname': release['altname'] || data.name
       }));
+      versions.push(release.version);
     });
     actionAppDownload.setCurrentRelease(data.releases);
   },
 
   renderGroups: function(data) {
+    var versions = new Array();
     $.each(data.groups, function(i, group) {
       optGroup = $('<optgroup>', {
         label: group
       });
       $.each(data.releases, function(i, release) {
-        if (!release.version.startsWith(group)) {
+        if (!release.version.startsWith(group) || jQuery.inArray(release.version, versions) !== -1) {
           return;
         }
         var versionText = release.version + '-' + release.release;
@@ -76,6 +82,7 @@ var actionAppDownload = {
           'data-rtype': release.type,
           'data-rname': release['altname'] || data.name
         }));
+        versions.push(release.version);
       });
       $('#app-version').append(optGroup);
     });
