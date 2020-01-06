@@ -23,6 +23,7 @@ Some modifications have been made through policies to ensure portability:
   disable_telemetry: false
   disable_firefox_studies: false
   locale: en-US
+  cleanup: false
 </code></pre></div></div>
 
 * `profile` : Name of the profile created in `data\profile\<name>` (default `default`)
@@ -30,3 +31,4 @@ Some modifications have been made through policies to ensure portability:
 * `disable_telemetry` : If enabled, Firefox telemetry is not uploaded (default `false`)
 * `disable_firefox_studies` : If enabled, Firefox will never run SHIELD studies or do Heartbeat surveys. (default `false`)
 * `locale` : Locale located in `app\langs` can be used to change UI language without `.xpi` extension (default `en-US`).
+* `cleanup` : Cleanup leftover folders (default `false`)
