@@ -24,10 +24,20 @@
     }
   ],
   "groups":[
-    "2019.12",
+    "2020",
+    "2019",
     "56.2"
   ],
   "releases": [
+    {
+      "version": "2020.01",
+      "release": "10",
+      "date": "2020/01/20",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "2019.12",
       "release": "10",
