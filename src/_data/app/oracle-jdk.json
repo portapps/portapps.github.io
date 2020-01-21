@@ -19,6 +19,7 @@
   "homepage": "https://www.oracle.com/technetwork/java/javase/downloads/index.html",
   "move": [],
   "groups": [
+    "13",
     "12",
     "11",
     "8",
@@ -26,6 +27,33 @@
     "6"
   ],
   "releases": [
+    {
+      "version": "13.0.2",
+      "release": "14",
+      "date": "2020/01/21",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.0.6",
+      "release": "13",
+      "date": "2020/01/21",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u241",
+      "release": "12",
+      "date": "2020/01/21",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "11.0.5",
       "release": "11",
