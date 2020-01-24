@@ -9,6 +9,7 @@ Some modifications have been made through policies to ensure portability:
 * **Disable updater** : Firefox Developer Edition updates are turned off.
 * **Don't check default browser** : Stops Firefox Developer Edition from checking if it is the default browser at startup.
 * **Profile**: Profile path is overrided to `data\profile` folder (see below).
+* A shortcut is created at launch to allow native notifications and removed when Firefox is closed
 
 ### Configuration
 

@@ -12,6 +12,7 @@ Some modifications have been made through policies to ensure portability:
 * **'Know your rights'**:  Don't show on first run.
 * **WhatsNew**: Don't show WhatsNew on first run after every update.
 * **Profile**: Profile path is overrided to `data\profile` folder (see below).
+* A shortcut is created at launch to allow native notifications and removed when Firefox is closed
 
 ### Configuration
 
