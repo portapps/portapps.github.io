@@ -1,4 +1,6 @@
-img.app-blackholed {
+img.app-ok {}
+
+img.app-discontinued {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
@@ -10,13 +12,9 @@ img.app-blackholed {
   top: 0;
   left: 0;
 }
+
 .applogo-image {
   position: relative;
-  top: 0;
-  left: 0;
-}
-.applogo-blackholed {
-  position: absolute;
   top: 0;
   left: 0;
 }

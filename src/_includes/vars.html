@@ -10,17 +10,13 @@
 {% endif %}
 {% assign var_domain = var_seo_url | remove:'http://' | remove:'https://' | split:'/' | first %}
 {% capture var_repo_url %}{{ site.github.baseurl }}/{{ site.github.user }}/{{ site.github.repo }}{% endcapture %}
-{% assign app = false %}{% assign app_logo = false %}{% assign app_logo_class = false %}
+{% assign app = false %}{% assign app_logo = false %}
 {% if page.app %}
   {% assign applist = site.data.app | sort %}
   {% for anapp in applist %}
     {% if anapp[1].name == page.app %}
       {% assign app = anapp[1] %}
       {% capture app_logo %}{{ var_seo_url }}/img/app/{{ anapp[1].name }}.png{% endcapture %}
-      {% capture app_logo_class %}{% endcapture %}
-      {% if anapp[1].status == 'discontinued' %}
-        {% capture app_logo_class %}app-blackholed{% endcapture %}
-      {% endif %}
       {% break %}
     {% endif %}
   {% endfor %}

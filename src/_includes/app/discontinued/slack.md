@@ -1,4 +1,4 @@
-{% include callout.html type="warning" title="Slack portable blackholed" text="I have received a Trademark Policy violation report of [@slackhq](https://github.com/slackhq) concerning this portapp. After exchanges by email I'm unfortunately be forced to discontinue this portapp. For the sake of transparency, you will find below the exchanges with the person in charge of legal operations at SlackHQ." %}
+{% include callout.html type="warning" title="Slack portable discontinued" text="I have received a Trademark Policy violation report of [@slackhq](https://github.com/slackhq) concerning this portapp. After exchanges by email I'm unfortunately be forced to discontinue this portapp. For the sake of transparency, you will find below the exchanges with the person in charge of legal operations at SlackHQ." %}
 
 <div class="bs-callout bs-callout-info">
   <h4>Alternatives</h4>

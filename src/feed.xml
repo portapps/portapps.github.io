@@ -10,17 +10,14 @@ sitemap:
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ var_seo_url }}</link>
     <atom:link href="{{ var_seo_url | append: '/feed.xml' }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:20 %}{% strip %}{% assign app_logo = false %}{% assign app_logo_style = false %}
+    {% for post in site.posts limit:20 %}{% strip %}{% assign app_logo = false %}
       {% if post.app %}{% assign applist = site.data.app | sort %}{% for app in applist %}
         {% if app[1].name == post.app %}
           {% capture app_logo %}{{ var_seo_url }}/img/app/{{ app[1].name }}.png{% endcapture %}
-          {% if app[1].status == 'discontinued' %}
-            {% capture app_logo_style %}-webkit-filter:grayscale(100%);filter:grayscale(100%);{% endcapture %}
-          {% endif %}
         {% endif %}
       {% endfor %}{% endif %}{% endstrip %}<item>
       <title>{{ post.title | xml_escape }}</title>
-      <description><![CDATA[{% if app_logo %}<p><img width="64" style="{{ app_logo_style }}" src="{{ app_logo }}"/></p>{% endif %}{% if post.subtitle %}{{ post.subtitle }} - {% endif %}{{ post.content }}]]></description>
+      <description><![CDATA[{% if app_logo %}<p><img width="64" src="{{ app_logo }}"/></p>{% endif %}{% if post.subtitle %}{{ post.subtitle }} - {% endif %}{{ post.content }}]]></description>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <link>{{ var_seo_url | append: post.url }}</link>
       <guid isPermaLink="true">{{ var_seo_url | append: post.url }}</guid>

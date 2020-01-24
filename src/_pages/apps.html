@@ -22,24 +22,14 @@ markdown_body: ""
     </div>
     <div class="cards-wrapper row">{% assign applist = site.data.app | sort %}
       {% for app in applist %}<div class="item item-app item-enable col-md-4 col-sm-8 col-xs-12" data-app="{{ app[1].name }}">
-        {% if app[1].status == 'discontinued' %}
-        <div class="item-inner  item-blackholed">
+        <div class="item-inner item-{{ app[1].status }}">
           <div class="icon-holder">
-            <img src="{{ site.baseurl }}/img/app/{{ app[1].name }}.png" class="app-blackholed"/>
-            <img class="blackholed" src="{{ site.baseurl }}/img/blackhole.png"/>
+            <img src="{{ site.baseurl }}/img/app/{{ app[1].name }}.png" />
           </div>
           <h3 class="title">{{ app[1].label }}</h3>
           <a class="link" href="{{ site.baseurl }}/app/{{ app[1].name }}-portable/"><span></span></a>
+          <span class="status"></span>
         </div>
-        {% else %}
-        <div class="item-inner">
-          <div class="icon-holder">
-            <img src="{{ site.baseurl }}/img/app/{{ app[1].name }}.png"/>
-          </div>
-          <h3 class="title">{{ app[1].label }}</h3>
-          <a class="link" href="{{ site.baseurl }}/app/{{ app[1].name }}-portable/"><span></span></a>
-        </div>
-        {% endif %}
       </div>{% endfor %}
     </div>
   </div>

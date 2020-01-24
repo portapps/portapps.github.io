@@ -1,22 +1,24 @@
 {% include vars.html %}
 
+{% if page.app.status != 'discontinued' %}
 <p align="center">
   <a href="https://github.com/{{ include.app.github.user }}/{{ include.app.github.repo }}"><img src="https://img.shields.io/github/stars/{{ include.app.github.user }}/{{ include.app.github.repo }}.svg?style=flat-quare&label=Stars" alt="GitHub Stars"></a>
   <a href="#download"><img src="https://img.shields.io/github/release/{{ include.app.github.user }}/{{ include.app.github.repo }}.svg" alt="Latest release"></a>
   <a href="#download"><img src="https://img.shields.io/github/downloads/{{ include.app.github.user }}/{{ include.app.github.repo }}/total.svg" alt="Total downloads"></a>
   <a href="https://goreportcard.com/report/github.com/{{ include.app.github.user }}/{{ include.app.github.repo }}"><img src="https://goreportcard.com/badge/github.com/{{ include.app.github.user }}/{{ include.app.github.repo }}" alt="Go Report"></a>
 </p>
+{% endif %}
 
 <div class="markdown-body">{% markdown %}
 
-{% if include.app.trademark %}* [Notice of Non-Affiliation and Disclaimer](#notice-of-non-affiliation-and-disclaimer){% endif %}
-* [About](#about)
-* [Installation](#installation)
-* [Infos](#infos)
-* [Known issues](#known-issues)
-* [Download](#download)
+* TOC
+{:toc}
 
-{% if include.app.trademark %}
+{% if page.app.status == 'abandoned' %}
+{% include callout.html type="warning" text="This project is not maintained anymore and is abandoned. Feel free to fork and make your own changes if needed." %}
+{% endif %}
+
+{% if include.app.trademark and page.app.status != 'discontinued' %}
 ## Notice of Non-Affiliation and Disclaimer
 
 Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with {{ include.app.label }}, or any of its subsidiaries or its affiliates.
@@ -40,6 +42,13 @@ The name {{ include.app.label }} as well as related names, marks, emblems and im
 | **License**          | [{{ include.license.name }}]({{ include.license.link }}){:target="_blank"} |
 | **Changelog**        | [CHANGELOG.md](https://github.com/{{ include.app.github.user }}/{{ include.app.github.repo }}/blob/master/CHANGELOG.md){:target="_blank"} |
 
+{% if page.app.status == 'discontinued' %}
+## Discontinued
+
+{% include app/discontinued/{{ include.app.name }}.md app=include.app %}
+{% endif %}
+
+{% if page.app.status != 'discontinued' %}
 ## Installation
 
 Download and install the [latest portable setup](#download) where you want then run `{{ include.app.name }}-portable.exe`.
@@ -74,8 +83,10 @@ There is no known issues {% gemoji raised_hands %} Please [let us know](/doc/rep
 
 ## Download
 
-{% endmarkdown %}<span></span></div>
+{% endif %}{% endmarkdown %}<span></span></div>
 
+{% if page.app.status != 'discontinued' %}
 {% include app/download-list.html app=include.app %}
 
 <div class="offset-top-20">{% include adsense.html client="ca-pub-6761939715072275" slot="4627104321" %}</div>
+{% endif %}
