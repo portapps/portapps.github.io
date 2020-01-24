@@ -51,6 +51,15 @@
   ],
   "releases": [
     {
+      "version": "1.2.43",
+      "release": "46",
+      "date": "2020/01/24",
+      "type": "release",
+      "original": "brave_installer-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.2.42",
       "release": "45",
       "date": "2020/01/09",
