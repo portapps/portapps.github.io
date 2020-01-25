@@ -2,7 +2,7 @@
 layout: post
 title: Twitch portable abandoned
 date: 2020-01-24 22:16:00 +0100
-app: slack
+app: twitch
 tags: [twitch, abandoned]
 ---
 {% include vars.html %}
