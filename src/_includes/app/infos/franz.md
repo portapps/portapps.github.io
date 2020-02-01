@@ -11,7 +11,9 @@ Here is what differs from the original release to ensure portability:
 {{ include.app.label }} portable can be configured through the [main YAML configuration file](/doc/configuration/) :
 
 <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>app:
+  cleanup: true
   disable_delay: false
 </code></pre></div></div>
 
+* `cleanup` : Cleanup leftover folders (default `false`)
 * `disable_delay` : Disable delay on startup (default `false`)
