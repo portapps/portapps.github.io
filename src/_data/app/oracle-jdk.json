@@ -28,6 +28,15 @@
   ],
   "releases": [
     {
+      "version": "8u241",
+      "release": "15",
+      "date": "2020/02/11",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "13.0.2",
       "release": "14",
       "date": "2020/01/21",
