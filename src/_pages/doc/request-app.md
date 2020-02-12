@@ -11,6 +11,7 @@ Following prerequisites must be met:
 
 * License allows distribution/repackaging of the software
 * [Abandonware](https://en.wikipedia.org/wiki/Abandonware){:target="_blank"} will not be processed
+* Great visibility (based on Alexa rank and/or GitHub stars)
 
 Search for [existing app requests]({{ var_repo_url }}/issues?q=is%3Aissue+label%3A"%3Apackage%3A+app+request").
 
