@@ -35,6 +35,15 @@
   ],
   "releases": [
     {
+      "version": "2.17.7",
+      "release": "16",
+      "date": "2020/02/14",
+      "type": "release",
+      "original": "rocketchat-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "2.17.5",
       "release": "15",
       "date": "2020/02/07",
