@@ -29,6 +29,15 @@
   ],
   "releases": [
     {
+      "version": "0.4.930",
+      "release": "17",
+      "date": "2020/02/27",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "0.4.315",
       "release": "16",
       "date": "2020/01/24",
