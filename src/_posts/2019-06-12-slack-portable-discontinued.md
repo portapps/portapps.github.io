@@ -4,6 +4,7 @@ title: Slack portable discontinued
 date: 2019-06-12 20:20:00 +0200
 app: slack
 tags: [slack, discontinued]
+published: false
 ---
 {% include vars.html %}
 

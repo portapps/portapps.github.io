@@ -3,6 +3,7 @@ layout: post
 title: Slack portable 3.0.0-28
 app: slack
 tags: [slack]
+published: false
 ---
 {% include vars.html %}
 

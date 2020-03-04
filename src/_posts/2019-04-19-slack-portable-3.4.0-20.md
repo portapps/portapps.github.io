@@ -4,6 +4,7 @@ title: Slack portable 3.4.0-20
 date: 2019-04-19 16:30:00 +0200
 app: slack
 tags: [slack]
+published: false
 ---
 {% include vars.html %}
 
