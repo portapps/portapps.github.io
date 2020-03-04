@@ -86,7 +86,7 @@ module Jekyll
         files = Dir[File.join(data_app_dir, '**', '*.json')].reject { |p| File.directory? p }
         files.each do |file|
           data = JSON.parse(File.read(file))
-          next if !data.kind_of?(Hash) or !data['name']
+          next if !data.kind_of?(Hash) or !data['name'] or data['status'] == 'hide'
           site.pages << AppPage.new(site, site.source, "app", data)
           if data['redir_from'] != ''
             site.pages << AppRedirect.new(site, site.source, "app", data['redir_from'], data['name'])

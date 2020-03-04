@@ -21,7 +21,7 @@ markdown_body: ""
       </div>
     </div>
     <div class="cards-wrapper row">{% assign applist = site.data.app | sort %}
-      {% for app in applist %}<div class="item item-app item-enable col-md-4 col-sm-8 col-xs-12" data-app="{{ app[1].name }}">
+      {% for app in applist %}{% if app[1].status != "hide" %}<div class="item item-app item-enable col-md-4 col-sm-8 col-xs-12" data-app="{{ app[1].name }}">
         <div class="item-inner item-{{ app[1].status }}">
           <div class="icon-holder">
             <img src="{{ site.baseurl }}/img/app/{{ app[1].name }}.png" />
@@ -30,7 +30,7 @@ markdown_body: ""
           <a class="link" href="{{ site.baseurl }}/app/{{ app[1].name }}-portable/"><span></span></a>
           <span class="status"></span>
         </div>
-      </div>{% endfor %}
+      </div>{% endif %}{% endfor %}
     </div>
   </div>
 </section>
