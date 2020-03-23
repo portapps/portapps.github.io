@@ -24,9 +24,19 @@
     }
   ],
   "groups": [
+    "80",
     "79"
   ],
   "releases": [
+    {
+      "version": "80.0.3987.149",
+      "release": "2",
+      "date": "2020/03/23",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "79.0.3945.130",
       "release": "1",
