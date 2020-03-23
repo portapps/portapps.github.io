@@ -3,6 +3,10 @@
     "name": "Apache License 2.0",
     "link": "https://choosealicense.com/licenses/apache-2.0/"
   },
+  "bsd-3-clause": {
+    "name": "BSD 3-Clause 'New' or 'Revised' License",
+    "link": "https://choosealicense.com/licenses/bsd-3-clause/"
+  },
   "freemium": {
     "name": "Freemium",
     "link": "https://en.wikipedia.org/wiki/Freemium"
