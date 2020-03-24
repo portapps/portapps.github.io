@@ -2,7 +2,7 @@
 layout: post
 title: Slack portable removed
 date: 2020-03-04 04:17:00 +0100
-tags: [portapps]
+tags: [slack, discontinued]
 ---
 {% include vars.html %}
 
