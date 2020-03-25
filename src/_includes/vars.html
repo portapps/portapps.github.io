@@ -10,6 +10,10 @@
 {% endif %}
 {% assign var_domain = var_seo_url | remove:'http://' | remove:'https://' | split:'/' | first %}
 {% capture var_repo_url %}{{ site.github.baseurl }}/{{ site.github.user }}/{{ site.github.repo }}{% endcapture %}
+{% assign apps_count = 0 %}
+{% for anapp in site.data.app %}
+  {% if anapp[1].status != "hide" %}{% assign apps_count = apps_count | plus: 1 %}{% endif %}
+{% endfor %}
 {% assign app = false %}{% assign app_logo = false %}
 {% if page.app %}
   {% assign applist = site.data.app | sort %}
