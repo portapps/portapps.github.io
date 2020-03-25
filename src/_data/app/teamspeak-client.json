@@ -24,15 +24,25 @@
     }
   ],
   "groups": [
+    "3.5",
     "3.3",
     "3.2",
     "3.1"
   ],
   "releases": [
     {
+      "version": "3.5.1",
+      "release": "15",
+      "date": "2020/03/25",
+      "type": "release",
+      "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "3.3.2",
       "release": "14",
-      "date": "2019/07/27",
+      "date": "2019/08/27",
       "type": "release",
       "original": "TeamSpeak-Client-@platform@-@version@-setup.exe",
       "platforms": ["win32", "win64"],
