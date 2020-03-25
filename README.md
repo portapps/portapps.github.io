@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/portapps/portapps.github.io/actions"><img src="https://github.com/portapps/portapps.github.io/workflows/website/badge.svg" alt="Build Status"></a>
-  <a href="https://www.codacy.com/app/portapps/portapps.github.io"><img src="https://img.shields.io/codacy/grade/1c12bcac38bc4ed18766917f7073648f.svg?style=flat-square" alt="Code Quality"></a>
+  <a href="https://app.codacy.com/gh/portapps/portapps.github.io"><img src="https://img.shields.io/codacy/grade/1c12bcac38bc4ed18766917f7073648f.svg?style=flat-square" alt="Code Quality"></a>
   <a href="https://status.portapps.io"><img src="https://img.shields.io/uptimerobot/ratio/m780461173-920d0e660843a189046545e3.svg?style=flat-square" alt="Uptime"></a>
   <br /><a href="https://github.com/sponsors/crazy-max"><img src="https://img.shields.io/badge/sponsor-crazy--max-181717.svg?logo=github&style=flat-square" alt="Become a sponsor"></a>
   <a href="https://www.paypal.me/crazyws"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a>
