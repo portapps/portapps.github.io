@@ -20,9 +20,11 @@ Some modifications have been made through policies to ensure portability:
   multiple_instances: false
   disable_telemetry: false
   disable_firefox_studies: false
+  cleanup: false
 </code></pre></div></div>
 
 * `profile` : Name of the profile created in `data\profile\<name>` (default `default`)
 * `multiple_instances` : Allow multiple instances (default `false`)
 * `disable_telemetry` : If enabled, Firefox Developer Edition telemetry is not uploaded (default `false`)
 * `disable_firefox_studies` : If enabled, Firefox Developer Edition will never run SHIELD studies or do Heartbeat surveys. (default `false`)
+* `cleanup` : Cleanup leftover folders (default `false`)
