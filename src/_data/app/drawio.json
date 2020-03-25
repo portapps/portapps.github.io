@@ -1,0 +1,37 @@
+{
+  "name": "drawio",
+  "label": "draw.io",
+  "desc": "Free diagram software for making flowcharts, process diagrams, ...",
+  "license": "apache-2.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "drawio"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://www.draw.io",
+  "move": [
+    {
+      "from": "%APPDATA%\\draw.io\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "12.6.5",
+      "release": "1",
+      "date": "2020/03/25",
+      "type": "release",
+      "original": "draw.io-windows-installer-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
