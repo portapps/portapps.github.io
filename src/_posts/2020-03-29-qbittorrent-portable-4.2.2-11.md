@@ -1,7 +1,7 @@
 ---
 layout: post
 title: qBittorrent portable 4.2.2-11
-date: 2019-03-29 20:21:00 +0200
+date: 2020-03-29 20:21:00 +0200
 app: qbittorrent
 tags: [qbittorrent]
 ---
