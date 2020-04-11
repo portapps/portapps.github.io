@@ -15,6 +15,7 @@ This file is generated at first launch as a sample file named `[appname]-portabl
 
 ```yml
 common:
+  disable_log: false
   args: []
   env: {}
   app_path: ""
@@ -31,6 +32,7 @@ Two main fields have to be taken into account:
 
 This field is _common_ for all applications available in the Portapps catalogue.
 
+* **disable_log**: Disable logging (available for apps using Portapps 2.0.0 or higher).
 * **args**: Pass additional arguments to the process.
 * **env**: Add environment variables as a key/value list. Placeholders for values can be used and will be replaced with the relevant data:
   * **@ROOT_PATH@**: Root path of the portable app
