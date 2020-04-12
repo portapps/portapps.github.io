@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "68.7",
     "68.6",
     "68.5",
     "68.4",
@@ -42,6 +43,15 @@
     "60.5"
   ],
   "releases": [
+    {
+      "version": "68.7.0",
+      "release": "35",
+      "date": "2020/04/12",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "68.6.1",
       "release": "34",
