@@ -29,6 +29,15 @@
   ],
   "releases": [
     {
+      "version": "12.9.9",
+      "release": "3",
+      "date": "2020/04/13",
+      "type": "release",
+      "original": "draw.io-windows-installer-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "12.9.3",
       "release": "2",
       "date": "2020/03/31",
