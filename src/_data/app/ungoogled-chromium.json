@@ -24,10 +24,20 @@
     }
   ],
   "groups": [
+    "81",
     "80",
     "79"
   ],
   "releases": [
+    {
+      "version": "81.0.4044.113",
+      "release": "3",
+      "date": "2020/04/21",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "80.0.3987.149",
       "release": "2",
