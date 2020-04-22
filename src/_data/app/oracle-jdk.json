@@ -28,6 +28,24 @@
   ],
   "releases": [
     {
+      "version": "11.0.7",
+      "release": "17",
+      "date": "2020/04/22",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u251",
+      "release": "16",
+      "date": "2020/04/22",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "8u241",
       "release": "15",
       "date": "2020/02/11",
