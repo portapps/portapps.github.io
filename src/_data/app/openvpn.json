@@ -25,6 +25,15 @@
   ],
   "releases": [
     {
+      "version": "2.4.9-I601",
+      "release": "8",
+      "date": "2020/04/25",
+      "type": "release",
+      "original": "openvpn-install-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "2.4.8-I602",
       "release": "7",
       "date": "2019/11/06",
