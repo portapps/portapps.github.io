@@ -9,6 +9,16 @@ Before using {{ include.app.label }} portable you have to install the following 
 Here is what differs from the original release to ensure portability:
 
 * Following switches are passed to the process.
-  * `-PATH:<app_path>` : Path to application folder
-  * `-DATADIR:<data_path>` : Path to data folder
+  * `-PATH:<app_path>`: Path to application folder
+  * `-DATADIR:<data_path>`: Path to data folder
 * Registry key `HKCU\Software\HLSW` is imported and exported (`reg` folder) at runtime
+
+### Configuration
+
+{{ include.app.label }} portable can be configured through the [main YAML configuration file](/doc/configuration/) :
+
+<div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>app:
+  cleanup: true
+</code></pre></div></div>
+
+* `cleanup`: Cleanup leftover registry key (default `false`)

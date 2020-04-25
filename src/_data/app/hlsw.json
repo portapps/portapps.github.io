@@ -26,6 +26,15 @@
   "releases": [
     {
       "version": "1.4.0.3",
+      "release": "2",
+      "date": "2020/04/25",
+      "type": "release",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.4.0.3",
       "release": "1",
       "date": "2019/03/09",
       "type": "release",
