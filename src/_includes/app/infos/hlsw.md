@@ -21,4 +21,4 @@ Here is what differs from the original release to ensure portability:
   cleanup: true
 </code></pre></div></div>
 
-* `cleanup`: Cleanup leftover registry key (default `false`)
+* `cleanup`: Cleanup leftover folders and registry key (default `false`)
