@@ -25,9 +25,18 @@
   ],
   "releases": [
     {
+      "version": "3.0.10",
+      "release": "8",
+      "date": "2020/05/03",
+      "type": "release",
+      "original": "vlc-@version@-@platform@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "3.0.8",
       "release": "7",
-      "date": "2019/06/19",
+      "date": "2019/08/19",
       "type": "release",
       "original": "vlc-@version@-@platform@.zip",
       "platforms": ["win32", "win64"],
