@@ -15,7 +15,7 @@ jobs:
       -
         # https://github.com/actions/checkout
         name: Checkout
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
       -
         # https://github.com/actions/setup-node
         name: Set up Node.js
@@ -79,5 +79,6 @@ jobs:
         with:
           target_branch: master
           build_dir: web
+          fqdn: portapps.io
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
