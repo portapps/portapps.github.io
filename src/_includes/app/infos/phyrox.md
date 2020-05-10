@@ -21,15 +21,26 @@ Some modifications have been made through policies to ensure portability:
 <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>app:
   profile: default
   multiple_instances: false
-  disable_telemetry: false
-  disable_firefox_studies: false
   locale: en-US
   cleanup: false
 </code></pre></div></div>
 
 * `profile` : Name of the profile created in `data\profile\<name>` (default `default`)
 * `multiple_instances` : Allow multiple instances (default `false`)
-* `disable_telemetry` : If enabled, Firefox telemetry is not uploaded (default `false`)
-* `disable_firefox_studies` : If enabled, Firefox will never run SHIELD studies or do Heartbeat surveys. (default `false`)
 * `locale` : Locale located in `app\langs` can be used to change UI language without `.xpi` extension (default `en-US`).
 * `cleanup` : Cleanup leftover folders (default `false`)
+
+### Policies
+
+You can use [custom policies](https://support.mozilla.org/en-US/kb/customizing-firefox-using-policiesjson) by creating `data/policies.json` file like this one:
+
+```json
+{
+  "policies": {
+    "DisableFirefoxStudies": true,
+    "DisableTelemetry": true
+  }
+}
+```
+
+> `DisableAppUpdate` and `DontCheckDefaultBrowser` are forced to `true`.
