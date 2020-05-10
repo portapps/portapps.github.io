@@ -34,13 +34,11 @@ Some modifications have been made through policies to ensure portability:
 
 You can use [custom policies](https://support.mozilla.org/en-US/kb/customizing-firefox-using-policiesjson) by creating `data/policies.json` file like this one:
 
-```json
-{
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
   "policies": {
     "DisableFirefoxStudies": true,
     "DisableTelemetry": true
   }
-}
-```
+}</code></pre></div></div>
 
 > `DisableAppUpdate` and `DontCheckDefaultBrowser` are forced to `true`.
