@@ -38,6 +38,15 @@
   ],
   "releases": [
     {
+      "version": "7.0.4",
+      "release": "32",
+      "date": "2020/05/10",
+      "type": "release",
+      "original": "dbeaver-ce-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "7.0.3",
       "release": "31",
       "date": "2020/04/22",
