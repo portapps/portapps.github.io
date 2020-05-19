@@ -24,10 +24,20 @@
     }
   ],
   "groups":[
+    "2.2019",
     "0.4",
     "0.3"
   ],
   "releases": [
+    {
+      "version": "2.2019.8",
+      "release": "19",
+      "date": "2020/05/19",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "0.4.2088",
       "release": "18",
