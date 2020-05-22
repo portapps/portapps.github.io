@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "2.46",
     "2.45",
     "2.44",
     "2.43",
@@ -41,6 +42,15 @@
     "2.30"
   ],
   "releases": [
+    {
+      "version": "2.46.0",
+      "release": "27",
+      "date": "2020/05/22",
+      "type": "release",
+      "original": "caprine-setup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "2.45.0",
       "release": "26",
