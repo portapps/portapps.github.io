@@ -13,34 +13,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -
-        # https://github.com/actions/checkout
         name: Checkout
         uses: actions/checkout@v2
       -
-        # https://github.com/actions/setup-node
         name: Set up Node.js
         uses: actions/setup-node@v1
         with:
           node-version: 11
       -
-        # https://github.com/actions/setup-ruby
         name: Set up Ruby
         uses: actions/setup-ruby@v1
         with:
           ruby-version: 2.6.x
       -
-        # https://github.com/actions/cache
         name: Set up gems cache
-        uses: actions/cache@preview
+        uses: actions/cache@v1
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gem-
       -
-        # https://github.com/actions/cache
         name: Set up node_modules cache
-        uses: actions/cache@preview
+        uses: actions/cache@v1
         with:
           path: node_modules
           key: ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}
@@ -72,7 +67,6 @@ jobs:
           gulp --env=production build
           #htmlproofer ./web/download --allow-missing-href --allow-hash-href --assume_extension --check-favicon --http-status-ignore 403 --only-4xx --alt-ignore "/.*/" --log-level=:debug
       -
-        # https://github.com/crazy-max/ghaction-github-pages
         name: Deploy
         if: success() && github.event_name != 'pull_request'
         uses: crazy-max/ghaction-github-pages@v2
