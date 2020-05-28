@@ -13,6 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -
+        name: Check GitHub Pages status
+        uses: crazy-max/ghaction-github-status@v1
+        with:
+          pages_threshold: major_outage
+      -
         name: Checkout
         uses: actions/checkout@v2
       -
