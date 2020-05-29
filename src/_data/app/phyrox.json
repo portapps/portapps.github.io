@@ -44,6 +44,15 @@
   "releases": [
     {
       "version": "76.0.1",
+      "release": "42",
+      "date": "2020/05/29",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "76.0.1",
       "release": "41",
       "date": "2020/05/10",
       "type": "release",
