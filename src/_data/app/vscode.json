@@ -168,7 +168,7 @@
     {
       "version": "1.39.2",
       "release": "20",
-      "date": "2019/10/21",
+      "date": "2019/10/22",
       "type": "release",
       "original": "VSCode-@platform@-@version@.zip",
       "platforms": ["win32", "win64"],

@@ -125,7 +125,7 @@
     {
       "version": "1.5.0",
       "release": "22",
-      "date": "2019/10/21",
+      "date": "2019/10/22",
       "type": "release",
       "original": "RiotSetup-@platform@.exe",
       "platforms": ["win32", "win64"],
@@ -242,7 +242,7 @@
     {
       "version": "1.0.8",
       "release": "7",
-      "date": "2019/04/08",
+      "date": "2019/04/17",
       "type": "release",
       "original": "RiotSetup-@platform@.exe",
       "platforms": ["win32", "win64"],

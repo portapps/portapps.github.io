@@ -8,6 +8,8 @@ var cp = require('child_process');
 var del = require('del');
 var filter = require('gulp-filter');
 var flatten = require('gulp-flatten');
+var fs = require('fs');
+var glob = require('glob');
 var inject = require('gulp-inject');
 var mainBowerFiles = require('main-bower-files');
 var merge = require('merge-stream');
@@ -242,6 +244,58 @@ gulp.task('serve', gulp.series(
   'build',
   browserSyncRun,
   watch
+));
+
+function getPostPath(app, appRelease) {
+  return "src/_posts/" + appRelease.date.replace(re, '-') + "-" + app.name + "-portable" + "-" + appRelease.version + "-" + appRelease.release + ".md";
+}
+
+function getPostPathAlt(app, appRelease) {
+  if (app["redir_from"] !== undefined) {
+    return "src/_posts/" + appRelease.date.replace(re, '-') + "-" + app.redir_from + "-portable" + "-" + appRelease.version + "-" + appRelease.release + ".md";
+  }
+  return getPostPath(app, appRelease);
+}
+
+function getPostContent(app, appRelease) {
+  var appLabel = app.label.replace('&trade;', '');
+  return "---\n\
+layout: post\n\
+title: " + appLabel + " portable " + appRelease.version + "-" + appRelease.release + "\n\
+date: " + appRelease.date.replace(re, '-') + " 00:00:00 +0200\n\
+app: " + app.name + "\n\
+tags: [" + app.name + "]\n\
+---\n\
+{% include vars.html %}\n\
+\n\
+Release of " + appLabel + " portable " + appRelease.version + "-" + appRelease.release + " is now available.<br />\n\
+You can find links to download this release on the [" + appLabel + " portable page]({{ var_seo_url | append: '/app/" + app.name + "-portable/' }}).\n";
+}
+
+function genPosts(done) {
+  re = new RegExp('/', 'g');
+  glob.sync('./src/_data/app/*.json').forEach(function(appFile) {
+    var app = require(appFile);
+    app.releases.forEach(function(appRelease) {
+      var postPath = getPostPath(app, appRelease);
+      var postPathAlt = getPostPathAlt(app, appRelease);
+      if (fs.existsSync(postPath) || fs.existsSync(postPathAlt)) {
+        return;
+      }
+      fs.appendFile(postPath, getPostContent(app, appRelease), function (err) {
+        if (err) {
+          throw new err
+        } else {
+          console.log(postPath + " has been created");
+        }
+      })
+    });
+  });
+  done();
+}
+
+gulp.task('genPosts', gulp.series(
+  genPosts
 ));
 
 gulp.task('default', gulp.series(

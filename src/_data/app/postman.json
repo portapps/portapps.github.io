@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "7.25",
     "7.24",
     "7.23",
     "7.22",
@@ -57,6 +58,15 @@
     "6.0"
   ],
   "releases": [
+    {
+      "version": "7.25.3",
+      "release": "38",
+      "date": "2020/06/07",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "7.24.0",
       "release": "37",
@@ -420,7 +430,7 @@
     {
       "version": "6.5.3",
       "release": "11",
-      "date": "2018/11/28",
+      "date": "2018/11/27",
       "type": "release",
       "original": "PostmanSetup-@platform@.exe",
       "platforms": ["win32", "win64"],
