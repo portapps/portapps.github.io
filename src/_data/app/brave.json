@@ -284,7 +284,7 @@
     {
       "version": "0.68.141",
       "release": "33",
-      "date": "2019/09/28",
+      "date": "2019/09/27",
       "type": "release",
       "original": "brave_installer-@platform@.exe",
       "platforms": ["win32", "win64"],

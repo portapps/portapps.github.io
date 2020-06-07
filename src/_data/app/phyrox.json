@@ -213,7 +213,7 @@
     {
       "version": "69.0",
       "release": "24",
-      "date": "2019/09/10",
+      "date": "2019/09/09",
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
       "platforms": ["win32", "win64"],
