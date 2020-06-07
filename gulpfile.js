@@ -259,18 +259,17 @@ function getPostPathAlt(app, appRelease) {
 
 function getPostContent(app, appRelease) {
   var appLabel = app.label.replace('&trade;', '');
-  return "--- \n\
-layout: post \n\
-title: " + appLabel + " portable " + appRelease.version + "-" + appRelease.release + " \n\
-date: " + appRelease.date.replace(re, '-') + " 00:00:00 +0200 \n\
-app: " + app.name + " \n\
-tags: [" + app.name + "] \n\
---- \n\
-{% include vars.html %} \n\
+  return "---\n\
+layout: post\n\
+title: " + appLabel + " portable " + appRelease.version + "-" + appRelease.release + "\n\
+date: " + appRelease.date.replace(re, '-') + " 00:00:00 +0200\n\
+app: " + app.name + "\n\
+tags: [" + app.name + "]\n\
+---\n\
+{% include vars.html %}\n\
 \n\
-Release of " + appLabel + " portable " + appRelease.version + "-" + appRelease.release + " is now available.<br /> \n\
-You can find links to download this release on the [" + appLabel + " portable page]({{ var_seo_url | append: '/app/" + app.name + "-portable/' }}). \n\
-";
+Release of " + appLabel + " portable " + appRelease.version + "-" + appRelease.release + " is now available.<br />\n\
+You can find links to download this release on the [" + appLabel + " portable page]({{ var_seo_url | append: '/app/" + app.name + "-portable/' }}).\n";
 }
 
 function genPosts(done) {
