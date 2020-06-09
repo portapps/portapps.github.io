@@ -38,6 +38,15 @@
   "releases": [
     {
       "version": "2020.2.1",
+      "release": "19",
+      "date": "2020/06/09",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2020.2.1",
       "release": "18",
       "date": "2020/06/07",
       "type": "release",
