@@ -34,11 +34,20 @@
   "releases": [
     {
       "version": "2020.05",
+      "release": "15",
+      "date": "2020/06/09",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2020.05",
       "release": "14",
       "date": "2020/05/29",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -47,7 +56,7 @@
       "date": "2020/05/22",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -56,7 +65,7 @@
       "date": "2020/04/21",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -65,7 +74,7 @@
       "date": "2020/03/29",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -74,7 +83,7 @@
       "date": "2020/01/20",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -83,7 +92,7 @@
       "date": "2019/12/09",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -92,7 +101,7 @@
       "date": "2019/09/13",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -101,7 +110,7 @@
       "date": "2019/09/05",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -110,7 +119,7 @@
       "date": "2019/08/20",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -119,7 +128,7 @@
       "date": "2019/07/12",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -128,7 +137,7 @@
       "date": "2019/06/21",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -137,7 +146,7 @@
       "date": "2019/06/06",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -146,7 +155,7 @@
       "date": "2019/05/18",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
     {
@@ -155,7 +164,7 @@
       "date": "2019/05/04",
       "type": "release",
       "original": "WaterfoxSetup-@version@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     }
   ]

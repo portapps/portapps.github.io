@@ -18,8 +18,10 @@ Some modifications have been made in this version of {{ include.app.label }} thr
   profile: default
   multiple_instances: false
   disable_telemetry: false
+  cleanup: false
 </code></pre></div></div>
 
 * `profile` : Name of the profile created in `data\profile\<name>` (default `default`)
 * `multiple_instances` : Allow multiple instances (default `false`)
 * `disable_telemetry` : If enabled, telemetry is not uploaded (default `false`)
+* `cleanup` : Cleanup leftover folders (default `false`)
