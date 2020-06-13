@@ -47,6 +47,15 @@
   ],
   "releases": [
     {
+      "version": "2020.1.2",
+      "release": "26",
+      "date": "2020/06/13",
+      "type": "release",
+      "original": "",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "2020.1.1",
       "release": "25",
       "date": "2020/05/07",
