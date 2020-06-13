@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "77",
     "76",
     "75",
     "74",
@@ -42,6 +43,15 @@
     "65"
   ],
   "releases": [
+    {
+      "version": "77.0.1",
+      "release": "43",
+      "date": "2020/06/13",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "76.0.1",
       "release": "42",
