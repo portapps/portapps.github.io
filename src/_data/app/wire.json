@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "3.18",
     "3.17",
     "3.16",
     "3.12",
@@ -32,6 +33,15 @@
     "3.9"
   ],
   "releases": [
+    {
+      "version": "3.18.3660",
+      "release": "9",
+      "date": "2020/06/21",
+      "type": "release",
+      "original": "WireSetup-@platform@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "3.17.3598",
       "release": "8",
