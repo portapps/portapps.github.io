@@ -13,11 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -
-        name: Check GitHub Pages status
-        uses: crazy-max/ghaction-github-status@v1
-        with:
-          pages_threshold: major_outage
-      -
         name: Checkout
         uses: actions/checkout@v2.3.1
       -
@@ -71,6 +66,11 @@ jobs:
         run: |
           gulp --env=production build
           #htmlproofer ./web/download --allow-missing-href --allow-hash-href --assume_extension --check-favicon --http-status-ignore 403 --only-4xx --alt-ignore "/.*/" --log-level=:debug
+      -
+        name: Check GitHub Pages status
+        uses: crazy-max/ghaction-github-status@v1
+        with:
+          pages_threshold: major_outage
       -
         name: Deploy
         if: success() && github.event_name != 'pull_request'
