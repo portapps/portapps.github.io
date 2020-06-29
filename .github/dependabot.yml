@@ -1,15 +1,15 @@
 version: 2
 updates:
   - package-ecosystem: "bundler"
-      directory: "/"
-      open-pull-requests-limit: 10
-      schedule:
-        interval: "daily"
-        time: "08:00"
-        timezone: "Europe/Paris"
-      labels:
-        - ":game_die: dependencies"
-        - ":robot: bot"
+    directory: "/"
+    open-pull-requests-limit: 10
+    schedule:
+      interval: "daily"
+      time: "08:00"
+      timezone: "Europe/Paris"
+    labels:
+      - ":game_die: dependencies"
+      - ":robot: bot"
   - package-ecosystem: "github-actions"
     directory: "/"
     open-pull-requests-limit: 10
