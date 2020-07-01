@@ -58,6 +58,15 @@
   ],
   "releases": [
     {
+      "version": "1.10.97",
+      "release": "60",
+      "date": "2020/07/01",
+      "type": "release",
+      "original": "brave_installer-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.10.93",
       "release": "59",
       "date": "2020/06/21",
