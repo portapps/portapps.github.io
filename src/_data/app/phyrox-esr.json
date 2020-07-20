@@ -48,6 +48,15 @@
   ],
   "releases": [
     {
+      "version": "78.0.2",
+      "release": "42",
+      "date": "2020/07/20",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "78.0.1",
       "release": "41",
       "date": "2020/07/08",
