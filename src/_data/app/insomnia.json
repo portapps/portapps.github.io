@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "2020.3",
     "2020.2",
     "7.1",
     "7.0",
@@ -36,6 +37,15 @@
     "5.16"
   ],
   "releases": [
+    {
+      "version": "2020.3.0",
+      "release": "21",
+      "date": "2020/07/23",
+      "type": "release",
+      "original": "InsomniaSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "2020.2.2",
       "release": "20",

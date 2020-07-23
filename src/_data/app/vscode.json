@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "1.47",
     "1.46",
     "1.45",
     "1.44",
@@ -49,6 +50,15 @@
     "1.23"
   ],
   "releases": [
+    {
+      "version": "1.47.2",
+      "release": "35",
+      "date": "2020/07/23",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.46.1",
       "release": "34",
