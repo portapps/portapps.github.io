@@ -20,8 +20,7 @@ First create your vault and choose a **Custom location** to `data/vault` for exa
 
 Now that your vault is created, close {{ include.app.label }} and open the file `data/settings.json`:
 
-```json
-{
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
   "directories": [
     {
       "id": "W90VJ1jNA_O4",
@@ -31,13 +30,11 @@ Now that your vault is created, close {{ include.app.label }} and open the file 
     }
   ],
   ...
-}
-```
+}</code></pre></div></div>
 
 Change the `path` to put the relative path to the storage:
 
-```json
-{
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
   "directories": [
     {
       "id": "W90VJ1jNA_O4",
@@ -47,7 +44,6 @@ Change the `path` to put the relative path to the storage:
     }
   ],
   ...
-}
-```
+}</code></pre></div></div>
 
 ![](/img/app/cryptomator/storagelocation3.png)
