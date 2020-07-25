@@ -1,0 +1,40 @@
+{
+  "name": "cryptomator",
+  "label": "Cryptomator",
+  "desc": "Multi-platform transparent client-side encryption of your files in the cloud.",
+  "license": "gpl-3.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "cryptomator-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://cryptomator.org/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Cryptomator\\*",
+      "to": "data"
+    }
+  ],
+  "groups": [
+    "1.5"
+  ],
+  "releases": [
+    {
+      "version": "1.5.6",
+      "release": "1",
+      "date": "2020/07/25",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
