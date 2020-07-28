@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "1.11",
     "1.10",
     "1.9",
     "1.8",
@@ -57,6 +58,15 @@
     "0.15"
   ],
   "releases": [
+    {
+      "version": "1.11.104",
+      "release": "61",
+      "date": "2020/07/28",
+      "type": "release",
+      "original": "brave_installer-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.10.97",
       "release": "60",
