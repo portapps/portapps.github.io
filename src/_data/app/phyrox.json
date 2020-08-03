@@ -47,7 +47,7 @@
   "releases": [
     {
       "version": "79.0",
-      "release": "47",
+      "release": "46",
       "date": "2020/07/31",
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
@@ -56,7 +56,7 @@
     },
     {
       "version": "78.0.2",
-      "release": "46",
+      "release": "45",
       "date": "2020/07/20",
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
@@ -65,7 +65,7 @@
     },
     {
       "version": "78.0.1",
-      "release": "45",
+      "release": "44",
       "date": "2020/07/08",
       "type": "release",
       "original": "FirefoxSetup-@version@-@platform@.exe",
