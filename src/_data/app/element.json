@@ -1,29 +1,30 @@
 {
-  "name": "riot",
-  "label": "Riot.im&trade;",
+  "name": "element",
+  "label": "Element&trade;",
   "desc": "An open source, free software instant messaging client based on the Matrix protocol.",
   "license": "apache-2.0",
   "status": "ok",
-  "redir_from": "",
+  "redir_from": "riot",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["messaging"],
   "github": {
     "user": "portapps",
-    "repo": "riot-portable"
+    "repo": "element-portable"
   },
   "maintainer": {
     "name": "CrazyMax",
     "url": "https://crazymax.dev"
   },
-  "homepage": "https://about.riot.im/",
+  "homepage": "https://element.io/",
   "move": [
     {
-      "from": "%APPDATA%\\Riot\\*",
+      "from": "%APPDATA%\\Element\\*",
       "to": "data"
     }
   ],
   "groups":[
+    "1.7",
     "1.6",
     "1.5",
     "1.4",
@@ -33,6 +34,15 @@
     "1.0"
   ],
   "releases": [
+    {
+      "version": "1.7.3",
+      "release": "34",
+      "date": "2020/08/07",
+      "type": "release",
+      "original": "ElementSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.6.8",
       "release": "33",
