@@ -33,7 +33,7 @@
       "date": "2020/07/25",
       "type": "release",
       "original": "Cryptomator-@version@-@platform@.exe",
-      "platforms": ["win32", "win64"],
+      "platforms": ["win64"],
       "formats": ["setup", "7z"]
     }
   ]
