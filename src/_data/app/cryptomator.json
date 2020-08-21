@@ -7,7 +7,7 @@
   "redir_from": "",
   "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
-  "categories": ["messaging"],
+  "categories": ["security"],
   "github": {
     "user": "portapps",
     "repo": "cryptomator-portable"

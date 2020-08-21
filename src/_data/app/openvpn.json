@@ -7,7 +7,7 @@
   "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
-  "categories": ["vpn"],
+  "categories": ["security"],
   "github": {
     "user": "portapps",
     "repo": "openvpn-portable"
