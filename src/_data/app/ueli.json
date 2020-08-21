@@ -1,0 +1,37 @@
+{
+  "name": "ueli",
+  "label": "ueli",
+  "desc": "Keystroke launcher for Windows.",
+  "license": "mit",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["misc"],
+  "github": {
+    "user": "portapps",
+    "repo": "ueli-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://ueli.app",
+  "move": [
+    {
+      "from": "%APPDATA%\\ueli\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "8.8.1",
+      "release": "1",
+      "date": "2020/08/21",
+      "type": "release",
+      "original": "ueli-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
