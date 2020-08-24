@@ -28,8 +28,10 @@
     }
   ],
   "groups": [
+    "78.2",
     "78.1",
     "78.0",
+    "68.12",
     "68.10",
     "68.9",
     "68.8",
@@ -48,6 +50,24 @@
     "60.5"
   ],
   "releases": [
+    {
+      "version": "78.2.0",
+      "release": "45",
+      "date": "2020/08/24",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.12.0",
+      "release": "44",
+      "date": "2020/08/24",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "78.1.0",
       "release": "43",
