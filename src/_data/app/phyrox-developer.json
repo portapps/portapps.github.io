@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "81",
     "80",
     "79",
     "78",
@@ -44,6 +45,15 @@
     "66"
   ],
   "releases": [
+    {
+      "version": "81.0b1",
+      "release": "35",
+      "date": "2020/08/24",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "80.0b2",
       "release": "34",
