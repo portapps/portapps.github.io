@@ -25,6 +25,15 @@
   ],
   "releases": [
     {
+      "version": "8.8.2",
+      "release": "2",
+      "date": "2020/08/30",
+      "type": "release",
+      "original": "ueli-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "8.8.1",
       "release": "1",
       "date": "2020/08/21",
