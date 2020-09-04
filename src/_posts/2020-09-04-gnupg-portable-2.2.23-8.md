@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GnuPG portable 2.2.23-8
-date: 2020-09-04 00:00:00 +0200
+date: 2020-09-04 22:49:00 +0200
 app: gnupg
 tags: [gnupg]
 ---

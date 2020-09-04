@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ungoogled Chromium portable 85.0.4183.83-6
-date: 2020-09-04 00:00:00 +0200
+date: 2020-09-04 22:56:00 +0200
 app: ungoogled-chromium
 tags: [ungoogled-chromium]
 ---
