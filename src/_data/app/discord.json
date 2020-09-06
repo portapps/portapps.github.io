@@ -26,6 +26,15 @@
   "releases": [
     {
       "version": "0.0.307",
+      "release": "5",
+      "date": "2020/09/06",
+      "type": "release",
+      "original": "DiscordSetup-@platform@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.0.307",
       "release": "4",
       "date": "2020/08/07",
       "type": "release",
