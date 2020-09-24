@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "1.49",
     "1.48",
     "1.47",
     "1.46",
@@ -42,6 +43,15 @@
     "1.33"
   ],
   "releases": [
+    {
+      "version": "1.49.0",
+      "release": "47",
+      "date": "2020/09/24",
+      "type": "release",
+      "original": "VSCodium-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.48.2",
       "release": "46",
