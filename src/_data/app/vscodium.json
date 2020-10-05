@@ -44,6 +44,15 @@
   ],
   "releases": [
     {
+      "version": "1.49.3",
+      "release": "48",
+      "date": "2020/10/05",
+      "type": "release",
+      "original": "VSCodium-@platform@-@version@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.49.0",
       "release": "47",
       "date": "2020/09/24",
