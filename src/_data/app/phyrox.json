@@ -48,6 +48,15 @@
   ],
   "releases": [
     {
+      "version": "81.0.1",
+      "release": "50",
+      "date": "2020/10/09",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "81.0",
       "release": "49",
       "date": "2020/09/29",
