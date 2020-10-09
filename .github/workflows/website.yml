@@ -74,7 +74,7 @@ jobs:
       -
         name: Deploy
         if: success() && github.event_name != 'pull_request'
-        uses: crazy-max/ghaction-github-pages@v2.1.2
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: master
           build_dir: web
