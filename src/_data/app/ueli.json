@@ -23,7 +23,20 @@
       "to": "data"
     }
   ],
+  "groups": [
+    "8.9",
+    "8.8"
+  ],
   "releases": [
+    {
+      "version": "8.9.0",
+      "release": "3",
+      "date": "2020/10/15",
+      "type": "release",
+      "original": "ueli-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "8.8.2",
       "release": "2",
