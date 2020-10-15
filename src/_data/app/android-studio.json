@@ -44,12 +44,22 @@
     }
   ],
   "groups": [
+    "4.1",
     "4.0",
     "3.6",
     "3.5",
     "3.4"
   ],
   "releases": [
+    {
+      "version": "4.1.0",
+      "release": "15",
+      "date": "2020/10/15",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
     {
       "version": "4.0.1",
       "release": "14",
