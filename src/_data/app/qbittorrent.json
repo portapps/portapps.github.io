@@ -28,10 +28,20 @@
     }
   ],
   "groups": [
+    "4.3",
     "4.2",
     "4.1"
   ],
   "releases": [
+    {
+      "version": "4.3.0.1",
+      "release": "14",
+      "date": "2020/10/27",
+      "type": "release",
+      "original": "qbittorrent_@version@_@platform@_setup.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "4.2.5",
       "release": "13",
