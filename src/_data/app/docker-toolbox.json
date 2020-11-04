@@ -3,7 +3,7 @@
   "label": "Docker&trade; Toolbox",
   "desc": "Provides a way to use Docker on Windows systems.",
   "license": "apache-2.0",
-  "status": "ok",
+  "status": "abandoned",
   "redir_from": "",
   "trademark": true,
   "wincompat": ["win7", "win8", "win81", "win10"],
