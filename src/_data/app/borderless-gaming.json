@@ -25,6 +25,15 @@
   ],
   "releases": [
     {
+      "version": "9.5.6",
+      "release": "2",
+      "date": "2020/11/13",
+      "type": "release",
+      "original": "BorderlessGaming-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "9.5.5",
       "release": "2",
       "date": "2019/04/04",
