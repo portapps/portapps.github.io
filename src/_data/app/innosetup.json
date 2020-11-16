@@ -19,13 +19,23 @@
   "homepage": "http://www.jrsoftware.org/isinfo.php",
   "move": [],
   "groups": [
+    "6.1",
     "6.0",
     "5.6"
   ],
   "releases": [
     {
-      "version": "6.0.5",
+      "version": "6.1.2",
       "release": "4",
+      "date": "2020/11/16",
+      "type": "release",
+      "original": "innosetup-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.0.5",
+      "release": "3",
       "date": "2020/06/07",
       "type": "release",
       "original": "innosetup-@platform@-@version@-setup.exe",
@@ -34,7 +44,7 @@
     },
     {
       "version": "6.0.4",
-      "release": "3",
+      "release": "2",
       "date": "2020/03/16",
       "type": "release",
       "original": "innosetup-@platform@-@version@-setup.exe",
