@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "86",
     "85",
     "84",
     "83",
@@ -32,6 +33,15 @@
     "79"
   ],
   "releases": [
+    {
+      "version": "86.0.4240.193",
+      "release": "7",
+      "date": "2020/11/16",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "85.0.4183.83",
       "release": "6",
