@@ -24,6 +24,7 @@
     }
   ],
   "groups":[
+    "3.0",
     "2020.08",
     "2020.07",
     "2020.05",
@@ -34,6 +35,15 @@
     "56.2"
   ],
   "releases": [
+    {
+      "version": "3.0.1",
+      "release": "19",
+      "date": "2020/12/12",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "2020.08.1",
       "release": "18",
