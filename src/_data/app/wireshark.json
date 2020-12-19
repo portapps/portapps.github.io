@@ -24,10 +24,20 @@
     }
   ],
   "groups": [
+    "3.4",
     "3.2",
     "3.0"
   ],
   "releases": [
+    {
+      "version": "3.4.2",
+      "release": "15",
+      "date": "2020/12/19",
+      "type": "release",
+      "original": "Wireshark-@platform@-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "3.2.7",
       "release": "14",
