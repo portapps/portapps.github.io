@@ -10,28 +10,10 @@ Here is what differs from the original release to ensure portability :
 
 ### Configuration
 
-{{ include.app.label }} portable can be configured through the [main YAML configuration file](/doc/configuration/) :
+{{ include.app.label }} portable can be configured through the [main YAML configuration file](/doc/configuration/):
 
 <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>app:
   cleanup: true
 </code></pre></div></div>
 
 * `cleanup` : Cleanup leftover folders (default `false`)
-
-### BetterDiscord
-
-{{ include.app.label }} portable is also compatible with [BetterDiscord](https://betterdiscord.net).<br />
-Download the latest release of BetterDiscord, launch the setup wizard, choose the install location `discord-ptb-portable\app\app-x.x.x` and press `Install` :
-
-<div class="language-text highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Deleting old cached files
-Deleting temp path
-Downloading Resource: BetterDiscord.zip
-Extracting BetterDiscord
-node_modules doesn't exist, creating
-Extracting app.asar
-Moving BetterDiscord to resources\node_modules\
-Spicing index
-Writing index
-Finished installation, verifying installation...
-Finished installing BetterDiscord with 0 errors
-</code></pre></div></div>
