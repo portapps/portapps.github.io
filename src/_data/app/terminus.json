@@ -1,0 +1,40 @@
+{
+  "name": "terminus",
+  "label": "Terminus",
+  "desc": "A terminal for a more modern age.",
+  "license": "mit",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "terminus-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://eugeny.github.io/terminus/",
+  "move": [
+    {
+      "from": "%APPDATA%\\terminus\\*",
+      "to": "data"
+    }
+  ],
+  "groups": [
+    "1.0"
+  ],
+  "releases": [
+    {
+      "version": "1.0.122",
+      "release": "2",
+      "date": "2020/12/27",
+      "type": "release",
+      "original": "terminus-@version@-setup.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
