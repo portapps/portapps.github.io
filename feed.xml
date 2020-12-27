@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps</title>
+    <description>Collection of portable apps for Windows</description>
+    <link>https://portapps.io</link>
+    <atom:link href="https://portapps.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptomator portable 1.5.11-5</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/cryptomator.png"/></p>
+<p>Release of Cryptomator portable 1.5.11-5 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/cryptomator-portable/">Cryptomator portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 27 Dec 2020 05:22:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-27-cryptomator-portable-1.5.11-5/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-27-cryptomator-portable-1.5.11-5/</guid>
+    </item><item>
+      <title>Terminus portable 1.0.122-2</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/terminus.png"/></p>
+<p>A new Portapps app has been added to the collection!<br />
+Terminus is a terminal for a more modern age.<br />
+You can download this first release of Terminus portable 1.0.122-2 on the <a href="https://portapps.io/app/terminus-portable/">Terminus portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 27 Dec 2020 04:12:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-27-terminus-portable-1.0.122-2/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-27-terminus-portable-1.0.122-2/</guid>
+    </item><item>
+      <title>Discord PTB portable 0.0.56-13</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord-ptb.png"/></p>
+<p>Release of Discord PTB portable 0.0.56-13 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-ptb-portable/">Discord PTB portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 26 Dec 2020 22:34:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-26-discord-ptb-portable-0.0.56-13/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-26-discord-ptb-portable-0.0.56-13/</guid>
+    </item><item>
+      <title>Discord portable 0.0.309-7</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord.png"/></p>
+<p>Release of Discord portable 0.0.309-7 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-portable/">Discord portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 26 Dec 2020 22:31:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-26-discord-portable-0.0.309-7/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-26-discord-portable-0.0.309-7/</guid>
+    </item><item>
+      <title>Wireshark portable 3.4.2-15</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/wireshark.png"/></p>
+<p>Release of Wireshark portable 3.4.2-15 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/wireshark-portable/">Wireshark portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 19 Dec 2020 01:07:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-19-wireshark-portable-3.4.2-15/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-19-wireshark-portable-3.4.2-15/</guid>
+    </item><item>
+      <title>TeamSpeak Client portable 3.5.6-18</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/teamspeak-client.png"/></p>
+<p>Release of TeamSpeak Client portable 3.5.6-18 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/teamspeak-client-portable/">TeamSpeak Client portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 19 Dec 2020 01:05:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-19-teamspeak-client-portable-3.5.6-18/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-19-teamspeak-client-portable-3.5.6-18/</guid>
+    </item><item>
+      <title>Cryptomator portable 1.5.11-4</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/cryptomator.png"/></p>
+<p>Release of Cryptomator portable 1.5.11-4 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/cryptomator-portable/">Cryptomator portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 19 Dec 2020 01:03:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-19-cryptomator-portable-1.5.11-4/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-19-cryptomator-portable-1.5.11-4/</guid>
+    </item><item>
+      <title>Rocket.Chat portable 3.0.7-20</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/rocketchat.png"/></p>
+<p>Release of Rocket.Chat portable 3.0.7-20 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/rocketchat-portable/">Rocket.Chat portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 19 Dec 2020 01:01:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-19-rocketchat-portable-3.0.7-20/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-19-rocketchat-portable-3.0.7-20/</guid>
+    </item><item>
+      <title>VSCodium portable 1.52.0-50</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/vscodium.png"/></p>
+<p>Release of VSCodium portable 1.52.0-50 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/vscodium-portable/">VSCodium portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 13 Dec 2020 11:04:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-13-vscodium-portable-1.52.0-50/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-13-vscodium-portable-1.52.0-50/</guid>
+    </item><item>
+      <title>Visual Studio Code portable 1.52.0-41</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/vscode.png"/></p>
+<p>Release of Visual Studio Code portable 1.52.0-41 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/vscode-portable/">Visual Studio Code portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 13 Dec 2020 11:01:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-13-vscode-portable-1.52.0-41/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-13-vscode-portable-1.52.0-41/</guid>
+    </item><item>
+      <title>Portapps 3.1.0</title>
+      <description><![CDATA[
+<ul>
+  <li>Add <code class="language-plaintext highlighter-rouge">Config</code> func to return global app configuration</li>
+  <li>Add <code class="language-plaintext highlighter-rouge">ElectronAppPath</code> func to return the app electron path</li>
+  <li>Add <code class="language-plaintext highlighter-rouge">ErrorBoxLog</code> and <code class="language-plaintext highlighter-rouge">FatalBoxLog</code> funcs</li>
+</ul>
+]]></description>
+      <pubDate>Sun, 13 Dec 2020 09:42:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-13-portapps-3.1.0/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-13-portapps-3.1.0/</guid>
+    </item><item>
+      <title>IntelliJ IDEA Ultimate portable 2020.3-31</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/intellij-idea-ultimate.png"/></p>
+<p>Release of IntelliJ IDEA Ultimate portable 2020.3-31 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/intellij-idea-ultimate-portable/">IntelliJ IDEA Ultimate portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Dec 2020 02:24:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-12-intellij-idea-ultimate-portable-2020.3-31/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-12-intellij-idea-ultimate-portable-2020.3-31/</guid>
+    </item><item>
+      <title>IntelliJ IDEA Community portable 2020.3-45</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/intellij-idea-community.png"/></p>
+<p>Release of IntelliJ IDEA Community portable 2020.3-45 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/intellij-idea-community-portable/">IntelliJ IDEA Community portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Dec 2020 02:21:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-12-intellij-idea-community-portable-2020.3-45/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-12-intellij-idea-community-portable-2020.3-45/</guid>
+    </item><item>
+      <title>Nextcloud portable 3.1.0-11</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/nextcloud.png"/></p>
+<p>Release of Nextcloud portable 3.1.0-11 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/nextcloud-portable/">Nextcloud portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Dec 2020 02:18:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-12-nextcloud-portable-3.1.0-11/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-12-nextcloud-portable-3.1.0-11/</guid>
+    </item><item>
+      <title>KiTTY portable 0.74.3.4-33</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/kitty.png"/></p>
+<p>Release of KiTTY portable 0.74.3.4-33 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/kitty-portable/">KiTTY portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Dec 2020 02:15:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-12-kitty-portable-0.74.3.4-33/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-12-kitty-portable-0.74.3.4-33/</guid>
+    </item><item>
+      <title>WhatsApp portable 2.2049.8-26</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/whatsapp.png"/></p>
+<p>Release of WhatsApp portable 2.2049.8-26 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/whatsapp-portable/">WhatsApp portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Dec 2020 02:12:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-12-whatsapp-portable-2.2049.8-26/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-12-whatsapp-portable-2.2049.8-26/</guid>
+    </item><item>
+      <title>Waterfox portable 3.0.1-19</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/waterfox.png"/></p>
+<p>Release of Waterfox portable 3.0.1-19 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/waterfox-portable/">Waterfox portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Dec 2020 02:09:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-12-waterfox-portable-3.0.1-19/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-12-waterfox-portable-3.0.1-19/</guid>
+    </item><item>
+      <title>Phyrox Developer Edition portable 84.0b8-38</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/phyrox-developer.png"/></p>
+<p>Release of Phyrox Developer Edition portable 84.0b8-38 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/phyrox-developer-portable/">Phyrox Developer Edition portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 07 Dec 2020 23:18:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-07-phyrox-developer-portable-84.0b8-38/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-07-phyrox-developer-portable-84.0b8-38/</guid>
+    </item><item>
+      <title>Phyrox ESR portable 78.5.0-49</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/phyrox-esr.png"/></p>
+<p>Release of Phyrox ESR portable 78.5.0-49 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/phyrox-esr-portable/">Phyrox ESR portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 07 Dec 2020 23:14:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-07-phyrox-esr-portable-78.5.0-49/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-07-phyrox-esr-portable-78.5.0-49/</guid>
+    </item><item>
+      <title>Phyrox portable 83.0-52</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/phyrox.png"/></p>
+<p>Release of Phyrox portable 83.0-52 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/phyrox-portable/">Phyrox portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 07 Dec 2020 23:11:00 +0100</pubDate>
+      <link>https://portapps.io/news/2020-12-07-phyrox-portable-83.0-52/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2020-12-07-phyrox-portable-83.0-52/</guid>
+    </item>
+  </channel>
+</rss>

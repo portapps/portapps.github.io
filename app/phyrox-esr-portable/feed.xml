@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Phyrox ESR portable releases</title>
+    <description>Run Mozilla Firefox ESR as a portable app.</description>
+    <link>https://portapps.io/app/phyrox-esr-portable/</link>
+    <atom:link href="https://portapps.io/app/phyrox-esr-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>phyrox-esr-portable-win32-78.5.0-49-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.5.0-49-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.5.0-49-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.5.0-49-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.5.0-49-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.5.0-49-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.5.0-49.7z</title>
+    <description></description>
+    <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.5.0-49.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.5.0-49.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.5.0-49.7z</title>
+    <description></description>
+    <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.5.0-49.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.5.0-49.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.4.0-48-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.4.0-48-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.4.0-48-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.4.0-48-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.4.0-48-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.4.0-48-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.4.0-48.7z</title>
+    <description></description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.4.0-48.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.4.0-48.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.4.0-48.7z</title>
+    <description></description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.4.0-48.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.4.0-48.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.3.1-47-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 09 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.3.1-47-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.3.1-47-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.3.1-47-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 09 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.3.1-47-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.3.1-47-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.3.1-47.7z</title>
+    <description></description>
+    <pubDate>Fri, 09 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.3.1-47.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.3.1-47.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.3.1-47.7z</title>
+    <description></description>
+    <pubDate>Fri, 09 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.3.1-47.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.3.1-47.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.3.0-46-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 29 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.3.0-46-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.3.0-46-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.3.0-46-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 29 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.3.0-46-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.3.0-46-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.3.0-46.7z</title>
+    <description></description>
+    <pubDate>Tue, 29 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.3.0-46.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.3.0-46.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.3.0-46.7z</title>
+    <description></description>
+    <pubDate>Tue, 29 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.3.0-46.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.3.0-46.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.2.0-45-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.2.0-45-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.2.0-45-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.2.0-45-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.2.0-45-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.2.0-45-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.2.0-45.7z</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.2.0-45.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.2.0-45.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.2.0-45.7z</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.2.0-45.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.2.0-45.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-68.12.0-44-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-68.12.0-44-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-68.12.0-44-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-68.12.0-44-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-68.12.0-44-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-68.12.0-44-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-68.12.0-44.7z</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-68.12.0-44.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-68.12.0-44.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-68.12.0-44.7z</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-68.12.0-44.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-68.12.0-44.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.1.0-43-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.1.0-43-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.1.0-43-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.1.0-43-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.1.0-43-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.1.0-43-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.1.0-43.7z</title>
+    <description></description>
+    <pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.1.0-43.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.1.0-43.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.1.0-43.7z</title>
+    <description></description>
+    <pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.1.0-43.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.1.0-43.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.0.2-42-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 20 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.0.2-42-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.0.2-42-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.0.2-42-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 20 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.0.2-42-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.0.2-42-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.0.2-42.7z</title>
+    <description></description>
+    <pubDate>Mon, 20 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.0.2-42.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.0.2-42.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.0.2-42.7z</title>
+    <description></description>
+    <pubDate>Mon, 20 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.0.2-42.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.0.2-42.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.0.1-41-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 08 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.0.1-41-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.0.1-41-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.0.1-41-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 08 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.0.1-41-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.0.1-41-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.0.1-41.7z</title>
+    <description></description>
+    <pubDate>Wed, 08 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.0.1-41.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.0.1-41.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.0.1-41.7z</title>
+    <description></description>
+    <pubDate>Wed, 08 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.0.1-41.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.0.1-41.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.0-40-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 29 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.0-40-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.0-40-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.0-40-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 29 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.0-40-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.0-40-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win32-78.0-40.7z</title>
+    <description></description>
+    <pubDate>Mon, 29 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win32-78.0-40.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win32-78.0-40.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-78.0-40.7z</title>
+    <description></description>
+    <pubDate>Mon, 29 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-78.0-40.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-78.0-40.7z</guid>
+  </item>
+  </channel>
+</rss>

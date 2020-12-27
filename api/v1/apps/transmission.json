@@ -1,0 +1,37 @@
+{
+  "name": "transmission",
+  "label": "Transmission",
+  "desc": "Fast, easy, and free BitTorrent client.",
+  "license": "gpl-3.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["misc"],
+  "github": {
+    "user": "portapps",
+    "repo": "transmission-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://transmissionbt.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\transmission\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "3.00",
+      "release": "1",
+      "date": "2020/09/29",
+      "type": "release",
+      "original": "transmission-@version@-@platform@.msi",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

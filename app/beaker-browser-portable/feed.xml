@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Beaker Browser portable releases</title>
+    <description>An experimental browser for exploring and building the peer-to-peer Web.</description>
+    <link>https://portapps.io/app/beaker-browser-portable/</link>
+    <atom:link href="https://portapps.io/app/beaker-browser-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>beaker-browser-portable-win64-0.8.10-3-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 18 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/beaker-browser-portable-win64-0.8.10-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/beaker-browser-portable-win64-0.8.10-3-setup.exe</guid>
+  </item><item>
+    <title>beaker-browser-portable-win64-0.8.10-3.7z</title>
+    <description></description>
+    <pubDate>Wed, 18 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/beaker-browser-portable-win64-0.8.10-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/beaker-browser-portable-win64-0.8.10-3.7z</guid>
+  </item><item>
+    <title>beaker-browser-portable-win64-0.8.8-2-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 29 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/beaker-browser-portable-win64-0.8.8-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/beaker-browser-portable-win64-0.8.8-2-setup.exe</guid>
+  </item><item>
+    <title>beaker-browser-portable-win64-0.8.8-2.7z</title>
+    <description></description>
+    <pubDate>Mon, 29 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/beaker-browser-portable-win64-0.8.8-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/beaker-browser-portable-win64-0.8.8-2.7z</guid>
+  </item><item>
+    <title>beaker-browser-portable-win64-0.8.8-1-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 27 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/beaker-browser-portable-win64-0.8.8-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/beaker-browser-portable-win64-0.8.8-1-setup.exe</guid>
+  </item><item>
+    <title>beaker-browser-portable-win64-0.8.8-1.7z</title>
+    <description></description>
+    <pubDate>Sat, 27 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/beaker-browser-portable-win64-0.8.8-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/beaker-browser-portable-win64-0.8.8-1.7z</guid>
+  </item>
+  </channel>
+</rss>

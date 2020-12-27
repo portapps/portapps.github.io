@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Android Studio&amp;trade; portable releases</title>
+    <description>The official IDE for Google's Android operating system.</description>
+    <link>https://portapps.io/app/android-studio-portable/</link>
+    <atom:link href="https://portapps.io/app/android-studio-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>android-studio-portable-win64-4.1.0-15-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 15 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/android-studio-portable-win64-4.1.0-15-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/android-studio-portable-win64-4.1.0-15-setup.exe</guid>
+  </item><item>
+    <title>android-studio-portable-win64-4.0.1-14-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/android-studio-portable-win64-4.0.1-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/android-studio-portable-win64-4.0.1-14-setup.exe</guid>
+  </item><item>
+    <title>android-studio-portable-win64-4.0.0-13-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 21 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/android-studio-portable-win64-4.0.0-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/android-studio-portable-win64-4.0.0-13-setup.exe</guid>
+  </item><item>
+    <title>android-studio-portable-win64-3.6.3-12-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 22 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/android-studio-portable-win64-3.6.3-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/android-studio-portable-win64-3.6.3-12-setup.exe</guid>
+  </item><item>
+    <title>android-studio-portable-win64-3.6.2-11-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/android-studio-portable-win64-3.6.2-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/android-studio-portable-win64-3.6.2-11-setup.exe</guid>
+  </item><item>
+    <title>android-studio-portable-win64-3.6.1-10-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 05 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/android-studio-portable-win64-3.6.1-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/android-studio-portable-win64-3.6.1-10-setup.exe</guid>
+  </item><item>
+    <title>android-studio-portable-win64-3.6.1-9-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 02 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/android-studio-portable-win64-3.6.1-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/android-studio-portable-win64-3.6.1-9-setup.exe</guid>
+  </item><item>
+    <title>android-studio-portable-win64-3.5.3-8-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/android-studio-portable-win64-3.5.3-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/android-studio-portable-win64-3.5.3-8-setup.exe</guid>
+  </item><item>
+    <title>android-studio-portable-win64-3.5.2-7-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 07 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/android-studio-portable-win64-3.5.2-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/android-studio-portable-win64-3.5.2-7-setup.exe</guid>
+  </item><item>
+    <title>android-studio-portable-win64-3.5.1-6-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 06 Oct 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/android-studio-portable-win64-3.5.1-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/android-studio-portable-win64-3.5.1-6-setup.exe</guid>
+  </item>
+  </channel>
+</rss>

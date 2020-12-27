@@ -1,0 +1,132 @@
+{
+  "name": "handbrake",
+  "label": "HandBrake",
+  "desc": "A tool for converting video from nearly any format to a selection of modern, widely supported codecs.",
+  "license": "gpl-2.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["multimedia"],
+  "github": {
+    "user": "portapps",
+    "repo": "handbrake-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://handbrake.fr",
+  "move": [
+    {
+      "from": "%APPDATA%\\HandBrake\\*",
+      "to": "data\\storage\\HandBrake"
+    }
+  ],
+  "groups": [
+    "1.3",
+    "1.2",
+    "1.1"
+  ],
+  "releases": [
+    {
+      "version": "1.3.3",
+      "release": "7",
+      "date": "2020/06/23",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.3.2",
+      "release": "6",
+      "date": "2020/05/10",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.3.1",
+      "release": "5",
+      "date": "2020/01/06",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.3.0",
+      "release": "4",
+      "date": "2019/11/12",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.2.2",
+      "release": "3",
+      "date": "2019/03/18",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.2.2",
+      "release": "2",
+      "date": "2019/02/25",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.2.1",
+      "release": "1",
+      "date": "2019/02/18",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.2.0",
+      "release": "4",
+      "date": "2018/12/23",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.1.2",
+      "release": "3",
+      "date": "2018/09/10",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.1.1",
+      "release": "2",
+      "date": "2018/08/28",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.1.0",
+      "release": "1",
+      "date": "2018/05/27",
+      "type": "release",
+      "original": "HandBrake-@version@-@platform@-Win_GUI.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

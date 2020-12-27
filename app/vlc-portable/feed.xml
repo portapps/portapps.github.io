@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - VLC Media Player&amp;trade; portable releases</title>
+    <description>A free and open-source, portable, cross-platform media player and streaming media server.</description>
+    <link>https://portapps.io/app/vlc-portable/</link>
+    <atom:link href="https://portapps.io/app/vlc-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>vlc-portable-win32-3.0.11-9-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 29 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.11-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.11-9-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.11-9-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 29 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.11-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.11-9-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win32-3.0.11-9.7z</title>
+    <description></description>
+    <pubDate>Mon, 29 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.11-9.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.11-9.7z</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.11-9.7z</title>
+    <description></description>
+    <pubDate>Mon, 29 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.11-9.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.11-9.7z</guid>
+  </item><item>
+    <title>vlc-portable-win32-3.0.10-8-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 03 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.10-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.10-8-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.10-8-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 03 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.10-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.10-8-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win32-3.0.10-8.7z</title>
+    <description></description>
+    <pubDate>Sun, 03 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.10-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.10-8.7z</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.10-8.7z</title>
+    <description></description>
+    <pubDate>Sun, 03 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.10-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.10-8.7z</guid>
+  </item><item>
+    <title>vlc-portable-win32-3.0.8-7-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.8-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.8-7-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.8-7-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.8-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.8-7-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win32-3.0.8-7.7z</title>
+    <description></description>
+    <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.8-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.8-7.7z</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.8-7.7z</title>
+    <description></description>
+    <pubDate>Mon, 19 Aug 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.8-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.8-7.7z</guid>
+  </item><item>
+    <title>vlc-portable-win32-3.0.7.1-6-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 12 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.7.1-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.7.1-6-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.7.1-6-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 12 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.7.1-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.7.1-6-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win32-3.0.7.1-6.7z</title>
+    <description></description>
+    <pubDate>Wed, 12 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.7.1-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.7.1-6.7z</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.7.1-6.7z</title>
+    <description></description>
+    <pubDate>Wed, 12 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.7.1-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.7.1-6.7z</guid>
+  </item><item>
+    <title>vlc-portable-win32-3.0.7-5-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 07 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.7-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.7-5-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.7-5-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 07 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.7-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.7-5-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win32-3.0.7-5.7z</title>
+    <description></description>
+    <pubDate>Fri, 07 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.7-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.7-5.7z</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.7-5.7z</title>
+    <description></description>
+    <pubDate>Fri, 07 Jun 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.7-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.7-5.7z</guid>
+  </item><item>
+    <title>vlc-portable-win32-3.0.6-4-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 24 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.6-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.6-4-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.6-4-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 24 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.6-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.6-4-setup.exe</guid>
+  </item><item>
+    <title>vlc-portable-win32-3.0.6-4.7z</title>
+    <description></description>
+    <pubDate>Sun, 24 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win32-3.0.6-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win32-3.0.6-4.7z</guid>
+  </item><item>
+    <title>vlc-portable-win64-3.0.6-4.7z</title>
+    <description></description>
+    <pubDate>Sun, 24 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vlc-portable-win64-3.0.6-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vlc-portable-win64-3.0.6-4.7z</guid>
+  </item>
+  </channel>
+</rss>

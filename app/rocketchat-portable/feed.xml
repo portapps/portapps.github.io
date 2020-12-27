@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Rocket.Chat&amp;trade; portable releases</title>
+    <description>Free, Open Source, Enterprise Team Chat.</description>
+    <link>https://portapps.io/app/rocketchat-portable/</link>
+    <atom:link href="https://portapps.io/app/rocketchat-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>rocketchat-portable-win32-3.0.7-20-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-3.0.7-20-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-3.0.7-20-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-3.0.7-20-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-3.0.7-20-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-3.0.7-20-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-3.0.7-20.7z</title>
+    <description></description>
+    <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-3.0.7-20.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-3.0.7-20.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-3.0.7-20.7z</title>
+    <description></description>
+    <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-3.0.7-20.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-3.0.7-20.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-3.0.3-19-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 15 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-3.0.3-19-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-3.0.3-19-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-3.0.3-19-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 15 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-3.0.3-19-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-3.0.3-19-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-3.0.3-19.7z</title>
+    <description></description>
+    <pubDate>Thu, 15 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-3.0.3-19.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-3.0.3-19.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-3.0.3-19.7z</title>
+    <description></description>
+    <pubDate>Thu, 15 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-3.0.3-19.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-3.0.3-19.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.11-18-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.11-18-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.11-18-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.11-18-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.11-18-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.11-18-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.11-18.7z</title>
+    <description></description>
+    <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.11-18.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.11-18.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.11-18.7z</title>
+    <description></description>
+    <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.11-18.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.11-18.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.9-17-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 16 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.9-17-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.9-17-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.9-17-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 16 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.9-17-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.9-17-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.9-17.7z</title>
+    <description></description>
+    <pubDate>Mon, 16 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.9-17.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.9-17.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.9-17.7z</title>
+    <description></description>
+    <pubDate>Mon, 16 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.9-17.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.9-17.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.7-16-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.7-16-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.7-16-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.7-16-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.7-16-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.7-16-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.7-16.7z</title>
+    <description></description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.7-16.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.7-16.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.7-16.7z</title>
+    <description></description>
+    <pubDate>Fri, 14 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.7-16.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.7-16.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.5-15-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.5-15-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.5-15-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.5-15-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.5-15-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.5-15-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.5-15.7z</title>
+    <description></description>
+    <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.5-15.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.5-15.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.5-15.7z</title>
+    <description></description>
+    <pubDate>Fri, 07 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.5-15.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.5-15.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.3-14-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.3-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.3-14-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.3-14-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.3-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.3-14-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.3-14.7z</title>
+    <description></description>
+    <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.3-14.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.3-14.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.3-14.7z</title>
+    <description></description>
+    <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.3-14.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.3-14.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.2-13-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 23 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.2-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.2-13-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.2-13-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 23 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.2-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.2-13-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.2-13.7z</title>
+    <description></description>
+    <pubDate>Mon, 23 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.2-13.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.2-13.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.2-13.7z</title>
+    <description></description>
+    <pubDate>Mon, 23 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.2-13.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.2-13.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.1-12-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.1-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.1-12-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.1-12-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.1-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.1-12-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.1-12.7z</title>
+    <description></description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.1-12.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.1-12.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.1-12.7z</title>
+    <description></description>
+    <pubDate>Wed, 11 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.1-12.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.1-12.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.0-11-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 03 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.0-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.0-11-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.0-11-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 03 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.0-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.0-11-setup.exe</guid>
+  </item><item>
+    <title>rocketchat-portable-win32-2.17.0-11.7z</title>
+    <description></description>
+    <pubDate>Tue, 03 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win32-2.17.0-11.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win32-2.17.0-11.7z</guid>
+  </item><item>
+    <title>rocketchat-portable-win64-2.17.0-11.7z</title>
+    <description></description>
+    <pubDate>Tue, 03 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rocketchat-portable-win64-2.17.0-11.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rocketchat-portable-win64-2.17.0-11.7z</guid>
+  </item>
+  </channel>
+</rss>

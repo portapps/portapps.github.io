@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Ferdi portable releases</title>
+    <description>Messaging browser that allows you to combine your favorite messaging services into one application.</description>
+    <link>https://portapps.io/app/ferdi-portable/</link>
+    <atom:link href="https://portapps.io/app/ferdi-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>ferdi-portable-win32-5.5.0-1-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 25 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ferdi-portable-win32-5.5.0-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ferdi-portable-win32-5.5.0-1-setup.exe</guid>
+  </item><item>
+    <title>ferdi-portable-win64-5.5.0-1-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 25 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ferdi-portable-win64-5.5.0-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ferdi-portable-win64-5.5.0-1-setup.exe</guid>
+  </item><item>
+    <title>ferdi-portable-win32-5.5.0-1.7z</title>
+    <description></description>
+    <pubDate>Sat, 25 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ferdi-portable-win32-5.5.0-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ferdi-portable-win32-5.5.0-1.7z</guid>
+  </item><item>
+    <title>ferdi-portable-win64-5.5.0-1.7z</title>
+    <description></description>
+    <pubDate>Sat, 25 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ferdi-portable-win64-5.5.0-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ferdi-portable-win64-5.5.0-1.7z</guid>
+  </item>
+  </channel>
+</rss>

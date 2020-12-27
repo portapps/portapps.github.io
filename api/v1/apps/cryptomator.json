@@ -1,0 +1,76 @@
+{
+  "name": "cryptomator",
+  "label": "Cryptomator",
+  "desc": "Multi-platform transparent client-side encryption of your files in the cloud.",
+  "license": "gpl-3.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["security"],
+  "github": {
+    "user": "portapps",
+    "repo": "cryptomator-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://cryptomator.org/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Cryptomator\\*",
+      "to": "data"
+    }
+  ],
+  "groups": [
+    "1.5"
+  ],
+  "releases": [
+    {
+      "version": "1.5.11",
+      "release": "5",
+      "date": "2020/12/27",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.5.11",
+      "release": "4",
+      "date": "2020/12/19",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.5.8",
+      "release": "3",
+      "date": "2020/09/04",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.5.7",
+      "release": "2",
+      "date": "2020/08/20",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.5.6",
+      "release": "1",
+      "date": "2020/07/25",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

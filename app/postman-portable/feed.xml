@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Postman&amp;trade; portable releases</title>
+    <description>A complete toolchain for API developers.</description>
+    <link>https://portapps.io/app/postman-portable/</link>
+    <atom:link href="https://portapps.io/app/postman-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>postman-portable-win32-7.36.0-47-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.36.0-47-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.36.0-47-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-7.36.0-47-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.36.0-47-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.36.0-47-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win32-7.36.0-47.7z</title>
+    <description></description>
+    <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.36.0-47.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.36.0-47.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-7.36.0-47.7z</title>
+    <description></description>
+    <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.36.0-47.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.36.0-47.7z</guid>
+  </item><item>
+    <title>postman-portable-win32-7.34.0-46-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 16 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.34.0-46-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.34.0-46-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-7.34.0-46-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 16 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.34.0-46-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.34.0-46-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win32-7.34.0-46.7z</title>
+    <description></description>
+    <pubDate>Mon, 16 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.34.0-46.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.34.0-46.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-7.34.0-46.7z</title>
+    <description></description>
+    <pubDate>Mon, 16 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.34.0-46.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.34.0-46.7z</guid>
+  </item><item>
+    <title>postman-portable-win32-7.33.1-45-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.33.1-45-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.33.1-45-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-7.33.1-45-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.33.1-45-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.33.1-45-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win32-7.33.1-45.7z</title>
+    <description></description>
+    <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.33.1-45.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.33.1-45.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-7.33.1-45.7z</title>
+    <description></description>
+    <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.33.1-45.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.33.1-45.7z</guid>
+  </item><item>
+    <title>postman-portable-win32-7.31.1-44-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 04 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.31.1-44-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.31.1-44-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-7.31.1-44-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 04 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.31.1-44-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.31.1-44-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win32-7.31.1-44.7z</title>
+    <description></description>
+    <pubDate>Fri, 04 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.31.1-44.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.31.1-44.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-7.31.1-44.7z</title>
+    <description></description>
+    <pubDate>Fri, 04 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.31.1-44.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.31.1-44.7z</guid>
+  </item><item>
+    <title>postman-portable-win32-7.30.1-43-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.30.1-43-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.30.1-43-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-7.30.1-43-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.30.1-43-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.30.1-43-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win32-7.30.1-43.7z</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.30.1-43.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.30.1-43.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-7.30.1-43.7z</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.30.1-43.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.30.1-43.7z</guid>
+  </item><item>
+    <title>postman-portable-win32-7.29.0-42-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 03 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.29.0-42-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.29.0-42-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-7.29.0-42-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 03 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.29.0-42-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.29.0-42-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win32-7.29.0-42.7z</title>
+    <description></description>
+    <pubDate>Mon, 03 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.29.0-42.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.29.0-42.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-7.29.0-42.7z</title>
+    <description></description>
+    <pubDate>Mon, 03 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.29.0-42.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.29.0-42.7z</guid>
+  </item><item>
+    <title>postman-portable-win32-7.28.0-41-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.28.0-41-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.28.0-41-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-7.28.0-41-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.28.0-41-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.28.0-41-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win32-7.28.0-41.7z</title>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.28.0-41.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.28.0-41.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-7.28.0-41.7z</title>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.28.0-41.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.28.0-41.7z</guid>
+  </item><item>
+    <title>postman-portable-win32-7.27.0-40-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 04 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.27.0-40-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.27.0-40-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-7.27.0-40-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 04 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.27.0-40-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.27.0-40-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win32-7.27.0-40.7z</title>
+    <description></description>
+    <pubDate>Sat, 04 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.27.0-40.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.27.0-40.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-7.27.0-40.7z</title>
+    <description></description>
+    <pubDate>Sat, 04 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.27.0-40.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.27.0-40.7z</guid>
+  </item><item>
+    <title>postman-portable-win32-7.26.1-39-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 21 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.26.1-39-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.26.1-39-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-7.26.1-39-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 21 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.26.1-39-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.26.1-39-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win32-7.26.1-39.7z</title>
+    <description></description>
+    <pubDate>Sun, 21 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.26.1-39.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.26.1-39.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-7.26.1-39.7z</title>
+    <description></description>
+    <pubDate>Sun, 21 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.26.1-39.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.26.1-39.7z</guid>
+  </item><item>
+    <title>postman-portable-win32-7.25.3-38-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.25.3-38-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.25.3-38-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-7.25.3-38-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.25.3-38-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.25.3-38-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win32-7.25.3-38.7z</title>
+    <description></description>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win32-7.25.3-38.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win32-7.25.3-38.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-7.25.3-38.7z</title>
+    <description></description>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-7.25.3-38.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-7.25.3-38.7z</guid>
+  </item>
+  </channel>
+</rss>

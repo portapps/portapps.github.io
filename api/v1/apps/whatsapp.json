@@ -1,0 +1,275 @@
+{
+  "name": "whatsapp",
+  "label": "WhatsApp&trade;",
+  "desc": "A cross-platform mobile messaging app which allows you to exchange messages without having to pay for SMS.",
+  "license": "freeware",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "whatsapp-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://www.whatsapp.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\WhatsApp\\*",
+      "to": "data"
+    }
+  ],
+  "groups":[
+    "2.2049",
+    "2.2039",
+    "2.2035",
+    "2.2033",
+    "2.2031",
+    "2.2029",
+    "2.2027",
+    "2.2023",
+    "2.2019",
+    "0.4",
+    "0.3"
+  ],
+  "releases": [
+    {
+      "version": "2.2049.8",
+      "release": "26",
+      "date": "2020/12/12",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.2039.9",
+      "release": "25",
+      "date": "2020/09/29",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.2035.14",
+      "release": "24",
+      "date": "2020/09/14",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.2033.7",
+      "release": "23",
+      "date": "2020/08/24",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.2031.4",
+      "release": "22",
+      "date": "2020/08/07",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.2029.4",
+      "release": "21",
+      "date": "2020/07/28",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.2027.10",
+      "release": "21",
+      "date": "2020/07/08",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.2023.2",
+      "release": "20",
+      "date": "2020/06/21",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.2019.8",
+      "release": "19",
+      "date": "2020/05/19",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.4.2088",
+      "release": "18",
+      "date": "2020/04/09",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.4.930",
+      "release": "17",
+      "date": "2020/02/27",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.4.315",
+      "release": "16",
+      "date": "2020/01/24",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.9309",
+      "release": "15",
+      "date": "2019/12/13",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.9308",
+      "release": "14",
+      "date": "2019/11/28",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.5374",
+      "release": "13",
+      "date": "2019/10/24",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.5148",
+      "release": "12",
+      "date": "2019/10/16",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.4941",
+      "release": "11",
+      "date": "2019/10/06",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.4679",
+      "release": "10",
+      "date": "2019/09/26",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.4479",
+      "release": "9",
+      "date": "2019/09/05",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.4375",
+      "release": "8",
+      "date": "2019/08/16",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.4157",
+      "release": "7",
+      "date": "2019/08/08",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.3793",
+      "release": "6",
+      "date": "2019/07/09",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.3330",
+      "release": "5",
+      "date": "2019/06/20",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.3328",
+      "release": "4",
+      "date": "2019/06/05",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.2848",
+      "release": "3",
+      "date": "2019/04/17",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.3.2386",
+      "release": "2",
+      "date": "2019/03/26",
+      "type": "release",
+      "original": "WhatsAppSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

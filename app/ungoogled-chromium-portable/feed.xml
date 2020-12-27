@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Ungoogled Chromium portable releases</title>
+    <description>Google Chromium, sans integration with Google.</description>
+    <link>https://portapps.io/app/ungoogled-chromium-portable/</link>
+    <atom:link href="https://portapps.io/app/ungoogled-chromium-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>ungoogled-chromium-portable-win32-86.0.4240.193-7-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 16 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-86.0.4240.193-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-86.0.4240.193-7-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-86.0.4240.193-7-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 16 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-86.0.4240.193-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-86.0.4240.193-7-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-86.0.4240.193-7.7z</title>
+    <description></description>
+    <pubDate>Mon, 16 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-86.0.4240.193-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-86.0.4240.193-7.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-86.0.4240.193-7.7z</title>
+    <description></description>
+    <pubDate>Mon, 16 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-86.0.4240.193-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-86.0.4240.193-7.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-85.0.4183.83-6-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 04 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-85.0.4183.83-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-85.0.4183.83-6-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-85.0.4183.83-6-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 04 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-85.0.4183.83-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-85.0.4183.83-6-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-85.0.4183.83-6.7z</title>
+    <description></description>
+    <pubDate>Fri, 04 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-85.0.4183.83-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-85.0.4183.83-6.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-85.0.4183.83-6.7z</title>
+    <description></description>
+    <pubDate>Fri, 04 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-85.0.4183.83-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-85.0.4183.83-6.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-84.0.4147.89-5-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-84.0.4147.89-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-84.0.4147.89-5-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-84.0.4147.89-5-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-84.0.4147.89-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-84.0.4147.89-5-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-84.0.4147.89-5.7z</title>
+    <description></description>
+    <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-84.0.4147.89-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-84.0.4147.89-5.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-84.0.4147.89-5.7z</title>
+    <description></description>
+    <pubDate>Tue, 28 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-84.0.4147.89-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-84.0.4147.89-5.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-83.0.4103.97-3-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-83.0.4103.97-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-83.0.4103.97-3-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-83.0.4103.97-3-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-83.0.4103.97-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-83.0.4103.97-3-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-83.0.4103.97-3.7z</title>
+    <description></description>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-83.0.4103.97-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-83.0.4103.97-3.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-83.0.4103.97-3.7z</title>
+    <description></description>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-83.0.4103.97-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-83.0.4103.97-3.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-81.0.4044.113-3-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 21 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-81.0.4044.113-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-81.0.4044.113-3-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-81.0.4044.113-3-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 21 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-81.0.4044.113-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-81.0.4044.113-3-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-81.0.4044.113-3.7z</title>
+    <description></description>
+    <pubDate>Tue, 21 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-81.0.4044.113-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-81.0.4044.113-3.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-81.0.4044.113-3.7z</title>
+    <description></description>
+    <pubDate>Tue, 21 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-81.0.4044.113-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-81.0.4044.113-3.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-80.0.3987.149-2-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-80.0.3987.149-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-80.0.3987.149-2-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-80.0.3987.149-2-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-80.0.3987.149-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-80.0.3987.149-2-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-80.0.3987.149-2.7z</title>
+    <description></description>
+    <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-80.0.3987.149-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-80.0.3987.149-2.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-80.0.3987.149-2.7z</title>
+    <description></description>
+    <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-80.0.3987.149-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-80.0.3987.149-2.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-79.0.3945.130-1-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-79.0.3945.130-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-79.0.3945.130-1-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-79.0.3945.130-1-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-79.0.3945.130-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-79.0.3945.130-1-setup.exe</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win32-79.0.3945.130-1.7z</title>
+    <description></description>
+    <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win32-79.0.3945.130-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win32-79.0.3945.130-1.7z</guid>
+  </item><item>
+    <title>ungoogled-chromium-portable-win64-79.0.3945.130-1.7z</title>
+    <description></description>
+    <pubDate>Mon, 23 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/ungoogled-chromium-portable-win64-79.0.3945.130-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/ungoogled-chromium-portable-win64-79.0.3945.130-1.7z</guid>
+  </item>
+  </channel>
+</rss>

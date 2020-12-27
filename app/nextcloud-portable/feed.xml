@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Nextcloud&amp;trade; portable releases</title>
+    <description>An open source, self-hosted file share and communication platform.</description>
+    <link>https://portapps.io/app/nextcloud-portable/</link>
+    <atom:link href="https://portapps.io/app/nextcloud-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>nextcloud-portable-win64-3.1.0-11-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 12 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-3.1.0-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-3.1.0-11-setup.exe</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-3.1.0-11.7z</title>
+    <description></description>
+    <pubDate>Sat, 12 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-3.1.0-11.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-3.1.0-11.7z</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-3.0.2-10-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-3.0.2-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-3.0.2-10-setup.exe</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-3.0.2-10.7z</title>
+    <description></description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-3.0.2-10.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-3.0.2-10.7z</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-3.0.1-9-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 06 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-3.0.1-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-3.0.1-9-setup.exe</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-3.0.1-9.7z</title>
+    <description></description>
+    <pubDate>Sun, 06 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-3.0.1-9.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-3.0.1-9.7z</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.5-8-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 20 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.5-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.5-8-setup.exe</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.5-8.7z</title>
+    <description></description>
+    <pubDate>Mon, 20 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.5-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.5-8.7z</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.4-7-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 09 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.4-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.4-7-setup.exe</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.4-7.7z</title>
+    <description></description>
+    <pubDate>Mon, 09 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.4-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.4-7.7z</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.3-6-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 20 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.3-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.3-6-setup.exe</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.3-6.7z</title>
+    <description></description>
+    <pubDate>Thu, 20 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.3-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.3-6.7z</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.2-5-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.2-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.2-5-setup.exe</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.2-5.7z</title>
+    <description></description>
+    <pubDate>Tue, 24 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.2-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.2-5.7z</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.1-4-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 07 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.1-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.1-4-setup.exe</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.1-4.7z</title>
+    <description></description>
+    <pubDate>Thu, 07 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.1-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.1-4.7z</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.0-3-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 01 Oct 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.0-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.0-3-setup.exe</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.6.0-3.7z</title>
+    <description></description>
+    <pubDate>Tue, 01 Oct 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.6.0-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.6.0-3.7z</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.5.3-2-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 25 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.5.3-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.5.3-2-setup.exe</guid>
+  </item><item>
+    <title>nextcloud-portable-win64-2.5.3-2.7z</title>
+    <description></description>
+    <pubDate>Thu, 25 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/nextcloud-portable-win64-2.5.3-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/nextcloud-portable-win64-2.5.3-2.7z</guid>
+  </item>
+  </channel>
+</rss>

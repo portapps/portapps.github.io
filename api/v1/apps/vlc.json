@@ -1,0 +1,82 @@
+{
+  "name": "vlc",
+  "label": "VLC Media Player&trade;",
+  "desc": "A free and open-source, portable, cross-platform media player and streaming media server.",
+  "license": "gpl-2.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["multimedia"],
+  "github": {
+    "user": "portapps",
+    "repo": "vlc-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://www.videolan.org/vlc/",
+  "move": [
+    {
+      "from": "%APPDATA%\\vlc\\*",
+      "to": "data\\"
+    }
+  ],
+  "releases": [
+    {
+      "version": "3.0.11",
+      "release": "9",
+      "date": "2020/06/29",
+      "type": "release",
+      "original": "vlc-@version@-@platform@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.10",
+      "release": "8",
+      "date": "2020/05/03",
+      "type": "release",
+      "original": "vlc-@version@-@platform@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.8",
+      "release": "7",
+      "date": "2019/08/19",
+      "type": "release",
+      "original": "vlc-@version@-@platform@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.7.1",
+      "release": "6",
+      "date": "2019/06/12",
+      "type": "release",
+      "original": "vlc-@version@-@platform@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.7",
+      "release": "5",
+      "date": "2019/06/07",
+      "type": "release",
+      "original": "vlc-@version@-@platform@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "3.0.6",
+      "release": "4",
+      "date": "2019/03/24",
+      "type": "release",
+      "original": "vlc-@version@-@platform@.zip",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

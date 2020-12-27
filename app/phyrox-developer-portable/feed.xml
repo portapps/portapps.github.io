@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Phyrox Developer Edition portable releases</title>
+    <description>Run Mozilla Firefox Developer Edition as a portable app.</description>
+    <link>https://portapps.io/app/phyrox-developer-portable/</link>
+    <atom:link href="https://portapps.io/app/phyrox-developer-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>phyrox-developer-portable-win32-84.0b8-38-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-84.0b8-38-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-84.0b8-38-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-84.0b8-38-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-84.0b8-38-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-84.0b8-38-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-84.0b8-38.7z</title>
+    <description></description>
+    <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-84.0b8-38.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-84.0b8-38.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-84.0b8-38.7z</title>
+    <description></description>
+    <pubDate>Mon, 07 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-84.0b8-38.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-84.0b8-38.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-83.0b5-37-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-83.0b5-37-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-83.0b5-37-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-83.0b5-37-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-83.0b5-37-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-83.0b5-37-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-83.0b5-37.7z</title>
+    <description></description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-83.0b5-37.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-83.0b5-37.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-83.0b5-37.7z</title>
+    <description></description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-83.0b5-37.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-83.0b5-37.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-82.0b2-36-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 29 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-82.0b2-36-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-82.0b2-36-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-82.0b2-36-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 29 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-82.0b2-36-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-82.0b2-36-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-82.0b2-36.7z</title>
+    <description></description>
+    <pubDate>Tue, 29 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-82.0b2-36.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-82.0b2-36.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-82.0b2-36.7z</title>
+    <description></description>
+    <pubDate>Tue, 29 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-82.0b2-36.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-82.0b2-36.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-81.0b1-35-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-81.0b1-35-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-81.0b1-35-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-81.0b1-35-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-81.0b1-35-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-81.0b1-35-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-81.0b1-35.7z</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-81.0b1-35.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-81.0b1-35.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-81.0b1-35.7z</title>
+    <description></description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-81.0b1-35.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-81.0b1-35.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-80.0b2-34-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-80.0b2-34-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-80.0b2-34-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-80.0b2-34-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-80.0b2-34-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-80.0b2-34-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-80.0b2-34.7z</title>
+    <description></description>
+    <pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-80.0b2-34.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-80.0b2-34.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-80.0b2-34.7z</title>
+    <description></description>
+    <pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-80.0b2-34.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-80.0b2-34.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-79.0b5-33-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 08 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-79.0b5-33-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-79.0b5-33-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-79.0b5-33-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 08 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-79.0b5-33-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-79.0b5-33-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-79.0b5-33.7z</title>
+    <description></description>
+    <pubDate>Wed, 08 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-79.0b5-33.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-79.0b5-33.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-79.0b5-33.7z</title>
+    <description></description>
+    <pubDate>Wed, 08 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-79.0b5-33.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-79.0b5-33.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-78.0b6-32-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 13 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-78.0b6-32-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-78.0b6-32-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-78.0b6-32-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 13 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-78.0b6-32-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-78.0b6-32-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-78.0b6-32.7z</title>
+    <description></description>
+    <pubDate>Sat, 13 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-78.0b6-32.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-78.0b6-32.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-78.0b6-32.7z</title>
+    <description></description>
+    <pubDate>Sat, 13 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-78.0b6-32.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-78.0b6-32.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-77.0b3-31-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 29 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-77.0b3-31-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-77.0b3-31-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-77.0b3-31-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 29 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-77.0b3-31-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-77.0b3-31-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-77.0b3-31.7z</title>
+    <description></description>
+    <pubDate>Fri, 29 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-77.0b3-31.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-77.0b3-31.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-77.0b3-31.7z</title>
+    <description></description>
+    <pubDate>Fri, 29 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-77.0b3-31.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-77.0b3-31.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-77.0b3-30-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 10 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-77.0b3-30-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-77.0b3-30-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-77.0b3-30-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 10 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-77.0b3-30-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-77.0b3-30-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-77.0b3-30.7z</title>
+    <description></description>
+    <pubDate>Sun, 10 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-77.0b3-30.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-77.0b3-30.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-77.0b3-30.7z</title>
+    <description></description>
+    <pubDate>Sun, 10 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-77.0b3-30.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-77.0b3-30.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-76.0b6-29-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 21 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-76.0b6-29-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-76.0b6-29-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-76.0b6-29-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 21 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-76.0b6-29-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-76.0b6-29-setup.exe</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win32-76.0b6-29.7z</title>
+    <description></description>
+    <pubDate>Tue, 21 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win32-76.0b6-29.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win32-76.0b6-29.7z</guid>
+  </item><item>
+    <title>phyrox-developer-portable-win64-76.0b6-29.7z</title>
+    <description></description>
+    <pubDate>Tue, 21 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-developer-portable-win64-76.0b6-29.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-developer-portable-win64-76.0b6-29.7z</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Franz&amp;trade; portable releases</title>
+    <description>Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and many many more.</description>
+    <link>https://portapps.io/app/franz-portable/</link>
+    <atom:link href="https://portapps.io/app/franz-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>franz-portable-win32-5.5.0-10-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.5.0-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.5.0-10-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win64-5.5.0-10-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.5.0-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.5.0-10-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win32-5.5.0-10.7z</title>
+    <description></description>
+    <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.5.0-10.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.5.0-10.7z</guid>
+  </item><item>
+    <title>franz-portable-win64-5.5.0-10.7z</title>
+    <description></description>
+    <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.5.0-10.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.5.0-10.7z</guid>
+  </item><item>
+    <title>franz-portable-win32-5.4.1-9-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.4.1-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.4.1-9-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win64-5.4.1-9-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.4.1-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.4.1-9-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win32-5.4.1-9.7z</title>
+    <description></description>
+    <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.4.1-9.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.4.1-9.7z</guid>
+  </item><item>
+    <title>franz-portable-win64-5.4.1-9.7z</title>
+    <description></description>
+    <pubDate>Sat, 01 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.4.1-9.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.4.1-9.7z</guid>
+  </item><item>
+    <title>franz-portable-win32-5.4.1-8-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 03 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.4.1-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.4.1-8-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win64-5.4.1-8-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 03 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.4.1-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.4.1-8-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win32-5.4.1-8.7z</title>
+    <description></description>
+    <pubDate>Sun, 03 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.4.1-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.4.1-8.7z</guid>
+  </item><item>
+    <title>franz-portable-win64-5.4.1-8.7z</title>
+    <description></description>
+    <pubDate>Sun, 03 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.4.1-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.4.1-8.7z</guid>
+  </item><item>
+    <title>franz-portable-win32-5.4.0-7-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 23 Oct 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.4.0-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.4.0-7-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win64-5.4.0-7-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 23 Oct 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.4.0-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.4.0-7-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win32-5.4.0-7.7z</title>
+    <description></description>
+    <pubDate>Wed, 23 Oct 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.4.0-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.4.0-7.7z</guid>
+  </item><item>
+    <title>franz-portable-win64-5.4.0-7.7z</title>
+    <description></description>
+    <pubDate>Wed, 23 Oct 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.4.0-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.4.0-7.7z</guid>
+  </item><item>
+    <title>franz-portable-win32-5.3.3-6-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 17 Sep 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.3.3-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.3.3-6-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win64-5.3.3-6-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 17 Sep 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.3.3-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.3.3-6-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win32-5.3.3-6.7z</title>
+    <description></description>
+    <pubDate>Tue, 17 Sep 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.3.3-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.3.3-6.7z</guid>
+  </item><item>
+    <title>franz-portable-win64-5.3.3-6.7z</title>
+    <description></description>
+    <pubDate>Tue, 17 Sep 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.3.3-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.3.3-6.7z</guid>
+  </item><item>
+    <title>franz-portable-win32-5.3.1-5-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 09 Sep 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.3.1-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.3.1-5-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win64-5.3.1-5-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 09 Sep 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.3.1-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.3.1-5-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win32-5.3.1-5.7z</title>
+    <description></description>
+    <pubDate>Mon, 09 Sep 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.3.1-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.3.1-5.7z</guid>
+  </item><item>
+    <title>franz-portable-win64-5.3.1-5.7z</title>
+    <description></description>
+    <pubDate>Mon, 09 Sep 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.3.1-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.3.1-5.7z</guid>
+  </item><item>
+    <title>franz-portable-win32-5.2.0-4-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.2.0-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.2.0-4-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win64-5.2.0-4-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.2.0-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.2.0-4-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win32-5.2.0-4.7z</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.2.0-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.2.0-4.7z</guid>
+  </item><item>
+    <title>franz-portable-win64-5.2.0-4.7z</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.2.0-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.2.0-4.7z</guid>
+  </item><item>
+    <title>franz-portable-win32-5.2.0-3-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 21 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.2.0-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.2.0-3-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win64-5.2.0-3-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 21 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.2.0-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.2.0-3-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win32-5.2.0-3.7z</title>
+    <description></description>
+    <pubDate>Sun, 21 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.2.0-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.2.0-3.7z</guid>
+  </item><item>
+    <title>franz-portable-win64-5.2.0-3.7z</title>
+    <description></description>
+    <pubDate>Sun, 21 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.2.0-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.2.0-3.7z</guid>
+  </item><item>
+    <title>franz-portable-win32-5.1.0-2-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 17 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.1.0-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.1.0-2-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win64-5.1.0-2-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 17 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.1.0-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.1.0-2-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win32-5.1.0-2.7z</title>
+    <description></description>
+    <pubDate>Fri, 17 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.1.0-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.1.0-2.7z</guid>
+  </item><item>
+    <title>franz-portable-win64-5.1.0-2.7z</title>
+    <description></description>
+    <pubDate>Fri, 17 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.1.0-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.1.0-2.7z</guid>
+  </item><item>
+    <title>franz-portable-win32-5.1.0-1-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.1.0-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.1.0-1-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win64-5.1.0-1-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.1.0-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.1.0-1-setup.exe</guid>
+  </item><item>
+    <title>franz-portable-win32-5.1.0-1.7z</title>
+    <description></description>
+    <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win32-5.1.0-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win32-5.1.0-1.7z</guid>
+  </item><item>
+    <title>franz-portable-win64-5.1.0-1.7z</title>
+    <description></description>
+    <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/franz-portable-win64-5.1.0-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/franz-portable-win64-5.1.0-1.7z</guid>
+  </item>
+  </channel>
+</rss>

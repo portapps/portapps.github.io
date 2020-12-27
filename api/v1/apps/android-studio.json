@@ -1,0 +1,163 @@
+{
+  "name": "android-studio",
+  "label": "Android Studio&trade;",
+  "desc": "The official IDE for Google's Android operating system.",
+  "license": "freeware",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "android-studio-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://developer.android.com/studio",
+  "move": [
+    {
+      "from": "%USERPROFILE%\\.android",
+      "to": "data"
+    },
+    {
+      "from": "%USERPROFILE%\\.gradle",
+      "to": "data"
+    },
+    {
+      "from": "%USERPROFILE%\\.AndroidStudio*\\config\\plugins",
+      "to": "data"
+    },
+    {
+      "from": "%USERPROFILE%\\.AndroidStudio*\\system\\log",
+      "to": "data"
+    },
+    {
+      "from": "%USERPROFILE%\\.AndroidStudio*\\config",
+      "to": "data"
+    },
+    {
+      "from": "%USERPROFILE%\\.AndroidStudio*\\system",
+      "to": "data"
+    }
+  ],
+  "groups": [
+    "4.1",
+    "4.0",
+    "3.6",
+    "3.5",
+    "3.4"
+  ],
+  "releases": [
+    {
+      "version": "4.1.0",
+      "release": "15",
+      "date": "2020/10/15",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "4.0.1",
+      "release": "14",
+      "date": "2020/07/23",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "4.0.0",
+      "release": "13",
+      "date": "2020/06/21",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "3.6.3",
+      "release": "12",
+      "date": "2020/04/22",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "3.6.2",
+      "release": "11",
+      "date": "2020/04/05",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "3.6.1",
+      "release": "10",
+      "date": "2020/03/05",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "3.6.1",
+      "release": "9",
+      "date": "2020/03/02",
+      "type": "broken",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "3.5.3",
+      "release": "8",
+      "date": "2019/12/06",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "3.5.2",
+      "release": "7",
+      "date": "2019/11/07",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "3.5.1",
+      "release": "6",
+      "date": "2019/10/06",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "3.5",
+      "release": "5",
+      "date": "2019/08/20",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
+      "version": "3.4.2",
+      "release": "4",
+      "date": "2019/07/23",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    }
+  ]
+}

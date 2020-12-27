@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Insomnia&amp;trade; portable releases</title>
+    <description>Debug APIs like a human, not a robot.</description>
+    <link>https://portapps.io/app/insomnia-portable/</link>
+    <atom:link href="https://portapps.io/app/insomnia-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>insomnia-portable-win64-2020.4.2-22-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-2020.4.2-22-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-2020.4.2-22-setup.exe</guid>
+  </item><item>
+    <title>insomnia-portable-win64-2020.4.2-22.7z</title>
+    <description></description>
+    <pubDate>Wed, 28 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-2020.4.2-22.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-2020.4.2-22.7z</guid>
+  </item><item>
+    <title>insomnia-portable-win64-2020.3.0-21-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-2020.3.0-21-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-2020.3.0-21-setup.exe</guid>
+  </item><item>
+    <title>insomnia-portable-win64-2020.3.0-21.7z</title>
+    <description></description>
+    <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-2020.3.0-21.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-2020.3.0-21.7z</guid>
+  </item><item>
+    <title>insomnia-portable-win64-2020.2.2-20-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 23 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-2020.2.2-20-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-2020.2.2-20-setup.exe</guid>
+  </item><item>
+    <title>insomnia-portable-win64-2020.2.2-20.7z</title>
+    <description></description>
+    <pubDate>Tue, 23 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-2020.2.2-20.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-2020.2.2-20.7z</guid>
+  </item><item>
+    <title>insomnia-portable-win64-2020.2.1-19-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 09 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-2020.2.1-19-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-2020.2.1-19-setup.exe</guid>
+  </item><item>
+    <title>insomnia-portable-win64-2020.2.1-19.7z</title>
+    <description></description>
+    <pubDate>Tue, 09 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-2020.2.1-19.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-2020.2.1-19.7z</guid>
+  </item><item>
+    <title>insomnia-portable-win64-2020.2.1-18-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-2020.2.1-18-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-2020.2.1-18-setup.exe</guid>
+  </item><item>
+    <title>insomnia-portable-win64-2020.2.1-18.7z</title>
+    <description></description>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-2020.2.1-18.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-2020.2.1-18.7z</guid>
+  </item><item>
+    <title>insomnia-portable-win64-7.1.1-17-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 24 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-7.1.1-17-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-7.1.1-17-setup.exe</guid>
+  </item><item>
+    <title>insomnia-portable-win64-7.1.1-17.7z</title>
+    <description></description>
+    <pubDate>Mon, 24 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-7.1.1-17.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-7.1.1-17.7z</guid>
+  </item><item>
+    <title>insomnia-portable-win64-7.1.0-16-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 18 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-7.1.0-16-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-7.1.0-16-setup.exe</guid>
+  </item><item>
+    <title>insomnia-portable-win64-7.1.0-16.7z</title>
+    <description></description>
+    <pubDate>Tue, 18 Feb 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-7.1.0-16.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-7.1.0-16.7z</guid>
+  </item><item>
+    <title>insomnia-portable-win64-7.0.6-15-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-7.0.6-15-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-7.0.6-15-setup.exe</guid>
+  </item><item>
+    <title>insomnia-portable-win64-7.0.6-15.7z</title>
+    <description></description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-7.0.6-15.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-7.0.6-15.7z</guid>
+  </item><item>
+    <title>insomnia-portable-win64-7.0.5-14-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 03 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-7.0.5-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-7.0.5-14-setup.exe</guid>
+  </item><item>
+    <title>insomnia-portable-win64-7.0.5-14.7z</title>
+    <description></description>
+    <pubDate>Tue, 03 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-7.0.5-14.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-7.0.5-14.7z</guid>
+  </item><item>
+    <title>insomnia-portable-win64-7.0.4-13-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-7.0.4-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-7.0.4-13-setup.exe</guid>
+  </item><item>
+    <title>insomnia-portable-win64-7.0.4-13.7z</title>
+    <description></description>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/insomnia-portable-win64-7.0.4-13.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/insomnia-portable-win64-7.0.4-13.7z</guid>
+  </item>
+  </channel>
+</rss>

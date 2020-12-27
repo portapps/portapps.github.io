@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - VSCodium portable releases</title>
+    <description>Free and open source software binaries of VSCode without MS branding/telemetry/licensing</description>
+    <link>https://portapps.io/app/vscodium-portable/</link>
+    <atom:link href="https://portapps.io/app/vscodium-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>vscodium-portable-win32-1.52.0-50-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 13 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.52.0-50-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.52.0-50-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.52.0-50-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 13 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.52.0-50-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.52.0-50-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.52.0-50.7z</title>
+    <description></description>
+    <pubDate>Sun, 13 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.52.0-50.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.52.0-50.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.52.0-50.7z</title>
+    <description></description>
+    <pubDate>Sun, 13 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.52.0-50.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.52.0-50.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.51.1-49-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 13 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.51.1-49-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.51.1-49-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.51.1-49-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 13 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.51.1-49-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.51.1-49-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.51.1-49.7z</title>
+    <description></description>
+    <pubDate>Fri, 13 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.51.1-49.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.51.1-49.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.51.1-49.7z</title>
+    <description></description>
+    <pubDate>Fri, 13 Nov 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.51.1-49.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.51.1-49.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.49.3-48-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.49.3-48-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.49.3-48-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.49.3-48-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.49.3-48-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.49.3-48-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.49.3-48.7z</title>
+    <description></description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.49.3-48.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.49.3-48.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.49.3-48.7z</title>
+    <description></description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.49.3-48.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.49.3-48.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.49.0-47-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.49.0-47-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.49.0-47-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.49.0-47-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.49.0-47-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.49.0-47-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.49.0-47.7z</title>
+    <description></description>
+    <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.49.0-47.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.49.0-47.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.49.0-47.7z</title>
+    <description></description>
+    <pubDate>Thu, 24 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.49.0-47.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.49.0-47.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.48.2-46-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 27 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.48.2-46-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.48.2-46-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.48.2-46-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 27 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.48.2-46-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.48.2-46-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.48.2-46.7z</title>
+    <description></description>
+    <pubDate>Thu, 27 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.48.2-46.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.48.2-46.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.48.2-46.7z</title>
+    <description></description>
+    <pubDate>Thu, 27 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.48.2-46.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.48.2-46.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.47.3-45-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 11 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.47.3-45-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.47.3-45-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.47.3-45-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 11 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.47.3-45-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.47.3-45-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.47.3-45.7z</title>
+    <description></description>
+    <pubDate>Tue, 11 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.47.3-45.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.47.3-45.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.47.3-45.7z</title>
+    <description></description>
+    <pubDate>Tue, 11 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.47.3-45.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.47.3-45.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.47.2-44-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.47.2-44-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.47.2-44-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.47.2-44-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.47.2-44-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.47.2-44-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.47.2-44.7z</title>
+    <description></description>
+    <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.47.2-44.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.47.2-44.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.47.2-44.7z</title>
+    <description></description>
+    <pubDate>Thu, 23 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.47.2-44.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.47.2-44.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.46.1-43-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.46.1-43-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.46.1-43-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.46.1-43-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.46.1-43-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.46.1-43-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.46.1-43.7z</title>
+    <description></description>
+    <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.46.1-43.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.46.1-43.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.46.1-43.7z</title>
+    <description></description>
+    <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.46.1-43.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.46.1-43.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.45.1-42-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.45.1-42-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.45.1-42-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.45.1-42-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.45.1-42-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.45.1-42-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.45.1-42.7z</title>
+    <description></description>
+    <pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.45.1-42.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.45.1-42.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.45.1-42.7z</title>
+    <description></description>
+    <pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.45.1-42.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.45.1-42.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.45.0-41-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 12 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.45.0-41-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.45.0-41-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.45.0-41-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 12 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.45.0-41-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.45.0-41-setup.exe</guid>
+  </item><item>
+    <title>vscodium-portable-win32-1.45.0-41.7z</title>
+    <description></description>
+    <pubDate>Tue, 12 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win32-1.45.0-41.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win32-1.45.0-41.7z</guid>
+  </item><item>
+    <title>vscodium-portable-win64-1.45.0-41.7z</title>
+    <description></description>
+    <pubDate>Tue, 12 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/vscodium-portable-win64-1.45.0-41.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/vscodium-portable-win64-1.45.0-41.7z</guid>
+  </item>
+  </channel>
+</rss>

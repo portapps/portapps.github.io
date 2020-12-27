@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Cryptomator portable releases</title>
+    <description>Multi-platform transparent client-side encryption of your files in the cloud.</description>
+    <link>https://portapps.io/app/cryptomator-portable/</link>
+    <atom:link href="https://portapps.io/app/cryptomator-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>cryptomator-portable-win64-1.5.11-5-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 27 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/cryptomator-portable-win64-1.5.11-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/cryptomator-portable-win64-1.5.11-5-setup.exe</guid>
+  </item><item>
+    <title>cryptomator-portable-win64-1.5.11-5.7z</title>
+    <description></description>
+    <pubDate>Sun, 27 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/cryptomator-portable-win64-1.5.11-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/cryptomator-portable-win64-1.5.11-5.7z</guid>
+  </item><item>
+    <title>cryptomator-portable-win64-1.5.11-4-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/cryptomator-portable-win64-1.5.11-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/cryptomator-portable-win64-1.5.11-4-setup.exe</guid>
+  </item><item>
+    <title>cryptomator-portable-win64-1.5.11-4.7z</title>
+    <description></description>
+    <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/cryptomator-portable-win64-1.5.11-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/cryptomator-portable-win64-1.5.11-4.7z</guid>
+  </item><item>
+    <title>cryptomator-portable-win64-1.5.8-3-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 04 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/cryptomator-portable-win64-1.5.8-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/cryptomator-portable-win64-1.5.8-3-setup.exe</guid>
+  </item><item>
+    <title>cryptomator-portable-win64-1.5.8-3.7z</title>
+    <description></description>
+    <pubDate>Fri, 04 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/cryptomator-portable-win64-1.5.8-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/cryptomator-portable-win64-1.5.8-3.7z</guid>
+  </item><item>
+    <title>cryptomator-portable-win64-1.5.7-2-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 20 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/cryptomator-portable-win64-1.5.7-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/cryptomator-portable-win64-1.5.7-2-setup.exe</guid>
+  </item><item>
+    <title>cryptomator-portable-win64-1.5.7-2.7z</title>
+    <description></description>
+    <pubDate>Thu, 20 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/cryptomator-portable-win64-1.5.7-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/cryptomator-portable-win64-1.5.7-2.7z</guid>
+  </item><item>
+    <title>cryptomator-portable-win64-1.5.6-1-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 25 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/cryptomator-portable-win64-1.5.6-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/cryptomator-portable-win64-1.5.6-1-setup.exe</guid>
+  </item><item>
+    <title>cryptomator-portable-win64-1.5.6-1.7z</title>
+    <description></description>
+    <pubDate>Sat, 25 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/cryptomator-portable-win64-1.5.6-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/cryptomator-portable-win64-1.5.6-1.7z</guid>
+  </item>
+  </channel>
+</rss>

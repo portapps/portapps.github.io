@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Wireshark&amp;trade; portable releases</title>
+    <description>One of the world's foremost network protocol analyzers.</description>
+    <link>https://portapps.io/app/wireshark-portable/</link>
+    <atom:link href="https://portapps.io/app/wireshark-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>wireshark-portable-win32-3.4.2-15-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.4.2-15-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.4.2-15-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.4.2-15-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.4.2-15-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.4.2-15-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.4.2-15.7z</title>
+    <description></description>
+    <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.4.2-15.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.4.2-15.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.4.2-15.7z</title>
+    <description></description>
+    <pubDate>Sat, 19 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.4.2-15.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.4.2-15.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.7-14-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.7-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.7-14-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.7-14-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.7-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.7-14-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.7-14.7z</title>
+    <description></description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.7-14.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.7-14.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.7-14.7z</title>
+    <description></description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.7-14.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.7-14.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.6-13-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 18 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.6-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.6-13-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.6-13-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 18 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.6-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.6-13-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.6-13.7z</title>
+    <description></description>
+    <pubDate>Tue, 18 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.6-13.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.6-13.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.6-13.7z</title>
+    <description></description>
+    <pubDate>Tue, 18 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.6-13.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.6-13.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.5-12-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.5-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.5-12-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.5-12-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.5-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.5-12-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.5-12.7z</title>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.5-12.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.5-12.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.5-12.7z</title>
+    <description></description>
+    <pubDate>Wed, 15 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.5-12.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.5-12.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.4-11-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.4-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.4-11-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.4-11-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.4-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.4-11-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.4-11.7z</title>
+    <description></description>
+    <pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.4-11.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.4-11.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.4-11.7z</title>
+    <description></description>
+    <pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.4-11.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.4-11.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.3-10-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 14 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.3-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.3-10-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.3-10-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 14 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.3-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.3-10-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.3-10.7z</title>
+    <description></description>
+    <pubDate>Tue, 14 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.3-10.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.3-10.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.3-10.7z</title>
+    <description></description>
+    <pubDate>Tue, 14 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.3-10.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.3-10.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.2-9-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 04 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.2-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.2-9-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.2-9-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 04 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.2-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.2-9-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.2-9.7z</title>
+    <description></description>
+    <pubDate>Wed, 04 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.2-9.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.2-9.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.2-9.7z</title>
+    <description></description>
+    <pubDate>Wed, 04 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.2-9.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.2-9.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.1-8-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.1-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.1-8-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.1-8-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.1-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.1-8-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.1-8.7z</title>
+    <description></description>
+    <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.1-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.1-8.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.1-8.7z</title>
+    <description></description>
+    <pubDate>Thu, 23 Jan 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.1-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.1-8.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.0-7-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 19 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.0-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.0-7-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.0-7-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 19 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.0-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.0-7-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.2.0-7.7z</title>
+    <description></description>
+    <pubDate>Thu, 19 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.2.0-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.2.0-7.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.2.0-7.7z</title>
+    <description></description>
+    <pubDate>Thu, 19 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.2.0-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.2.0-7.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.0.7-6-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.0.7-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.0.7-6-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.0.7-6-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.0.7-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.0.7-6-setup.exe</guid>
+  </item><item>
+    <title>wireshark-portable-win32-3.0.7-6.7z</title>
+    <description></description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win32-3.0.7-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win32-3.0.7-6.7z</guid>
+  </item><item>
+    <title>wireshark-portable-win64-3.0.7-6.7z</title>
+    <description></description>
+    <pubDate>Fri, 06 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/wireshark-portable-win64-3.0.7-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/wireshark-portable-win64-3.0.7-6.7z</guid>
+  </item>
+  </channel>
+</rss>

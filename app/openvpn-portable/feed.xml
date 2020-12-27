@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - OpenVPN&amp;trade; portable releases</title>
+    <description>A free and open-source software application that implements virtual private network (VPN) techniques.</description>
+    <link>https://portapps.io/app/openvpn-portable/</link>
+    <atom:link href="https://portapps.io/app/openvpn-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>openvpn-portable-win32-2.4.9-I601-8-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 25 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.9-I601-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.9-I601-8-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.9-I601-8-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 25 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.9-I601-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.9-I601-8-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.9-I601-8.7z</title>
+    <description></description>
+    <pubDate>Sat, 25 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.9-I601-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.9-I601-8.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.9-I601-8.7z</title>
+    <description></description>
+    <pubDate>Sat, 25 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.9-I601-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.9-I601-8.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.8-I602-7-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 06 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.8-I602-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.8-I602-7-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.8-I602-7-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 06 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.8-I602-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.8-I602-7-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.8-I602-7.7z</title>
+    <description></description>
+    <pubDate>Wed, 06 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.8-I602-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.8-I602-7.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.8-I602-7.7z</title>
+    <description></description>
+    <pubDate>Wed, 06 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.8-I602-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.8-I602-7.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.7-I607-6-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 06 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.7-I607-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.7-I607-6-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.7-I607-6-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 06 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.7-I607-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.7-I607-6-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.7-I607-6.7z</title>
+    <description></description>
+    <pubDate>Wed, 06 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.7-I607-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.7-I607-6.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.7-I607-6.7z</title>
+    <description></description>
+    <pubDate>Wed, 06 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.7-I607-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.7-I607-6.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.7-I603-3-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.7-I603-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.7-I603-3-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.7-I603-3-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.7-I603-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.7-I603-3-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.7-I603-3.7z</title>
+    <description></description>
+    <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.7-I603-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.7-I603-3.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.7-I603-3.7z</title>
+    <description></description>
+    <pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.7-I603-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.7-I603-3.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.7-I603-2-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.7-I603-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.7-I603-2-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.7-I603-2-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.7-I603-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.7-I603-2-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.7-I603-2.7z</title>
+    <description></description>
+    <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.7-I603-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.7-I603-2.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.7-I603-2.7z</title>
+    <description></description>
+    <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.7-I603-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.7-I603-2.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.7-I601-1-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.7-I601-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.7-I601-1-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.7-I601-1-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.7-I601-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.7-I601-1-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.7-I601-1.7z</title>
+    <description></description>
+    <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.7-I601-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.7-I601-1.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.7-I601-1.7z</title>
+    <description></description>
+    <pubDate>Thu, 21 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.7-I601-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.7-I601-1.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.6-I602-1-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 29 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.6-I602-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.6-I602-1-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.6-I602-1-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 29 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.6-I602-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.6-I602-1-setup.exe</guid>
+  </item><item>
+    <title>openvpn-portable-win32-2.4.6-I602-1.7z</title>
+    <description></description>
+    <pubDate>Sat, 29 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win32-2.4.6-I602-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win32-2.4.6-I602-1.7z</guid>
+  </item><item>
+    <title>openvpn-portable-win64-2.4.6-I602-1.7z</title>
+    <description></description>
+    <pubDate>Sat, 29 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/openvpn-portable-win64-2.4.6-I602-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/openvpn-portable-win64-2.4.6-I602-1.7z</guid>
+  </item>
+  </channel>
+</rss>

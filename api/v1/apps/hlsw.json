@@ -1,0 +1,91 @@
+{
+  "name": "hlsw",
+  "label": "HLSW",
+  "desc": "A game server browser and administration tool.",
+  "license": "freeware",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["gaming"],
+  "github": {
+    "user": "portapps",
+    "repo": "hlsw-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "http://hlsw.org",
+  "move": [
+    {
+      "from": "%APPDATA%\\HLSW\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.4.0.3",
+      "release": "3",
+      "date": "2020/04/25",
+      "type": "release",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.4.0.3",
+      "release": "2",
+      "date": "2020/04/25",
+      "type": "release",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.4.0.3",
+      "release": "1",
+      "date": "2019/03/09",
+      "type": "release",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.4.0.2",
+      "release": "4",
+      "date": "2018/02/11",
+      "type": "release",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.4.0.2",
+      "release": "3",
+      "date": "2018/02/09",
+      "type": "release",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.4.0.2",
+      "release": "2",
+      "date": "2017/11/21",
+      "type": "release",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.4.0.2",
+      "release": "1",
+      "date": "2017/11/20",
+      "type": "release",
+      "original": "HLSW-@platform@-@version@-setup.exe",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

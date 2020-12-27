@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - HandBrake portable releases</title>
+    <description>A tool for converting video from nearly any format to a selection of modern, widely supported codecs.</description>
+    <link>https://portapps.io/app/handbrake-portable/</link>
+    <atom:link href="https://portapps.io/app/handbrake-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>handbrake-portable-win64-1.3.3-7-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 23 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.3.3-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.3.3-7-setup.exe</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.3.3-7.7z</title>
+    <description></description>
+    <pubDate>Tue, 23 Jun 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.3.3-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.3.3-7.7z</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.3.2-6-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 10 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.3.2-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.3.2-6-setup.exe</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.3.2-6.7z</title>
+    <description></description>
+    <pubDate>Sun, 10 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.3.2-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.3.2-6.7z</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.3.1-5-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 06 Jan 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.3.1-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.3.1-5-setup.exe</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.3.1-5.7z</title>
+    <description></description>
+    <pubDate>Mon, 06 Jan 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.3.1-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.3.1-5.7z</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.3.0-4-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 12 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.3.0-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.3.0-4-setup.exe</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.3.0-4.7z</title>
+    <description></description>
+    <pubDate>Tue, 12 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.3.0-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.3.0-4.7z</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.2.2-3-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 18 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.2.2-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.2.2-3-setup.exe</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.2.2-3.7z</title>
+    <description></description>
+    <pubDate>Mon, 18 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.2.2-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.2.2-3.7z</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.2.2-2-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 25 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.2.2-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.2.2-2-setup.exe</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.2.2-2.7z</title>
+    <description></description>
+    <pubDate>Mon, 25 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.2.2-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.2.2-2.7z</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.2.1-1-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 18 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.2.1-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.2.1-1-setup.exe</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.2.1-1.7z</title>
+    <description></description>
+    <pubDate>Mon, 18 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.2.1-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.2.1-1.7z</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.2.0-4-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 23 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.2.0-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.2.0-4-setup.exe</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.2.0-4.7z</title>
+    <description></description>
+    <pubDate>Sun, 23 Dec 2018 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.2.0-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.2.0-4.7z</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.1.2-3-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 10 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.1.2-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.1.2-3-setup.exe</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.1.2-3.7z</title>
+    <description></description>
+    <pubDate>Mon, 10 Sep 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.1.2-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.1.2-3.7z</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.1.1-2-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 28 Aug 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.1.1-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.1.1-2-setup.exe</guid>
+  </item><item>
+    <title>handbrake-portable-win64-1.1.1-2.7z</title>
+    <description></description>
+    <pubDate>Tue, 28 Aug 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/handbrake-portable-win64-1.1.1-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/handbrake-portable-win64-1.1.1-2.7z</guid>
+  </item>
+  </channel>
+</rss>

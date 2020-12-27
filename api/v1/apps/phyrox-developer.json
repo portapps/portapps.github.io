@@ -1,0 +1,407 @@
+{
+  "name": "phyrox-developer",
+  "label": "Phyrox Developer Edition",
+  "desc": "Run Mozilla Firefox Developer Edition as a portable app.",
+  "license": "mpl-2.0",
+  "status": "ok",
+  "redir_from": "firefox-developer",
+  "trademark": false,
+  "original": {
+    "name": "firefox-developer",
+    "label": "Firefox Developer Edition"
+  },
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "phyrox-developer-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://www.mozilla.org/en-US/firefox/developer",
+  "move": [
+    {
+      "from": "%APPDATA%\\Mozilla\\Firefox\\Profiles\\*.default\\*",
+      "to": "data\\profile\\default"
+    }
+  ],
+  "groups": [
+    "84",
+    "83",
+    "82",
+    "81",
+    "80",
+    "79",
+    "78",
+    "77",
+    "76",
+    "75",
+    "74",
+    "72",
+    "71",
+    "70",
+    "69",
+    "68",
+    "67",
+    "66"
+  ],
+  "releases": [
+    {
+      "version": "84.0b8",
+      "release": "38",
+      "date": "2020/12/07",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "83.0b5",
+      "release": "37",
+      "date": "2020/10/28",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "82.0b2",
+      "release": "36",
+      "date": "2020/09/29",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "81.0b1",
+      "release": "35",
+      "date": "2020/08/24",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "80.0b2",
+      "release": "34",
+      "date": "2020/07/31",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "79.0b5",
+      "release": "33",
+      "date": "2020/07/08",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.0b6",
+      "release": "32",
+      "date": "2020/06/13",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "77.0b3",
+      "release": "31",
+      "date": "2020/05/29",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "77.0b3",
+      "release": "30",
+      "date": "2020/05/10",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "76.0b6",
+      "release": "29",
+      "date": "2020/04/21",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "75.0b7",
+      "release": "28",
+      "date": "2020/03/25",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "74.0b3",
+      "release": "27",
+      "date": "2020/02/14",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "72.0b2",
+      "release": "26",
+      "date": "2019/12/03",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "71.0b12",
+      "release": "25",
+      "date": "2019/12/01",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "71.0b5",
+      "release": "24",
+      "date": "2019/12/01",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "71.0b5",
+      "release": "23",
+      "date": "2019/10/29",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "71.0b1",
+      "release": "22",
+      "date": "2019/10/16",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "70.0b12",
+      "release": "21",
+      "date": "2019/10/08",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "70.0b6",
+      "release": "20",
+      "date": "2019/09/13",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "70.0b2",
+      "release": "19",
+      "date": "2019/09/02",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "69.0b16",
+      "release": "18",
+      "date": "2019/09/02",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "69.0b11",
+      "release": "17",
+      "date": "2019/08/07",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "69.0b4",
+      "release": "16",
+      "date": "2019/07/12",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "69.0b1",
+      "release": "15",
+      "date": "2019/07/02",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "68.0b13",
+      "release": "14",
+      "date": "2019/06/26",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "68.0b10",
+      "release": "13",
+      "date": "2019/06/16",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "68.0b7",
+      "release": "12",
+      "date": "2019/06/06",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "68.0b6",
+      "release": "11",
+      "date": "2019/06/02",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "68.0b2",
+      "release": "10",
+      "date": "2019/05/20",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "67.0b18",
+      "release": "9",
+      "date": "2019/05/08",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "67.0b17",
+      "release": "8",
+      "date": "2019/05/06",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "67.0b10",
+      "release": "7",
+      "date": "2019/04/14",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "67.0b6",
+      "release": "6",
+      "date": "2019/03/31",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "67.0b4",
+      "release": "5",
+      "date": "2019/03/23",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "67.0b3",
+      "release": "4",
+      "date": "2019/03/20",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "66.0b14",
+      "release": "3",
+      "date": "2019/03/17",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    },
+    {
+      "version": "66.0b13",
+      "release": "2",
+      "date": "2019/03/06",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-developer"
+    }
+  ]
+}
