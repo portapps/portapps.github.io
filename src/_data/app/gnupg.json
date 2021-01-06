@@ -20,6 +20,15 @@
   "move": [],
   "releases": [
     {
+      "version": "2.2.26",
+      "release": "9",
+      "date": "2021/01/06",
+      "type": "release",
+      "original": "gnupg-win32-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "2.2.23",
       "release": "8",
       "date": "2020/09/04",
