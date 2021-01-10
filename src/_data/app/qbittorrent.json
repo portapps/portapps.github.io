@@ -34,6 +34,15 @@
   ],
   "releases": [
     {
+      "version": "4.3.2",
+      "release": "15",
+      "date": "2021/01/10",
+      "type": "release",
+      "original": "qbittorrent_@version@_@platform@_setup.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "4.3.0.1",
       "release": "14",
       "date": "2020/10/27",
