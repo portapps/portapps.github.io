@@ -25,6 +25,15 @@
   ],
   "releases": [
     {
+      "version": "1.1.0",
+      "release": "4",
+      "date": "2021/01/16",
+      "type": "release",
+      "original": "beaker-browser-setup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "0.8.10",
       "release": "3",
       "date": "2020/03/18",
