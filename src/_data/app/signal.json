@@ -1,0 +1,40 @@
+{
+  "name": "signal",
+  "label": "Signal",
+  "desc": "A cross-platform centralized encrypted messaging.",
+  "license": "agpl-3.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "signal-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://signal.org/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Signal\\*",
+      "to": "data"
+    }
+  ],
+  "groups": [
+    "1.39"
+  ],
+  "releases": [
+    {
+      "version": "1.39.6",
+      "release": "1",
+      "date": "2021/01/21",
+      "type": "release",
+      "original": "signal-desktop-win-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
