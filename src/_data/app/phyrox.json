@@ -28,6 +28,8 @@
     }
   ],
   "groups": [
+    "85",
+    "84",
     "83",
     "82",
     "81",
@@ -49,6 +51,24 @@
     "65"
   ],
   "releases": [
+    {
+      "version": "85.0.1",
+      "release": "54",
+      "date": "2021/02/06",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "84.0.2",
+      "release": "53",
+      "date": "2021/02/06",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "83.0",
       "release": "52",
