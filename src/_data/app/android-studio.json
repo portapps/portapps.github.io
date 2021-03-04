@@ -52,6 +52,15 @@
   ],
   "releases": [
     {
+      "version": "4.1.2",
+      "release": "16",
+      "date": "2021/03/05",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
+    {
       "version": "4.1.0",
       "release": "15",
       "date": "2020/10/15",
