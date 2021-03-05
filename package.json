@@ -12,7 +12,8 @@
   },
   "homepage": "https://portapps.io",
   "scripts": {
-    "start": "gulp",
+    "serve": "gulp serve",
+    "build": "gulp --env=production build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
