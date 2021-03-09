@@ -1,0 +1,22 @@
+# Jetbrains
+/.idea
+/*.iml
+
+# Jekyll
+/_asset_bundler_cache
+/.bundle
+/.sass-cache
+/.jekyll-metadata
+/src/.jekyll-cache
+/tmp
+/web
+
+# Node
+/node_modules
+/npm-debug.log*
+/yarn-error.log
+/package-lock.json
+
+# Custom
+/.dev
+/src/_data/assets*.json
