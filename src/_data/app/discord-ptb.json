@@ -25,6 +25,15 @@
   ],
   "releases": [
     {
+      "version": "0.0.58",
+      "release": "14",
+      "date": "2021/03/09",
+      "type": "release",
+      "original": "DiscordPTBSetup-@platform@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "0.0.56",
       "release": "13",
       "date": "2020/12/26",
