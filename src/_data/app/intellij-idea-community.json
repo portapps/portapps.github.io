@@ -36,6 +36,7 @@
     }
   ],
   "groups": [
+    "2020.3.2",
     "2020.3",
     "2020.2",
     "2020.1",
@@ -48,6 +49,15 @@
     "2017.3"
   ],
   "releases": [
+    {
+      "version": "2020.3.2",
+      "release": "46",
+      "date": "2021/03/16",
+      "type": "release",
+      "original": "",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "2020.3",
       "release": "45",
