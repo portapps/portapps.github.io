@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "21.0",
     "7.3",
     "7.2",
     "7.1",
@@ -40,6 +41,15 @@
     "5.2"
   ],
   "releases": [
+    {
+      "version": "21.0.0",
+      "release": "42",
+      "date": "2021/03/16",
+      "type": "release",
+      "original": "dbeaver-ce-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "7.3.1",
       "release": "41",
