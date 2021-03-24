@@ -3,7 +3,7 @@ group "default" {
 }
 
 target "dockerfile" {
-  dockerfile = "Dockerfile.dev"
+  dockerfile = "dev.Dockerfile"
 }
 
 target "generate" {
