@@ -24,9 +24,19 @@
     }
   ],
   "groups": [
+    "5.0",
     "1.39"
   ],
   "releases": [
+    {
+      "version": "5.0.0",
+      "release": "2",
+      "date": "2021/04/14",
+      "type": "release",
+      "original": "signal-desktop-win-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.39.6",
       "release": "1",
