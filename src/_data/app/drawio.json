@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "14.5",
     "14.1",
     "13.7",
     "13.6",
@@ -35,6 +36,15 @@
     "12.6"
   ],
   "releases": [
+    {
+      "version": "14.5.1",
+      "release": "14",
+      "date": "2021/04/18",
+      "type": "release",
+      "original": "draw.io-windows-installer-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "14.1.8",
       "release": "13",
