@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ueli portable 8.12.0-5
-date: 2021-04-18 00:00:00 +0200
+date: 2021-04-18 20:25:00 +0200
 app: ueli
 tags: [ueli]
 ---

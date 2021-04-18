@@ -1,7 +1,7 @@
 ---
 layout: post
 title: draw.io portable 14.5.1-14
-date: 2021-04-18 00:00:00 +0200
+date: 2021-04-18 20:21:00 +0200
 app: drawio
 tags: [drawio]
 ---
