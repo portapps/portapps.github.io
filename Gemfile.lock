@@ -30,7 +30,7 @@ GEM
       hashie (~> 3.5, >= 3.5.2)
       oauth2 (~> 1.0)
     hashie (3.6.0)
-    html-proofer (3.19.0)
+    html-proofer (3.19.1)
       addressable (~> 2.3)
       mercenary (~> 0.3)
       nokogumbo (~> 2.0)
