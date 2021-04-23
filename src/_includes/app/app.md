@@ -58,7 +58,7 @@ If **you have already installed {{ include.app.original.label | default: include
 {% for move in include.app.move %}
 * `{{ move.from }}` to `{{ move.to }}`{% endfor %}
 
-Then run `{{ include.app.name }}-portable.exe` and [remove](https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs){:target="_blank"} {{ include.app.original.label | default: include.app.label }} from your computer.
+Then run `{{ include.app.name }}-portable.exe` and [remove](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98){:target="_blank"} {{ include.app.original.label | default: include.app.label }} from your computer.
 {% endif %}
 
 ### Upgrade
