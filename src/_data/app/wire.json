@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "3.24",
     "3.21",
     "3.20",
     "3.19",
@@ -36,6 +37,15 @@
     "3.9"
   ],
   "releases": [
+    {
+      "version": "3.24.4036",
+      "release": "13",
+      "date": "2021/04/27",
+      "type": "release",
+      "original": "WireSetup-@platform@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "3.21.3932",
       "release": "12",
