@@ -32,6 +32,15 @@
   ],
   "releases": [
     {
+      "version": "0.74.4.11",
+      "release": "35",
+      "date": "2021/04/27",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "0.74.4.6",
       "release": "34",
       "date": "2021/01/28",
