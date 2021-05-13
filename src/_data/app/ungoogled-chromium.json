@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "90",
     "89",
     "87",
     "86",
@@ -35,6 +36,15 @@
     "79"
   ],
   "releases": [
+    {
+      "version": "90.0.4430.93",
+      "release": "10",
+      "date": "2021/05/13",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "89.0.4389.90",
       "release": "9",
