@@ -54,6 +54,15 @@
   ],
   "releases": [
     {
+      "version": "88.0.1",
+      "release": "57",
+      "date": "2021/05/22",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "88.0",
       "release": "56",
       "date": "2021/05/22",
