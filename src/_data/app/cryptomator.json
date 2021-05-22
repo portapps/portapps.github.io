@@ -28,6 +28,15 @@
   ],
   "releases": [
     {
+      "version": "1.5.16",
+      "release": "7",
+      "date": "2021/05/22",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.5.13",
       "release": "6",
       "date": "2021/02/25",
