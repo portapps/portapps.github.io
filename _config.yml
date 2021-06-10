@@ -149,9 +149,10 @@ comments:
 
 # Analytics
 analytics:
-  provider: "google-universal"
-  google:
-    tracking_id: "UA-12516800-4"
+  provider: "plausible"
+  plausible:
+    server: "plausible.re4per.com"
+    domain: "portapps.io"
 
 # Facebook App ID
 fb_app_id: ""

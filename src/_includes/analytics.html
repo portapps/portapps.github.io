@@ -4,6 +4,8 @@
     {% include analytics/analytics-google.html %}
   {% when "google-universal" %}
     {% include analytics/analytics-google-universal.html %}
+  {% when "plausible" %}
+    {% include analytics/analytics-plausible.html %}
   {% when "custom" %}
     {% include analytics/analytics-custom.html %}
   {% endcase %}
