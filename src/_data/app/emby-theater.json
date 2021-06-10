@@ -41,6 +41,15 @@
   ],
   "releases": [
     {
+      "version": "3.0.15",
+      "release": "8",
+      "date": "2021/06/11",
+      "type": "release",
+      "original": "emby-theater-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "3.0.14",
       "release": "7",
       "date": "2021/02/25",
