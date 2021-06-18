@@ -33,6 +33,15 @@
   ],
   "releases": [
     {
+      "version": "3.2.2",
+      "release": "14",
+      "date": "2021/06/18",
+      "type": "release",
+      "original": "Nextcloud-@version@-setup.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "3.2.0",
       "release": "13",
       "date": "2021/04/27",
