@@ -16,7 +16,7 @@
     "name": "CrazyMax",
     "url": "https://crazymax.dev"
   },
-  "homepage": "http://www.9bis.net/kitty/",
+  "homepage": "https://www.9bis.net/kitty",
   "move": [
     {
       "from": "<APP_PATH>\\kitty.ini",
@@ -31,6 +31,15 @@
     "0.70"
   ],
   "releases": [
+    {
+      "version": "0.74.4.13",
+      "release": "36",
+      "date": "2021/06/28",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "0.74.4.11",
       "release": "35",
