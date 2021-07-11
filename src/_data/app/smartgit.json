@@ -36,6 +36,15 @@
   ],
   "releases": [
     {
+      "version": "20.2.5",
+      "release": "25",
+      "date": "2021/07/11",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "20.2.4",
       "release": "24",
       "date": "2021/03/24",
