@@ -1,0 +1,91 @@
+{
+  "name": "openvpn",
+  "label": "OpenVPN&trade;",
+  "desc": "A free and open-source software application that implements virtual private network (VPN) techniques.",
+  "license": "gpl-2.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": true,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["security"],
+  "github": {
+    "user": "portapps",
+    "repo": "openvpn-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://openvpn.net",
+  "move": [
+    {
+      "from": "%USERPROFILE%\\OpenVPN\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "2.4.9-I601",
+      "release": "8",
+      "date": "2020/04/25",
+      "type": "release",
+      "original": "openvpn-install-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.4.8-I602",
+      "release": "7",
+      "date": "2019/11/06",
+      "type": "release",
+      "original": "openvpn-install-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.4.7-I607",
+      "release": "6",
+      "date": "2019/11/06",
+      "type": "release",
+      "original": "openvpn-install-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.4.7-I603",
+      "release": "3",
+      "date": "2019/03/19",
+      "type": "release",
+      "original": "openvpn-install-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.4.7-I603",
+      "release": "2",
+      "date": "2019/02/22",
+      "type": "release",
+      "original": "openvpn-install-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.4.7-I601",
+      "release": "1",
+      "date": "2019/02/21",
+      "type": "release",
+      "original": "openvpn-install-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2.4.6-I602",
+      "release": "1",
+      "date": "2018/09/29",
+      "type": "release",
+      "original": "openvpn-install-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

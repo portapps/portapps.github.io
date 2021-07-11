@@ -1,0 +1,40 @@
+{
+  "name": "ferdi",
+  "label": "Ferdi",
+  "desc": "Messaging browser that allows you to combine your favorite messaging services into one application.",
+  "license": "apache-2.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "ferdi-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://getferdi.com/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Ferdi\\*",
+      "to": "data"
+    }
+  ],
+  "groups": [
+    "5.5"
+  ],
+  "releases": [
+    {
+      "version": "5.5.0",
+      "release": "1",
+      "date": "2020/07/25",
+      "type": "release",
+      "original": "Ferdi-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
