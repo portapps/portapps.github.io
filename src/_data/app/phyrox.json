@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "90",
     "88",
     "87",
     "85",
@@ -53,6 +54,15 @@
     "65"
   ],
   "releases": [
+    {
+      "version": "90.0.2",
+      "release": "58",
+      "date": "2021/07/25",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "88.0.1",
       "release": "57",
