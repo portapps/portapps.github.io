@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "21.1",
     "20.2",
     "20.1",
     "19.1",
@@ -35,6 +36,15 @@
     "18.1"
   ],
   "releases": [
+    {
+      "version": "21.1.0",
+      "release": "26",
+      "date": "2021/07/25",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "20.2.5",
       "release": "25",
