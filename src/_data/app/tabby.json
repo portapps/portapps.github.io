@@ -6,10 +6,6 @@
   "status": "ok",
   "redir_from": "terminus",
   "trademark": false,
-  "original": {
-    "name": "terminus",
-    "label": "Terminus"
-  },
   "wincompat": ["win7", "win8", "win81", "win10"],
   "categories": ["dev"],
   "github": {
