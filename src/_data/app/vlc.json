@@ -25,6 +25,15 @@
   ],
   "releases": [
     {
+      "version": "3.0.16",
+      "release": "11",
+      "date": "2021/08/23",
+      "type": "release",
+      "original": "vlc-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "3.0.12",
       "release": "10",
       "date": "2021/03/24",
