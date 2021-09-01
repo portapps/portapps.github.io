@@ -28,6 +28,15 @@
   ],
   "releases": [
     {
+      "version": "1.0.155",
+      "release": "6",
+      "date": "2021/08/31",
+      "type": "release",
+      "original": "terminus-@version@-setup.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.0.148",
       "release": "5",
       "date": "2021/07/25",
