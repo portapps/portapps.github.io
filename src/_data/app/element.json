@@ -36,6 +36,15 @@
   ],
   "releases": [
     {
+      "version": "1.8.5",
+      "release": "42",
+      "date": "2021/09/19",
+      "type": "release",
+      "original": "ElementSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.8.1",
       "release": "41",
       "date": "2021/08/23",
