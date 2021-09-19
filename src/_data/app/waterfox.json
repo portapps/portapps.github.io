@@ -26,6 +26,7 @@
   "groups":[
     "3.2",
     "3.0",
+    "2021.08",
     "2021.06",
     "2021.02",
     "2021.01",
@@ -40,6 +41,24 @@
   ],
   "releases": [
     {
+      "version": "3.2.6",
+      "release": "27",
+      "date": "2021/09/19",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "2021.08.1",
+      "release": "26",
+      "date": "2021/09/19",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "3.2.3",
       "release": "25",
       "date": "2021/06/11",
@@ -49,7 +68,7 @@
       "formats": ["setup", "7z"]
     },
     {
-      "version": "2021.6",
+      "version": "2021.06",
       "release": "24",
       "date": "2021/06/11",
       "type": "release",
