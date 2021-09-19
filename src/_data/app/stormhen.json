@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "91.1",
     "78.10",
     "78.8",
     "78.6",
@@ -55,6 +56,15 @@
     "60.6"
   ],
   "releases": [
+    {
+      "version": "91.1.1",
+      "release": "42",
+      "date": "2021/09/19",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "78.10.2",
       "release": "41",
