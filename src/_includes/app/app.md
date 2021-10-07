@@ -87,6 +87,4 @@ There is no known issues {% gemoji raised_hands %} Please [let us know](/doc/rep
 
 {% if page.app.status != 'discontinued' %}
 {% include app/download-list.html app=include.app %}
-
-<div class="offset-top-20">{% include adsense.html client="ca-pub-6761939715072275" slot="4627104321" %}</div>
 {% endif %}

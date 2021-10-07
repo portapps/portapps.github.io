@@ -121,7 +121,7 @@ alexa_site_verification:
 yandex_site_verification:
 
 # Adsense
-adsense: true
+adsense: false
 
 # Posts
 share-links-active:
