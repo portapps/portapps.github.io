@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "9.1",
     "8.5",
     "8.2",
     "8.0",
@@ -70,6 +71,15 @@
     "6.0"
   ],
   "releases": [
+    {
+      "version": "9.1.2",
+      "release": "51",
+      "date": "2021/10/27",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "8.5.1",
       "release": "50",
