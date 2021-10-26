@@ -24,9 +24,19 @@
     }
   ],
   "groups": [
+    "1.6",
     "1.5"
   ],
   "releases": [
+    {
+      "version": "1.6.1",
+      "release": "8",
+      "date": "2021/10/27",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.msi",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.5.16",
       "release": "7",
