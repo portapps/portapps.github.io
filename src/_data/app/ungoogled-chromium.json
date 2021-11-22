@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "96",
     "92",
     "90",
     "89",
@@ -37,6 +38,15 @@
     "79"
   ],
   "releases": [
+    {
+      "version": "96.0.4664.45",
+      "release": "12",
+      "date": "2021/11/22",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "92.0.4515.107",
       "release": "11",
