@@ -38,6 +38,15 @@
   ],
   "releases": [
     {
+      "version": "21.2.1",
+      "release": "29",
+      "date": "2022/01/08",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "21.2.0",
       "release": "28",
       "date": "2021/11/21",
