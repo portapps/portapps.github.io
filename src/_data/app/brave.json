@@ -87,7 +87,7 @@
       "version": "1.34.80",
       "release": "79",
       "date": "2022/01/08",
-      "type": "release",
+      "type": "broken",
       "original": "brave_installer-@platform@.exe",
       "platforms": ["win64"],
       "formats": ["setup", "7z"]
