@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "97",
     "93",
     "91",
     "89",
@@ -53,6 +54,15 @@
     "66"
   ],
   "releases": [
+    {
+      "version": "97.0b8",
+      "release": "44",
+      "date": "2022/01/27",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "93.0b6",
       "release": "43",
