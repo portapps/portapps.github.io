@@ -24,11 +24,21 @@
     }
   ],
   "groups": [
+    "3.6",
     "3.4",
     "3.2",
     "3.0"
   ],
   "releases": [
+    {
+      "version": "3.6.2",
+      "release": "18",
+      "date": "2022/03/06",
+      "type": "release",
+      "original": "Wireshark-@platform@-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "3.4.6",
       "release": "17",
