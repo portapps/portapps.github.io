@@ -33,6 +33,15 @@
   ],
   "releases": [
     {
+      "version": "4.4.4",
+      "release": "13",
+      "date": "2022/03/06",
+      "type": "release",
+      "original": "MolotovSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "4.4.2",
       "release": "12",
       "date": "2021/04/18",
