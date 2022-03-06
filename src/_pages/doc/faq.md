@@ -10,8 +10,8 @@ sidebar: doc
 
 ## Who is behind Portapps?
 
-Hi, I'm [CrazyMax](https://crazymax.dev){:target="_blank"}. This project is self-funded and developed using my decade
-of experience building open source software.
+Hi, I'm [CrazyMax](https://crazymax.dev){:target="_blank"}. This project is self-funded and developed using my 
+experience in creating open source software.
 
 By [supporting me](https://github.com/sponsors/{{ site.github_sponsor}}){:target="_blank"}, you're not only sustaining
 this project, but rather all of [my open source projects](https://github.com/crazy-max){:target="_blank"}.
