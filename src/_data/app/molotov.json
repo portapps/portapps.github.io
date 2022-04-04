@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "4.5",
     "4.4",
     "4.3",
     "4.2",
@@ -32,6 +33,15 @@
     "3.1"
   ],
   "releases": [
+    {
+      "version": "4.5.0",
+      "release": "14",
+      "date": "2022/04/03",
+      "type": "release",
+      "original": "MolotovSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "4.4.4",
       "release": "13",
