@@ -3,7 +3,7 @@
   "version": "1.3.0",
   "description": "Portapps's website",
   "main": "gulpfile.js",
-  "repository": "git://github.com/portapps/portapps.github.io.git",
+  "repository": "https://github.com/portapps/portapps.github.io.git",
   "author": "CrazyMax",
   "license": "MIT",
   "private": true,
@@ -19,7 +19,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "bootstrap-social": "^5.1.1",
-    "clean-blog": "git://github.com/portapps/startbootstrap-clean-blog.git#b8a93ee48fa89741243ed9e7f8b7f0153525ba3e",
+    "clean-blog": "https://github.com/portapps/startbootstrap-clean-blog.git#b8a93ee48fa89741243ed9e7f8b7f0153525ba3e",
     "elegant-icons": "*",
     "font-awesome": "^4.7.0",
     "github-markdown-css": "^3.0.1",

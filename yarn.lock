@@ -622,9 +622,9 @@ class-utils@^0.3.5:
     isobject "^3.0.0"
     static-extend "^0.1.1"
 
-"clean-blog@git://github.com/portapps/startbootstrap-clean-blog.git#b8a93ee48fa89741243ed9e7f8b7f0153525ba3e":
+"clean-blog@https://github.com/portapps/startbootstrap-clean-blog.git#b8a93ee48fa89741243ed9e7f8b7f0153525ba3e":
   version "3.3.7"
-  resolved "git://github.com/portapps/startbootstrap-clean-blog.git#b8a93ee48fa89741243ed9e7f8b7f0153525ba3e"
+  resolved "https://github.com/portapps/startbootstrap-clean-blog.git#b8a93ee48fa89741243ed9e7f8b7f0153525ba3e"
 
 clean-css@^4.0.4:
   version "4.1.11"
