@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "100",
     "97",
     "96",
     "92",
@@ -39,6 +40,15 @@
     "79"
   ],
   "releases": [
+    {
+      "version": "100.0.4896.62",
+      "release": "14",
+      "date": "2022/04/03",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "97.0.4692.99",
       "release": "13",
