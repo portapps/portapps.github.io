@@ -24,6 +24,7 @@
     }
   ],
   "groups":[
+    "8.82",
     "8.80",
     "8.73",
     "8.68",
@@ -81,10 +82,19 @@
   ],
   "releases": [
     {
+      "version": "8.82.0.403",
+      "release": "92",
+      "date": "2022/04/05",
+      "type": "release",
+      "original": "Skype-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "8.80.0.143",
       "release": "91",
       "date": "2022/01/27",
-      "type": "release",
+      "type": "broken",
       "original": "Skype-@platform@-@version@-setup.exe",
       "platforms": ["win32"],
       "formats": ["setup", "7z"]
