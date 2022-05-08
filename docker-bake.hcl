@@ -1,24 +1,37 @@
+variable "JEKYLL_ENV" {
+  default = "development"
+}
+
 group "default" {
   targets = ["release"]
 }
 
-target "dockerfile" {
-  dockerfile = "dev.Dockerfile"
-}
-
 target "generate" {
-  inherits = ["dockerfile"]
   target = "generate"
+  args = {
+    JEKYLL_ENV = JEKYLL_ENV
+  }
+  output = ["type=cacheonly"]
 }
 
 target "release" {
-  inherits = ["dockerfile"]
   target = "release"
+  args = {
+    JEKYLL_ENV = JEKYLL_ENV
+  }
   output = ["./web"]
+  secret = ["id=GITHUB_TOKEN,env=GITHUB_TOKEN"]
 }
 
-target "gem-update" {
-  inherits = ["dockerfile"]
+target "htmlproofer" {
+  target = "htmlproofer"
+  args = {
+    JEKYLL_ENV = JEKYLL_ENV
+  }
+  output = ["type=cacheonly"]
+}
+
+target "vendor" {
   target = "gem-update"
   output = ["."]
 }
