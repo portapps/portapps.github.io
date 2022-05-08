@@ -1,12 +1,13 @@
 name: website
 
 on:
-  pull_request:
-    branches:
-      - 'dev'
   push:
     branches:
       - 'dev'
+  pull_request:
+
+env:
+  JEKYLL_ENV: production
 
 jobs:
   publish:
@@ -16,63 +17,27 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
       -
-        name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 12
-      -
-        name: Set up Ruby
-        uses: actions/setup-ruby@v1
-        with:
-          ruby-version: 2.7.x
-      -
-        name: Set up gems cache
-        uses: actions/cache@v3
-        with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gem-
-      -
-        name: Set up node_modules cache
-        uses: actions/cache@v3
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-      -
-        name: Set up Bundler
-        run: |
-          gem uninstall -aIx bundler
-          gem install bundler -v 2.2.13
-      -
-        name: Yarn install
-        run: |
-          npm install -g yarn
-          yarn install --frozen-lockfile
-      -
-        name: Bundle install
-        run: |
-          bundle config path vendor/bundle
-          bundle install --jobs 4 --retry 3
+        name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
       -
         name: Build
+        uses: docker/bake-action@v2
+        with:
+          targets: release
+          set: |
+            *.cache-from=type=gha,scope=website
+            *.cache-to=type=gha,scope=website,mode=max
         env:
-          JEKYLL_ENV: production
-          JEKYLL_LOG_LEVEL: info
-          NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          yarn build
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       -
         name: Check GitHub Pages status
+        if: github.event_name != 'pull_request'
         uses: crazy-max/ghaction-github-status@v2
         with:
           pages_threshold: major_outage
       -
         name: Deploy
-        if: success() && github.event_name != 'pull_request'
+        if: github.event_name != 'pull_request'
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: master
