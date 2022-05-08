@@ -16,15 +16,16 @@ WORKDIR /src
 
 FROM base AS gem
 ARG BUNDLER_VERSION
-COPY Gemfile* .
-RUN --mount=type=cache,target=/usr/local/bundle \
+RUN --mount=type=bind,target=.,rw \
+  --mount=type=cache,target=/usr/local/bundle \
   gem uninstall -aIx bundler \
   && gem install bundler -v ${BUNDLER_VERSION} \
   && bundle install --jobs 4 --retry 3
 
 FROM gem AS vendored
 ARG BUNDLER_VERSION
-RUN --mount=type=cache,target=/usr/local/bundle \
+RUN --mount=type=bind,target=.,rw \
+  --mount=type=cache,target=/usr/local/bundle \
   bundle update \
   && mkdir /out \
   && cp -r Gemfile.lock vendor /out
