@@ -16,17 +16,14 @@ WORKDIR /src
 
 FROM base AS gem
 ARG BUNDLER_VERSION
-RUN --mount=type=bind,target=.,rw \
-  --mount=type=cache,target=/usr/local/bundle \
-  gem uninstall -aIx bundler \
+COPY Gemfile* .
+RUN gem uninstall -aIx bundler \
   && gem install bundler -v ${BUNDLER_VERSION} \
   && bundle install --jobs 4 --retry 3
 
 FROM gem AS vendored
 ARG BUNDLER_VERSION
-RUN --mount=type=bind,target=.,rw \
-  --mount=type=cache,target=/usr/local/bundle \
-  bundle update \
+RUN bundle update \
   && mkdir /out \
   && cp -r Gemfile.lock vendor /out
 
@@ -42,14 +39,12 @@ FROM node AS generate
 ARG JEKYLL_ENV
 RUN --mount=type=bind,target=.,rw \
   --mount=type=cache,target=/src/node_modules \
-  --mount=type=cache,target=/usr/local/bundle \
   --mount=type=secret,id=GITHUB_TOKEN \
   GH_TOKEN=$(cat /run/secrets/GITHUB_TOKEN 2>/dev/null || echo "") yarn build \
   && mv /src/web /out
 
 FROM generate AS htmlproofer
 RUN --mount=type=bind,target=.,rw \
-  --mount=type=cache,target=/usr/local/bundle \
   htmlproofer ./web/download \
     --allow-missing-href \
     --allow-hash-href \
