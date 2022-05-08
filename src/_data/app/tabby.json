@@ -28,11 +28,20 @@
   ],
   "releases": [
     {
+      "version": "1.0.176",
+      "release": "8",
+      "date": "2022/05/08",
+      "type": "release",
+      "original": "tabby-@version@-setup.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.0.164",
       "release": "7",
       "date": "2021/11/21",
       "type": "release",
-      "original": "terminus-@version@-setup.exe",
+      "original": "tabby-@version@-setup.exe",
       "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
@@ -41,7 +50,7 @@
       "release": "6",
       "date": "2021/08/31",
       "type": "release",
-      "original": "terminus-@version@-setup.exe",
+      "original": "tabby-@version@-setup.exe",
       "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
@@ -50,7 +59,7 @@
       "release": "5",
       "date": "2021/07/25",
       "type": "release",
-      "original": "terminus-@version@-setup.exe",
+      "original": "tabby-@version@-setup.exe",
       "platforms": ["win64"],
       "formats": ["setup", "7z"]
     },
