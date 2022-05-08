@@ -24,9 +24,19 @@
     }
   ],
   "groups": [
+    "5.8",
     "5.5"
   ],
   "releases": [
+    {
+      "version": "5.8.1",
+      "release": "2",
+      "date": "2022/05/08",
+      "type": "release",
+      "original": "Ferdi-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "5.5.0",
       "release": "1",
