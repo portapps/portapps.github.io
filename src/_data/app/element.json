@@ -24,6 +24,7 @@
     }
   ],
   "groups":[
+    "1.10",
     "1.8",
     "1.7",
     "1.6",
@@ -35,6 +36,15 @@
     "1.0"
   ],
   "releases": [
+    {
+      "version": "1.10.10",
+      "release": "43",
+      "date": "2022/05/08",
+      "type": "release",
+      "original": "ElementSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.8.5",
       "release": "42",
