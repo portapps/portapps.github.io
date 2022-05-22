@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "91.9",
     "91.5",
     "91.1",
     "78.12",
@@ -60,6 +61,15 @@
     "60.5"
   ],
   "releases": [
+    {
+      "version": "91.9.1",
+      "release": "58",
+      "date": "2022/05/22",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "91.5.1",
       "release": "57",
