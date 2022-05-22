@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "100",
     "96",
     "92",
     "90",
@@ -56,6 +57,15 @@
     "65"
   ],
   "releases": [
+    {
+      "version": "100.0.2",
+      "release": "61",
+      "date": "2022/05/22",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "96.0.3",
       "release": "60",
