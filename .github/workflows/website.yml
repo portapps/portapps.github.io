@@ -33,7 +33,7 @@ jobs:
       -
         name: Check GitHub Pages status
         if: github.event_name != 'pull_request'
-        uses: crazy-max/ghaction-github-status@v2
+        uses: crazy-max/ghaction-github-status@v3
         with:
           pages_threshold: major_outage
       -
