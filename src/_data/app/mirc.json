@@ -25,6 +25,15 @@
   ],
   "releases": [
     {
+      "version": "7.68",
+      "release": "14",
+      "date": "2022/06/05",
+      "type": "release",
+      "original": "mirc-@version@-@platform@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "7.66",
       "release": "13",
       "date": "2021/08/23",
