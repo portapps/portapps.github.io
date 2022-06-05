@@ -31,6 +31,15 @@
   ],
   "releases": [
     {
+      "version": "3.6.5",
+      "release": "19",
+      "date": "2022/06/05",
+      "type": "release",
+      "original": "Wireshark-@platform@-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "3.6.2",
       "release": "18",
       "date": "2022/03/06",
