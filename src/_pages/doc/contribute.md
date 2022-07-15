@@ -15,12 +15,12 @@ Several SDK and tools are required to build and create a portapp.
 ## Go
 
 [Go](https://golang.org){:target="_blank"} is the programing language used to create the portapp executable wrapper.<br />
-You need **Go 1.12** that you can download on the [Golang website](https://golang.org/dl/){:target="_blank"}.<br />
+You need **Go 1.18** that you can download on the [Golang website](https://golang.org/dl/){:target="_blank"}.<br />
 Add the path to `go.exe` (eg. `C:\go\bin`) to your environment variable PATH (must be already added if you install through the MSI).<br />
 To check if you have Go in your path, open a command prompt and type `go version` :
 
 ```text
-go version go1.12.10 windows/amd64
+go version go1.18.4 windows/amd64
 ```
 
 ## OpenJDK
@@ -38,7 +38,7 @@ OpenJDK 64-Bit Server VM 18.9 (build 11.0.2+9, mixed mode)
 ## Apache Ant
 
 [Apache Ant](https://ant.apache.org/){:target="_blank"} is used with the OpenJDK to build and package the portapp.<br />
-You need at least Apache Ant 1.10.5 that you can download on the [Apache website](https://ant.apache.org/bindownload.cgi){:target="_blank"}.<br />
+You need at least **Apache Ant 1.10.5** that you can download on the [Apache website](https://ant.apache.org/bindownload.cgi){:target="_blank"}.<br />
 Extract the archive on your computer (eg. `C:\apache-ant`) and add the path to `ant.bat` (eg. `C:\apache-ant\bin`) to your environment variable PATH.<br />
 To check if you have Apache Ant in your path, open a command prompt and type `ant -version` :
 
@@ -54,7 +54,7 @@ Add the path to `node.exe` (eg. `C:\Program Files\nodejs`) to your environment v
 To check if you have Node in your path, open a command prompt and type `node --version` :
 
 ```text
-v10.16.0
+v16.13.1
 ```
 
 # Build
