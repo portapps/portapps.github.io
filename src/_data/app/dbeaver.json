@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "22.2",
     "21.3",
     "21.0",
     "7.3",
@@ -42,6 +43,15 @@
     "5.2"
   ],
   "releases": [
+    {
+      "version": "22.2.1",
+      "release": "45",
+      "date": "2022/10/04",
+      "type": "release",
+      "original": "dbeaver-ce-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "21.3.2",
       "release": "44",
