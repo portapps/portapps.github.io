@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "8.22",
     "8.18",
     "8.12",
     "8.10",
@@ -31,6 +32,15 @@
     "8.8"
   ],
   "releases": [
+    {
+      "version": "8.22.1",
+      "release": "7",
+      "date": "2022/10/04",
+      "type": "release",
+      "original": "ueli-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "8.18.1",
       "release": "6",
