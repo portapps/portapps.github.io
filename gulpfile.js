@@ -262,7 +262,7 @@ function getPostContent(app, appRelease) {
   return "---\n\
 layout: post\n\
 title: " + appLabel + " portable " + appRelease.version + "-" + appRelease.release + "\n\
-date: " + appRelease.date.replace(re, '-') + " 00:00:00 +0200\n\
+date: " + appRelease.date.replace(re, '-') + " 00:00:00 +0100\n\
 app: " + app.name + "\n\
 tags: [" + app.name + "]\n\
 ---\n\
