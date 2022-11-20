@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "1.73",
     "1.67",
     "1.61",
     "1.58",
@@ -59,6 +60,15 @@
     "1.23"
   ],
   "releases": [
+    {
+      "version": "1.73.1",
+      "release": "47",
+      "date": "2022/11/20",
+      "type": "release",
+      "original": "VSCode-@platform@-@version@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.67.2",
       "release": "46",
