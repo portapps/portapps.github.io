@@ -26,7 +26,7 @@ To work on the website of the [Portapps](https://portapps.io) project, you'll ne
 This will give you file watching, browser synchronisation, auto-rebuild, CSS/JS and vendor injecting :
 
 ```shell
-$ gulp serve
+$ yarn serve
 ```
 
 Then open your browser at http://localhost:3000<br />
