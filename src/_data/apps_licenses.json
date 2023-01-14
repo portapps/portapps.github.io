@@ -39,6 +39,10 @@
     "name": "Oracle Technology Network License",
     "link": "https://www.oracle.com/technetwork/licenses/standard-license-152015.html"
   },
+  "proprietary": {
+    "name": "Proprietary",
+    "link": "https://en.wikipedia.org/wiki/Proprietary_software"
+  },
   "shareware": {
     "name": "Shareware",
     "link": "https://en.wikipedia.org/wiki/Shareware"

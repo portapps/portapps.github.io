@@ -2,7 +2,7 @@
   "name": "smartgit",
   "label": "SmartGit&trade;",
   "desc": "A graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.",
-  "license": "freeware",
+  "license": "proprietary",
   "status": "ok",
   "redir_from": "",
   "trademark": true,
