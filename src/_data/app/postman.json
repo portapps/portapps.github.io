@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "10.8",
     "10.0",
     "9.27",
     "9.22",
@@ -75,6 +76,15 @@
     "6.0"
   ],
   "releases": [
+    {
+      "version": "10.8.0",
+      "release": "56",
+      "date": "2023/01/16",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "10.0.1",
       "release": "55",
