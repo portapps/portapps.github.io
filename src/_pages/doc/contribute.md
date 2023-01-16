@@ -15,12 +15,12 @@ Several SDK and tools are required to build and create a portapp.
 ## Go
 
 [Go](https://golang.org){:target="_blank"} is the programing language used to create the portapp executable wrapper.<br />
-You need **Go 1.18** that you can download on the [Golang website](https://golang.org/dl/){:target="_blank"}.<br />
+You need **Go 1.19** that you can download on the [Golang website](https://golang.org/dl/){:target="_blank"}.<br />
 Add the path to `go.exe` (eg. `C:\go\bin`) to your environment variable PATH (must be already added if you install through the MSI).<br />
 To check if you have Go in your path, open a command prompt and type `go version` :
 
 ```text
-go version go1.18.4 windows/amd64
+go version go1.19.4 windows/amd64
 ```
 
 ## OpenJDK
