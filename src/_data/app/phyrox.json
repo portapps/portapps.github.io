@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "109",
     "105",
     "100",
     "96",
@@ -58,6 +59,15 @@
     "65"
   ],
   "releases": [
+    {
+      "version": "109.0.1",
+      "release": "63",
+      "date": "2023/02/12",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "105.0.2",
       "release": "62",
