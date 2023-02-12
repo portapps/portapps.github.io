@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "3.7",
     "3.5",
     "3.4",
     "3.2",
@@ -34,6 +35,15 @@
     "2.3"
   ],
   "releases": [
+    {
+      "version": "3.7.3",
+      "release": "18",
+      "date": "2023/02/12",
+      "type": "release",
+      "original": "Nextcloud-@version@-setup.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "3.5.1",
       "release": "17",
