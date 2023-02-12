@@ -28,11 +28,21 @@
     }
   ],
   "groups": [
+    "4.5",
     "4.3",
     "4.2",
     "4.1"
   ],
   "releases": [
+    {
+      "version": "4.5.0",
+      "release": "19",
+      "date": "2023/02/12",
+      "type": "release",
+      "original": "qbittorrent_@version@_@platform@_setup.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "4.3.8",
       "release": "18",
