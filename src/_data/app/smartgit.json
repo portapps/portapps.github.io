@@ -39,10 +39,19 @@
   ],
   "releases": [
     {
+      "version": "22.1.5",
+      "release": "33",
+      "date": "2023/04/02",
+      "type": "release",
+      "original": "smartgit-@version@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "22.1.2",
       "release": "32",
       "date": "2023/01/16",
-      "type": "release",
+      "type": "broken",
       "original": "smartgit-@version@.7z",
       "platforms": ["win64"],
       "formats": ["setup", "7z"]
