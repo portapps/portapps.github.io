@@ -3,7 +3,7 @@
   "label": "Ferdi",
   "desc": "Messaging browser that allows you to combine your favorite messaging services into one application.",
   "license": "apache-2.0",
-  "status": "ok",
+  "status": "abandoned",
   "redir_from": "",
   "trademark": false,
   "wincompat": ["win7", "win8", "win81", "win10"],
