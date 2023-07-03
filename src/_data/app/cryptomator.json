@@ -24,11 +24,21 @@
     }
   ],
   "groups": [
+    "1.9",
     "1.7",
     "1.6",
     "1.5"
   ],
   "releases": [
+    {
+      "version": "1.9.1",
+      "release": "12",
+      "date": "2023/07/03",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.msi",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.7.3",
       "release": "11",
