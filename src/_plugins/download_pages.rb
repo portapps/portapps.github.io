@@ -33,7 +33,7 @@ module Jekyll
         files = Dir[File.join(data_dir, 'app', '**', '*.json')].reject { |p| File.directory? p }
         files.each do |file|
           app = JSON.parse(File.read(file))
-          next if !app.kind_of?(Hash) or !app['name'] or app['status'] != 'ok'
+          next if !app.kind_of?(Hash) or !app['name'] or app['status'] == 'hide'
 
           Jekyll.logger.debug "  Processing: #{app['name']}"
           app['releases'].each do |release|
