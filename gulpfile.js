@@ -259,10 +259,11 @@ function getPostPathAlt(app, appRelease) {
 
 function getPostContent(app, appRelease) {
   var appLabel = app.label.replace('&trade;', '');
+  var offset = new Date().getTimezoneOffset() < 0 ? '+0200' : '+0100';
   return "---\n\
 layout: post\n\
 title: " + appLabel + " portable " + appRelease.version + "-" + appRelease.release + "\n\
-date: " + appRelease.date.replace(re, '-') + " 00:00:00 +0200\n\
+date: " + appRelease.date.replace(re, '-') + " 00:00:00 " + offset + "\n\
 app: " + app.name + "\n\
 tags: [" + app.name + "]\n\
 ---\n\
