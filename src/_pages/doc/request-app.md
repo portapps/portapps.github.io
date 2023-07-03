@@ -25,4 +25,4 @@ If you cannot find an existing app request, submit a request using the guideline
 
 ## Writing good app request
 
-Create a [new application request]({{ var_repo_url }}/issues/new?template=app_request.md) and fill in the blanks!
+Create a [new application request]({{ var_repo_url }}/issues/new?assignees=&labels=%3Apackage%3A+app+request&projects=&template=request.yml) and fill in the blanks!
