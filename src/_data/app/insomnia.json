@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "2023.3",
     "2022.2",
     "2021.4",
     "2021.2",
@@ -42,6 +43,15 @@
     "5.16"
   ],
   "releases": [
+    {
+      "version": "2023.3.0",
+      "release": "27",
+      "date": "2023/07/03",
+      "type": "release",
+      "original": "InsomniaCore-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "2022.2.1",
       "release": "26",
