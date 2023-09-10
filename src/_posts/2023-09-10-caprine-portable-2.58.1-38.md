@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Caprine portable 2.58.1-38
-date: 2023-09-10 00:00:00 +0200
+date: 2023-09-10 20:12:00 +0200
 app: caprine
 tags: [caprine]
 ---

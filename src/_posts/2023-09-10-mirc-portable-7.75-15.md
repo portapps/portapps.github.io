@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mIRC portable 7.75-15
-date: 2023-09-10 00:00:00 +0200
+date: 2023-09-10 20:14:00 +0200
 app: mirc
 tags: [mirc]
 ---
