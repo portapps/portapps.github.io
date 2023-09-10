@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "1.57",
     "1.52",
     "1.49",
     "1.47",
@@ -81,6 +82,15 @@
     "0.15"
   ],
   "releases": [
+    {
+      "version": "1.57.62",
+      "release": "88",
+      "date": "2023/09/10",
+      "type": "release",
+      "original": "brave_installer-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "1.52.129",
       "release": "87",
