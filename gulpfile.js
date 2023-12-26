@@ -20,6 +20,7 @@ var readConfig = require('read-config');
 var stream = require('stream');
 var uglify = require('gulp-uglify');
 var Vinyl = require('vinyl');
+var luxon = require('luxon');
 
 var options = minimist(process.argv.slice(2), null);
 var bundle = process.platform === 'win32' ? 'bundle.bat' : 'bundle';
@@ -257,9 +258,15 @@ function getPostPathAlt(app, appRelease) {
   return getPostPath(app, appRelease);
 }
 
+function isDST() {
+  var now = luxon.DateTime.local();
+  var nextMonth = now.plus({ months: 1 });
+  return now.offset !== nextMonth.offset;
+}
+
 function getPostContent(app, appRelease) {
   var appLabel = app.label.replace('&trade;', '');
-  var offset = new Date().getTimezoneOffset() < 0 ? '+0200' : '+0100';
+  var offset = isDST() ? '+0200' : '+0100';
   return "---\n\
 layout: post\n\
 title: " + appLabel + " portable " + appRelease.version + "-" + appRelease.release + "\n\
