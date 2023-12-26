@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "0.76",
     "0.74",
     "0.73",
     "0.72",
@@ -31,6 +32,15 @@
     "0.70"
   ],
   "releases": [
+    {
+      "version": "0.76.1.13",
+      "release": "37",
+      "date": "2023/12/26",
+      "type": "release",
+      "original": "kitty_@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "0.74.4.13",
       "release": "36",
