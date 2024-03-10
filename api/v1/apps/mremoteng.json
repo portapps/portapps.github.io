@@ -1,0 +1,103 @@
+{
+  "name": "mremoteng",
+  "label": "mRemoteNG",
+  "desc": "An open source, tabbed, multi-protocol, remote connections manager.",
+  "license": "gpl-2.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["misc"],
+  "github": {
+    "user": "portapps",
+    "repo": "mremoteng-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://mremoteng.org",
+  "move": [
+    {
+      "from": "<APP_PATH>\\mRemoteNG.settings",
+      "to": "data"
+    },
+    {
+      "from": "<APP_PATH>\\confCons.xml",
+      "to": "data"
+    },
+    {
+      "from": "<APP_PATH>\\extApps.xml",
+      "to": "data"
+    },
+    {
+      "from": "<APP_PATH>\\pnlLayout.xml",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.76.20",
+      "release": "9",
+      "date": "2019/04/12",
+      "type": "release",
+      "original": "mRemoteNG-@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.76.19",
+      "release": "7",
+      "date": "2019/04/05",
+      "type": "release",
+      "original": "mRemoteNG-@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.76.18",
+      "release": "6",
+      "date": "2019/03/21",
+      "type": "release",
+      "original": "mRemoteNG-@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.76.16",
+      "release": "5",
+      "date": "2019/03/15",
+      "type": "release",
+      "original": "mRemoteNG-@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.76.15",
+      "release": "3",
+      "date": "2019/03/09",
+      "type": "release",
+      "original": "mRemoteNG-@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.76.14",
+      "release": "2",
+      "date": "2019/02/09",
+      "type": "release",
+      "original": "mRemoteNG-@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.76.11",
+      "release": "1",
+      "date": "2018/10/23",
+      "type": "release",
+      "original": "mRemoteNG-@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
