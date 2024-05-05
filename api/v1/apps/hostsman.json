@@ -1,0 +1,117 @@
+{
+  "name": "hostsman",
+  "label": "HostsMan",
+  "desc": "A freeware application that lets you manage your Hosts file with ease.",
+  "license": "freeware",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win7", "win8", "win81", "win10"],
+  "categories": ["misc"],
+  "github": {
+    "user": "portapps",
+    "repo": "hostsman-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "http://www.abelhadigital.com/hostsman",
+  "move": [
+    {
+      "from": "%APPDATA%\\abelhadigital.com\\HostsMan\\*",
+      "to": "data\\UserProfile\\AppData\\Roaming\\abelhadigital.com\\HostsMan"
+    },
+    {
+      "from": "%PROGRAMDATA%\\abelhadigital.com\\HostsMan\\*",
+      "to": "data\\ProgramData\\abelhadigital.com\\HostsMan"
+    }
+  ],
+  "groups": [
+    "4.8",
+    "4.7"
+  ],
+  "releases": [
+    {
+      "version": "4.8.106",
+      "release": "10",
+      "date": "2019/03/18",
+      "type": "release",
+      "original": "HostsMan_@platform@_@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "4.8.106",
+      "release": "9",
+      "date": "2019/02/17",
+      "type": "release",
+      "original": "HostsMan_@platform@_@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "4.8.106",
+      "release": "8",
+      "date": "2018/02/11",
+      "type": "release",
+      "original": "HostsMan_@platform@_@version@.zip",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "4.8.106",
+      "release": "7",
+      "date": "2018/02/09",
+      "type": "release",
+      "original": "HostsMan_@platform@_@version@.zip",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "4.8.106",
+      "release": "6",
+      "date": "2017/11/21",
+      "type": "release",
+      "original": "HostsMan_@platform@_@version@.zip",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "4.8.106",
+      "release": "5",
+      "date": "2017/11/21",
+      "type": "release",
+      "original": "HostsMan_@platform@_@version@.zip",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "4.8.106",
+      "release": "4",
+      "date": "2017/11/19",
+      "type": "release",
+      "original": "HostsMan_@platform@_@version@.zip",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "4.7.105",
+      "release": "3",
+      "date": "2017/08/26",
+      "type": "release",
+      "original": "HostsMan_@version@.zip",
+      "platforms": [""],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "4.7.105",
+      "release": "1",
+      "date": "2017/05/27",
+      "type": "release",
+      "original": "HostsMan_@version@.zip",
+      "platforms": [""],
+      "formats": ["setup", "7z", "zip"]
+    }
+  ]
+}
