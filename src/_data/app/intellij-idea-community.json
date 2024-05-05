@@ -36,6 +36,7 @@
     }
   ],
   "groups": [
+    "2024.1",
     "2023.3",
     "2023.1",
     "2022.2",
@@ -55,6 +56,15 @@
     "2017.3"
   ],
   "releases": [
+    {
+      "version": "2024.1.1",
+      "release": "56",
+      "date": "2024/05/05",
+      "type": "release",
+      "original": "",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "2023.3.2",
       "release": "55",
