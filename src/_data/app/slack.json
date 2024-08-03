@@ -6,7 +6,7 @@
   "status": "hide",
   "redir_from": "",
   "trademark": true,
-  "wincompat": ["win7", "win8", "win81", "win10"],
+  "wincompat": ["win10"],
   "categories": ["dev", "messaging"],
   "github": {
     "user": "portapps",

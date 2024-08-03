@@ -6,7 +6,7 @@
   "status": "ok",
   "redir_from": "",
   "trademark": false,
-  "wincompat": ["win10"],
+  "wincompat": ["win10", "win11"],
   "categories": ["security"],
   "github": {
     "user": "portapps",
