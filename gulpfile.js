@@ -260,8 +260,10 @@ function getPostPathAlt(app, appRelease) {
 
 function isDST() {
   var now = luxon.DateTime.local();
-  var nextMonth = now.plus({ months: 1 });
-  return now.offset !== nextMonth.offset;
+  var winter = luxon.DateTime.local(now.year, 1, 1); // January 1st of the current year
+  // console.log("Current time:", now.toString(), "Offset:", now.offset);
+  // console.log("Winter time:", winter.toString(), "Offset:", winter.offset);
+  return now.offset !== winter.offset;
 }
 
 function getPostContent(app, appRelease) {
