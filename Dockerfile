@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1
 
 ARG RUBY_VERSION=2.7
-ARG BUNDLER_VERSION=2.3.13
+ARG BUNDLER_VERSION=2.4.22
 
 ARG JEKYLL_ENV=development
 
@@ -25,7 +25,7 @@ FROM gem AS vendored
 ARG BUNDLER_VERSION
 RUN bundle update \
   && mkdir /out \
-  && cp -r Gemfile.lock vendor /out
+  && cp Gemfile.lock /out
 
 FROM scratch AS vendor
 COPY --from=vendored /out /

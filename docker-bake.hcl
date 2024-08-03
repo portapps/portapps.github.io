@@ -33,6 +33,6 @@ target "htmlproofer" {
 }
 
 target "vendor" {
-  target = "gem-update"
+  target = "vendor"
   output = ["."]
 }
