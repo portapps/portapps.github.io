@@ -32,7 +32,7 @@
       "version": "1.0.9055",
       "release": "19",
       "date": "2024/08/03",
-      "type": "release",
+      "type": "broken",
       "original": "DiscordSetup-@platform@.exe",
       "platforms": ["win32"],
       "formats": ["setup", "7z"]
