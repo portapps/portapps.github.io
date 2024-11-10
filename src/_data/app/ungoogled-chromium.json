@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "130",
     "127",
     "120",
     "115",
@@ -44,6 +45,15 @@
     "79"
   ],
   "releases": [
+    {
+      "version": "130.0.6723.12",
+      "release": "19",
+      "date": "2024/11/10",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "127.0.6533.89",
       "release": "18",
