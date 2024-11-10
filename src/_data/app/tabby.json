@@ -28,6 +28,15 @@
   ],
   "releases": [
     {
+      "version": "1.0.215",
+      "release": "12",
+      "date": "2024/11/10",
+      "type": "release",
+      "original": "tabby-@version@-setup.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "1.0.207",
       "release": "11",
       "date": "2024/03/10",
