@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "11.19",
     "11.6",
     "10.24",
     "10.21",
@@ -80,6 +81,15 @@
     "6.0"
   ],
   "releases": [
+    {
+      "version": "11.19.0",
+      "release": "61",
+      "date": "2024/11/10",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "11.6.1",
       "release": "60",
