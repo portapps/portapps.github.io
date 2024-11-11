@@ -16,7 +16,7 @@
     "name": "CrazyMax",
     "url": "https://crazymax.dev"
   },
-  "homepage": "https://sindresorhus.com/caprine/",
+  "homepage": "https://github.com/sindresorhus/caprine",
   "move": [
     {
       "from": "%APPDATA%\\Caprine\\*",
