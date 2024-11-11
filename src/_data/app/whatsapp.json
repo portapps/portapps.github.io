@@ -3,7 +3,7 @@
   "label": "WhatsApp&trade;",
   "desc": "A cross-platform mobile messaging app which allows you to exchange messages without having to pay for SMS.",
   "license": "freeware",
-  "status": "ok",
+  "status": "abandoned",
   "redir_from": "",
   "trademark": true,
   "wincompat": ["win10", "win11"],
