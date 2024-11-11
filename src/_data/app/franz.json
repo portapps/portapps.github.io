@@ -3,7 +3,7 @@
   "label": "Franz&trade;",
   "desc": "Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and many many more.",
   "license": "apache-2.0",
-  "status": "ok",
+  "status": "abandoned",
   "redir_from": "",
   "trademark": true,
   "wincompat": ["win10", "win11"],
