@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps</title>
+    <description>Collection of portable apps for Windows</description>
+    <link>https://portapps.io</link>
+    <atom:link href="https://portapps.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waterfox portable 6.5.1-30</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/waterfox.png"/></p>
+<p>Release of Waterfox portable 6.5.1-30 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/waterfox-portable/">Waterfox portable page</a>.</p>
+]]></description>
+      <pubDate>Tue, 12 Nov 2024 11:30:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-12-waterfox-portable-6.5.1-30/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-12-waterfox-portable-6.5.1-30/</guid>
+    </item><item>
+      <title>Signal portable 7.32.0-8</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/signal.png"/></p>
+<p>Release of Signal portable 7.32.0-8 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/signal-portable/">Signal portable page</a>.</p>
+]]></description>
+      <pubDate>Tue, 12 Nov 2024 11:25:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-12-signal-portable-7.32.0-8/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-12-signal-portable-7.32.0-8/</guid>
+    </item><item>
+      <title>Phyrox portable 132.0.1-67</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/phyrox.png"/></p>
+<p>Release of Phyrox portable 132.0.1-67 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/phyrox-portable/">Phyrox portable page</a>.</p>
+]]></description>
+      <pubDate>Tue, 12 Nov 2024 11:21:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-12-phyrox-portable-132.0.1-67/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-12-phyrox-portable-132.0.1-67/</guid>
+    </item><item>
+      <title>Phyrox ESR portable 128.4.0-64</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/phyrox-esr.png"/></p>
+<p>Release of Phyrox ESR portable 128.4.0-64 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/phyrox-esr-portable/">Phyrox ESR portable page</a>.</p>
+]]></description>
+      <pubDate>Tue, 12 Nov 2024 11:18:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-12-phyrox-esr-portable-128.4.0-64/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-12-phyrox-esr-portable-128.4.0-64/</guid>
+    </item><item>
+      <title>Phyrox Developer Edition portable 133.0b7-51</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/phyrox-developer.png"/></p>
+<p>Release of Phyrox Developer Edition portable 133.0b7-51 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/phyrox-developer-portable/">Phyrox Developer Edition portable page</a>.</p>
+]]></description>
+      <pubDate>Tue, 12 Nov 2024 11:15:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-12-phyrox-developer-portable-133.0b7-51/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-12-phyrox-developer-portable-133.0b7-51/</guid>
+    </item><item>
+      <title>Cryptomator portable 1.14.0-14</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/cryptomator.png"/></p>
+<p>Release of Cryptomator portable 1.14.0-14 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/cryptomator-portable/">Cryptomator portable page</a>.</p>
+]]></description>
+      <pubDate>Tue, 12 Nov 2024 11:12:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-12-cryptomator-portable-1.14.0-14/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-12-cryptomator-portable-1.14.0-14/</guid>
+    </item><item>
+      <title>Portapps 3.15.0</title>
+      <description><![CDATA[
+<ul>
+  <li>Add resource hacker lib (#381)</li>
+  <li>Add gn-asar-hash script (#382)</li>
+</ul>
+]]></description>
+      <pubDate>Tue, 12 Nov 2024 11:04:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-12-portapps-3.15.0/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-12-portapps-3.15.0/</guid>
+    </item><item>
+      <title>DBeaver portable 24.2.4-49</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/dbeaver.png"/></p>
+<p>Release of DBeaver portable 24.2.4-49 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/dbeaver-portable/">DBeaver portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 11 Nov 2024 23:36:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-11-dbeaver-portable-24.2.4-49/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-11-dbeaver-portable-24.2.4-49/</guid>
+    </item><item>
+      <title>Caprine portable 2.60.1-40</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/caprine.png"/></p>
+<p>Release of Caprine portable 2.60.1-40 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/caprine-portable/">Caprine portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 11 Nov 2024 23:32:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-11-caprine-portable-2.60.1-40/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-11-caprine-portable-2.60.1-40/</guid>
+    </item><item>
+      <title>Franz portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/franz.png"/></p>
+<p>Franz portable is not maintained anymore as the main project has not released
+anything for over a year (since Sep 3, 2023).<br />
+Downloads are still available on <a href="https://portapps.io/app/franz-portable/">Franz portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 11 Nov 2024 20:11:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-11-franz-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-11-franz-portable-abandoned/</guid>
+    </item><item>
+      <title>WhatsApp portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/whatsapp.png"/></p>
+<p>WhatsApp portable is not maintained anymore and is abandoned as the offline
+installer support has been dropped in favor of installation via Microsoft Store.<br />
+Downloads are still available on <a href="https://portapps.io/app/whatsapp-portable/">WhatsApp portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 11 Nov 2024 20:02:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-11-whatsapp-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-11-whatsapp-portable-abandoned/</guid>
+    </item><item>
+      <title>Ungoogled Chromium portable 130.0.6723.12-19</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/ungoogled-chromium.png"/></p>
+<p>Release of Ungoogled Chromium portable 130.0.6723.12-19 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/ungoogled-chromium-portable/">Ungoogled Chromium portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 10 Nov 2024 18:29:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-10-ungoogled-chromium-portable-130.0.6723.12-19/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-10-ungoogled-chromium-portable-130.0.6723.12-19/</guid>
+    </item><item>
+      <title>ueli portable 8.29.1-9</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/ueli.png"/></p>
+<p>Release of ueli portable 8.29.1-9 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/ueli-portable/">ueli portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 10 Nov 2024 18:26:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-10-ueli-portable-8.29.1-9/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-10-ueli-portable-8.29.1-9/</guid>
+    </item><item>
+      <title>Tabby portable 1.0.215-12</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/tabby.png"/></p>
+<p>Release of Tabby portable 1.0.215-12 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/tabby-portable/">Tabby portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 10 Nov 2024 18:24:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-10-tabby-portable-1.0.215-12/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-10-tabby-portable-1.0.215-12/</guid>
+    </item><item>
+      <title>SmartGit portable 24.1.0-39</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/smartgit.png"/></p>
+<p>Release of SmartGit portable 24.1.0-39 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/smartgit-portable/">SmartGit portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 10 Nov 2024 18:20:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-10-smartgit-portable-24.1.0-39/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-10-smartgit-portable-24.1.0-39/</guid>
+    </item><item>
+      <title>Postman portable 11.19.0-61</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/postman.png"/></p>
+<p>Release of Postman portable 11.19.0-61 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/postman-portable/">Postman portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 10 Nov 2024 18:17:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-10-postman-portable-11.19.0-61/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-10-postman-portable-11.19.0-61/</guid>
+    </item><item>
+      <title>Nextcloud portable 3.14.3-22</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/nextcloud.png"/></p>
+<p>Release of Nextcloud portable 3.14.3-22 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/nextcloud-portable/">Nextcloud portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 10 Nov 2024 18:13:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-10-nextcloud-portable-3.14.3-22/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-10-nextcloud-portable-3.14.3-22/</guid>
+    </item><item>
+      <title>Brave portable 1.71.123-93</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/brave.png"/></p>
+<p>Release of Brave portable 1.71.123-93 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/brave-portable/">Brave portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 10 Nov 2024 18:10:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-10-brave-portable-1.71.123-93/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-10-brave-portable-1.71.123-93/</guid>
+    </item><item>
+      <title>Portapps 3.14.1</title>
+      <description><![CDATA[
+<ul>
+  <li>Rollback to innosetup 6.2.2 (#380)</li>
+</ul>
+]]></description>
+      <pubDate>Fri, 08 Nov 2024 13:13:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-08-portapps-3.14.1/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-08-portapps-3.14.1/</guid>
+    </item><item>
+      <title>Portapps 3.14.0</title>
+      <description><![CDATA[
+<ul>
+  <li>Update tools (#379)
+    <ul>
+      <li>asar 3.2.17</li>
+      <li>innosetup 6.3.3</li>
+      <li>lessmsi 1.11.3</li>
+      <li>rcedit 2.0.0</li>
+      <li>upx 4.2.4</li>
+    </ul>
+  </li>
+</ul>
+]]></description>
+      <pubDate>Fri, 08 Nov 2024 12:55:00 +0100</pubDate>
+      <link>https://portapps.io/news/2024-11-08-portapps-3.14.0/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2024-11-08-portapps-3.14.0/</guid>
+    </item>
+  </channel>
+</rss>
