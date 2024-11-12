@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "128.4",
     "115.10",
     "115.6",
     "115.0",
@@ -66,6 +67,15 @@
     "60.5"
   ],
   "releases": [
+    {
+      "version": "128.4.0",
+      "release": "64",
+      "date": "2024/11/12",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "115.10.0",
       "release": "63",
