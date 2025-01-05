@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - mRemoteNG portable releases</title>
+    <description>An open source, tabbed, multi-protocol, remote connections manager.</description>
+    <link>https://portapps.io/app/mremoteng-portable/</link>
+    <atom:link href="https://portapps.io/app/mremoteng-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>mremoteng-portable-win32-1.76.20-9-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 12 Apr 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.20-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.20-9-setup.exe</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.20-9.7z</title>
+    <description></description>
+    <pubDate>Fri, 12 Apr 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.20-9.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.20-9.7z</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.19-7-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 05 Apr 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.19-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.19-7-setup.exe</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.19-7.7z</title>
+    <description></description>
+    <pubDate>Fri, 05 Apr 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.19-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.19-7.7z</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.18-6-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 21 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.18-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.18-6-setup.exe</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.18-6.7z</title>
+    <description></description>
+    <pubDate>Thu, 21 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.18-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.18-6.7z</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.16-5-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 15 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.16-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.16-5-setup.exe</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.16-5.7z</title>
+    <description></description>
+    <pubDate>Fri, 15 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.16-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.16-5.7z</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.15-3-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.15-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.15-3-setup.exe</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.15-3.7z</title>
+    <description></description>
+    <pubDate>Sat, 09 Mar 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.15-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.15-3.7z</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.14-2-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.14-2-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.14-2-setup.exe</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.14-2.7z</title>
+    <description></description>
+    <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.14-2.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.14-2.7z</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.11-1-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 23 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.11-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.11-1-setup.exe</guid>
+  </item><item>
+    <title>mremoteng-portable-win32-1.76.11-1.7z</title>
+    <description></description>
+    <pubDate>Tue, 23 Oct 2018 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/mremoteng-portable-win32-1.76.11-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/mremoteng-portable-win32-1.76.11-1.7z</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+{
+  "name": "innosetup",
+  "label": "Inno Setup",
+  "desc": "A free installer for Windows programs.",
+  "license": "freeware",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": true,
+  "wincompat": ["win10", "win11"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "innosetup-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "http://www.jrsoftware.org/isinfo.php",
+  "move": [],
+  "groups": [
+    "6.2",
+    "6.1",
+    "6.0",
+    "5.6"
+  ],
+  "releases": [
+    {
+      "version": "6.2.0",
+      "release": "5",
+      "date": "2022/03/06",
+      "type": "release",
+      "original": "innosetup-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.1.2",
+      "release": "4",
+      "date": "2020/11/16",
+      "type": "release",
+      "original": "innosetup-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.0.5",
+      "release": "3",
+      "date": "2020/06/07",
+      "type": "release",
+      "original": "innosetup-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.0.4",
+      "release": "2",
+      "date": "2020/03/16",
+      "type": "release",
+      "original": "innosetup-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.0.3",
+      "release": "2",
+      "date": "2019/10/19",
+      "type": "release",
+      "original": "innosetup-@platform@-@version@-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.6.1",
+      "release": "1",
+      "date": "2019/10/19",
+      "type": "release",
+      "original": "innosetup-@platform@-@version@-unicode-setup.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
