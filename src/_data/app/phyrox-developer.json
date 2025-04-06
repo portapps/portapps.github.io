@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "138",
     "133",
     "126",
     "122",
@@ -61,6 +62,15 @@
     "66"
   ],
   "releases": [
+    {
+      "version": "138.0b3",
+      "release": "52",
+      "date": "2025/04/06",
+      "type": "release",
+      "original": "FirefoxDevEditionSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "133.0b7",
       "release": "51",
