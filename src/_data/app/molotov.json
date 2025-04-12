@@ -3,7 +3,7 @@
   "label": "Molotov&trade;",
   "desc": "An app to watch French TV. Free of charge.",
   "license": "freemium",
-  "status": "ok",
+  "status": "abandoned",
   "redir_from": "",
   "trademark": true,
   "wincompat": ["win10", "win11"],
