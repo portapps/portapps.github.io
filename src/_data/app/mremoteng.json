@@ -3,7 +3,7 @@
   "label": "mRemoteNG",
   "desc": "An open source, tabbed, multi-protocol, remote connections manager.",
   "license": "gpl-2.0",
-  "status": "ok",
+  "status": "abandoned",
   "redir_from": "",
   "trademark": false,
   "wincompat": ["win10", "win11"],
