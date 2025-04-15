@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Rambox portable releases</title>
+    <description>A workspace browser that allows you to manage as many applications as you want, all in one place.</description>
+    <link>https://portapps.io/app/rambox-portable/</link>
+    <atom:link href="https://portapps.io/app/rambox-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>rambox-portable-win32-0.7.7-9-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.7-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.7-9-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.7-9-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.7-9-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.7-9-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.7.7-9.7z</title>
+    <description></description>
+    <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.7-9.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.7-9.7z</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.7-9.7z</title>
+    <description></description>
+    <pubDate>Thu, 03 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.7-9.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.7-9.7z</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.7.6-8-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.6-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.6-8-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.6-8-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.6-8-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.6-8-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.7.6-8.7z</title>
+    <description></description>
+    <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.6-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.6-8.7z</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.6-8.7z</title>
+    <description></description>
+    <pubDate>Mon, 14 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.6-8.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.6-8.7z</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.7.5-7-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 31 Mar 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.5-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.5-7-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.5-7-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 31 Mar 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.5-7-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.5-7-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.7.5-7.7z</title>
+    <description></description>
+    <pubDate>Tue, 31 Mar 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.5-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.5-7.7z</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.5-7.7z</title>
+    <description></description>
+    <pubDate>Tue, 31 Mar 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.5-7.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.5-7.7z</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.7.3-6-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 13 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.3-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.3-6-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.3-6-setup.exe</title>
+    <description></description>
+    <pubDate>Fri, 13 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.3-6-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.3-6-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.7.3-6.7z</title>
+    <description></description>
+    <pubDate>Fri, 13 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.3-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.3-6.7z</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.3-6.7z</title>
+    <description></description>
+    <pubDate>Fri, 13 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.3-6.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.3-6.7z</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.7.2-5-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.2-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.2-5-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.2-5-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.2-5-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.2-5-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.7.2-5.7z</title>
+    <description></description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.2-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.2-5.7z</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.2-5.7z</title>
+    <description></description>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.2-5.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.2-5.7z</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.7.0-4-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 20 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.0-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.0-4-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.0-4-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 20 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.0-4-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.0-4-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.7.0-4.7z</title>
+    <description></description>
+    <pubDate>Wed, 20 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.7.0-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.7.0-4.7z</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.7.0-4.7z</title>
+    <description></description>
+    <pubDate>Wed, 20 Nov 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.7.0-4.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.7.0-4.7z</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.6.9-3-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.6.9-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.6.9-3-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.6.9-3-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.6.9-3-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.6.9-3-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.6.9-3.7z</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.6.9-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.6.9-3.7z</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.6.9-3.7z</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.6.9-3.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.6.9-3.7z</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.6.9-1-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.6.9-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.6.9-1-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.6.9-1-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.6.9-1-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.6.9-1-setup.exe</guid>
+  </item><item>
+    <title>rambox-portable-win32-0.6.9-1.7z</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win32-0.6.9-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win32-0.6.9-1.7z</guid>
+  </item><item>
+    <title>rambox-portable-win64-0.6.9-1.7z</title>
+    <description></description>
+    <pubDate>Wed, 24 Jul 2019 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/rambox-portable-win64-0.6.9-1.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/rambox-portable-win64-0.6.9-1.7z</guid>
+  </item>
+  </channel>
+</rss>

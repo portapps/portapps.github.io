@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - KiTTY portable releases</title>
+    <description>A fork of PuTTY, the best telnet / SSH client in the world.</description>
+    <link>https://portapps.io/app/kitty-portable/</link>
+    <atom:link href="https://portapps.io/app/kitty-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>kitty-portable-win32-0.76.1.13-37-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 26 Dec 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.76.1.13-37-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.76.1.13-37-setup.exe</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.76.1.13-37.7z</title>
+    <description></description>
+    <pubDate>Tue, 26 Dec 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.76.1.13-37.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.76.1.13-37.7z</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.4.13-36-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 28 Jun 2021 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.4.13-36-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.4.13-36-setup.exe</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.4.13-36.7z</title>
+    <description></description>
+    <pubDate>Mon, 28 Jun 2021 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.4.13-36.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.4.13-36.7z</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.4.11-35-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 27 Apr 2021 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.4.11-35-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.4.11-35-setup.exe</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.4.11-35.7z</title>
+    <description></description>
+    <pubDate>Tue, 27 Apr 2021 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.4.11-35.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.4.11-35.7z</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.4.6-34-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.4.6-34-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.4.6-34-setup.exe</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.4.6-34.7z</title>
+    <description></description>
+    <pubDate>Thu, 28 Jan 2021 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.4.6-34.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.4.6-34.7z</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.3.4-33-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 12 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.3.4-33-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.3.4-33-setup.exe</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.3.4-33.7z</title>
+    <description></description>
+    <pubDate>Sat, 12 Dec 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.3.4-33.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.3.4-33.7z</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.2.6-32-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 27 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.2.6-32-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.2.6-32-setup.exe</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.2.6-32.7z</title>
+    <description></description>
+    <pubDate>Tue, 27 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.2.6-32.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.2.6-32.7z</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.2.1-31-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 20 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.2.1-31-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.2.1-31-setup.exe</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.2.1-31.7z</title>
+    <description></description>
+    <pubDate>Sun, 20 Sep 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.2.1-31.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.2.1-31.7z</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.0.5-30-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 30 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.0.5-30-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.0.5-30-setup.exe</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.0.5-30.7z</title>
+    <description></description>
+    <pubDate>Sun, 30 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.0.5-30.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.0.5-30.7z</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.0.4-29-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 18 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.0.4-29-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.0.4-29-setup.exe</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.0.4-29.7z</title>
+    <description></description>
+    <pubDate>Tue, 18 Aug 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.0.4-29.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.0.4-29.7z</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.0.2-28-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 04 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.0.2-28-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.0.2-28-setup.exe</guid>
+  </item><item>
+    <title>kitty-portable-win32-0.74.0.2-28.7z</title>
+    <description></description>
+    <pubDate>Sat, 04 Jul 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/kitty-portable-win32-0.74.0.2-28.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/kitty-portable-win32-0.74.0.2-28.7z</guid>
+  </item>
+  </channel>
+</rss>
