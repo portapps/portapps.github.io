@@ -36,6 +36,15 @@
   ],
   "releases": [
     {
+      "version": "9.21.1",
+      "release": "11",
+      "date": "2025/04/16",
+      "type": "release",
+      "original": "ueli-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "9.21.0",
       "release": "10",
       "date": "2025/04/12",
