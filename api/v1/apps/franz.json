@@ -1,0 +1,145 @@
+{
+  "name": "franz",
+  "label": "Franz&trade;",
+  "desc": "Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and many many more.",
+  "license": "apache-2.0",
+  "status": "abandoned",
+  "redir_from": "",
+  "trademark": true,
+  "wincompat": ["win10", "win11"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "franz-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://meetfranz.com/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Franz\\*",
+      "to": "data"
+    }
+  ],
+  "groups": [
+    "5.9",
+    "5.6",
+    "5.5",
+    "5.4",
+    "5.3",
+    "5.2",
+    "5.1"
+  ],
+  "releases": [
+    {
+      "version": "5.9.1",
+      "release": "12",
+      "date": "2022/05/08",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.6.1",
+      "release": "11",
+      "date": "2021/01/06",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.5.0",
+      "release": "10",
+      "date": "2020/05/07",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.4.1",
+      "release": "9",
+      "date": "2020/02/01",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.4.1",
+      "release": "8",
+      "date": "2019/11/03",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.4.0",
+      "release": "7",
+      "date": "2019/10/23",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.3.3",
+      "release": "6",
+      "date": "2019/09/17",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.3.1",
+      "release": "5",
+      "date": "2019/09/09",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.2.0",
+      "release": "4",
+      "date": "2019/07/24",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.2.0",
+      "release": "3",
+      "date": "2019/07/21",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.1.0",
+      "release": "2",
+      "date": "2019/05/17",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "5.1.0",
+      "release": "1",
+      "date": "2019/05/08",
+      "type": "release",
+      "original": "franz-setup-@version@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
