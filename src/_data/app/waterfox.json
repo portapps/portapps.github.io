@@ -44,6 +44,15 @@
   ],
   "releases": [
     {
+      "version": "6.5.7",
+      "release": "31",
+      "date": "2025/05/17",
+      "type": "release",
+      "original": "WaterfoxSetup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
       "version": "6.5.1",
       "release": "30",
       "date": "2024/11/12",
