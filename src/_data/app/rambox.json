@@ -3,7 +3,7 @@
   "label": "Rambox",
   "desc": "A workspace browser that allows you to manage as many applications as you want, all in one place.",
   "license": "gpl-3.0",
-  "status": "ok",
+  "status": "abandoned",
   "redir_from": "",
   "trademark": false,
   "wincompat": ["win10", "win11"],
