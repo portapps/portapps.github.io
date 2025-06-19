@@ -1,0 +1,143 @@
+{
+  "name": "docker-toolbox",
+  "label": "Docker&trade; Toolbox",
+  "desc": "Provides a way to use Docker on Windows systems.",
+  "license": "apache-2.0",
+  "status": "abandoned",
+  "redir_from": "",
+  "trademark": true,
+  "wincompat": ["win10"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "docker-toolbox-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://docs.docker.com/toolbox/overview",
+  "move": [
+    {
+      "from": "%USERPROFILE%\\.docker\\*",
+      "to": "data\\storage"
+    }
+  ],
+  "groups": [
+    "19.03",
+    "18.09",
+    "18.06",
+    "18.03",
+    "18.02"
+  ],
+  "releases": [
+    {
+      "version": "19.03.1",
+      "release": "6",
+      "date": "2019/08/05",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.09.3",
+      "release": "5",
+      "date": "2019/03/17",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.09.3",
+      "release": "4",
+      "date": "2019/03/05",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.09.2",
+      "release": "2",
+      "date": "2019/02/14",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.09.1",
+      "release": "1",
+      "date": "2019/02/03",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.09.1",
+      "release": "7",
+      "date": "2019/01/15",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.09.0",
+      "release": "6",
+      "date": "2018/11/09",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.06.1",
+      "release": "5",
+      "date": "2018/08/27",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.06.0",
+      "release": "4",
+      "date": "2018/07/24",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.03.0",
+      "release": "3",
+      "date": "2018/04/05",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.02.0",
+      "release": "2",
+      "date": "2018/03/13",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "18.02.0",
+      "release": "1",
+      "date": "2018/03/13",
+      "type": "release",
+      "original": "DockerToolbox-@version@.exe",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
