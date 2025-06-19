@@ -3,7 +3,7 @@
   "label": "Emby Theater&trade;",
   "desc": "A native Windows app for Emby, the media server designed to organize, play, and stream audio and video.",
   "license": "gpl-2.0",
-  "status": "ok",
+  "status": "abandoned",
   "redir_from": "",
   "trademark": true,
   "wincompat": ["win10", "win11"],
