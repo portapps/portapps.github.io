@@ -3,7 +3,7 @@
   "label": "Beaker Browser",
   "desc": "An experimental browser for exploring and building the peer-to-peer Web.",
   "license": "mit",
-  "status": "ok",
+  "status": "abandoned",
   "redir_from": "",
   "trademark": false,
   "wincompat": ["win10", "win11"],
