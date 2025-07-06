@@ -24,6 +24,7 @@
     }
   ],
   "groups": [
+    "7.60",
     "7.49",
     "7.36",
     "7.32",
@@ -36,6 +37,15 @@
     "1.39"
   ],
   "releases": [
+    {
+      "version": "7.60.0",
+      "release": "11",
+      "date": "2025/07/06",
+      "type": "release",
+      "original": "signal-desktop-win-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "7.49.0",
       "release": "10",
