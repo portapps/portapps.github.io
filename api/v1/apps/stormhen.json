@@ -1,0 +1,464 @@
+{
+  "name": "stormhen",
+  "label": "Stormhen",
+  "desc": "Run Mozilla Thunderbird as a portable app.",
+  "license": "mpl-2.0",
+  "status": "ok",
+  "redir_from": "thunderbird",
+  "trademark": false,
+  "original": {
+    "name": "thunderbird",
+    "label": "Thunderbird"
+  },
+  "wincompat": ["win10", "win11"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "stormhen-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://www.thunderbird.net/en-US/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Thunderbird\\Profiles\\*.default\\*",
+      "to": "data\\profile\\default"
+    }
+  ],
+  "groups": [
+    "137.0",
+    "115.6",
+    "91.7",
+    "91.1",
+    "78.10",
+    "78.8",
+    "78.6",
+    "78.4",
+    "78.3",
+    "78.2",
+    "78.1",
+    "78.0",
+    "68.12",
+    "68.11",
+    "68.10",
+    "68.9",
+    "68.8",
+    "68.7",
+    "68.6",
+    "68.5",
+    "68.4",
+    "68.3",
+    "68.2",
+    "68.1",
+    "68.0",
+    "60.9",
+    "60.8",
+    "60.7",
+    "60.6"
+  ],
+  "releases": [
+    {
+      "version": "137.0.1",
+      "release": "45",
+      "date": "2025/04/12",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "115.6.0",
+      "release": "44",
+      "date": "2023/12/25",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "91.7.0",
+      "release": "43",
+      "date": "2022/04/09",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "91.1.1",
+      "release": "42",
+      "date": "2021/09/19",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.10.2",
+      "release": "41",
+      "date": "2021/05/22",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.8.1",
+      "release": "40",
+      "date": "2021/03/16",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.6.0",
+      "release": "39",
+      "date": "2021/01/10",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.4.3",
+      "release": "38",
+      "date": "2020/11/13",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.3.2",
+      "release": "37",
+      "date": "2020/10/09",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.3.0",
+      "release": "36",
+      "date": "2020/09/24",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.2.1",
+      "release": "35",
+      "date": "2020/08/30",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.12.0",
+      "release": "34",
+      "date": "2020/08/30",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.1.1",
+      "release": "33",
+      "date": "2020/08/11",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.0.1",
+      "release": "32",
+      "date": "2020/07/28",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.11.0",
+      "release": "31",
+      "date": "2020/07/28",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.10.0",
+      "release": "30",
+      "date": "2020/07/12",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.9.0",
+      "release": "29",
+      "date": "2020/06/13",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.8.0",
+      "release": "28",
+      "date": "2020/05/29",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.8.0",
+      "release": "27",
+      "date": "2020/05/12",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.7.0",
+      "release": "26",
+      "date": "2020/04/13",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.6.0",
+      "release": "25",
+      "date": "2020/03/16",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.5.0",
+      "release": "24",
+      "date": "2020/02/17",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.4.2",
+      "release": "23",
+      "date": "2020/01/27",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.4.1",
+      "release": "22",
+      "date": "2020/01/20",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.3.1",
+      "release": "21",
+      "date": "2019/12/17",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.3.0",
+      "release": "20",
+      "date": "2019/12/05",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.2.2",
+      "release": "19",
+      "date": "2019/12/01",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "60.9.1",
+      "release": "18",
+      "date": "2019/12/01",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.2.1",
+      "release": "17",
+      "date": "2019/12/01",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.2.1",
+      "release": "16",
+      "date": "2019/11/03",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "68.2.0",
+      "release": "15",
+      "date": "2019/10/23",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "68.1.2",
+      "release": "14",
+      "date": "2019/10/11",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "68.1.1",
+      "release": "13",
+      "date": "2019/09/27",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "68.1.0",
+      "release": "12",
+      "date": "2019/09/11",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "60.9.0",
+      "release": "11",
+      "date": "2019/09/11",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "68.0",
+      "release": "8",
+      "date": "2019/08/29",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "60.8.0",
+      "release": "7",
+      "date": "2019/07/09",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "60.7.2",
+      "release": "6",
+      "date": "2019/06/21",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "60.7.1",
+      "release": "5",
+      "date": "2019/06/13",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "60.7.0",
+      "release": "4",
+      "date": "2019/06/06",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "60.7.0",
+      "release": "3",
+      "date": "2019/05/18",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "60.6.1",
+      "release": "2",
+      "date": "2019/05/08",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    },
+    {
+      "version": "60.6.1",
+      "release": "1",
+      "date": "2019/05/06",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "thunderbird"
+    }
+  ]
+}

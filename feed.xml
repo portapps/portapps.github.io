@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps</title>
+    <description>Collection of portable apps for Windows</description>
+    <link>https://portapps.io</link>
+    <atom:link href="https://portapps.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Signal portable 7.60.0-11</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/signal.png"/></p>
+<p>Release of Signal portable 7.60.0-11 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/signal-portable/">Signal portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 06 Jul 2025 16:17:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-07-06-signal-portable-7.60.0-11/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-07-06-signal-portable-7.60.0-11/</guid>
+    </item><item>
+      <title>Postman portable 11.52.5-63</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/postman.png"/></p>
+<p>Release of Postman portable 11.52.5-63 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/postman-portable/">Postman portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 06 Jul 2025 16:14:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-07-06-postman-portable-11.52.5-63/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-07-06-postman-portable-11.52.5-63/</guid>
+    </item><item>
+      <title>Nextcloud portable 3.16.6-23</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/nextcloud.png"/></p>
+<p>Release of Nextcloud portable 3.16.6-23 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/nextcloud-portable/">Nextcloud portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 06 Jul 2025 16:11:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-07-06-nextcloud-portable-3.16.6-23/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-07-06-nextcloud-portable-3.16.6-23/</guid>
+    </item><item>
+      <title>Discord PTB portable 1.0.1151-29</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord-ptb.png"/></p>
+<p>Release of Discord PTB portable 1.0.1151-29 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-ptb-portable/">Discord PTB portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 06 Jul 2025 16:08:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-07-06-discord-ptb-portable-1.0.1151-29/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-07-06-discord-ptb-portable-1.0.1151-29/</guid>
+    </item><item>
+      <title>Discord portable 1.0.9198-22</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord.png"/></p>
+<p>Release of Discord portable 1.0.9198-22 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-portable/">Discord portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 06 Jul 2025 16:05:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-07-06-discord-portable-1.0.9198-22/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-07-06-discord-portable-1.0.9198-22/</guid>
+    </item><item>
+      <title>Brave portable 1.80.115-96</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/brave.png"/></p>
+<p>Release of Brave portable 1.80.115-96 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/brave-portable/">Brave portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 06 Jul 2025 16:02:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-07-06-brave-portable-1.80.115-96/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-07-06-brave-portable-1.80.115-96/</guid>
+    </item><item>
+      <title>Rambox portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/rambox.png"/></p>
+<p>Rambox portable is not maintained anymore.<br />
+Downloads are still available on <a href="https://portapps.io/app/rambox-portable/">Rambox portable page</a>.</p>
+]]></description>
+      <pubDate>Thu, 19 Jun 2025 15:06:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-06-19-rambox-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-06-19-rambox-portable-abandoned/</guid>
+    </item><item>
+      <title>Emby Theater portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/emby-theater.png"/></p>
+<p>Emby Theater portable is not maintained anymore.<br />
+Downloads are still available on <a href="https://portapps.io/app/emby-theater-portable/">Emby Theater portable page</a>.</p>
+]]></description>
+      <pubDate>Thu, 19 Jun 2025 15:04:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-06-19-emby-theater-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-06-19-emby-theater-portable-abandoned/</guid>
+    </item><item>
+      <title>Beaker Browser portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/beaker-browser.png"/></p>
+<p>Beaker Browser portable is not maintained anymore as the main project seems abandonned.<br />
+Downloads are still available on <a href="https://portapps.io/app/beaker-browser-portable/">Beaker Browser portable page</a>.</p>
+]]></description>
+      <pubDate>Thu, 19 Jun 2025 15:02:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-06-19-beaker-browser-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-06-19-beaker-browser-portable-abandoned/</guid>
+    </item><item>
+      <title>Waterfox portable 6.5.7-31</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/waterfox.png"/></p>
+<p>Release of Waterfox portable 6.5.7-31 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/waterfox-portable/">Waterfox portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 17 May 2025 20:20:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-05-17-waterfox-portable-6.5.7-31/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-05-17-waterfox-portable-6.5.7-31/</guid>
+    </item><item>
+      <title>IntelliJ IDEA Ultimate portable 2025.1.1.1-44</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/intellij-idea-ultimate.png"/></p>
+<p>Release of IntelliJ IDEA Ultimate portable 2025.1.1.1-44 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/intellij-idea-ultimate-portable/">IntelliJ IDEA Ultimate portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 17 May 2025 20:17:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-05-17-intellij-idea-ultimate-portable-2025.1.1.1-44/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-05-17-intellij-idea-ultimate-portable-2025.1.1.1-44/</guid>
+    </item><item>
+      <title>IntelliJ IDEA Community portable 2025.1.1.1-58</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/intellij-idea-community.png"/></p>
+<p>Release of IntelliJ IDEA Community portable 2025.1.1.1-58 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/intellij-idea-community-portable/">IntelliJ IDEA Community portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 17 May 2025 20:15:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-05-17-intellij-idea-community-portable-2025.1.1.1-58/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-05-17-intellij-idea-community-portable-2025.1.1.1-58/</guid>
+    </item><item>
+      <title>Brave portable 1.78.102-95</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/brave.png"/></p>
+<p>Release of Brave portable 1.78.102-95 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/brave-portable/">Brave portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 17 May 2025 20:12:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-05-17-brave-portable-1.78.102-95/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-05-17-brave-portable-1.78.102-95/</guid>
+    </item><item>
+      <title>ueli portable 9.21.1-11</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/ueli.png"/></p>
+<p>Release of ueli portable 9.21.1-11 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/ueli-portable/">ueli portable page</a>.</p>
+]]></description>
+      <pubDate>Wed, 16 Apr 2025 00:04:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-04-16-ueli-portable-9.21.1-11/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-04-16-ueli-portable-9.21.1-11/</guid>
+    </item><item>
+      <title>VLC Media Player portable 3.0.21-12</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/vlc.png"/></p>
+<p>Release of VLC Media Player portable 3.0.21-12 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/vlc-portable/">VLC Media Player portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Apr 2025 00:28:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-04-12-vlc-portable-3.0.21-12/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-04-12-vlc-portable-3.0.21-12/</guid>
+    </item><item>
+      <title>Ungoogled Chromium portable 134.0.6998.181-20</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/ungoogled-chromium.png"/></p>
+<p>Release of Ungoogled Chromium portable 134.0.6998.181-20 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/ungoogled-chromium-portable/">Ungoogled Chromium portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Apr 2025 00:25:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-04-12-ungoogled-chromium-portable-134.0.6998.181-20/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-04-12-ungoogled-chromium-portable-134.0.6998.181-20/</guid>
+    </item><item>
+      <title>ueli portable 9.21.0-10</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/ueli.png"/></p>
+<p>Release of ueli portable 9.21.0-10 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/ueli-portable/">ueli portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Apr 2025 00:22:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-04-12-ueli-portable-9.21.0-10/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-04-12-ueli-portable-9.21.0-10/</guid>
+    </item><item>
+      <title>Tabby portable 1.0.223-13</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/tabby.png"/></p>
+<p>Release of Tabby portable 1.0.223-13 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/tabby-portable/">Tabby portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Apr 2025 00:19:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-04-12-tabby-portable-1.0.223-13/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-04-12-tabby-portable-1.0.223-13/</guid>
+    </item><item>
+      <title>Stormhen portable 137.0.1-45</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/stormhen.png"/></p>
+<p>Release of Stormhen portable 137.0.1-45 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/stormhen-portable/">Stormhen portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Apr 2025 00:16:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-04-12-stormhen-portable-137.0.1-45/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-04-12-stormhen-portable-137.0.1-45/</guid>
+    </item><item>
+      <title>Molotov portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/molotov.png"/></p>
+<p>Molotov portable is not maintained anymore.<br />
+Downloads are still available on <a href="https://portapps.io/app/molotov-portable/">Molotov portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 12 Apr 2025 00:07:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-04-12-molotov-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-04-12-molotov-portable-abandoned/</guid>
+    </item>
+  </channel>
+</rss>
