@@ -5,7 +5,7 @@ ARG BUNDLER_VERSION=2.5.23
 
 ARG JEKYLL_ENV=development
 
-FROM ruby:${RUBY_VERSION} AS base
+FROM ruby:${RUBY_VERSION}-bookworm AS base
 ARG DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt-get install -y bash git
 RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - \
