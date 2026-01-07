@@ -1,0 +1,699 @@
+{
+  "name": "phyrox",
+  "label": "Phyrox",
+  "desc": "Run Mozilla Firefox as a portable app.",
+  "license": "mpl-2.0",
+  "status": "ok",
+  "redir_from": "firefox",
+  "trademark": false,
+  "original": {
+    "name": "firefox",
+    "label": "Firefox"
+  },
+  "wincompat": ["win10", "win11"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "phyrox-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://www.mozilla.org/en-US/firefox",
+  "move": [
+    {
+      "from": "%APPDATA%\\Mozilla\\Firefox\\Profiles\\*.default\\*",
+      "to": "data\\profile\\default"
+    }
+  ],
+  "groups": [
+    "137",
+    "132",
+    "125",
+    "121",
+    "114",
+    "109",
+    "105",
+    "100",
+    "96",
+    "92",
+    "90",
+    "88",
+    "87",
+    "85",
+    "84",
+    "83",
+    "82",
+    "81",
+    "80",
+    "79",
+    "78",
+    "77",
+    "76",
+    "75",
+    "74",
+    "73",
+    "72",
+    "71",
+    "70",
+    "69",
+    "68",
+    "67",
+    "66",
+    "65"
+  ],
+  "releases": [
+    {
+      "version": "137.0",
+      "release": "68",
+      "date": "2025/04/06",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "132.0.1",
+      "release": "67",
+      "date": "2024/11/12",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "125.0.3",
+      "release": "66",
+      "date": "2024/05/05",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "121.0",
+      "release": "65",
+      "date": "2023/12/25",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "114.0.2",
+      "release": "64",
+      "date": "2023/07/03",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "109.0.1",
+      "release": "63",
+      "date": "2023/02/12",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "105.0.2",
+      "release": "62",
+      "date": "2022/10/04",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "100.0.2",
+      "release": "61",
+      "date": "2022/05/22",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "96.0.3",
+      "release": "60",
+      "date": "2022/01/27",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "92.0",
+      "release": "59",
+      "date": "2021/09/19",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "90.0.2",
+      "release": "58",
+      "date": "2021/07/25",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "88.0.1",
+      "release": "57",
+      "date": "2021/05/22",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "88.0",
+      "release": "56",
+      "date": "2021/05/22",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "87.0",
+      "release": "55",
+      "date": "2021/04/04",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "85.0.1",
+      "release": "54",
+      "date": "2021/02/06",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "84.0.2",
+      "release": "53",
+      "date": "2021/02/06",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "83.0",
+      "release": "52",
+      "date": "2020/12/07",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "82.0.2",
+      "release": "51",
+      "date": "2020/10/28",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "81.0.1",
+      "release": "50",
+      "date": "2020/10/09",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "81.0",
+      "release": "49",
+      "date": "2020/09/29",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "80.0.1",
+      "release": "48",
+      "date": "2020/09/14",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "80.0",
+      "release": "47",
+      "date": "2020/08/24",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "79.0",
+      "release": "46",
+      "date": "2020/07/31",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.0.2",
+      "release": "45",
+      "date": "2020/07/20",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.0.1",
+      "release": "44",
+      "date": "2020/07/08",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.0",
+      "release": "44",
+      "date": "2020/06/29",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "77.0.1",
+      "release": "43",
+      "date": "2020/06/13",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "76.0.1",
+      "release": "42",
+      "date": "2020/05/29",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "76.0.1",
+      "release": "41",
+      "date": "2020/05/10",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "75.0",
+      "release": "40",
+      "date": "2020/04/12",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "74.0.1",
+      "release": "39",
+      "date": "2020/04/12",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "74.0",
+      "release": "38",
+      "date": "2020/03/12",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "73.0.1",
+      "release": "37",
+      "date": "2020/02/24",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "73.0",
+      "release": "36",
+      "date": "2020/02/12",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "72.0.2",
+      "release": "35",
+      "date": "2020/01/25",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "72.0.1",
+      "release": "34",
+      "date": "2020/01/09",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "72.0",
+      "release": "33",
+      "date": "2020/01/06",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "71.0",
+      "release": "32",
+      "date": "2019/12/03",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "70.0.1",
+      "release": "31",
+      "date": "2019/12/01",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "70.0.1",
+      "release": "30",
+      "date": "2019/11/03",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "70.0",
+      "release": "29",
+      "date": "2019/10/29",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "70.0",
+      "release": "28",
+      "date": "2019/10/22",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "69.0.3",
+      "release": "27",
+      "date": "2019/10/11",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "69.0.2",
+      "release": "26",
+      "date": "2019/10/06",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "69.0.1",
+      "release": "25",
+      "date": "2019/09/18",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "69.0",
+      "release": "24",
+      "date": "2019/09/09",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "69.0",
+      "release": "23",
+      "date": "2019/09/02",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "68.0.2",
+      "release": "22",
+      "date": "2019/08/14",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "68.0.1",
+      "release": "21",
+      "date": "2019/07/19",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "68.0",
+      "release": "20",
+      "date": "2019/07/08",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "67.0.4",
+      "release": "18",
+      "date": "2019/06/21",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "67.0.3",
+      "release": "17",
+      "date": "2019/06/18",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "67.0.2",
+      "release": "16",
+      "date": "2019/06/10",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "67.0.1",
+      "release": "15",
+      "date": "2019/06/06",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "67.0.1",
+      "release": "13",
+      "date": "2019/06/04",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "67.0",
+      "release": "12",
+      "date": "2019/05/21",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "67.0",
+      "release": "11",
+      "date": "2019/05/20",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "66.0.5",
+      "release": "10",
+      "date": "2019/05/08",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "66.0.4",
+      "release": "9",
+      "date": "2019/05/05",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "66.0.3",
+      "release": "8",
+      "date": "2019/04/10",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "66.0.2",
+      "release": "7",
+      "date": "2019/03/27",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "66.0.1",
+      "release": "6",
+      "date": "2019/03/23",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "66.0",
+      "release": "5",
+      "date": "2019/03/20",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "65.0.2",
+      "release": "4",
+      "date": "2019/03/18",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "65.0.2",
+      "release": "3",
+      "date": "2019/03/06",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "65.0.2",
+      "release": "2",
+      "date": "2019/03/06",
+      "type": "release",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    },
+    {
+      "version": "65.0.2",
+      "release": "1",
+      "date": "2019/03/05",
+      "type": "broken",
+      "original": "FirefoxSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox"
+    }
+  ]
+}

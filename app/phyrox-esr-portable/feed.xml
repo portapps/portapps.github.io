@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Phyrox ESR portable releases</title>
+    <description>Run Mozilla Firefox ESR as a portable app.</description>
+    <link>https://portapps.io/app/phyrox-esr-portable/</link>
+    <atom:link href="https://portapps.io/app/phyrox-esr-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>phyrox-esr-portable-win64-128.9.0-65-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 06 Apr 2025 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-128.9.0-65-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-128.9.0-65-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-128.9.0-65.7z</title>
+    <description></description>
+    <pubDate>Sun, 06 Apr 2025 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-128.9.0-65.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-128.9.0-65.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-128.4.0-64-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 12 Nov 2024 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-128.4.0-64-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-128.4.0-64-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-128.4.0-64.7z</title>
+    <description></description>
+    <pubDate>Tue, 12 Nov 2024 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-128.4.0-64.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-128.4.0-64.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-115.10.0-63-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 05 May 2024 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-115.10.0-63-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-115.10.0-63-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-115.10.0-63.7z</title>
+    <description></description>
+    <pubDate>Sun, 05 May 2024 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-115.10.0-63.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-115.10.0-63.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-115.6.0-62-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 25 Dec 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-115.6.0-62-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-115.6.0-62-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-115.6.0-62.7z</title>
+    <description></description>
+    <pubDate>Mon, 25 Dec 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-115.6.0-62.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-115.6.0-62.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-115.0-61-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 03 Jul 2023 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-115.0-61-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-115.0-61-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-115.0-61.7z</title>
+    <description></description>
+    <pubDate>Mon, 03 Jul 2023 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-115.0-61.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-115.0-61.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-102.7.0-60-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 12 Feb 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-102.7.0-60-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-102.7.0-60-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-102.7.0-60.7z</title>
+    <description></description>
+    <pubDate>Sun, 12 Feb 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-102.7.0-60.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-102.7.0-60.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-102.0.3-59-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 04 Oct 2022 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-102.0.3-59-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-102.0.3-59-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-102.0.3-59.7z</title>
+    <description></description>
+    <pubDate>Tue, 04 Oct 2022 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-102.0.3-59.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-102.0.3-59.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-91.9.1-58-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 22 May 2022 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-91.9.1-58-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-91.9.1-58-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-91.9.1-58.7z</title>
+    <description></description>
+    <pubDate>Sun, 22 May 2022 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-91.9.1-58.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-91.9.1-58.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-91.5.1-57-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 27 Jan 2022 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-91.5.1-57-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-91.5.1-57-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-91.5.1-57.7z</title>
+    <description></description>
+    <pubDate>Thu, 27 Jan 2022 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-91.5.1-57.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-91.5.1-57.7z</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-91.1.0-56-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 19 Sep 2021 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-91.1.0-56-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-91.1.0-56-setup.exe</guid>
+  </item><item>
+    <title>phyrox-esr-portable-win64-91.1.0-56.7z</title>
+    <description></description>
+    <pubDate>Sun, 19 Sep 2021 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/phyrox-esr-portable-win64-91.1.0-56.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/phyrox-esr-portable-win64-91.1.0-56.7z</guid>
+  </item>
+  </channel>
+</rss>

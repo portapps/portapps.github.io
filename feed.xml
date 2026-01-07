@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps</title>
+    <description>Collection of portable apps for Windows</description>
+    <link>https://portapps.io</link>
+    <atom:link href="https://portapps.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DBeaver portable 25.3.2-51</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/dbeaver.png"/></p>
+<p>Release of DBeaver portable 25.3.2-51 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/dbeaver-portable/">DBeaver portable page</a>.</p>
+]]></description>
+      <pubDate>Wed, 07 Jan 2026 13:11:00 +0100</pubDate>
+      <link>https://portapps.io/news/2026-01-07-dbeaver-portable-25.3.2-51/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-01-07-dbeaver-portable-25.3.2-51/</guid>
+    </item><item>
+      <title>SmartGit portable 24.1.6-46</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/smartgit.png"/></p>
+<p>Release of SmartGit portable 24.1.6-46 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/smartgit-portable/">SmartGit portable page</a>.</p>
+]]></description>
+      <pubDate>Wed, 07 Jan 2026 13:08:00 +0100</pubDate>
+      <link>https://portapps.io/news/2026-01-07-smartgit-portable-24.1.6-46/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-01-07-smartgit-portable-24.1.6-46/</guid>
+    </item><item>
+      <title>IntelliJ IDEA Ultimate portable 2025.3.1-45</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/intellij-idea-ultimate.png"/></p>
+<p>Release of IntelliJ IDEA Ultimate portable 2025.3.1-45 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/intellij-idea-ultimate-portable/">IntelliJ IDEA Ultimate portable page</a>.</p>
+]]></description>
+      <pubDate>Wed, 07 Jan 2026 13:05:00 +0100</pubDate>
+      <link>https://portapps.io/news/2026-01-07-intellij-idea-ultimate-portable-2025.3.1-45/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-01-07-intellij-idea-ultimate-portable-2025.3.1-45/</guid>
+    </item><item>
+      <title>IntelliJ IDEA Community portable 2025.3.1-59</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/intellij-idea-community.png"/></p>
+<p>Release of IntelliJ IDEA Community portable 2025.3.1-59 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/intellij-idea-community-portable/">IntelliJ IDEA Community portable page</a>.</p>
+]]></description>
+      <pubDate>Wed, 07 Jan 2026 13:02:00 +0100</pubDate>
+      <link>https://portapps.io/news/2026-01-07-intellij-idea-community-portable-2025.3.1-59/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-01-07-intellij-idea-community-portable-2025.3.1-59/</guid>
+    </item><item>
+      <title>Waterfox portable 6.6.7-32</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/waterfox.png"/></p>
+<p>Release of Waterfox portable 6.6.7-32 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/waterfox-portable/">Waterfox portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
+      <link>https://portapps.io/news/2026-01-05-waterfox-portable-6.6.7-32/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-01-05-waterfox-portable-6.6.7-32/</guid>
+    </item><item>
+      <title>Visual Studio Code portable 1.107.1-50</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/vscode.png"/></p>
+<p>Release of Visual Studio Code portable 1.107.1-50 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/vscode-portable/">Visual Studio Code portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
+      <link>https://portapps.io/news/2026-01-05-vscode-portable-1.107.1-50/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-01-05-vscode-portable-1.107.1-50/</guid>
+    </item><item>
+      <title>Insomnia portable 12.2.0-30</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/insomnia.png"/></p>
+<p>Release of Insomnia portable 12.2.0-30 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/insomnia-portable/">Insomnia portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
+      <link>https://portapps.io/news/2026-01-05-insomnia-portable-12.2.0-30/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-01-05-insomnia-portable-12.2.0-30/</guid>
+    </item><item>
+      <title>HandBrake portable 1.10.2-10</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/handbrake.png"/></p>
+<p>Release of HandBrake portable 1.10.2-10 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/handbrake-portable/">HandBrake portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
+      <link>https://portapps.io/news/2026-01-05-handbrake-portable-1.10.2-10/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-01-05-handbrake-portable-1.10.2-10/</guid>
+    </item><item>
+      <title>Discord portable 1.0.9219-24</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord.png"/></p>
+<p>Release of Discord portable 1.0.9219-24 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-portable/">Discord portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
+      <link>https://portapps.io/news/2026-01-05-discord-portable-1.0.9219-24/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-01-05-discord-portable-1.0.9219-24/</guid>
+    </item><item>
+      <title>Brave portable 1.85.118-98</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/brave.png"/></p>
+<p>Release of Brave portable 1.85.118-98 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/brave-portable/">Brave portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
+      <link>https://portapps.io/news/2026-01-05-brave-portable-1.85.118-98/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-01-05-brave-portable-1.85.118-98/</guid>
+    </item><item>
+      <title>Wireshark portable 4.4.9-20</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/wireshark.png"/></p>
+<p>Release of Wireshark portable 4.4.9-20 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/wireshark-portable/">Wireshark portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 14 Sep 2025 19:17:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-09-14-wireshark-portable-4.4.9-20/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-09-14-wireshark-portable-4.4.9-20/</guid>
+    </item><item>
+      <title>Ungoogled Chromium portable 140.0.7339.137-21</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/ungoogled-chromium.png"/></p>
+<p>Release of Ungoogled Chromium portable 140.0.7339.137-21 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/ungoogled-chromium-portable/">Ungoogled Chromium portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 14 Sep 2025 19:14:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-09-14-ungoogled-chromium-portable-140.0.7339.137-21/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-09-14-ungoogled-chromium-portable-140.0.7339.137-21/</guid>
+    </item><item>
+      <title>Postman portable 11.62.7-64</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/postman.png"/></p>
+<p>Release of Postman portable 11.62.7-64 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/postman-portable/">Postman portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 14 Sep 2025 19:08:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-09-14-postman-portable-11.62.7-64/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-09-14-postman-portable-11.62.7-64/</guid>
+    </item><item>
+      <title>Discord PTB portable 1.0.1160-30</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord-ptb.png"/></p>
+<p>Release of Discord PTB portable 1.0.1160-30 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-ptb-portable/">Discord PTB portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 14 Sep 2025 19:06:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-09-14-discord-ptb-portable-1.0.1160-30/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-09-14-discord-ptb-portable-1.0.1160-30/</guid>
+    </item><item>
+      <title>Discord portable 1.0.9208-23</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord.png"/></p>
+<p>Release of Discord portable 1.0.9208-23 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-portable/">Discord portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 14 Sep 2025 19:04:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-09-14-discord-portable-1.0.9208-23/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-09-14-discord-portable-1.0.9208-23/</guid>
+    </item><item>
+      <title>Brave portable 1.82.166-97</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/brave.png"/></p>
+<p>Release of Brave portable 1.82.166-97 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/brave-portable/">Brave portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 14 Sep 2025 19:02:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-09-14-brave-portable-1.82.166-97/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-09-14-brave-portable-1.82.166-97/</guid>
+    </item><item>
+      <title>Skype portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/skype.png"/></p>
+<p>As of May 5th, 2025, <a href="https://support.microsoft.com/en-us/skype/skype-is-retiring-in-may-2025-what-you-need-to-know-2a7d2501-427f-485e-8be0-2068a9f90472">Skype is retired</a>.
+This means that the Skype portable app is now also abandoned and will no
+longer receive updates.</p>
+]]></description>
+      <pubDate>Sun, 14 Sep 2025 18:56:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-09-14-skype-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-09-14-skype-portable-abandoned/</guid>
+    </item><item>
+      <title>Portapps 3.17.0</title>
+      <description><![CDATA[
+<ul>
+  <li>Go 1.25 (#416)</li>
+  <li>Bump github.com/go-viper/mapstructure/v2 from 2.2.1 to 2.4.0 in (#401 #406)</li>
+  <li>Bump github.com/stretchr/testify from 1.10.0 to 1.11.1 in (#413)</li>
+  <li>Bump golang.org/x/sys from 0.32.0 to 0.36.0 in (#398 #415)</li>
+</ul>
+]]></description>
+      <pubDate>Sun, 14 Sep 2025 17:51:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-09-14-portapps-3.17.0/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-09-14-portapps-3.17.0/</guid>
+    </item><item>
+      <title>SmartGit portable 24.1.4-42</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/smartgit.png"/></p>
+<p>Release of SmartGit portable 24.1.4-42 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/smartgit-portable/">SmartGit portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-09-14-smartgit-portable-24.1.4-42/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-09-14-smartgit-portable-24.1.4-42/</guid>
+    </item><item>
+      <title>Signal portable 7.60.0-11</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/signal.png"/></p>
+<p>Release of Signal portable 7.60.0-11 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/signal-portable/">Signal portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 06 Jul 2025 16:17:00 +0200</pubDate>
+      <link>https://portapps.io/news/2025-07-06-signal-portable-7.60.0-11/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2025-07-06-signal-portable-7.60.0-11/</guid>
+    </item>
+  </channel>
+</rss>

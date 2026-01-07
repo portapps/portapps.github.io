@@ -1,0 +1,593 @@
+{
+  "name": "phyrox-esr",
+  "label": "Phyrox ESR",
+  "desc": "Run Mozilla Firefox ESR as a portable app.",
+  "license": "mpl-2.0",
+  "status": "ok",
+  "redir_from": "firefox-esr",
+  "trademark": false,
+  "original": {
+    "name": "firefox-esr",
+    "label": "Firefox ESR"
+  },
+  "wincompat": ["win10", "win11"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "phyrox-esr-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://www.mozilla.org/en-US/firefox/organizations",
+  "move": [
+    {
+      "from": "%APPDATA%\\Mozilla\\Firefox\\Profiles\\*.default\\*",
+      "to": "data\\profile\\default"
+    }
+  ],
+  "groups": [
+    "128.9",
+    "128.4",
+    "115.10",
+    "115.6",
+    "115.0",
+    "102.7",
+    "102.0",
+    "91.9",
+    "91.5",
+    "91.1",
+    "78.12",
+    "78.10",
+    "78.9",
+    "78.7",
+    "78.6",
+    "78.5",
+    "78.4",
+    "78.3",
+    "78.2",
+    "78.1",
+    "78.0",
+    "68.12",
+    "68.10",
+    "68.9",
+    "68.8",
+    "68.7",
+    "68.6",
+    "68.5",
+    "68.4",
+    "68.3",
+    "68.2",
+    "68.1",
+    "68.0",
+    "60.9",
+    "60.8",
+    "60.7",
+    "60.6",
+    "60.5"
+  ],
+  "releases": [
+    {
+      "version": "128.9.0",
+      "release": "65",
+      "date": "2025/04/06",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "128.4.0",
+      "release": "64",
+      "date": "2024/11/12",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "115.10.0",
+      "release": "63",
+      "date": "2024/05/05",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "115.6.0",
+      "release": "62",
+      "date": "2023/12/25",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "115.0",
+      "release": "61",
+      "date": "2023/07/03",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "102.7.0",
+      "release": "60",
+      "date": "2023/02/12",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "102.0.3",
+      "release": "59",
+      "date": "2022/10/04",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "91.9.1",
+      "release": "58",
+      "date": "2022/05/22",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "91.5.1",
+      "release": "57",
+      "date": "2022/01/27",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "91.1.0",
+      "release": "56",
+      "date": "2021/09/19",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.12.0",
+      "release": "55",
+      "date": "2021/07/25",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.10.1",
+      "release": "54",
+      "date": "2021/05/22",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.10.0",
+      "release": "53",
+      "date": "2021/05/22",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.9.0",
+      "release": "52",
+      "date": "2021/04/04",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.7.1",
+      "release": "51",
+      "date": "2021/02/06",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.6.1",
+      "release": "50",
+      "date": "2021/02/06",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.5.0",
+      "release": "49",
+      "date": "2020/12/07",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.4.0",
+      "release": "48",
+      "date": "2020/10/28",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.3.1",
+      "release": "47",
+      "date": "2020/10/09",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.3.0",
+      "release": "46",
+      "date": "2020/09/29",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.2.0",
+      "release": "45",
+      "date": "2020/08/24",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.12.0",
+      "release": "44",
+      "date": "2020/08/24",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.1.0",
+      "release": "43",
+      "date": "2020/07/31",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.0.2",
+      "release": "42",
+      "date": "2020/07/20",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.0.1",
+      "release": "41",
+      "date": "2020/07/08",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "78.0",
+      "release": "40",
+      "date": "2020/06/29",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.10.0",
+      "release": "39",
+      "date": "2020/06/29",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.9.0",
+      "release": "38",
+      "date": "2020/06/13",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.8.0",
+      "release": "37",
+      "date": "2020/05/29",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.8.0",
+      "release": "36",
+      "date": "2020/05/10",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.7.0",
+      "release": "35",
+      "date": "2020/04/12",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.6.1",
+      "release": "34",
+      "date": "2020/04/12",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.6.0",
+      "release": "33",
+      "date": "2020/03/12",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.5.0",
+      "release": "32",
+      "date": "2020/02/12",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.4.2",
+      "release": "31",
+      "date": "2020/01/25",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.4.1",
+      "release": "30",
+      "date": "2020/01/09",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.4.0",
+      "release": "29",
+      "date": "2020/01/06",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.3.0",
+      "release": "28",
+      "date": "2019/12/03",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.2.0",
+      "release": "27",
+      "date": "2019/12/01",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "68.2.0",
+      "release": "26",
+      "date": "2019/10/22",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "68.1.0",
+      "release": "25",
+      "date": "2019/09/11",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.9.0",
+      "release": "22",
+      "date": "2019/09/11",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "68.1.0",
+      "release": "20",
+      "date": "2019/09/02",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "68.0.2",
+      "release": "19",
+      "date": "2019/08/14",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.8.0",
+      "release": "16",
+      "date": "2019/07/08",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.7.2",
+      "release": "14",
+      "date": "2019/06/21",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.7.1",
+      "release": "13",
+      "date": "2019/06/18",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.7.0",
+      "release": "12",
+      "date": "2019/06/06",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.7.0",
+      "release": "11",
+      "date": "2019/05/21",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.7.0",
+      "release": "10",
+      "date": "2019/05/20",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.6.3",
+      "release": "8",
+      "date": "2019/05/08",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.6.2",
+      "release": "7",
+      "date": "2019/05/05",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.6.1",
+      "release": "6",
+      "date": "2019/03/23",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.6.0",
+      "release": "5",
+      "date": "2019/03/20",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.5.2",
+      "release": "4",
+      "date": "2019/03/18",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    },
+    {
+      "version": "60.5.2",
+      "release": "3",
+      "date": "2019/03/06",
+      "type": "release",
+      "original": "FirefoxESRSetup-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"],
+      "altname": "firefox-esr"
+    }
+  ]
+}

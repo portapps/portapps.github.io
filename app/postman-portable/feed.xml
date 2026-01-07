@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - Postman&amp;trade; portable releases</title>
+    <description>A complete toolchain for API developers.</description>
+    <link>https://portapps.io/app/postman-portable/</link>
+    <atom:link href="https://portapps.io/app/postman-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>postman-portable-win64-11.62.7-64-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 14 Sep 2025 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-11.62.7-64-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-11.62.7-64-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-11.62.7-64.7z</title>
+    <description></description>
+    <pubDate>Sun, 14 Sep 2025 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-11.62.7-64.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-11.62.7-64.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-11.52.5-63-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 06 Jul 2025 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-11.52.5-63-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-11.52.5-63-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-11.52.5-63.7z</title>
+    <description></description>
+    <pubDate>Sun, 06 Jul 2025 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-11.52.5-63.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-11.52.5-63.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-11.39.5-62-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 06 Apr 2025 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-11.39.5-62-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-11.39.5-62-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-11.39.5-62.7z</title>
+    <description></description>
+    <pubDate>Sun, 06 Apr 2025 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-11.39.5-62.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-11.39.5-62.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-11.19.0-61-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 10 Nov 2024 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-11.19.0-61-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-11.19.0-61-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-11.19.0-61.7z</title>
+    <description></description>
+    <pubDate>Sun, 10 Nov 2024 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-11.19.0-61.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-11.19.0-61.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-11.6.1-60-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 03 Aug 2024 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-11.6.1-60-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-11.6.1-60-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-11.6.1-60.7z</title>
+    <description></description>
+    <pubDate>Sat, 03 Aug 2024 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-11.6.1-60.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-11.6.1-60.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-10.24.0-59-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 10 Mar 2024 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-10.24.0-59-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-10.24.0-59-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-10.24.0-59.7z</title>
+    <description></description>
+    <pubDate>Sun, 10 Mar 2024 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-10.24.0-59.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-10.24.0-59.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-10.21.0-58-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 24 Dec 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-10.21.0-58-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-10.21.0-58-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-10.21.0-58.7z</title>
+    <description></description>
+    <pubDate>Sun, 24 Dec 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-10.21.0-58.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-10.21.0-58.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-10.15.0-57-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 08 Jul 2023 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-10.15.0-57-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-10.15.0-57-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-10.15.0-57.7z</title>
+    <description></description>
+    <pubDate>Sat, 08 Jul 2023 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-10.15.0-57.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-10.15.0-57.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-10.8.0-56-setup.exe</title>
+    <description></description>
+    <pubDate>Mon, 16 Jan 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-10.8.0-56-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-10.8.0-56-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-10.8.0-56.7z</title>
+    <description></description>
+    <pubDate>Mon, 16 Jan 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-10.8.0-56.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-10.8.0-56.7z</guid>
+  </item><item>
+    <title>postman-portable-win64-10.0.1-55-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 04 Oct 2022 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-10.0.1-55-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-10.0.1-55-setup.exe</guid>
+  </item><item>
+    <title>postman-portable-win64-10.0.1-55.7z</title>
+    <description></description>
+    <pubDate>Tue, 04 Oct 2022 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/postman-portable-win64-10.0.1-55.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/postman-portable-win64-10.0.1-55.7z</guid>
+  </item>
+  </channel>
+</rss>

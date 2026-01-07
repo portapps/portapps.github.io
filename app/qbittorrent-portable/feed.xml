@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps - qBittorrent portable releases</title>
+    <description>A free and open-source software alternative to µTorrent.</description>
+    <link>https://portapps.io/app/qbittorrent-portable/</link>
+    <atom:link href="https://portapps.io/app/qbittorrent-portable/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>qbittorrent-portable-win64-4.5.0-19-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 12 Feb 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.5.0-19-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.5.0-19-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.5.0-19.7z</title>
+    <description></description>
+    <pubDate>Sun, 12 Feb 2023 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.5.0-19.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.5.0-19.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.3.8-18-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 21 Nov 2021 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.3.8-18-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.3.8-18-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.3.8-18.7z</title>
+    <description></description>
+    <pubDate>Sun, 21 Nov 2021 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.3.8-18.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.3.8-18.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.3.5-17-setup.exe</title>
+    <description></description>
+    <pubDate>Sat, 22 May 2021 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.3.5-17-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.3.5-17-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.3.5-17.7z</title>
+    <description></description>
+    <pubDate>Sat, 22 May 2021 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.3.5-17.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.3.5-17.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.3.3-16-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 24 Mar 2021 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.3.3-16-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.3.3-16-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.3.3-16.7z</title>
+    <description></description>
+    <pubDate>Wed, 24 Mar 2021 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.3.3-16.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.3.3-16.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.3.2-15-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 10 Jan 2021 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.3.2-15-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.3.2-15-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.3.2-15-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 10 Jan 2021 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.3.2-15-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.3.2-15-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.3.2-15.7z</title>
+    <description></description>
+    <pubDate>Sun, 10 Jan 2021 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.3.2-15.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.3.2-15.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.3.2-15.7z</title>
+    <description></description>
+    <pubDate>Sun, 10 Jan 2021 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.3.2-15.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.3.2-15.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.3.0.1-14-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 27 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.3.0.1-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.3.0.1-14-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.3.0.1-14-setup.exe</title>
+    <description></description>
+    <pubDate>Tue, 27 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.3.0.1-14-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.3.0.1-14-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.3.0.1-14.7z</title>
+    <description></description>
+    <pubDate>Tue, 27 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.3.0.1-14.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.3.0.1-14.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.3.0.1-14.7z</title>
+    <description></description>
+    <pubDate>Tue, 27 Oct 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.3.0.1-14.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.3.0.1-14.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.2.5-13-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 03 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.2.5-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.2.5-13-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.2.5-13-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 03 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.2.5-13-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.2.5-13-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.2.5-13.7z</title>
+    <description></description>
+    <pubDate>Sun, 03 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.2.5-13.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.2.5-13.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.2.5-13.7z</title>
+    <description></description>
+    <pubDate>Sun, 03 May 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.2.5-13.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.2.5-13.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.2.3-12-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 09 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.2.3-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.2.3-12-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.2.3-12-setup.exe</title>
+    <description></description>
+    <pubDate>Thu, 09 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.2.3-12-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.2.3-12-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.2.3-12.7z</title>
+    <description></description>
+    <pubDate>Thu, 09 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.2.3-12.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.2.3-12.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.2.3-12.7z</title>
+    <description></description>
+    <pubDate>Thu, 09 Apr 2020 00:00:00 +0200</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.2.3-12.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.2.3-12.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.2.2-11-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 29 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.2.2-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.2.2-11-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.2.2-11-setup.exe</title>
+    <description></description>
+    <pubDate>Sun, 29 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.2.2-11-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.2.2-11-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.2.2-11.7z</title>
+    <description></description>
+    <pubDate>Sun, 29 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.2.2-11.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.2.2-11.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.2.2-11.7z</title>
+    <description></description>
+    <pubDate>Sun, 29 Mar 2020 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.2.2-11.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.2.2-11.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.2.1-10-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.2.1-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.2.1-10-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.2.1-10-setup.exe</title>
+    <description></description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.2.1-10-setup.exe</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.2.1-10-setup.exe</guid>
+  </item><item>
+    <title>qbittorrent-portable-win32-4.2.1-10.7z</title>
+    <description></description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win32-4.2.1-10.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win32-4.2.1-10.7z</guid>
+  </item><item>
+    <title>qbittorrent-portable-win64-4.2.1-10.7z</title>
+    <description></description>
+    <pubDate>Wed, 18 Dec 2019 00:00:00 +0100</pubDate>
+    <link>https://portapps.io/download/qbittorrent-portable-win64-4.2.1-10.7z</link>
+    <guid isPermaLink="true">https://portapps.io/download/qbittorrent-portable-win64-4.2.1-10.7z</guid>
+  </item>
+  </channel>
+</rss>

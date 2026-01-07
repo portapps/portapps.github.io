@@ -1,0 +1,240 @@
+{
+  "name": "ungoogled-chromium",
+  "label": "Ungoogled Chromium",
+  "desc": "Google Chromium, sans integration with Google.",
+  "license": "bsd-3-clause",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win10", "win11"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "ungoogled-chromium-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://github.com/Eloston/ungoogled-chromium",
+  "move": [
+    {
+      "from": "%LOCALAPPDATA%\\Chromium\\User Data\\*",
+      "to": "data"
+    }
+  ],
+  "groups": [
+    "140",
+    "134",
+    "130",
+    "127",
+    "120",
+    "115",
+    "103",
+    "100",
+    "97",
+    "96",
+    "92",
+    "90",
+    "89",
+    "87",
+    "86",
+    "85",
+    "84",
+    "83",
+    "81",
+    "80",
+    "79"
+  ],
+  "releases": [
+    {
+      "version": "140.0.7339.137",
+      "release": "21",
+      "date": "2025/09/14",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "134.0.6998.181",
+      "release": "20",
+      "date": "2025/04/12",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "130.0.6723.12",
+      "release": "19",
+      "date": "2024/11/10",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "127.0.6533.89",
+      "release": "18",
+      "date": "2024/08/03",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "120.0.6099.180",
+      "release": "17",
+      "date": "2023/12/24",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "115.0.5790.131",
+      "release": "16",
+      "date": "2023/07/22",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "103.0.5060.114",
+      "release": "15",
+      "date": "2022/07/15",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "100.0.4896.62",
+      "release": "14",
+      "date": "2022/04/03",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "97.0.4692.99",
+      "release": "13",
+      "date": "2022/01/27",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "96.0.4664.45",
+      "release": "12",
+      "date": "2021/11/22",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "92.0.4515.107",
+      "release": "11",
+      "date": "2021/07/25",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "90.0.4430.93",
+      "release": "10",
+      "date": "2021/05/13",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "89.0.4389.90",
+      "release": "9",
+      "date": "2021/03/16",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "87.0.4280.88",
+      "release": "8",
+      "date": "2021/01/06",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "86.0.4240.193",
+      "release": "7",
+      "date": "2020/11/16",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "85.0.4183.83",
+      "release": "6",
+      "date": "2020/09/04",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "84.0.4147.89",
+      "release": "5",
+      "date": "2020/07/28",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "83.0.4103.97",
+      "release": "3",
+      "date": "2020/06/07",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "81.0.4044.113",
+      "release": "3",
+      "date": "2020/04/21",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "80.0.3987.149",
+      "release": "2",
+      "date": "2020/03/23",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "79.0.3945.130",
+      "release": "1",
+      "date": "2020/03/23",
+      "type": "release",
+      "original": "ungoogled-chromium-@platform@.7z",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
