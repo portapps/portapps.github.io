@@ -76,7 +76,7 @@ GEM
       rake (>= 13)
     hashery (2.1.2)
     hashie (3.6.0)
-    html-proofer (5.1.1)
+    html-proofer (5.2.0)
       addressable (~> 2.3)
       async (~> 2.1)
       benchmark (~> 0.5)
