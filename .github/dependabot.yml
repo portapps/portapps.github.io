@@ -5,8 +5,8 @@ updates:
     open-pull-requests-limit: 10
     schedule:
       interval: "daily"
-      time: "08:00"
-      timezone: "Europe/Paris"
+    cooldown:
+      default-days: 2
     labels:
       - ":game_die: dependencies"
       - ":robot: bot"
@@ -15,8 +15,8 @@ updates:
     open-pull-requests-limit: 10
     schedule:
       interval: "daily"
-      time: "08:00"
-      timezone: "Europe/Paris"
+    cooldown:
+      default-days: 2
     labels:
       - ":game_die: dependencies"
       - ":robot: bot"
