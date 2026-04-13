@@ -36,6 +36,7 @@
     }
   ],
   "groups": [
+    "2026.1",
     "2025.3",
     "2025.1",
     "2024.3",
@@ -59,6 +60,15 @@
     "2017.3"
   ],
   "releases": [
+    {
+      "version": "2026.1",
+      "release": "46",
+      "date": "2026/04/13",
+      "type": "release",
+      "original": "",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "2025.3.1",
       "release": "45",
