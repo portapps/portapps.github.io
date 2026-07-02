@@ -45,9 +45,8 @@ FROM node AS generate
 ARG JEKYLL_ENV
 RUN --mount=type=bind,target=.,rw \
   --mount=type=cache,target=/src/node_modules \
-  --mount=type=secret,id=GITHUB_TOKEN \
-  GH_TOKEN=$(cat /run/secrets/GITHUB_TOKEN 2>/dev/null || echo "") yarn build \
-  && mv /src/web /out
+  --mount=type=secret,id=GITHUB_TOKEN,env=GH_TOKEN \
+  yarn build && mv /src/web /out
 
 FROM generate AS htmlproofer
 RUN --mount=type=bind,target=.,rw \
