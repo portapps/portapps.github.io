@@ -13,6 +13,13 @@ RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - \
   && curl -fsSL https://deb.nodesource.com/setup_20.x | bash - \
   && apt-get update && apt-get install -y nodejs yarn
 WORKDIR /src
+RUN --mount=type=bind,target=.,rw \
+  --mount=type=cache,target=/src/.yarn/cache <<EOT
+  set -e
+  corepack enable
+  yarn --version
+  yarn config set --home enableTelemetry 0
+EOT
 
 FROM base AS gem
 ARG BUNDLER_VERSION
@@ -33,7 +40,7 @@ COPY --from=vendored /out /
 FROM gem AS node
 RUN --mount=type=bind,target=.,rw \
   --mount=type=cache,target=/src/node_modules \
-  yarn install --frozen-lockfile
+  yarn install --immutable
 
 FROM node AS generate
 ARG JEKYLL_ENV

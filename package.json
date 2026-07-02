@@ -11,10 +11,10 @@
     "url": "https://github.com/portapps/portapps.github.io/issues"
   },
   "homepage": "https://portapps.io",
+  "packageManager": "yarn@4.17.0",
   "scripts": {
     "serve": "gulp serve",
-    "build": "gulp --env=production build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gulp --env=production build"
   },
   "dependencies": {
     "bootstrap": "^3.3.7",

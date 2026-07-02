@@ -1,7 +1,3 @@
-# Jetbrains
-/.idea
-/*.iml
-
 # Jekyll
 /_asset_bundler_cache
 /.bundle
@@ -11,15 +7,19 @@
 /tmp
 /web
 
-# Node
-/node_modules
-/npm-debug.log*
-/yarn-error.log
-/package-lock.json
+# Dependency directories
+node_modules/
+jspm_packages/
 
-# Custom
-/.dev
-/src/_data/assets*.json
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
 
 # Ruby
 /vendor
+
+# Custom
+/src/_data/assets*.json
