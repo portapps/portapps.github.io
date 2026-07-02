@@ -5,13 +5,12 @@ ARG BUNDLER_VERSION=2.5.23
 
 ARG JEKYLL_ENV=development
 
-FROM ruby:${RUBY_VERSION}-bookworm AS base
+FROM ruby:${RUBY_VERSION}-trixie AS base
 ARG DEBIAN_FRONTEND=noninteractive
-RUN apt-get update && apt-get install -y bash git
-RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - \
-  && echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list \
-  && curl -fsSL https://deb.nodesource.com/setup_20.x | bash - \
-  && apt-get update && apt-get install -y nodejs yarn
+RUN apt-get update \
+  && apt-get install -y --no-install-recommends bash ca-certificates curl git \
+  && curl -fsSL https://deb.nodesource.com/setup_24.x | bash - \
+  && apt-get install -y --no-install-recommends nodejs
 WORKDIR /src
 RUN --mount=type=bind,target=.,rw \
   --mount=type=cache,target=/src/.yarn/cache <<EOT
