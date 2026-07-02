@@ -1,4 +1,4 @@
-require "github_api"
+require "octokit"
 
 module Jekyll
 
@@ -12,21 +12,16 @@ module Jekyll
       Jekyll.logger.debug "  Creating app page: #{the_app['name']}..."
 
       licenses = JSON.parse(File.read(File.join(site.source, (site.config['data_dir'] || '_data'), 'apps_licenses.json')))
-      github = Github.new oauth_token: ENV['GH_TOKEN']
+      github = Octokit::Client.new(access_token: ENV['GH_TOKEN'], auto_paginate: true)
 
-      issues = Array.new
-      issues_resp = github.issues.list user: the_app['github']['user'], repo: the_app['github']['repo'],
+      known_issue_labels = ['bug', 'upstream', ':bug: bug', ':eyes: upstream']
+      issues = github.issues("#{the_app['github']['user']}/#{the_app['github']['repo']}",
         state: 'open',
         direction: 'desc'
-      issues_resp.each_page do |issues_page|
-        issues_page.each do |issue|
-          issue['labels'].each do |label|
-            if ['bug', 'upstream', ':bug: bug', ':eyes: upstream'].include? label['name']
-              issues.push issue
-              break
-            end
-          end
-        end
+      ).select do |issue|
+        issue.labels.any? { |label| known_issue_labels.include? label.name }
+      end.map do |issue|
+        { 'title' => issue.title, 'html_url' => issue.html_url }
       end
 
       self.process(@name)
