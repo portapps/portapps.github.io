@@ -17,10 +17,64 @@ img.app-discontinued {
   text-align: left;
 }
 
-.app-filter-wrapper .checkbox {
-  margin-top: 0;
+.app-filter-wrapper .app-toggle {
+  display: inline-flex;
+  align-items: center;
   margin-bottom: 0;
   color: #616670;
+  font-weight: normal;
+  cursor: pointer;
+}
+
+.app-toggle-input {
+  position: absolute;
+  opacity: 0;
+}
+
+.app-toggle-control {
+  position: relative;
+  display: inline-block;
+  width: 44px;
+  height: 24px;
+  margin-right: 8px;
+  background: #d4d8dd;
+  border-radius: 12px;
+  -webkit-transition: background 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  -moz-transition: background 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  transition: background 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.app-toggle-control:before {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  -webkit-transition: -webkit-transform 0.15s ease-in-out;
+  -moz-transition: -moz-transform 0.15s ease-in-out;
+  transition: transform 0.15s ease-in-out;
+}
+
+.app-toggle-input:checked + .app-toggle-control {
+  background: #5cb85c;
+}
+
+.app-toggle-input:checked + .app-toggle-control:before {
+  -webkit-transform: translateX(20px);
+  -moz-transform: translateX(20px);
+  transform: translateX(20px);
+}
+
+.app-toggle-input:focus + .app-toggle-control {
+  box-shadow: 0 0 0 2px rgba(71, 159, 219, 0.25);
+}
+
+.app-toggle-text {
+  line-height: 24px;
 }
 
 .applogo-parent {

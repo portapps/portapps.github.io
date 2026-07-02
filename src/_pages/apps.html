@@ -22,12 +22,11 @@ markdown_body: ""
     </div>
     <div class="app-filter-wrapper row">
       <div class="col-md-12 col-sm-12 col-xs-12">
-        <div class="checkbox">
-          <label>
-            <input id="show-inactive-apps" type="checkbox" autocomplete="off">
-            Include inactive apps ({{ apps_inactive_count }})
-          </label>
-        </div>
+        <label class="app-toggle">
+          <input id="show-inactive-apps" class="app-toggle-input" type="checkbox" autocomplete="off">
+          <span class="app-toggle-control" aria-hidden="true"></span>
+          <span class="app-toggle-text">Show inactive apps</span>
+        </label>
       </div>
     </div>
     <div class="cards-wrapper row">{% assign applist = site.data.app | sort %}
