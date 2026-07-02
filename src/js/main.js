@@ -24,20 +24,27 @@ $(document).ready(function(){
   // Tooltip
   $('[data-toggle="tooltip"]').tooltip();
 
+  function filterApps() {
+    var filter = $.trim($("#searchapp").val()).toLowerCase();
+    var showInactive = $("#show-inactive-apps").is(":checked");
+
+    $(".cards-wrapper .item-enable").each(function () {
+      var item = $(this);
+      var appName = item.data("app") || "";
+      var appLabel = item.find(".title").text();
+      var appStatus = item.data("status");
+      var matchesStatus = showInactive || appStatus === "ok";
+      var matchesSearch = (appName + " " + appLabel).toLowerCase().indexOf(filter) > -1;
+
+      item.toggle(matchesStatus && matchesSearch);
+    });
+  }
+
   // Search app
   if ($("#searchapp").length > 0) {
-    $("#searchapp").keyup(function () {
-      var filter = $(this).val(), count = 0;
-      $(".cards-wrapper .item-enable").each(function () {
-        var current = $('.item-enable').attr('data-app');
-        if ($(this).text().search(new RegExp(filter, "i")) < 0) {
-          $(this).hide();
-        } else {
-          $(this).show();
-          count++;
-        }
-      });
-    });
+    $("#searchapp").on("keyup input", filterApps);
+    $("#show-inactive-apps").on("change", filterApps);
+    filterApps();
   }
 
   actionCdTop.init(".cd-top");

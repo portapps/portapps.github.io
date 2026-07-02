@@ -5,6 +5,24 @@ img.app-discontinued {
   filter: grayscale(100%);
 }
 
+.cards-apps .item-inactive {
+  display: none;
+}
+
+.app-filter-wrapper {
+  max-width: 860px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 24px;
+  text-align: left;
+}
+
+.app-filter-wrapper .checkbox {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #616670;
+}
+
 .applogo-parent {
   position: relative;
   margin: auto;

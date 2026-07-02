@@ -11,17 +11,27 @@ markdown_body: ""
 
 <section class="cards-section cards-apps text-center">
   <div class="container">
-    <p>The Portapps catalog contains a growing list of <strong>{{ apps_count }} applications</strong>.</p>
+    <p>The Portapps catalog contains a growing list of <strong>{{ apps_active_count }} active applications</strong>.</p>
     <div class="searchapp-wrapper row">
       <div class="col-md-12 col-sm-12 col-xs-12">
         <div class="inner-addon right-addon">
           <i class="glyphicon glyphicon-search"></i>
-          <input id="searchapp" type="text" class="form-control" placeholder="Brave, Discord, OpenVPN..."/>
+          <input id="searchapp" type="text" class="form-control" placeholder="Brave, Discord, VLC..."/>
+        </div>
+      </div>
+    </div>
+    <div class="app-filter-wrapper row">
+      <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="checkbox">
+          <label>
+            <input id="show-inactive-apps" type="checkbox" autocomplete="off">
+            Include inactive apps ({{ apps_inactive_count }})
+          </label>
         </div>
       </div>
     </div>
     <div class="cards-wrapper row">{% assign applist = site.data.app | sort %}
-      {% for app in applist %}{% if app[1].status != "hide" %}<div class="item item-app item-enable col-md-4 col-sm-8 col-xs-12" data-app="{{ app[1].name }}">
+      {% for app in applist %}{% if app[1].status != "hide" %}<div class="item item-app item-enable{% if app[1].status != "ok" %} item-inactive{% endif %} col-md-4 col-sm-8 col-xs-12" data-app="{{ app[1].name }}" data-status="{{ app[1].status }}">
         <div class="item-inner item-{{ app[1].status }}">
           <div class="icon-holder">
             <img src="{{ site.baseurl }}/img/app/{{ app[1].name }}.png" />
