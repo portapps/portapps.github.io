@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SmartGit portable 24.1.6-46
+title: SmartGit portable 24.1.6-4
 date: 2026-01-07 13:08:00 +0100
 app: smartgit
 tags: [smartgit]
