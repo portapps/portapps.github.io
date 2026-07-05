@@ -28,6 +28,7 @@
     }
   ],
   "groups": [
+    "152.0",
     "150.0",
     "137.0",
     "115.6",
@@ -60,6 +61,15 @@
     "60.6"
   ],
   "releases": [
+    {
+      "version": "152.0.1",
+      "release": "47",
+      "date": "2026/07/05",
+      "type": "release",
+      "original": "ThunderbirdSetup-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
     {
       "version": "150.0.2",
       "release": "46",
