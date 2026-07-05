@@ -9,12 +9,12 @@ Some modifications have been made through distribution preferences to ensure por
 * **Don't check default mail client** : Stops Thunderbird from checking if it is the default mail client at startup.
 * **Profile**: Profile path is overrided to `data\profile` folder.
 * **Disable WinSearch integration**: Don't use Windows Search to search for emails.
-* **Add-ons**: Disable compatibility checking.
+* **Add-ons**: Thunderbird's modern extension handling is left intact.
 * **'Know your rights'**:  Don't show on first run.
 * **WhatsNew**: Don't show WhatsNew on first run after every update.
-* **Crash reporter**: Disabled.
+* **Crash reporter**: Disabled by default and configurable.
 * **Calendar**: Official multilingual Calendar extension used to handle locales switching.
-* **GnuPG Agent**: Automatically set GnuPG Agent path to be ready to use with [Enigmail](https://addons.thunderbird.net/en-US/thunderbird/addon/enigmail/) extension (see below).
+* **OpenPGP GnuPG**: Can use an external GnuPG home and `gpg.exe` path (see below).
 
 ### Configuration
 
@@ -24,12 +24,16 @@ Some modifications have been made through distribution preferences to ensure por
   cleanup: true
   multiple_instances: false
   disable_telemetry: false
-  gnupg_agent_path: ""
+  disable_crash_reporter: true
+  gnupg_home: ""
+  gnupg_path: ""
   locale: en-US
 </code></pre></div></div>
 
 * `cleanup` : Cleanup leftover folders (default `false`)
 * `multiple_instances` : Allow multiple instances (default `false`).
 * `disable_telemetry` : If enabled, telemetry is not uploaded (default `false`).
-* `gnupg_agent_path` : Path to GnuPG agent `gpg.exe`. If empty, Portapps will search in `PATH` or will use the embedded version.
+* `disable_crash_reporter` : If enabled, the crash reporter is disabled (default `true`).
+* `gnupg_home` : Path to GnuPG home directory. If empty, the current `GNUPGHOME` environment variable is reused when available.
+* `gnupg_path` : Path to GnuPG executable `gpg.exe`. If empty, Thunderbird keeps its default OpenPGP behavior.
 * `locale` : Locale located in `app\langs` can be used to change UI language without `.xpi` extension (default `en-US`).
