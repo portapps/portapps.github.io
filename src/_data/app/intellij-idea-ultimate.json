@@ -3,7 +3,7 @@
   "label": "IntelliJ IDEA&trade; Ultimate",
   "desc": "A Code-centric IDE, focused on your productivity.",
   "license": "apache-2.0",
-  "status": "ok",
+  "status": "abandoned",
   "redir_from": "",
   "trademark": true,
   "wincompat": ["win10", "win11"],
