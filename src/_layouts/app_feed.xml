@@ -19,7 +19,7 @@ sitemap:
     {% if platform == '' %}
       {% capture platform_version %}{{ release.version }}{% endcapture %}
     {% endif %}
-    {% capture filename %}{{ page.app.name }}-portable-{{ platform_version }}-{{ release.release }}{{ file_suffix }}{% endcapture %}
+    {% capture filename %}{{ release.altname | default: page.app.name }}-portable-{{ platform_version }}-{{ release.release }}{{ file_suffix }}{% endcapture %}
     {% endstrip %}<item>
     <title>{{ filename }}</title>
     <description></description>

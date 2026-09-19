@@ -1,4 +1,4 @@
-> {% gemoji bulb %} Community edition portable is also available [here]({{ site.baseurl }}/app/intellij-idea-community-portable/)
+> {% gemoji bulb %} The unified IntelliJ IDEA portable package is available [here]({{ site.baseurl }}/app/intellij-idea-portable/)
 
 ## Configuring JVM options
 
