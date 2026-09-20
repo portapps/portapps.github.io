@@ -4,8 +4,9 @@ Some modifications have been made through policies to ensure portability:
 
 * **Disable updater** : Waterfox updates are turned off.
 * **Don't check default browser** : Stops Waterfox from checking if it is the default browser at startup.
-* **'Know your rights'**:  Don't show on first run.
+* **'Know your rights'**: Don't show on first run.
 * **WhatsNew**: Don't show WhatsNew on first run after every update.
+* **Crash reporter**: Disabled by default and configurable.
 * **Profile**: Profile path is overrided to `data\profile` folder (see below).
 * A shortcut is created at launch to allow native notifications and removed when Waterfox is closed
 
@@ -16,11 +17,15 @@ Some modifications have been made through policies to ensure portability:
 <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code>app:
   profile: default
   multiple_instances: false
+  disable_telemetry: false
+  disable_crash_reporter: true
   cleanup: false
 </code></pre></div></div>
 
 * `profile` : Name of the profile created in `data\profile\<name>` (default `default`)
 * `multiple_instances` : Allow multiple instances (default `false`)
+* `disable_telemetry` : If enabled, telemetry is not uploaded and Waterfox studies are disabled (default `false`).
+* `disable_crash_reporter` : If enabled, the crash reporter is disabled (default `true`).
 * `cleanup` : Cleanup leftover folders (default `false`)
 
 ### Policies
@@ -29,9 +34,16 @@ You can use [custom policies](https://support.mozilla.org/en-US/kb/customizing-f
 
 <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
   "policies": {
-    "DisableFirefoxStudies": true,
-    "DisableTelemetry": true
+    "AIControls": {
+      "Chatbot": false,
+      "History": false,
+      "Pdf": false,
+      "SmartTabGroups": false
+    },
+    "IPProtectionAvailable": false
   }
 }</code></pre></div></div>
 
-> `DisableAppUpdate` and `DontCheckDefaultBrowser` are forced to `true`.
+> `DisableAppUpdate` and `DontCheckDefaultBrowser` are always forced to `true`.
+
+> `DisableTelemetry` and `DisableFirefoxStudies` are forced to `true` when `disable_telemetry` is enabled in the main configuration file.
