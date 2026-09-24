@@ -1,0 +1,172 @@
+{
+  "name": "cryptomator",
+  "label": "Cryptomator",
+  "desc": "Multi-platform transparent client-side encryption of your files in the cloud.",
+  "license": "gpl-3.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win10", "win11"],
+  "categories": ["security"],
+  "github": {
+    "user": "portapps",
+    "repo": "cryptomator-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://cryptomator.org/",
+  "move": [
+    {
+      "from": "%APPDATA%\\Cryptomator\\*",
+      "to": "data"
+    }
+  ],
+  "groups": [
+    "1.15",
+    "1.14",
+    "1.12",
+    "1.9",
+    "1.7",
+    "1.6",
+    "1.5"
+  ],
+  "releases": [
+    {
+      "version": "1.15.2",
+      "release": "15",
+      "date": "2025/04/06",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.msi",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.14.0",
+      "release": "14",
+      "date": "2024/11/12",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.msi",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.12.3",
+      "release": "13",
+      "date": "2024/03/10",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.msi",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.9.1",
+      "release": "12",
+      "date": "2023/07/03",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.msi",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.7.3",
+      "release": "11",
+      "date": "2023/04/02",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.msi",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.6.10",
+      "release": "10",
+      "date": "2022/07/15",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.msi",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.6.8",
+      "release": "9",
+      "date": "2022/04/03",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.msi",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.6.1",
+      "release": "8",
+      "date": "2021/10/27",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.msi",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.5.16",
+      "release": "7",
+      "date": "2021/05/22",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.5.13",
+      "release": "6",
+      "date": "2021/02/25",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.5.11",
+      "release": "5",
+      "date": "2020/12/27",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.5.11",
+      "release": "4",
+      "date": "2020/12/19",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.5.8",
+      "release": "3",
+      "date": "2020/09/04",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.5.7",
+      "release": "2",
+      "date": "2020/08/20",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "1.5.6",
+      "release": "1",
+      "date": "2020/07/25",
+      "type": "release",
+      "original": "Cryptomator-@version@-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

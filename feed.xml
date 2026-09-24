@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps</title>
+    <description>Collection of portable apps for Windows</description>
+    <link>https://portapps.io</link>
+    <atom:link href="https://portapps.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waterfox portable 6.7.3-33</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/waterfox.png"/></p>
+<p>Release of Waterfox portable 6.7.3-33 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/waterfox-portable/">Waterfox portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:48:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-waterfox-portable-6.7.3-33/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-waterfox-portable-6.7.3-33/</guid>
+    </item><item>
+      <title>Ungoogled Chromium portable 150.0.7871.255-22</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/ungoogled-chromium.png"/></p>
+<p>Release of Ungoogled Chromium portable 150.0.7871.255-22 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/ungoogled-chromium-portable/">Ungoogled Chromium portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:45:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-ungoogled-chromium-portable-150.0.7871.255-22/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-ungoogled-chromium-portable-150.0.7871.255-22/</guid>
+    </item><item>
+      <title>IntelliJ IDEA portable 2026.2.3-61</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/intellij-idea.png"/></p>
+<p>Release of IntelliJ IDEA portable 2026.2.3-61 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/intellij-idea-portable/">IntelliJ IDEA portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:42:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-intellij-idea-portable-2026.2.3-61/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-intellij-idea-portable-2026.2.3-61/</guid>
+    </item><item>
+      <title>Inno Setup portable 7.1.0-6</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/innosetup.png"/></p>
+<p>Release of Inno Setup portable 7.1.0-6 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/innosetup-portable/">Inno Setup portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:40:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-innosetup-portable-7.1.0-6/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-innosetup-portable-7.1.0-6/</guid>
+    </item><item>
+      <title>Discord PTB portable 1.0.1221-32</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord-ptb.png"/></p>
+<p>Release of Discord PTB portable 1.0.1221-32 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-ptb-portable/">Discord PTB portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:38:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-discord-ptb-portable-1.0.1221-32/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-discord-ptb-portable-1.0.1221-32/</guid>
+    </item><item>
+      <title>Discord portable 1.0.9258-26</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord.png"/></p>
+<p>Release of Discord portable 1.0.9258-26 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-portable/">Discord portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:37:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-discord-portable-1.0.9258-26/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-discord-portable-1.0.9258-26/</guid>
+    </item><item>
+      <title>DBeaver portable 26.2.0-52</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/dbeaver.png"/></p>
+<p>Release of DBeaver portable 26.2.0-52 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/dbeaver-portable/">DBeaver portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:35:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-dbeaver-portable-26.2.0-52/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-dbeaver-portable-26.2.0-52/</guid>
+    </item><item>
+      <title>Brave portable 1.95.104-101</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/brave.png"/></p>
+<p>Release of Brave portable 1.95.104-101 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/brave-portable/">Brave portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:31:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-brave-portable-1.95.104-101/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-brave-portable-1.95.104-101/</guid>
+    </item><item>
+      <title>IntelliJ IDEA Ultimate portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/intellij-idea-ultimate.png"/></p>
+<p>IntelliJ IDEA Ultimate portable is not maintained anymore and has been archived because JetBrains now provides a unified IntelliJ IDEA distribution.<br />
+Use the <a href="https://portapps.io/app/intellij-idea-portable/">IntelliJ IDEA portable page</a> for future releases.
+Downloads are still available on the <a href="https://portapps.io/app/intellij-idea-ultimate-portable/">IntelliJ IDEA Ultimate portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 01:20:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-intellij-idea-ultimate-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-intellij-idea-ultimate-portable-abandoned/</guid>
+    </item><item>
+      <title>KiTTY portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/kitty.png"/></p>
+<p>KiTTY portable is not maintained anymore as the main project looks unmaintained.<br />
+Downloads are still available on <a href="https://portapps.io/app/kitty-portable/">KiTTY portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 16 Aug 2026 15:30:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-08-16-kitty-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-08-16-kitty-portable-abandoned/</guid>
+    </item><item>
+      <title>HostsMan portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/hostsman.png"/></p>
+<p>HostsMan portable is not maintained anymore as the main project is discontinued.<br />
+Downloads are still available on <a href="https://portapps.io/app/hostsman-portable/">HostsMan portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 16 Aug 2026 15:30:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-08-16-hostsman-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-08-16-hostsman-portable-abandoned/</guid>
+    </item><item>
+      <title>Stormhen portable 152.0.1-47</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/stormhen.png"/></p>
+<p>Release of Stormhen portable 152.0.1-47 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/stormhen-portable/">Stormhen portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 05 Jul 2026 20:19:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-07-05-stormhen-portable-152.0.1-47/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-07-05-stormhen-portable-152.0.1-47/</guid>
+    </item><item>
+      <title>SmartGit portable 26.1.045-46</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/smartgit.png"/></p>
+<p>Release of SmartGit portable 26.1.045-46 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/smartgit-portable/">SmartGit portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 05 Jul 2026 20:16:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-07-05-smartgit-portable-26.1.045-46/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-07-05-smartgit-portable-26.1.045-46/</guid>
+    </item><item>
+      <title>Phyrox portable 152.0.4-70</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/phyrox.png"/></p>
+<p>Release of Phyrox portable 152.0.4-70 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/phyrox-portable/">Phyrox portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 05 Jul 2026 20:13:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-07-05-phyrox-portable-152.0.4-70/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-07-05-phyrox-portable-152.0.4-70/</guid>
+    </item><item>
+      <title>Phyrox ESR portable 140.12.0-67</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/phyrox-esr.png"/></p>
+<p>Release of Phyrox ESR portable 140.12.0-67 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/phyrox-esr-portable/">Phyrox ESR portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 05 Jul 2026 20:10:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-07-05-phyrox-esr-portable-140.12.0-67/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-07-05-phyrox-esr-portable-140.12.0-67/</guid>
+    </item><item>
+      <title>Phyrox Developer Edition portable 153.0b8-54</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/phyrox-developer.png"/></p>
+<p>Release of Phyrox Developer Edition portable 153.0b8-54 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/phyrox-developer-portable/">Phyrox Developer Edition portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 05 Jul 2026 20:06:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-07-05-phyrox-developer-portable-153.0b8-54/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-07-05-phyrox-developer-portable-153.0b8-54/</guid>
+    </item><item>
+      <title>Brave portable 1.92.134-100</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/brave.png"/></p>
+<p>Release of Brave portable 1.92.134-100 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/brave-portable/">Brave portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 05 Jul 2026 20:02:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-07-05-brave-portable-1.92.134-100/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-07-05-brave-portable-1.92.134-100/</guid>
+    </item><item>
+      <title>OpenVPN portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/openvpn.png"/></p>
+<p>OpenVPN portable is not maintained anymore and is abandoned. This is mainly because portability is currently broken on this app. Feel free to fork and make your own changes if needed.<br />
+Downloads are still available on <a href="https://portapps.io/app/openvpn-portable/">OpenVPN portable page</a>.</p>
+]]></description>
+      <pubDate>Sat, 13 Jun 2026 18:06:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-06-13-openvpn-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-06-13-openvpn-portable-abandoned/</guid>
+    </item><item>
+      <title>Stormhen portable 150.0.2-46</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/stormhen.png"/></p>
+<p>Release of Stormhen portable 150.0.2-46 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/stormhen-portable/">Stormhen portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 11 May 2026 20:40:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-05-11-stormhen-portable-150.0.2-46/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-05-11-stormhen-portable-150.0.2-46/</guid>
+    </item><item>
+      <title>Phyrox portable 150.0.2-69</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/phyrox.png"/></p>
+<p>Release of Phyrox portable 150.0.2-69 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/phyrox-portable/">Phyrox portable page</a>.</p>
+]]></description>
+      <pubDate>Mon, 11 May 2026 20:37:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-05-11-phyrox-portable-150.0.2-69/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-05-11-phyrox-portable-150.0.2-69/</guid>
+    </item>
+  </channel>
+</rss>

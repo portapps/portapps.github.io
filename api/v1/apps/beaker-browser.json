@@ -1,0 +1,64 @@
+{
+  "name": "beaker-browser",
+  "label": "Beaker Browser",
+  "desc": "An experimental browser for exploring and building the peer-to-peer Web.",
+  "license": "mit",
+  "status": "abandoned",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win10", "win11"],
+  "categories": ["browser"],
+  "github": {
+    "user": "portapps",
+    "repo": "beaker-browser-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://beakerbrowser.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\Beaker Browser\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.1.0",
+      "release": "4",
+      "date": "2021/01/16",
+      "type": "release",
+      "original": "beaker-browser-setup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.8.10",
+      "release": "3",
+      "date": "2020/03/18",
+      "type": "release",
+      "original": "beaker-browser-setup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.8.8",
+      "release": "2",
+      "date": "2019/07/29",
+      "type": "release",
+      "original": "beaker-browser-setup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.8.8",
+      "release": "1",
+      "date": "2019/07/27",
+      "type": "release",
+      "original": "beaker-browser-setup-@version@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

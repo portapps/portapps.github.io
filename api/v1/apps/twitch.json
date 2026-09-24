@@ -1,0 +1,145 @@
+{
+  "name": "twitch",
+  "label": "Twitch&trade;",
+  "desc": "A live streaming video platform.",
+  "license": "freeware",
+  "status": "abandoned",
+  "redir_from": "",
+  "trademark": true,
+  "wincompat": ["win10"],
+  "categories": ["gaming", "streaming"],
+  "github": {
+    "user": "portapps",
+    "repo": "twitch-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://app.twitch.tv",
+  "move": [
+    {
+      "from": "%APPDATA%\\Twitch\\*",
+      "to": "data"
+    }
+  ],
+  "releases": [
+    {
+      "version": "7.5.6774.199",
+      "release": "13",
+      "date": "2018/07/24",
+      "type": "release",
+      "original": "",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6715.42973",
+      "release": "12",
+      "date": "2018/05/29",
+      "type": "release",
+      "original": "",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6668.295",
+      "release": "11",
+      "date": "2018/04/07",
+      "type": "release",
+      "original": "",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6635.1684",
+      "release": "10",
+      "date": "2018/03/02",
+      "type": "release",
+      "original": "",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6611.39437",
+      "release": "9",
+      "date": "2018/02/12",
+      "type": "release",
+      "original": "",
+      "platforms": ["win32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6604.42919",
+      "release": "8",
+      "date": "2018/02/07",
+      "type": "release",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6591.2326",
+      "release": "7",
+      "date": "2018/01/21",
+      "type": "release",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6585.2139",
+      "release": "6",
+      "date": "2018/01/13",
+      "type": "release",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6563.2244",
+      "release": "5",
+      "date": "2017/12/27",
+      "type": "release",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6557.923",
+      "release": "4",
+      "date": "2017/12/14",
+      "type": "release",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6543.2605",
+      "release": "3",
+      "date": "2017/12/04",
+      "type": "release",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6529.932",
+      "release": "2",
+      "date": "2017/11/24",
+      "type": "release",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.6529.932",
+      "release": "1",
+      "date": "2017/11/23",
+      "type": "release",
+      "original": "",
+      "platforms": ["ia32"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
