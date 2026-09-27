@@ -44,6 +44,7 @@
     }
   ],
   "groups": [
+    "2026.1",
     "4.2",
     "4.1",
     "4.0",
@@ -52,6 +53,15 @@
     "3.4"
   ],
   "releases": [
+    {
+      "version": "2026.1.4",
+      "release": "18",
+      "date": "2026/09/27",
+      "type": "release",
+      "original": "android-studio-ide-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup"]
+    },
     {
       "version": "4.2.1",
       "release": "17",
