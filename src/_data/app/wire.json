@@ -3,7 +3,7 @@
   "label": "Wire&trade;",
   "desc": "An encrypted communications program.",
   "license": "gpl-3.0",
-  "status": "ok",
+  "status": "abandoned",
   "redir_from": "",
   "trademark": true,
   "wincompat": ["win10", "win11"],
