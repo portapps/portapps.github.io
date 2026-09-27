@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portapps</title>
+    <description>Collection of portable apps for Windows</description>
+    <link>https://portapps.io</link>
+    <atom:link href="https://portapps.io/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Element portable 1.12.29-44</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/element.png"/></p>
+<p>Release of Element portable 1.12.29-44 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/element-portable/">Element portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 27 Sep 2026 22:30:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-27-element-portable-1.12.29-44/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-27-element-portable-1.12.29-44/</guid>
+    </item><item>
+      <title>Discord portable 1.0.9259-28</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord.png"/></p>
+<p>Release of Discord portable 1.0.9259-28 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-portable/">Discord portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 27 Sep 2026 22:25:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-27-discord-portable-1.0.9259-28/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-27-discord-portable-1.0.9259-28/</guid>
+    </item><item>
+      <title>Wire portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/wire.png"/></p>
+<p>Wire portable is not maintained anymore.<br />
+Downloads are still available on <a href="https://portapps.io/app/wire-portable/">Wire portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 27 Sep 2026 22:20:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-27-wire-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-27-wire-portable-abandoned/</guid>
+    </item><item>
+      <title>Transmission portable 4.1.3-2</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/transmission.png"/></p>
+<p>Release of Transmission portable 4.1.3-2 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/transmission-portable/">Transmission portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 27 Sep 2026 19:50:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-27-transmission-portable-4.1.3-2/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-27-transmission-portable-4.1.3-2/</guid>
+    </item><item>
+      <title>TeamSpeak Client portable 3.6.2-19</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/teamspeak-client.png"/></p>
+<p>Release of TeamSpeak Client portable 3.6.2-19 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/teamspeak-client-portable/">TeamSpeak Client portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 27 Sep 2026 19:48:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-27-teamspeak-client-portable-3.6.2-19/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-27-teamspeak-client-portable-3.6.2-19/</guid>
+    </item><item>
+      <title>Nextcloud portable 34.0.4-25</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/nextcloud.png"/></p>
+<p>Release of Nextcloud portable 34.0.4-25 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/nextcloud-portable/">Nextcloud portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 27 Sep 2026 19:45:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-27-nextcloud-portable-34.0.4-25/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-27-nextcloud-portable-34.0.4-25/</guid>
+    </item><item>
+      <title>HandBrake portable 1.11.2-11</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/handbrake.png"/></p>
+<p>Release of HandBrake portable 1.11.2-11 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/handbrake-portable/">HandBrake portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 27 Sep 2026 19:42:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-27-handbrake-portable-1.11.2-11/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-27-handbrake-portable-1.11.2-11/</guid>
+    </item><item>
+      <title>Android Studio portable 2026.1.4-18</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/android-studio.png"/></p>
+<p>Release of Android Studio portable 2026.1.4-18 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/android-studio-portable/">Android Studio portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 27 Sep 2026 19:40:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-27-android-studio-portable-2026.1.4-18/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-27-android-studio-portable-2026.1.4-18/</guid>
+    </item><item>
+      <title>Waterfox portable 6.7.3-33</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/waterfox.png"/></p>
+<p>Release of Waterfox portable 6.7.3-33 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/waterfox-portable/">Waterfox portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:48:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-waterfox-portable-6.7.3-33/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-waterfox-portable-6.7.3-33/</guid>
+    </item><item>
+      <title>Ungoogled Chromium portable 150.0.7871.255-22</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/ungoogled-chromium.png"/></p>
+<p>Release of Ungoogled Chromium portable 150.0.7871.255-22 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/ungoogled-chromium-portable/">Ungoogled Chromium portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:45:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-ungoogled-chromium-portable-150.0.7871.255-22/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-ungoogled-chromium-portable-150.0.7871.255-22/</guid>
+    </item><item>
+      <title>IntelliJ IDEA portable 2026.2.3-61</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/intellij-idea.png"/></p>
+<p>Release of IntelliJ IDEA portable 2026.2.3-61 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/intellij-idea-portable/">IntelliJ IDEA portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:42:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-intellij-idea-portable-2026.2.3-61/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-intellij-idea-portable-2026.2.3-61/</guid>
+    </item><item>
+      <title>Inno Setup portable 7.1.0-6</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/innosetup.png"/></p>
+<p>Release of Inno Setup portable 7.1.0-6 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/innosetup-portable/">Inno Setup portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:40:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-innosetup-portable-7.1.0-6/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-innosetup-portable-7.1.0-6/</guid>
+    </item><item>
+      <title>Discord PTB portable 1.0.1221-32</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord-ptb.png"/></p>
+<p>Release of Discord PTB portable 1.0.1221-32 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-ptb-portable/">Discord PTB portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:38:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-discord-ptb-portable-1.0.1221-32/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-discord-ptb-portable-1.0.1221-32/</guid>
+    </item><item>
+      <title>Discord portable 1.0.9258-26</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/discord.png"/></p>
+<p>Release of Discord portable 1.0.9258-26 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/discord-portable/">Discord portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:37:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-discord-portable-1.0.9258-26/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-discord-portable-1.0.9258-26/</guid>
+    </item><item>
+      <title>DBeaver portable 26.2.0-52</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/dbeaver.png"/></p>
+<p>Release of DBeaver portable 26.2.0-52 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/dbeaver-portable/">DBeaver portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:35:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-dbeaver-portable-26.2.0-52/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-dbeaver-portable-26.2.0-52/</guid>
+    </item><item>
+      <title>Brave portable 1.95.104-101</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/brave.png"/></p>
+<p>Release of Brave portable 1.95.104-101 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/brave-portable/">Brave portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 10:31:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-brave-portable-1.95.104-101/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-brave-portable-1.95.104-101/</guid>
+    </item><item>
+      <title>IntelliJ IDEA Ultimate portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/intellij-idea-ultimate.png"/></p>
+<p>IntelliJ IDEA Ultimate portable is not maintained anymore and has been archived because JetBrains now provides a unified IntelliJ IDEA distribution.<br />
+Use the <a href="https://portapps.io/app/intellij-idea-portable/">IntelliJ IDEA portable page</a> for future releases.
+Downloads are still available on the <a href="https://portapps.io/app/intellij-idea-ultimate-portable/">IntelliJ IDEA Ultimate portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 20 Sep 2026 01:20:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-09-20-intellij-idea-ultimate-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-09-20-intellij-idea-ultimate-portable-abandoned/</guid>
+    </item><item>
+      <title>KiTTY portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/kitty.png"/></p>
+<p>KiTTY portable is not maintained anymore as the main project looks unmaintained.<br />
+Downloads are still available on <a href="https://portapps.io/app/kitty-portable/">KiTTY portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 16 Aug 2026 15:30:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-08-16-kitty-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-08-16-kitty-portable-abandoned/</guid>
+    </item><item>
+      <title>HostsMan portable abandoned</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/hostsman.png"/></p>
+<p>HostsMan portable is not maintained anymore as the main project is discontinued.<br />
+Downloads are still available on <a href="https://portapps.io/app/hostsman-portable/">HostsMan portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 16 Aug 2026 15:30:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-08-16-hostsman-portable-abandoned/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-08-16-hostsman-portable-abandoned/</guid>
+    </item><item>
+      <title>Stormhen portable 152.0.1-47</title>
+      <description><![CDATA[<p><img width="64" src="https://portapps.io/img/app/stormhen.png"/></p>
+<p>Release of Stormhen portable 152.0.1-47 is now available.<br />
+You can find links to download this release on the <a href="https://portapps.io/app/stormhen-portable/">Stormhen portable page</a>.</p>
+]]></description>
+      <pubDate>Sun, 05 Jul 2026 20:19:00 +0200</pubDate>
+      <link>https://portapps.io/news/2026-07-05-stormhen-portable-152.0.1-47/</link>
+      <guid isPermaLink="true">https://portapps.io/news/2026-07-05-stormhen-portable-152.0.1-47/</guid>
+    </item>
+  </channel>
+</rss>

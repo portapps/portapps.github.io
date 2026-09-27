@@ -1,0 +1,104 @@
+{
+  "name": "rambox",
+  "label": "Rambox",
+  "desc": "A workspace browser that allows you to manage as many applications as you want, all in one place.",
+  "license": "gpl-3.0",
+  "status": "abandoned",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win10", "win11"],
+  "categories": ["messaging"],
+  "github": {
+    "user": "portapps",
+    "repo": "rambox-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://rambox.pro/#ce",
+  "move": [
+    {
+      "from": "%APPDATA%\\Rambox\\*",
+      "to": "data"
+    }
+  ],
+  "groups": [
+    "0.7",
+    "0.6"
+  ],
+  "releases": [
+    {
+      "version": "0.7.7",
+      "release": "9",
+      "date": "2020/12/03",
+      "type": "release",
+      "original": "RamboxSetup-win.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.7.6",
+      "release": "8",
+      "date": "2020/09/14",
+      "type": "release",
+      "original": "RamboxSetup-win.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.7.5",
+      "release": "7",
+      "date": "2020/03/31",
+      "type": "release",
+      "original": "RamboxSetup-win.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.7.3",
+      "release": "6",
+      "date": "2019/12/13",
+      "type": "release",
+      "original": "RamboxSetup-win.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.7.2",
+      "release": "5",
+      "date": "2019/11/25",
+      "type": "release",
+      "original": "RamboxSetup-win.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.7.0",
+      "release": "4",
+      "date": "2019/11/20",
+      "type": "release",
+      "original": "RamboxSetup-win.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.6.9",
+      "release": "3",
+      "date": "2019/07/24",
+      "type": "release",
+      "original": "RamboxSetup-win.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "0.6.9",
+      "release": "1",
+      "date": "2019/07/24",
+      "type": "release",
+      "original": "RamboxSetup-win.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "name": "postman",
+  "label": "Postman&trade;",
+  "desc": "A complete toolchain for API developers.",
+  "license": "apache-2.0",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": false,
+  "wincompat": ["win10", "win11"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "postman-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://www.getpostman.com",
+  "move": [
+    {
+      "from": "%APPDATA%\\Postman\\*",
+      "to": "data"
+    }
+  ],
+  "groups": [
+    "11.62",
+    "11.52",
+    "11.39",
+    "11.19",
+    "11.6",
+    "10.24",
+    "10.21",
+    "10.15",
+    "10.8",
+    "10.0",
+    "9.27",
+    "9.22",
+    "9.8",
+    "9.1",
+    "8.5",
+    "8.2",
+    "8.0",
+    "7.36",
+    "7.34",
+    "7.33",
+    "7.31",
+    "7.30",
+    "7.29",
+    "7.28",
+    "7.27",
+    "7.26",
+    "7.25",
+    "7.24",
+    "7.23",
+    "7.22",
+    "7.21",
+    "7.20",
+    "7.19",
+    "7.18",
+    "7.17",
+    "7.16",
+    "7.14",
+    "7.13",
+    "7.12",
+    "7.11",
+    "7.10",
+    "7.9",
+    "7.8",
+    "7.7",
+    "7.6",
+    "7.5",
+    "7.3",
+    "7.2",
+    "7.1",
+    "7.0",
+    "6.7",
+    "6.6",
+    "6.5",
+    "6.4",
+    "6.3",
+    "6.2",
+    "6.1",
+    "6.0"
+  ],
+  "releases": [
+    {
+      "version": "11.62.7",
+      "release": "64",
+      "date": "2025/09/14",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.52.5",
+      "release": "63",
+      "date": "2025/07/06",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.39.5",
+      "release": "62",
+      "date": "2025/04/06",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.19.0",
+      "release": "61",
+      "date": "2024/11/10",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.6.1",
+      "release": "60",
+      "date": "2024/08/03",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "10.24.0",
+      "release": "59",
+      "date": "2024/03/10",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "10.21.0",
+      "release": "58",
+      "date": "2023/12/24",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "10.15.0",
+      "release": "57",
+      "date": "2023/07/08",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "10.8.0",
+      "release": "56",
+      "date": "2023/01/16",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "10.0.1",
+      "release": "55",
+      "date": "2022/10/04",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "9.27.0",
+      "release": "54",
+      "date": "2022/08/13",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "9.22.2",
+      "release": "53",
+      "date": "2022/07/15",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "9.8.2",
+      "release": "52",
+      "date": "2022/01/08",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "9.1.2",
+      "release": "51",
+      "date": "2021/10/27",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8.5.1",
+      "release": "50",
+      "date": "2021/06/03",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8.2.2",
+      "release": "49",
+      "date": "2021/04/14",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8.0.5",
+      "release": "48",
+      "date": "2021/02/15",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.36.0",
+      "release": "47",
+      "date": "2020/12/03",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.34.0",
+      "release": "46",
+      "date": "2020/11/16",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.33.1",
+      "release": "45",
+      "date": "2020/09/24",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.31.1",
+      "release": "44",
+      "date": "2020/09/04",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.30.1",
+      "release": "43",
+      "date": "2020/08/24",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.29.0",
+      "release": "42",
+      "date": "2020/08/03",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.28.0",
+      "release": "41",
+      "date": "2020/07/15",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.27.0",
+      "release": "40",
+      "date": "2020/07/04",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.26.1",
+      "release": "39",
+      "date": "2020/06/21",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.25.3",
+      "release": "38",
+      "date": "2020/06/07",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.24.0",
+      "release": "37",
+      "date": "2020/05/19",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.23.0",
+      "release": "36",
+      "date": "2020/05/03",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.22.1",
+      "release": "35",
+      "date": "2020/04/13",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.21.1",
+      "release": "34",
+      "date": "2020/03/25",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.20.1",
+      "release": "33",
+      "date": "2020/03/18",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.19.1",
+      "release": "32",
+      "date": "2020/03/02",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.18.1",
+      "release": "31",
+      "date": "2020/02/20",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.18.0",
+      "release": "30",
+      "date": "2020/02/12",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.17.0",
+      "release": "29",
+      "date": "2020/02/03",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.16.1",
+      "release": "28",
+      "date": "2020/01/23",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.14.0",
+      "release": "27",
+      "date": "2019/12/18",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.13.0",
+      "release": "26",
+      "date": "2019/12/05",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.12.0",
+      "release": "25",
+      "date": "2019/11/25",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.11.0",
+      "release": "24",
+      "date": "2019/11/09",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.10.0",
+      "release": "23",
+      "date": "2019/10/24",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.9.0",
+      "release": "22",
+      "date": "2019/10/11",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.8.0",
+      "release": "21",
+      "date": "2019/09/27",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.7.3",
+      "release": "20",
+      "date": "2019/09/23",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.7.2",
+      "release": "19",
+      "date": "2019/09/18",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.6.0",
+      "release": "18",
+      "date": "2019/08/29",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.5.0",
+      "release": "17",
+      "date": "2019/08/12",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.3.6",
+      "release": "16",
+      "date": "2019/08/06",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.3.5",
+      "release": "15",
+      "date": "2019/08/03",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.3.4",
+      "release": "14",
+      "date": "2019/07/22",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.2.2",
+      "release": "13",
+      "date": "2019/06/20",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.2.1",
+      "release": "12",
+      "date": "2019/06/18",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.2.0",
+      "release": "11",
+      "date": "2019/06/13",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.1.1",
+      "release": "10",
+      "date": "2019/05/20",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.1.0",
+      "release": "9",
+      "date": "2019/05/16",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.0.9",
+      "release": "8",
+      "date": "2019/05/14",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.0.9",
+      "release": "7",
+      "date": "2019/04/22",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.0.8",
+      "release": "6",
+      "date": "2019/04/12",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.0.7",
+      "release": "5",
+      "date": "2019/03/29",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.0.6",
+      "release": "4",
+      "date": "2019/03/14",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7.0.5",
+      "release": "3",
+      "date": "2019/03/11",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.7.4",
+      "release": "2",
+      "date": "2019/02/26",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.7.3",
+      "release": "1",
+      "date": "2019/02/05",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.7.2",
+      "release": "14",
+      "date": "2019/01/25",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.7.1",
+      "release": "13",
+      "date": "2019/01/10",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.6.1",
+      "release": "12",
+      "date": "2018/12/11",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.5.3",
+      "release": "11",
+      "date": "2018/11/27",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.5.2",
+      "release": "10",
+      "date": "2018/11/09",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.4.4",
+      "release": "9",
+      "date": "2018/10/26",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.3.0",
+      "release": "8",
+      "date": "2018/09/26",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.2.4",
+      "release": "7",
+      "date": "2018/08/11",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.2.3",
+      "release": "6",
+      "date": "2018/08/03",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.1.4",
+      "release": "5",
+      "date": "2018/07/05",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.1.3",
+      "release": "4",
+      "date": "2018/05/26",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.1.2",
+      "release": "3",
+      "date": "2018/05/23",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.0.10",
+      "release": "2",
+      "date": "2018/04/20",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6.0.9",
+      "release": "1",
+      "date": "2018/03/07",
+      "type": "release",
+      "original": "PostmanSetup-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}

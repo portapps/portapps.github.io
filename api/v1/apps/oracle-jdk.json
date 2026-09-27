@@ -1,0 +1,222 @@
+{
+  "name": "oracle-jdk",
+  "label": "Oracle&trade; JDK",
+  "desc": "Java Development Kit (JDK) is an implementation of the Java Platform released by Oracle Corporation.",
+  "license": "otn",
+  "status": "ok",
+  "redir_from": "",
+  "trademark": true,
+  "wincompat": ["win10", "win11"],
+  "categories": ["dev"],
+  "github": {
+    "user": "portapps",
+    "repo": "oracle-jdk-portable"
+  },
+  "maintainer": {
+    "name": "CrazyMax",
+    "url": "https://crazymax.dev"
+  },
+  "homepage": "https://www.oracle.com/technetwork/java/javase/downloads/index.html",
+  "move": [],
+  "groups": [
+    "15",
+    "14",
+    "13",
+    "12",
+    "11",
+    "8",
+    "7",
+    "6"
+  ],
+  "releases": [
+    {
+      "version": "15.0.1",
+      "release": "21",
+      "date": "2021/01/28",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "14.0.2",
+      "release": "20",
+      "date": "2021/01/28",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.0.10",
+      "release": "19",
+      "date": "2021/01/28",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u281",
+      "release": "18",
+      "date": "2021/01/28",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.0.7",
+      "release": "17",
+      "date": "2020/04/22",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u251",
+      "release": "16",
+      "date": "2020/04/22",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u241",
+      "release": "15",
+      "date": "2020/02/11",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "13.0.2",
+      "release": "14",
+      "date": "2020/01/21",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.0.6",
+      "release": "13",
+      "date": "2020/01/21",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u241",
+      "release": "12",
+      "date": "2020/01/21",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.0.5",
+      "release": "11",
+      "date": "2019/10/17",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u231",
+      "release": "10",
+      "date": "2019/10/17",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "12.0.2",
+      "release": "9",
+      "date": "2019/07/17",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.0.4",
+      "release": "8",
+      "date": "2019/07/17",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u221",
+      "release": "7",
+      "date": "2019/07/17",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "12.0.1",
+      "release": "6",
+      "date": "2019/05/18",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "11.0.3",
+      "release": "5",
+      "date": "2019/05/18",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.zip",
+      "platforms": ["win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u212",
+      "release": "4",
+      "date": "2019/04/23",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "8u211",
+      "release": "3",
+      "date": "2019/04/18",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "7u80",
+      "release": "2",
+      "date": "2019/04/18",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    },
+    {
+      "version": "6u45",
+      "release": "1",
+      "date": "2019/04/18",
+      "type": "release",
+      "original": "jdk-@version@-@platform@.exe",
+      "platforms": ["win32", "win64"],
+      "formats": ["setup", "7z"]
+    }
+  ]
+}
